@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }} | Aquiles Carattino</title>
+    <link href="/{{ static }}/style.css" rel="stylesheet">
+    <link href="/{{ static }}/prism.css" rel="stylesheet" data-noprefix>
+    <script src="/{{ static }}/prism.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Red+Hat+Text&Playfair+Display" rel="stylesheet">
+
+    <link rel="canonical" href="{{ url }}">
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:url" content="{{ url }}">
+    <meta property="og:type" content="article"/>
+
+    <meta name="twitter:creator" content="@aquicarattino"/>
+</head>
+<body class="bg-gray-100 font-sans leading-normal tracking-normal mx-auto">
+<nav class="bg-gray-900 p-4 mt-0 w-full">
+    <div class="container mx-auto">
+        <div>
+            <a class="flex font-extrabold text-2xl text-white items-center text-base no-underline hover:text-red-600 hover:no-underline" href="/">
+                <img class="h-6 w-6 mr-3" src="/{{ static }}/favicon.svg" alt="aquiles.me logo"/> Aquiles.me
+            </a>
+        </div>
+    </div>
+</nav>
+
+<div class="container px-2 md:px-0 text-sm md:text-base xl:text-lg py-3 md:py-12 max-w-4xl mx-auto">
+    {% block main %}
+    {% endblock main %}
+</div>
+<div class="bg-gray-200 p-0 w-full">
+    <div class="">&copy; 2020 Aquiles Carattino</div>
+</div>
+
+</body>
+</html>
