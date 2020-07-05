@@ -5,5 +5,5 @@ description: Some tech notes that may be of value for me and others facing the s
 
 # Tech notes
 
-- Protonvpn at startup on Linux [[protonvpn]]
-- Wacom Intuos not recognized on Linux
+- Protonvpn at startup on Linux [[tech_notes/protonvpn]]
+- Wacom Intuos not recognized on Linux [[tech_notes/wacom_intuos]]
