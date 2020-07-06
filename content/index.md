@@ -5,7 +5,7 @@ description: An Experimental Website
 
 # Welcome to Aquiles.me
 
-I am a physicist who currently is building a device to measure the [[size of nanoparticles]]. On my free time I build [[websites]], dance [[tango]], and more. 
+I am a physicist who is currently building a device to measure the [[size of nanoparticles]]. In my free time, I build [[websites]], dance [[tango]], and more. 
 
 ## About this website
 
@@ -15,7 +15,7 @@ Therefore, you won't find an index, nor a list. The only way to navigate through
 
 If you are looking for a more traditional approach to a personal website, you can always head to [Aquicarattino.com](https://www.aquicarattino.com), my other website.
 
-If you are curious, you can read [[how i built this website]], it is [[open source]].
+If you are curious, you can read [[how I built this website]], it is [[open source]].
 
 ### The newsletter
 
