@@ -7,7 +7,7 @@ description: Writing but not blogging. What a brain dump means
 
 I realized that maintaining a blog requires a lot of effort, mostly because the expectations are very high. I can't publish half-baked articles, nor short notes. Moreover, a blog should construct a persona of myself. That is why I blog about Python on [Python for the Lab](https://www.pythonforthelab.com), and about more professional topics on [Aquicarattino](https://www.aquicarattino.com). 
 
-However, sometimes I would like to write about how I achieved something that may be useful for myself or others. Still, it does not quite fit the content of my websites. I end up documenting scattered notes that never become public. Fortunately, I crossed [this article](https://nesslabs.com/digital-garden-tiddlywiki) on digital gardens, which lead to a series of surprising discoveries. 
+However, sometimes I would like to write about how I achieved something that may be useful for myself or others. Still, it does not quite fit the content of my websites. I end up documenting scattered notes that never become public. Fortunately, I crossed [this article](https://nesslabs.com/digital-garden-tiddlywiki) on how to build a [[digital garden]], which lead to a series of surprising discoveries. 
 
 ## This website is a digital garden
 This website is meant to be a forever growing work in progress. Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, just [reach out to me](https://www.twitter.com/aquicarattino). 
