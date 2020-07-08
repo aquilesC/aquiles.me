@@ -1,6 +1,10 @@
 # Creating .desktop files
 **Keywords**: #[[linux]] #[[AppImage]]
 
+This is a quick tutorial on how to create ``.desktop`` files for ``AppImage`` programs so that you can have a shortcut in the activities panel, can pin it to the sidebar, etc, on [[gnome]]-based computers. 
+
+I use [[Zettlr]] as an example, but it works with any other program. 
+
 1. Create a file like zettlr.desktop in ~/.local/share/application with the following::
 ```
   [Desktop Entry]

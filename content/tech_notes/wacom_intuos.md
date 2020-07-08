@@ -1,7 +1,7 @@
 
 # Setup Wacom Tablet in Ubuntu
 
-According to the [official documentation](https://github.com/linuxwacom/libwacom/wiki/Troubleshooting#special-cases), some Wacom tablets may change their behavior because they misidentify the Linux computer as an Android device, and therefore they won't be picked up by Ubuntu as a Wacom tablet. This is the list of tablets that show the issue:
+According to the [official documentation](https://github.com/linuxwacom/libwacom/wiki/Troubleshooting#special-cases), some [[Wacom]] tablets may change their behavior because they misidentify the [[Linux]] computer as an Android device, and therefore they won't be picked up by [[Ubuntu]] as a Wacom tablet. This is the list of tablets that show the issue:
 
 - Wacom Intuos M: CTL-6100
 - Wacom Intuos BT M: CTL-6100WL
