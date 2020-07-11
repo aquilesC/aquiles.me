@@ -5,20 +5,18 @@ description: A digital garden growing on topics from technology transfer, to pro
 
 # Welcome to Aquiles.me
 
-I am a physicist, after finishing my [[PhD]] I transitioned out of [[academia]] by starting my own business as a freelance [[software]] [[developer]] and [[trainer]]. Later, together with other partners, we started a company to build devices to measure the [[size of nanoparticles]]. 
+This is my personal space, where a publish [[notes]] about different topics. [[This website is not a blog]], there is no index, no [[rss feed]], no timeline. It was built as a way of [[learning in public]]. Most of the things you'll find in here are short notes, but some evolve into articles, over time. 
 
-In this pages you will find my thoughts on a lot of different topics, ranging from [[technology transfer]], to building [[websites]], dancing [[tango]], and everything in between. 
+The only way to navigate through the website is through [[links]]. If you want some starting points, you can check, for example, what I write:
 
-## About this website
+- About [[Python]]
+- About [[academia]]
+- You can check [[how i built this website]]
+- Or you may be interested in learning more [[about me]]
 
-This website is highly experimental. It was born out of a simple idea: writing articles on a personal website should not be about collecting them in order, but about linking them. 
-
-Therefore, you won't find an index, nor a chronological list. The only way to navigate through the website is by following links. I discuss more on the [[about]] page, where you can read why I decided to experiment with this. 
 
 If you are looking for a more traditional approach to a personal website, you can always head to [Aquicarattino.com](https://www.aquicarattino.com), my other website.
 
-If you are curious, you can read [[how I built this website]], it is [[open source]].
+## The newsletter
 
-### The newsletter
-
-I opened the possibility of subscribing to a [[newsletter]] because I wanted to experiment with sharing what I have been doing and discovering. It has a monthly periodicity, to which I would like to stick. 
+I opened the possibility of subscribing to a [[newsletter]] because I wanted to experiment with sharing what I have been doing and discovering. Since the website has no RSS feed, I thought it would be nice to be able to ping people with similar interests. 
