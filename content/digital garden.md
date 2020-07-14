@@ -10,4 +10,4 @@ With enough time, the notes you take will start to form a forest of interconnect
 
 There is another aspect to the gardening itself, which is the [[learning in public]] aspect. If you make your notes public to the world, you create the possibility of engaging with like minded individuals in your own thought process. For what I could gather, this is somehow what [[roam]] is trying to achieve, by creating connections between the notes of different people. 
 
-I am a bit more modest, and I am very happy about [[how i built this website]] from scratch. Very low tech requirements. My notes are offline in [[markdown]], using [[Obsidian]] or [[Zettlr]] as the note-taking interface. The website itself is automatically deployed on [[netlify]]. 
+I am a bit more modest, and I am very happy about [[how i built this website]] from scratch. Very low tech requirements. My notes are offline in [[markdown]], using [[Obsidian]] or [[Zettlr]] as the note-taking interface. They are backed up, synchronized, and version controlled on [[Github]]. The website itself is automatically deployed on [[netlify]]. 
