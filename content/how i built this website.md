@@ -2,7 +2,7 @@
 title: How I built this website using Python and Markdown
 description: I created my own builder to parse my notes and create a beautiful static website
 ---
-# How this website is built
+# How I Built this Website
 The website is built on top of a collection of markdown files. These files are stored in my own computer and backed up and synchronized through [[Github]]. As an editor I use either [[Zettlr]] or [[Obsidian]]. There is a difference between my notes, which I keep private, and this public garden. Only some of the notes I take are moved to the public space. As you can imagine, I don't want to make public the phone numbers of my acquaintances. 
 
 ## The technology choice
