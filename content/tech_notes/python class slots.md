@@ -24,7 +24,7 @@ I think it is quite clear what slots are meant to do: they define the attributes
 
 ```python
 class Slot: 
-	__slots__ = ['attr1', 'attr2'] 
+   __slots__ = ['attr1', 'attr2'] 
    attr3 = 3 
 ```
 
