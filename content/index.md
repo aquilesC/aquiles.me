@@ -5,7 +5,9 @@ description: A digital garden growing on topics from technology transfer, to pro
 
 # Welcome to Aquiles.me
 
-This is my personal space, where a publish [[notes]] about different topics. [[This website is not a blog]], there is no index, no [[rss feed]], no timeline. It was built as a way of [[learning in public]]. Most of the things you'll find in here are short notes, but some evolve into articles, over time. 
+If you just want to have a glimpse, check out what am I doing [[now]].
+
+[[This website is not a blog]], there is no index, no [[rss feed]], no timeline. It was built as a way of [[learning in public]]. Most of the things you'll find in here are short notes, but some evolve into articles, over time. 
 
 The only way to navigate through the website is through [[links]]. If you want some starting points, you can check, for example, what I write:
 
@@ -13,7 +15,6 @@ The only way to navigate through the website is through [[links]]. If you want s
 - About [[academia]]
 - You can check [[how i built this website]]
 - Or you may be interested in learning more [[about me]]
-
 
 If you are looking for a more traditional approach to a personal website, you can always head to [Aquicarattino.com](https://www.aquicarattino.com), my other website.
 
