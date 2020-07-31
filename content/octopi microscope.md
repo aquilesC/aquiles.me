@@ -1,5 +1,5 @@
 ---
-title: Octopi: Open (?) microscope able to process 1.5M red blood cells/min
+title: Octopi, Open (?) microscope able to process 1.5M red blood cells/min
 description: From the creators of foldscope, the Octopi shows great promise but they never released the schematics
 ---
 # Octopi: A pseudo open microscope
