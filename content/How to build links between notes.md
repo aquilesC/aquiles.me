@@ -1,0 +1,2 @@
+# How to Build Links Between Notes
+In a [[digital garden]], the most important feature that notes should have are [[links]] between them. This is what transforms isolated pieces of knowledge into ideas. However, deciding what to link in a note is hard. I could add links to words or sentences, sometimes I already know that extra piece of information exists. But, does the actual connection between the [[notes]] make any sense? Do I want a reader (or myself) to actually flow bidirectionally between these two ideas just because they exist? 
