@@ -10,7 +10,7 @@ I realized that maintaining a blog requires a lot of effort, mostly because the 
 However, sometimes I would like to write about how I achieved something that may be useful for myself or others. Still, it does not quite fit the content of my websites. I end up documenting scattered notes that never become public. Fortunately, I crossed [this article](https://nesslabs.com/digital-garden-tiddlywiki) on how to build a [[digital garden]], which lead to a series of surprising discoveries. 
 
 ## This website is a digital garden
-This website is meant to be a forever growing work in progress. Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, just [reach out to me](https://www.twitter.com/aquicarattino). 
+This website is meant to be a forever growing [[work in progress]]. Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, just [reach out to me](https://www.twitter.com/aquicarattino). 
 
 ### No indexes, no vanity tracking
 The idea of braking with the mold of a *blog* is that there are no indexes, no categories, no chronological ordering. The only way to navigate this website is by following [[links]]. Some are orange, some are blue. The orange ones are internal links; the blue brings you to other websites. 
