@@ -7,7 +7,7 @@ description: My strategy for taking notes on the things I read, listen, or watch
 
 There are two types of notes: [[notes to collect information]], [[notes to create knowledge]]. Both of them are valid. My common strategy for [[note taking]] is:
 
-- The first set of notes happens on paper, in the margins of whatever I read. Sometimes notes take the form of underlining, not of actual writing.
+- The first set of [[notes]] happens on paper, in the margins of whatever I read. Sometimes notes take the form of underlining, not of actual writing.
 - **Underlining** allows me to quickly skim through the text to find the bits that were more interesting to remember.
 - Notes on the margins are normally pointers to things that are not written. For example, if something does not make sense I would mark it with a ``?``, if something is a conclusion, I would mark it with a ``!``. 
 - I also try to draw on figures to make the link between the explanation and the data. 
