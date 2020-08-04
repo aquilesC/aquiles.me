@@ -25,4 +25,4 @@ For others, the access to better trained employees, better financial landscapes,
 
 The uberization of the workforce is an ongoing process. I do not believe that we should let the decision sit alone based on the interests of corporations. Governments must strengthen the ways in which they protect their citizens attaining a balance between flexibility, responsibility, and general welfare. Where the sweetspot lies is hard to tell, and probably will depend on individual national idiosyncrasies and realities.
 
-[^1] https://elhilo.audio/podcast/repartidores/
+[^1]: https://elhilo.audio/podcast/repartidores/

@@ -11,6 +11,6 @@ Particularly, a column by [[Marta Peirano]] in [[El País]] [^1] makes reference
 
 See also: [[protonmail takes a stance against apple practices]]
 
-[^1] https://elpais.com/opinion/2020-07-31/los-senores-feudales-de-la-era-de-la-informacion.html
+[^1]: https://elpais.com/opinion/2020-07-31/los-senores-feudales-de-la-era-de-la-informacion.html
 
-[^2] https://protonmail.com/blog/tech-ceos-hearing/
+[^2]: https://protonmail.com/blog/tech-ceos-hearing/

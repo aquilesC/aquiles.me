@@ -14,5 +14,4 @@ Now, if Brazil produces less food, overall food prices will go up, benefiting fa
 However, the value of the Amazon is not just for the money it makes, it's also for the [[carbon]] it holds. If we put a price on [[carbon emissions]], the Amazon would have a negative impact and thus the math is very different. The Brazilian government estimates between 10 and 20 billion dollars a year. In such situation, who pays is clearer: whoever emits pays whoever has a negative offset. But this [[carbon tax]] has proven to be very elusive in recent years. 
 
 
-
-[^1] [Freakonomics](https://freakonomics.com/podcast/amazon-rain-forest/) [[podcast]]
+[^1]: [Freakonomics](https://freakonomics.com/podcast/amazon-rain-forest/) [[podcast]]

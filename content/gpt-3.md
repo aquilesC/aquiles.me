@@ -13,6 +13,6 @@ To my understanding, what makes GPT-3 very powerful is that the parameters where
 
 Of course, news about [[machine learning]] and such always brought up the same problems regarding fears of [[losing jobs in the hands of artificial intelligence]]. A lot of people[^3] are still struggling to understand the long-term picture. 
 
-[^1] https://openai.com/blog/better-language-models/
-[^2] https://arxiv.org/pdf/2005.14165.pdf
-[^3] https://nesslabs.com/gpt-3-future-productivity?utm_source=Maker+Mind&utm_campaign=a8df5142e4-MAKER_MIND_053&utm_medium=email&utm_term=0_d634852cd6-a8df5142e4-130742116&mc_cid=a8df5142e4&mc_eid=22b39e4ac7
+[^1]: https://openai.com/blog/better-language-models/
+[^2]: https://arxiv.org/pdf/2005.14165.pdf
+[^3]: https://nesslabs.com/gpt-3-future-productivity?utm_source=Maker+Mind&utm_campaign=a8df5142e4-MAKER_MIND_053&utm_medium=email&utm_term=0_d634852cd6-a8df5142e4-130742116&mc_cid=a8df5142e4&mc_eid=22b39e4ac7
