@@ -48,5 +48,37 @@ Another reason to use slots is because it lowers the memory consumption of your 
 
 I was simulating [[Brownian Diffusion]] of multiple particles, each one was an object of class ``Particle``. Each particle had a limited number of attributes, but I needed to create millions of them. At the time I didn't know the slots possibility, and had to work around the limits of my computer, but I now know I could have had a much better performing program. 
 
+## Inheritance
+Inheritance with classes that define slots is an interesting pattern. Let's quickly see what I am talking about:
+```python
+class Slot:
+	__slots__ = ['var1', 'var2']
+    
+class NewSlot:
+	pass
+```
+
+And if we try out the ``NewSlot`` class:
+```pycon
+>>> s = NewSlot()
+>>> s.var3 = 3
+>>> s.var3
+3
+```
+We see that it gets the dynamic attribute assignment of the normal Python objects. However, we can also do the following:
+```python
+class NewSlot:
+	__slots__ = ['var3']
+```
+In which case:
+```pycon
+>>> s = NewSlot()
+>>> s.var1 = 1
+>>> s.var3 = 3
+>>> s.var4 = 4
+...
+AttributeError: 'Slot' object has no attribute 'var4	'
+```
+
 ## Why Not Using Slots
 If there are reasons to use slots, there should also be reasons not to use them. First, it forces you to repeat yourself: you need to define attributes both in the ``__slots__`` and in the class. 

@@ -18,7 +18,7 @@ If, however, there is a high background signal given by, for example, rests of p
 ## Limitations of Working in Fluorescence
 One of the biggest technical limitations of [[NTA]] is that it needs to acquire enough data points per particle in order to calculate its size. If particles go too fast out of the field of view or if the dye used photobleaches too quickly, then the number of detected locations will be too small to calculate the [[diffusion coefficient]]. The trivial way of overcoming bleaching is by using [[quantum dots]][^1]. 
 
-The biggest disadvantage is that they are relatively big (20nm) and thus alter the size of the particles under study. The way most NTA software works is by assuming spherical particles and therefore the result would be an effective hydrodynamic radius, which will differ from the sample's radius by a non-trivial amount. 
+The biggest disadvantage is that QDs are relatively big (20nm) and thus alter the size of the particles under study. The way most NTA software works is by assuming spherical particles and therefore the result would be an effective hydrodynamic radius, which will differ from the sample's radius by a non-trivial amount. 
 
 Another problem is related to the [[fluorescent labeling]] mechanism itself, but is not exclusive to the NTA method. If labeling is not specific or it generates by products such as dye molecules not bound to any target, it will increase the background signal, or it won't help distinguishing the object of study from random elements in the medium. 
 
