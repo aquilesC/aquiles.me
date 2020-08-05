@@ -14,5 +14,5 @@ Another, opposite, example is that of [[Skype]]. When the idea started, it was n
 [[Innovation is not the only driver for success]]. A clear example is [[Microsof's Messenger]], an inferior product compared to [[ICQ]], but pushed to millions of people through their operating system. However, there are many examples that show [[novelty is not enough for success]]. An example is a minor technical achievement, such as a smaller (or bigger) phone. 
 
 
-[^1] Book [[Start with Why]], [[Simon Sinek]]
-[^2] I could have equally well have chosen [[Lyft]] as an example, I am not picking it for being the first, but for its notoriety
+[^1]: Book [[Start with Why]], [[Simon Sinek]]
+[^2]: I could have equally well have chosen [[Lyft]] as an example, I am not picking it for being the first, but for its notoriety

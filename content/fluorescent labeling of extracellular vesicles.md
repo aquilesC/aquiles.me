@@ -13,4 +13,4 @@ They also discuss the [[limitations of nanoparticle tracking analysis]], mostly 
 
 The main open challenge in using fluorescent labeling for [[NTA]] is [[photobleaching]]. It is very different in a [[flow cytometer]] where you do point detection with a [[photomultiplier tube]] than when you do video recordings in wide-field illumination. 
 
-[^1] Thane, K.E., Davis, A.M. & Hoffman, A.M. Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis. Sci Rep 9, 12295 (2019). https://doi.org/10.1038/s41598-019-48181-6
+[^1]: Thane, K.E., Davis, A.M. & Hoffman, A.M. Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis. Sci Rep 9, 12295 (2019). https://doi.org/10.1038/s41598-019-48181-6

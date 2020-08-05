@@ -7,4 +7,4 @@ At some point in time, his figure was reviewed, and among things that happened, 
 
 See also [[figures under review]]
 
-[^1] https://99percentinvisible.org/episode/return-of-onates-foot/
+[^1]: https://99percentinvisible.org/episode/return-of-onates-foot/

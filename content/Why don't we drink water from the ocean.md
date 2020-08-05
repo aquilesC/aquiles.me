@@ -11,6 +11,4 @@ According to the article, 1m^3 of desalinated [[water]] costs between 1$ and 2$ 
 
 **My question**: How much fresh water does each human need? Especially if we factor the amount of water needed for growing food.
 
-
-
-[^1]https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/
+[^1]: https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/

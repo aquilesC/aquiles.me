@@ -17,4 +17,4 @@ Associated [[podcast]]: [[Radio Hour]], [Risk](https://www.npr.org/programs/ted-
 Most significant part is the discussion with [[Mariana Mazzucato]] about who is taking the risk in [[innovation]]. Are public entities offsetting the risk in order to make few people very wealthy? How does the system work to make them pay back what they have received for free? 
 
 
-[^1] [[nasa risk management]] guidelines
+[^1]: [[nasa risk management]] guidelines

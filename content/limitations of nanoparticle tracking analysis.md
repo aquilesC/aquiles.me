@@ -30,4 +30,4 @@ I am not sure about what [[Particle Metrix]] software looks like, but the softwa
 I understand that many researchers don't want to deal with specific values, and they just want to click a button saying "high sensitivity" or "low sensitivity", but it really looks like they are doing a disservice to science by hiding away the true values. Without even counting the [[nanosight proprietary software update]] that included the [[Walker algorithm]] and some "calibration". 
 
 
-[^1] Thane, K.E., Davis, A.M. & Hoffman, A.M. Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis. Sci Rep 9, 12295 (2019). https://doi.org/10.1038/s41598-019-48181-6
+[^1]: Thane, K.E., Davis, A.M. & Hoffman, A.M. Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis. Sci Rep 9, 12295 (2019). https://doi.org/10.1038/s41598-019-48181-6

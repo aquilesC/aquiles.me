@@ -31,4 +31,4 @@ Somehow we were made to believe we *have* to work. If you pay attention, you wil
 [[To Read]]
 - [ ] [Fully Automated Luxury Communism](https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&source=kp_cover&redir_esc=y)
 
-[^1] https://nesslabs.com/gpt-3-future-productivity?utm_source=Maker+Mind&utm_campaign=a8df5142e4-MAKER_MIND_053&utm_medium=email&utm_term=0_d634852cd6-a8df5142e4-130742116&mc_cid=a8df5142e4&mc_eid=22b39e4ac7
+[^1]: https://nesslabs.com/gpt-3-future-productivity?utm_source=Maker+Mind&utm_campaign=a8df5142e4-MAKER_MIND_053&utm_medium=email&utm_term=0_d634852cd6-a8df5142e4-130742116&mc_cid=a8df5142e4&mc_eid=22b39e4ac7
