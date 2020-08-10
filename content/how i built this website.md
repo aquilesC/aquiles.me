@@ -3,7 +3,7 @@ title: How I built this website using Python and Markdown
 description: I created my own builder to parse my notes and create a beautiful static website
 ---
 # How I Built this Website
-The website is built on top of a collection of markdown files. These files are stored in my own computer and backed up and synchronized through [[Github]]. As an editor I use either [[Zettlr]] or [[Obsidian]]. There is a difference between my notes, which I keep private, and this public garden. Only some of the notes I take are moved to the public space. As you can imagine, I don't want to make public the phone numbers of my acquaintances. 
+The website is built on top of a collection of markdown files. These files are stored in my own computer and backed up and synchronized through [[Github]]. As an editor I use either [[Zettlr]] or [[Obsidian]] ([[choosing between Zettlr and Obsidian]]). There is a difference between my notes, which I keep private, and this public garden. Only some of the notes I take are moved to the public space. As you can imagine, I don't want to make public the phone numbers of my acquaintances. 
 
 ## The technology choice
 Since I was building the website by rendering markdown files, I first thought in using a standard tool. I checked [Pelican](https://blog.getpelican.com/), because it is what I've used for other websites. However, it is a beast of a program, and just thinking in going through the process of configuring and adding custom plugins gave me a headache. [[Pelican]] has a lot of value, but not for my task at hand. 

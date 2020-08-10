@@ -7,11 +7,11 @@ The release of [[gpt-3]] and its public [[API]] generated a lot of discussion (a
 
 Automatization is a process that has been taking place for the last several centuries. We have windmills to grind grains instead of doing it manually. Factories have tools that increasingly require less human intervention. Cleaning the streets in places where salaries are too high is done with machines instead of by an army of employees. 
 
-I guess in every step of progress people was afraid of losing jobs. However, the wealthier part of society was never at risk. A lawyer could not be replaced, an architect neither. But is it so? AutoCAD made architects more efficient. Doesn't this mean, by definition, that we can leave with fewer architects? 
+I guess in every step of the infinite progress ladder, people was afraid of losing jobs. However, the wealthier part of society was never at risk. A lawyer could not be replaced, an architect neither. But is it so? AutoCAD made architects more efficient. Doesn't this mean, by definition, that we can leave with fewer architects? 
 
 People is paying a lot of attention to [[self-driving cars]], forgetting that public transport has been around for quite a while and achieves a similar goal: going from one place to the other without driving. There is a surge on something called [[no-code]] tools that allow anyone to make websites without programming. 
 
-All this is happening without any artificial intelligence intervention, just by creating better and more versatile tools. Therefore, I do believe that [[artificial intelligence is one more step in this process of automatizing]]. 
+All this is happening without any artificial intelligence intervention, just by creating better and more versatile tools. Therefore, I do believe that artificial intelligence is one more step in this [[process of automatizing]]. 
 
 ## Is the Fear of AI Justified?
 I don't think *fear* is the right word regarding technologies that can transform the world. I do think, however, that we must re-think how we live. People through the world is getting more and more productive. We can make in minutes what before took hours. Access to goods is being democratized. However, we still work 40 hours a week. 
@@ -23,7 +23,7 @@ I think the *fear* of [[AI]] is playing an important role for questioning what k
 ## We are bound to one world
 Even though most people who look at artificial intelligence do it from the perspective of job loss, few look at the problem from the perspective that [[world resources are limited]]. Even if architects become more efficient, we won't be able to build skyscrapers simply because [[we are running out of sand]]. We can automate all the cars in the world, but they won't run without a way of powering them. 
 
-For the foreseeable future, and regardless of what [[Elon Musk]] makes you believe, we are bound to this one planet. We are hitting rock bottom with some essential goods, such as helium. We are running out of polinizing bees. Fresh water is becoming a scarce resource in developed countries even before the entire humanity has access to drinkable water. There is no degree of automatization that can counter act the effects of living in a non sustainable way. 
+For the foreseeable future, and regardless of what [[Elon Musk]] makes you believe, we are bound to this one planet. We are hitting rock bottom with some essential goods, such as helium. We are running out of polinizing bees. Fresh water is becoming a scarce resource in developed countries even before the entire humanity has access to drinkable water[^2]. There is no degree of automatization that can counter act the effects of living in a non sustainable way. 
 
 ## How can the future be?
 The biggest challenge is that the capitalistic world is not prepared for a qualitative jump. People has started discussing about [[universal basic income]] to compensate for the lack of access to work. Imagine a world where very few people *had* to work, what would the rest do? If we all worked only 2 hours a week, what would we do with the extra time? 
@@ -35,3 +35,4 @@ Somehow we were made to believe we *have* to work. If you pay attention, you wil
 - [ ] [Fully Automated Luxury Communism](https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&source=kp_cover&redir_esc=y)
 
 [^1]: https://nesslabs.com/gpt-3-future-productivity?utm_source=Maker+Mind&utm_campaign=a8df5142e4-MAKER_MIND_053&utm_medium=email&utm_term=0_d634852cd6-a8df5142e4-130742116&mc_cid=a8df5142e4&mc_eid=22b39e4ac7
+[2]: https://www.npr.org/2020/07/28/896308345/summer-school-4-pistachios-scarcity
