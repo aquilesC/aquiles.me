@@ -1,0 +1,6 @@
+# The Web is built on standards
+The only way to make the internet work is to define standards to which all interconnected players must adhere. This, for example, allows me to browse my [[GMail]] account from [[Firefox]]. However, when one player in the market is much larger than the rest, and when that player has interests on both sides (i.e. their business model includes the website, the data, the browser, and the operating system), technologies can be skewed in favor of some specific services. 
+
+The [[net neutrality]] is a multi-layered concept, that should be regarded not only at the service-provider level, but also at every step of the toolchain. 
+
+If [[Chrome]] implements behavior beyond the standards, that in turn are adopted by YouTube, you will have a twofold phenomenon: the experience of browsing YouTube will be better than the experience of browsing Netflix, for example. The experience of browsing YouTube with Chrome will be better than that of using Firefox. In the end, this concentrates even more power, users, data, and revenue, on the biggest player. 
