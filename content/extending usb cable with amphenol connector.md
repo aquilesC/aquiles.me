@@ -11,4 +11,8 @@ I am testing something called a redriver (like [this](https://www.ti.com/tool/US
 
 Even though the solution works, spending 100€ just to solve this non-crucial problem seems a bit too much. 
 
+## Problem solved
+We changed to the connectors from rs-electronics and it simply works! Either [this](https://nl.rs-online.com/web/p/usb-connectors/1750149/) or [this](https://nl.rs-online.com/web/p/usb-connectors/9160224/). 
+
+
 Filed under: [[Dispertech]]
