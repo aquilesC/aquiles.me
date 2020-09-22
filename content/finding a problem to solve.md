@@ -7,7 +7,10 @@ The example of Ring showcases a perfect example of how the problem-solution-iter
 
 For example, when I go to the supermarket I tend to forget to buy important things, such as milk. This is a problem because it forces me to either go again to the supermarket or to limit my breakfast choices the next morning. Another problem that I often encounter is that shirts end up with stains under the armpits. The stains are an aesthetic problem, and also shortens the lifespan of my clothes. 
 
-Now we have two problems coming from our daily lives at home. You can apply the same thinking process to your work environment. For example, you are in a coworking space, or in a multi-tenant building, and you have no way of proposing improvements, or transmit complaints to the building manager. 
+Now we have two problems coming from our daily lives at home. You can apply the same thinking process to your work environment. For example, you are in a coworking space, or in a multi-tenant building, and you realize people is throwing garbage in the wrong bins because they are not properly labeled. 
+
+## Problems are not necessarily linked to personal experiences
+A common misconception is that the problem must be triggered by out daily experiences. This is highly limiting and won't really allow us to think outside the box. Sometimes problems are issues at a global scale, such as the presence of plastic in the ocean
 
 Filed under: [[entrepreneurship]], [[entrepreneurship for scientists]]
 
