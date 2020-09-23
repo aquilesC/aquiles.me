@@ -1,14 +1,28 @@
 # Guide on how to open-source projects
 Skeleton of the topics to cover on a course on how to release [[Open Source]] projects. It is focused on researchers, scientists, and associated companies, such as [[Dispertech]]. 
-[[WIP]]
+
+Label: [[WIP]] ([[work in progress]])
+
+## Define objectives
+Every good course starts by defining learning objectives. What do I want people to be able to do after the course that couldn't be done before. 
+[[Why would you learn how to open source projects]]?
+
+
 
 - What does it mean to open-source a project? <- Focus on scientific/research-based packages and tools. PyPylon, ODemis, Lantz, PyMeasure. Big ones like matplotlib? Numpy? Scipy? 
+    - Need to find examples of smaller packages with a following:
+        -  PyQtGraph, 
+        -  [[ADDA]] 
+        -  Astropy
+    - What about [[Open Hardware]]?
+        - [[U see 2]]
 - What is the goal of open-sourcing? <- You may have different goals!
     - Scientific reproducibility
     - Empowering a community
     - Gaining attention
     - Lowering the maintenance burden
     - Marketing strategy around a product
+    - [[Open source is a political act]]
 - Risks associated to open-sourcing
     - Researcher: Scooping of topics
     - Single(indie)-developer: Someone builds a product on your work

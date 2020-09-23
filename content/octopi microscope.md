@@ -2,10 +2,8 @@
 title: Octopi, Open (?) microscope able to process 1.5M red blood cells/min
 description: From the creators of foldscope, the Octopi shows great promise but they never released the schematics
 ---
-# Octopi: A pseudo open microscope
-When researching about [[open hardware]] projects to get inspiration for the [[Small Scope]], found an interesting one called Octopi[^1], by [[Prakash Lab]], the same guy behind the [[foldscope]][^2]. However it is very frustrating to see a project that claims to be "open" but then you don't find blueprints nor software anywhere else. The twitter of the lab says: "Stay tuned while we update our Github" (but that was written in June 2019 and there are still no news in July 2020).
-
-I have sent an e-mail asking for the information, but they never replied. I have also sent a message through Twitter, although I am not the first one. Something they did very nicely is the press release. If you just google around, you'll find a lot of coverage. 
+# Octopi: open microscope
+When researching about [[open hardware]] projects to get inspiration for the [[Small Scope]], found an interesting one called Octopi[^1], by [[Prakash Lab]], the same guy behind the [[foldscope]][^2]. Something they did very nicely is the press release. If you just Google around, you'll find a lot of coverage. 
 
 ## Objectives of Octopi
 They identify a great need for tools to do malaria diagnosis, which currently rely on microscopy imaging and manual analysis. This creates a great bottleneck, since technicians able to do the study and hardware is not easy to find in some countries. 
