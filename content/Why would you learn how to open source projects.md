@@ -19,3 +19,6 @@
     - To build a persona that transcends the company
     - To give back to a community
     - To have a clear product to market to a next employment? <- This is *fundamental* for Ph.D.s and Postdocs, especially if they move out of academia
+    - To be able to pitch to managers the idea of open-sourcing
+- People working in [[Open Hardware]]
+    - What are their objectives? <- [[TODO]], try to understand the community

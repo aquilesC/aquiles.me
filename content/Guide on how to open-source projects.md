@@ -5,10 +5,15 @@ Label: [[WIP]] ([[work in progress]])
 
 ## Define objectives
 Every good course starts by defining learning objectives. What do I want people to be able to do after the course that couldn't be done before. 
-[[Why would you learn how to open source projects]]?
+- [[Why would you learn how to open source projects]]? <- Question is why learning, not why open-sourcing
+- [[Common problems with open source projects]]
 
+**What is the knowledge gap to be addressed?**
+- [[Risks and opportunities of open-source are misjudged]]
+- [[How to lay out a path to create a community around a project]]
+- [[Practical checklist to open-source succesfully]]
 
-
+## Structure Of the Course
 - What does it mean to open-source a project? <- Focus on scientific/research-based packages and tools. PyPylon, ODemis, Lantz, PyMeasure. Big ones like matplotlib? Numpy? Scipy? 
     - Need to find examples of smaller packages with a following:
         -  PyQtGraph, 
