@@ -1,6 +1,6 @@
 # Different types of open source projects based on community engagement
 
-![Different types of projects](./IMG_20200924_080022.jpg)
+![Different types of projects](/IMG_20200924_080022.jpg)
 
 Going through [[Working in public]], I found an interesting notion about how different [[open source]] communities are structured: 
 - **Federations**: there a lot of users and a lot of contributors
