@@ -12,12 +12,11 @@ If you just want to have a glimpse, check out what am I doing [[now]].
 The only way to navigate through the website is through [[links]]. If you want some starting points, you can check, for example, what I write:
 
 - About [[Python]]
-- About [[academia]]
+- About [[Technology Transfer]]
 - You can check [[how i built this website]]
 - Or you may be interested in learning more [[about me]]
 
 If you are looking for a more traditional approach to a personal website, you can always head to [Aquicarattino.com](https://www.aquicarattino.com), my other website.
 
 ## The newsletter
-
 I opened the possibility of subscribing to a [[newsletter]] because I wanted to experiment with sharing what I have been doing and discovering. Since the website has no RSS feed, I thought it would be nice to be able to ping people with similar interests. 
