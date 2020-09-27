@@ -1,22 +1,17 @@
 ---
-title: Aquiles Carattino
-description: A digital garden growing on topics from technology transfer, to programming websites, or dancing tango
+title: My Corner of the Internet
+description: This is the place where I think and learn in public. From science to technology and the world.
 ---
 
 # Welcome to Aquiles.me
+This is my little corner of the internet. I like to learn and think about many things and these pages are my way of making the process public. You can always check what I am doing [[now]], or uncover some threads by following links. 
 
-If you just want to have a glimpse, check out what am I doing [[now]].
+First, remember that [[this website is not a blog]]. It was built as an experiment of [[learning in public]]. The only way to navigate through the website is by following links. If you want some starting points, you can check, for example, these articles:
 
-[[This website is not a blog]], there is no index, no [[rss feed]], no timeline. It was built as a way of [[learning in public]]. Most of the things you'll find in here are short notes, but some evolve into articles, over time. 
-
-The only way to navigate through the website is through [[links]]. If you want some starting points, you can check, for example, what I write:
-
-- About [[Python]]
-- About [[Technology Transfer]]
-- You can check [[how i built this website]]
+- [[If you are in a position of power and don't do anything, nothing will change]]
+- [[Democracy and algorithms]]
+- [[Guide on how to open-source projects]]
 - Or you may be interested in learning more [[about me]]
 
-If you are looking for a more traditional approach to a personal website, you can always head to [Aquicarattino.com](https://www.aquicarattino.com), my other website.
-
-## The newsletter
-I opened the possibility of subscribing to a [[newsletter]] because I wanted to experiment with sharing what I have been doing and discovering. Since the website has no RSS feed, I thought it would be nice to be able to ping people with similar interests. 
+## My Newsletter
+I am particularly concerned about [[how to create a healthier internet]], that is why I am self-hosting my [newsletter](https://aquicarattino.com/newsletter/aqui-carattino/subscribe/). If you want to keep up to date to the things I think and write about, just sign up by [clicking here](https://aquicarattino.com/newsletter/aqui-carattino/subscribe/).

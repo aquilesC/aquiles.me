@@ -7,4 +7,5 @@ When was the last time you received a newsletter that didn't track you? Newslett
 
 But, honestly, do we need to collect all that data from our users? We, webmasters, newsletter creators, blog owners, have a responsibility towards our visitors, our readers. Because remember, it is not *us* who collect the data. We give Google the data of the visitors to our pages, we give Facebook information about the unfinished purchases, we give Mailchimp the data of all the e-mail recipients in the world. 
 
-We have, collectively, the power to make a change. Yes, we will need to work in different ways. We will, probably, struggle at the beginning to understand how to deal with the lack of infinite information. In this website, for example, [[I don't track the visitors]], and I decided to [[self-host my newsletter]].
+We have, collectively, the power to make a change. Yes, we will need to work in different ways. We will, probably, struggle at the beginning to understand how to deal with the lack of infinite information. In this website, for example, [[I don't track the visitors]], and I decided to [[self-host my newsletter]]. 
+
