@@ -11,7 +11,7 @@ There are two aspects of digital gardening: the creation of knowledge and the di
 The idea of *tendering* a garden is relatively simple from a technical perspective: just write down [[notes]] with [[links]] to other notes whenever an idea crosses your mind. An idea may be triggered by a [[podcast]], an [[article]], or any other interaction you have in your day. 
 
 !!! image medium
-	![Graph of Notes of this website](/images/graph_of_my_notes.png)
+	![Graph of Notes of this website](/graph_of_my_notes.png)
 
 With enough time, the notes will start to form a graph of interconnected thoughts. This, in itself, sounded to me like a great idea. Each note is a seed, that has to potential to develop branches. At the same time, each branch is a seed itself, and therefore the garden becomes a graph. But, **gardening sounds better than graphing**. 
 
