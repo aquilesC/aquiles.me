@@ -1,5 +1,5 @@
 # The problem with the power of web developers
-There is a lot of people out there who is capable of designing and building websites. If I could do it (see: [[how i built this website]]) anybody can do it. What most developers lack to acknowledge is that they have infinite power on the decisions they make, and those decisions end up affecting their users, their newsletter readers. 
+There is a lot of people out there who is capable of designing and building websites. If I could do it (see: [[how i built this website]]) anybody can do it. What most developers lack to acknowledge is that they have plenty of power on the decisions they make, and those decisions end up affecting their users, their newsletter readers. 
 
 We became accustomed to the idea that we can't live without optimizing. But optimizing what? We need to know the age group of our visitors, what links they followed, where they came from, how often they come back, how much money they spend on our products. We need to be sure that if someone comes and does not finish a purchase, they'll see an ad luring them back to our store. 
 
