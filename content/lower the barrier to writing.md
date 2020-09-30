@@ -1,10 +1,13 @@
 # Lower the Barrier to Writing
-One of my [[2020 goals]] is to write and create more. That is one of the reasons I decided to create a [[digital garden]], developed my own scripts to build the website (see [[how i built this website]]), and tuned them over time with one goal in mind: **lower to barrier to writing** as much as I could. 
+One of my [[2020 goals]] is to write and create more. That is one of the reasons I decided to create a [[digital garden]], developed [[how i built this website|my own program]] to build the website, and tuned them over time with one goal in mind: **lower to barrier to writing (and publishing)** as much as I could. 
 
-## The Why
-Another of my goals is to [[ask why]] more often (or in a more mindful way). I want to write more because I want to communicate more about the things I think. I see a lot of problems that stem from a lack of understanding. I see people with huge followings that just didn't get it right. And this frustrates me. I want to slowly make a [[healthier internet]]. I want to discuss about [[gender diversity academia]] even though I am an outsider (or especially because I am one). 
+## Why
+At this stage, writing is a channel that I can use to build up knowledge. To find back my reflections and build upon them. Writing in this space is not about [[performative blogging]], but about exploration. I want to re-learn how I think and link ideas and I do believe that there are no better means to do it but to sit down and write. For me, writing is also partly a way of documenting, it's not only about creation.
 
-I know I want to **write more, and to make my writing public** as soon as possible. 
+### Why Publicly
+I want to explore the approach of [[learning in public]], I want to see what happens when I fear [[being wrong in public]] and how that would affect and steer my own process. Going public has a two-fold purpose. On the one hand it allows me to be known, to be read by people that may or may not share my thoughts, but that are willing to discuss and force me to reflect deeper. 
+
+The other purpose is to try to create an impact. I do believe that many problems stem from a lack of understanding of the world. I think there are many missed opportunities for improvement, for creating [[a healthier internet]], [[a healthier world]]. I'm fascinated by the [[open hardware]] movement, and would love to be a resonance box. I also want to openly discuss about [[technology transfer]] and its many risks and opportunities ahead. 
 
 ## My Approach
 ### Writing First
