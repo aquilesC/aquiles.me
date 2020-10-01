@@ -31,6 +31,12 @@ Therefore, when I talk about [[user privacy online]], I am not only thinking abo
 
 There are some individual actions that can create [[a healthier internet]], such as acknowledging [[the power of web developers]]. However, the only path to change is to generate a collective consciousness of the problems that are arising, and understanding that [[the people who is part of the problem cannot be the solution]]. 
 
+<blockquote class="quoteback" darkmode="" data-title="The%20last%20tracker%20was%20just%20removed%20from%20Basecamp.com" data-author="@37svn" cite="https://m.signalvnoise.com/the-last-tracker-was-just-removed-from-basecamp-com/">
+The internet needs to know less about us, not more. Just because it’s possible to track someone doesn’t mean we should.
+<footer>@37svn <cite><a href="https://m.signalvnoise.com/the-last-tracker-was-just-removed-from-basecamp-com/">https://m.signalvnoise.com/the-last-tracker-was-just-removed-from-basecamp-com/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 
 [^1]: https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/
 [^2]: https://www.theverge.com/2019/2/27/18242724/facebook-moderation-ai-artificial-intelligence-platforms
