@@ -22,7 +22,7 @@ And this is what happens at many different scales, at Facebook and Google, but a
 
 Imagine you want to sell a product like soap. You make two packages for it, in one you write "soap", and in the other "cleaner". You put one next to the other in the supermarket and then see which one people buy more. That's it, next time you just pick that wording. Another experiment, you write "cleaner" in red and in green, and see which one is more popular, and so forth. 
 
-This is a very analog [[optimization algorithm]], it happens in the real world, without a computer involved. But it is exactly the same that happens on websites and phones. The only problem is that [[communicators fail at explaining what an algorithm is]]. 
+This is a very analog [[optimization algorithm]], it happens in the real world, without a computer involved. But it is exactly the same that happens on websites and phones. The only problem is that [[what are algorithms|communicators fail at explaining what an algorithm is]]. 
 
 You are now visiting this website. Imagine I had something for sale, such as a book. I could wonder what can I do to increase sales. That is my parameter to optimize: the amount of money I make. Therefore I try to add a banner on the right column with some flashy colors, but that doesn't work, people don't click on it. **Wait!** this means I *know* who and how often people clicked, if not, I wouldn't be able to *optimize*. 
 
