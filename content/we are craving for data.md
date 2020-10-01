@@ -1,5 +1,5 @@
 # We are Craving for Data
-I wonder up to which point the responsibility of what the internet has become falls into our hands. When I mean *our*, I mean the people who can make a decision when [[The problem with the power of web developers|building a website]], [[the problem with the power of investors|the investors that require certain outcomes]], [[the problem with the power of marketeers|the marketeers that chase and endless optimization rabbit hole]]. 
+I wonder up to which point the responsibility of what the internet has become falls into our hands. When I mean *our*, I mean the people who can make a decision when [[The power of web developers|building a website]], [[the problem with the power of investors|the investors that require certain outcomes]], [[the problem with the power of marketeers|the marketeers that chase and endless optimization rabbit hole]]. 
 
 If we just pay attention to a random website, perhaps the landing page of a future SaaS, even the university page of a research group, chances are they will store plenty of data from us. Recording data became so ubiquitous that the first thing we do when building a website is adding the google [[tracking script]]. Our hunger for data allowed Google to permeate the entire web much beyond their own services and products. 
 

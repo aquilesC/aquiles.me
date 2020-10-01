@@ -3,4 +3,4 @@ How many times do we acknowledge that something is wrong and yet we fail to do a
 
 See: [[The problem with people in positions of power in academia]]
 
-See: [[The problem with the power of web developers]]
+See: [[The power of web developers]]
