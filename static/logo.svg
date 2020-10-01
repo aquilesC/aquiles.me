@@ -13,10 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="D:\Documents\Web\aquiles.me\static\logo.png"
-   inkscape:export-xdpi="292.29001"
-   inkscape:export-ydpi="292.29001">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -37,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="-7"
-     inkscape:window-y="-7"
+     inkscape:window-width="1541"
+     inkscape:window-height="845"
+     inkscape:window-x="59"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -50,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
