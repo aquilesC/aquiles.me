@@ -2026,8 +2026,16 @@ img {
   font-weight: 800;
 }
 
+.h-6 {
+  height: 1.5rem;
+}
+
 .h-24 {
   height: 6rem;
+}
+
+.h-64 {
+  height: 16rem;
 }
 
 .h-auto {
@@ -2079,6 +2087,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
 .mt-5 {
   margin-top: 1.25rem;
 }
@@ -2091,8 +2103,16 @@ img {
   margin-bottom: 3rem;
 }
 
+.ml-12 {
+  margin-left: 3rem;
+}
+
 .mt-16 {
   margin-top: 4rem;
+}
+
+.max-w-full {
+  max-width: 100%;
 }
 
 .overflow-x-auto {
@@ -2175,6 +2195,10 @@ img {
 
 .align-middle {
   vertical-align: middle;
+}
+
+.w-6 {
+  width: 1.5rem;
 }
 
 .w-full {
@@ -6219,6 +6243,10 @@ a.wikilink {
 
   .lg\:max-w-screen-md {
     max-width: 768px;
+  }
+
+  .lg\:max-w-screen-lg {
+    max-width: 1024px;
   }
 
   .lg\:p-10 {

@@ -30,7 +30,7 @@
     <meta property="og:description" content="{{ description }}"/>
     <meta property="og:url" content="{{ url }}">
     <meta property="og:type" content="article"/>
-    <meta property="og:image" content="https://aquiles.me/{{ static }}/og_drawing.png"/>
+    <meta property="og:image" content="https://aquiles.me/{{ static }}/Aquiles.jpg"/>
 
     <meta name="twitter:creator" content="@aquicarattino"/>
     <meta name="twitter:image" content="https://aquiles.me/{{ static }}/og_drawing.png"/>
@@ -39,18 +39,9 @@
     <meta name="twitter:description" content="{{ description }}"/>
 </head>
 <body class="bg-gray-100 font-sans leading-normal tracking-normal mx-auto">
-<nav class="bg-gray-100 border-orange-800 border-l-8 p-4 mt-0 w-full text-4xl">
-    <div class="container mx-auto">
-        <a class="shadow-none" href="/">
-            <span class="font-brand">Aquiles Carattino</span>
-        </a>
-    </div>
-</nav>
 
-<div class="px-2">
-    {% block main %}
-    {% endblock main %}
-</div>
+{% block main %}
+{% endblock main %}
 <div class="flex bg-gray-200 p-3 w-full">
     <div class="m-2 p-2 inline-block text-center">&copy; 2020 Aquiles Carattino</div>
     <div class="m-2 p-2 inline-block text-center"><a class="wikilink" href="/privacy_policy">Privacy Policy</a></div>
@@ -65,12 +56,6 @@
         work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
             Attribution-ShareAlike 4.0 International License</a>.
     </div>
-    <div class="m-2 p-2 inline-block text-center">
-        <ul class="social-links">
-            <li><a href="https://github.com/aquilesC" rel="me">aquilesC Github</a></li>
-        </ul>
-    </div>
 </div>
-
 </body>
 </html>
