@@ -2,6 +2,7 @@
 title: Patents and Research
 description: What is the role that patents have in research, their impact, and potential conflicts of interest
 epistemic: initial ideas and research on the topic
+topic: patents, innovation, research
 ---
 # Patents and Research
 Developing a new technique involves, normally, a substantial investment. Going a step further and bringing it to market is an extra undertaking with even more money required. With [[Dispertech]], the core of our business is to commercialize a device, and associated consumables. How can we protect the investment after we've validated the market? If anyone can jump right at the best time of the development, all the risk is absorbed by only one player. 
