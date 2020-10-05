@@ -1,29 +1,20 @@
 ---
 title: A New Way of Blogging
 description: A solution between a digital garden and a blog may be the answer many content creators are looking for.
+epistemic: reflections with low consequences, based on input gathered from other online sources, and conscious practice. Associated risks are not fully developed
 ---
-
 # A New Way of Blogging
-I have been trying to keep up with blogs for way too long. Around 15 years ago, I had a blog for science articles, a blog for Linux, a blog about [[Buenos Aires]], and a personal blog. I was young, had a lot of time in my hands, and above all I was mostly learning and not producing, so I could easily channel energy into generating some content. But, as with most blogs, over the years they were abandoned. 
+I define a *blog* as any website that delivers value through written content from well defined authors. This means that Wikipedia is not a blog because its authors are not at the center, but [[newspapers are blogs]], as well as many personal websites. Therefore, discussing *how to blog* must consider the type of website that is behind. 
 
-I tried several times to revamp them, to find motivation, but in the end I always failed to be consistent at writing, and the shame of not being consistent was too large. Deep down I know I had to [[lower the barrier to writing]]. One day I crossed the idea of a [[digital garden]] and jumped right onto it. While I still believe that [[this website is not a blog]] (at least not in the traditional way of blogging), most of what I want to achieve is the same I wanted while blogging in the past, but with a different approach. 
+For *personal websites*, such as this one, I do believe that the first objective one must have is to [[lower the barrier to writing]]. I focused for too long on how to manage content that forgot the most important aspect of having a personal website: push content out often as I wanted, with as low friction as possible. In other words, I also wanted to [[lower the barrier to publishing]]. 
 
-## Breaking the Chronological Order
-<blockquote class="quoteback" darkmode="" data-title="How%20the%20Blog%20Broke%20the%20Web" data-author="@stackingbricks" cite="https://stackingthebricks.com/how-blogs-broke-the-web/">
-And the damn reverse chronology bias — <em>once called into creation, it hungers eternally</em> — sought its next victim. Myspace. Facebook. Twitter. Instagram. Pinterest, of all things.
-<footer>@stackingbricks <cite><a href="https://stackingthebricks.com/how-blogs-broke-the-web/">https://stackingthebricks.com/how-blogs-broke-the-web/</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+Therefore, the idea of approaching a blog as a public [[digital garden]], seemed a perfect fit for what I wanted to achieve. But gardening is only half the aspect of blogging, it relates to the writing, the content creation and curation but not to the publishing. In order to make the writings public, there must be an agreement between me and the readers. I am trying to summarize that agreement as [[digital garden tos]] (terms of service). 
 
-A common feature of blogging was the idea of having articles displayed in *chronological order*. This may work for someone who does a real periodic log, but not for the majority of the people who like writing about what they know, about what they learn. Even technical articles about a programming language need to be updated once in a while, or follow up content must be properly linked. 
+Once we decide that we can push content online at different levels of certainty, there is a very little barrier for *publishing*. It is very helpful if we make the level of certainty explicit whenever possible, such as by marking each note with an [[epistemic status]]. 
 
-<blockquote class="quoteback" darkmode="" data-title="%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog" data-author="" cite="https://joelhooks.com/digital-garden">
-<p class="css-yw8fqx e1tutuyt0">Chronologically sorted pages of posts aren't how people actually use the internet.</p><p class="css-yw8fqx e1tutuyt0">For the most part we use search via Google to find stuff, which is free form and task oriented. You want something, you know what you want, you can string a few words together and hope to get lucky. </p>
-<footer> <cite><a href="https://joelhooks.com/digital-garden">https://joelhooks.com/digital-garden</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+Another aspect of this way of blogging is [[breaking the chronological order]]. Many of the things I want to write about are not explicitly time-dependent. If I write about a book I read, the person finding my thoughts would probably not care whether I wrote the notes one day or one year before. This timeless aspect is poorly reflected with time-based logs. 
 
-The first thing I did when building this website (see: [[how i built this website]]) was to remove any form of ordering, and focused solely on the navigation aspects. If someone reaches a page I wrote (either because I or someone else shared it, or because Google sent them), I want to give them the possibility to keep exploring the different aspects of what I think and write. That is why I also focused on making backlinks very visible, and there is a color distinction between internal links and external links. 
+
 
 ## Digital Garden or New Type of Blog
 I find very compelling the idea of a [[digital garden]], and of [[learning in public]]. However, I also think this approach is not for everybody, and not all people can afford to be truly transparent about what they think when their business is at stake. However, I do think that there is an **approach in between a garden and a blog** that can be of great value to a lot of people. 
