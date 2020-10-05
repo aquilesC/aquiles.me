@@ -3,22 +3,50 @@ title: How I built this website using Python and Markdown
 description: I created my own builder to parse my notes and create a beautiful static website
 ---
 # How I Built this Website
-The website is built on top of a collection of markdown files. These files are stored in my own computer and backed up and synchronized through [[Github]]. As an editor I use either [[Zettlr]] or [[Obsidian]] ([[choosing between Zettlr and Obsidian]]). There is a difference between my notes, which I keep private, and this public garden. Only some of the notes I take are moved to the public space. As you can imagine, I don't want to make public the phone numbers of my acquaintances. 
+This is a slightly technical walk through in case anybody would like to build from my experiences.
+
+## The short version
+I built a [custom script](https://github.com/aquilesC/static_website_builder) that parses markdown files and outputs plain HTML. These files are hosted on Netlify and the build process is triggered by pushed to a [Github repository](https://github.com/aquilesC/aquiles.me). 
+
+## Starting point
+I wanted a robust system that was independent from platforms and as future-proof as I could make it. Opting to build on top of Markdown files seems the best choice, especially because with them it is possible to [[lower the barrier to writing]]. The files are stored in my own computer and backed up and synchronized through a [Github repository](https://github.com/aquilesC/aquiles.me). As an editor I use [[Obsidian]] (see: [[choosing between Zettlr and Obsidian]]). 
 
 ## The technology choice
-Since I was building the website by rendering markdown files, I first thought in using a standard tool. I checked [Pelican](https://blog.getpelican.com/), because it is what I've used for other websites. However, it is a beast of a program, and just thinking in going through the process of configuring and adding custom plugins gave me a headache. [[Pelican]] has a lot of value, but not for my task at hand. 
+Even though I used Pelican in the past, and I know how well Jekyll works (that's what Tom Critchlow [uses](https://tomcritchlow.com/2019/02/17/building-digital-garden/)), I wanted something different. I gave  [GatbsyJS](https://www.gatsbyjs.org/) a try. And even though It looks like a fantastic piece of technology, I don't want to mess with JavaScript and much less with React. I also found the [Andy Theme](https://github.com/aravindballa/gatsby-theme-andy/) which gives a neat look to notes, and the [Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain), which triggered the initial design of this website. 
 
-I wanted to stay away from [[Jekyll]], since I don't fancy Ruby, nor their templating system. I also gave [GatbsyJS](https://www.gatsbyjs.org/) a try. It is without doubts a fantastic piece of technology. I also found the [Andy Theme](https://github.com/aravindballa/gatsby-theme-andy/) which gives a neat look to notes, and the [Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain), which inspired the looks of the current design. 
+Going for a custom builder, leveraging the existing libraries seemed the way to go. 
 
-However, if [[Pelican]] is a beast of a program, [[GatsbyJS]] is on a league of its own. I tried it for some days, but the entire [[Javascript]] toolchain associated is incredibly annoying. Dependencies that take up megabytes, endless configuration files. I just wanted something simple and quick. 
+### Minimum Features I wanted
+- Render markdown
+- Handle subdirectories and static files
+- Using the wikilink syntax
+- Building backlinks
+- Custom syntax (i.e. images of certain width, etc.)
+- Templating System
 
 ### Custom Static Builder
-So, after thinking for a while, I decided to build my own custom website builder. [I've released it](https://github.com/aquilesC/static_website_builder) under a [[BSD]] license, because I think it can be used by others to learn. I built it using [[Python]], the core is straightforward: go through all the files, parse them, build a dictionary containing links and rendered content, write the files using [[Jinja2]] templates. 
+To achieve the minimum required features, I built a [[Python]] script that goes through all the markdown files within a folder, extracts the links to other pages (wikilinks) and builds a dictionary with all the information, including those *backlinks*. Another loop renders the Jinja2 templates and saves them to an output folder.  
 
-To make it look nice, I used [[TailwindCSS]], a great library, that has amazing video tutorials to quickly get started. The style for the website is stored on a separate file that later I use when rendering the pages. The process is a bit manual, separating the template from the notes, but in principle it is something that happens only once. 
+I released the  [builder](https://github.com/aquilesC/static_website_builder) under a [[BSD license]], because I think it can be used by others to learn. It is fare from being 'a package', but many of its parts can be repurposed easily for others trying to achieve the same. 
+
+## Styling
+A different chapter is about how to make it look nice, I used [[TailwindCSS]], a great library, that has amazing video tutorials to quickly get started. The actual style for the website is stored on a separate file that later I use when rendering the pages. The process is a bit manual, separating the template from the notes, but in principle it is something that happens only once or rarely.
+
+I wanted to have links that are easy to follow, and therefore I opted to having a different underline color depending on whether they are internal or external links. I also wanted to give a predominant position to the backlinks (see: [[why backlinks are the core of my digital garden]]). Some things I've learned about TailwindCSS:
+
+- [[How to setup gulp to minify the style file]]
+- [[How to make cool underlines for links with TailwindCSS]]
+- [[The prose plugin of TailwindCSS is a great addition for people like me]]
 
 ## Deployment
-Since the output of the program is a collection of HTML files, I thought about giving [[netlify]] a try. I've heard many good things, and they are specialized in this type of situations. One of the nicest things about [Netlify](https://www.netlify.com/) is that it's setup process is straightforward. I just had to create a ``requirements.txt`` file so it installed the dependencies, including my own website generator. You point it to the output folder and voilà. The website is live. 
+Since the output of the program is a collection of HTML files, I thought about giving [[netlify]] a try. I've heard many good things, and they are specialized in this type of situations. One of the nicest things about [Netlify](https://www.netlify.com/) is that it's setup process is straightforward. 
 
-!!! note 
-	I had to tweak a bit the process in order to use the proper Python version, and some dependencies that do not work out of the box with the ``setup.py`` file but I don't understand why.
+**Some things to note about the process**: Some dependencies of my static website generator can't be installed via the ``setup.py`` file, so I had to add a ``requirements.txt`` file to ensure that dependencies are installed first, and then the package itself. I also had to add a ``runtime.txt`` file to specify the Python version, or it would default to Python 2. 
+
+## Comments
+I thought for a while whether I should [[add comments to a digital garden]] or not. I opted for using a library called **utterances**, that allow using Github issues as a commenting platform. I still liked the approach of **staticman** better, because comments become files in a repository, with all the added benefits of portability. 
+
+The only problem with staticman was the amount of spam I was receiving, and didn't particularly fancy the idea of having a Recaptcha sniffing information on my users. I may try to implement a custom solution.
+
+## Microformats
+The last feature I want to point out of this website is that I tried to implement [Microformats](https://microformats.org) in order to make the content more parseable by engines. I accept [[webmentions]] although they are not displayed on the pages, yet. I am still experimenting with the different options, but I do like the idea of having [[backlinks across domains]]. If I may be allowed to continue with the garden metaphor, Webmentions are a way of pollinating species in different gardens.  
