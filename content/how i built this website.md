@@ -15,7 +15,7 @@ However, if [[Pelican]] is a beast of a program, [[GatsbyJS]] is on a league of 
 ### Custom Static Builder
 So, after thinking for a while, I decided to build my own custom website builder. [I've released it](https://github.com/aquilesC/static_website_builder) under a [[BSD]] license, because I think it can be used by others to learn. I built it using [[Python]], the core is straightforward: go through all the files, parse them, build a dictionary containing links and rendered content, write the files using [[Jinja2]] templates. 
 
-To make it look nice, I used [[Tailwind]], a great CSS library, that has amazing video tutorials to quickly get started. The style for the website is stored on a separate file that later I use when rendering the pages. The process is a bit manual, separating the template from the notes, but in principle it is something that happens only once. 
+To make it look nice, I used [[TailwindCSS]], a great library, that has amazing video tutorials to quickly get started. The style for the website is stored on a separate file that later I use when rendering the pages. The process is a bit manual, separating the template from the notes, but in principle it is something that happens only once. 
 
 ## Deployment
 Since the output of the program is a collection of HTML files, I thought about giving [[netlify]] a try. I've heard many good things, and they are specialized in this type of situations. One of the nicest things about [Netlify](https://www.netlify.com/) is that it's setup process is straightforward. I just had to create a ``requirements.txt`` file so it installed the dependencies, including my own website generator. You point it to the output folder and voilà. The website is live. 
