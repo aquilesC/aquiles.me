@@ -32,7 +32,7 @@ Asking why means reflecting on what was the end goal of the actions you took in 
 
 The obvious question to ask ourselves was: why are we still using the cartridges? They were the source of most of our problems. However, we built for so long on the idea that cartridges were a must-have, that it took us a very long time to step back and decide that we needed to tackle the problem in a different way. 
 
-## Revert to the Last Known State
+## Revert to the Last Known Working State
+[[Decisions have a compounding effect]], making the moment at which our path started to depart from our original plan almost imperceptible. Borrowing from version control systems, we can try to [[revert to the last known working state]]. It is not an easy task and it requires most likely a thorough introspection work. But most likely there is specific decision, the first one, that defined a specific course of action that we want to avoid.  
 
-
-
+The best approach is to go backwards in time and [[ask why]] as many times as needed. At some point we will find a moment where the reasoning is flawed or poorly supported. Ideally, we would go back to that moment and just make a different choice. However, it is impossible to revert ourselves. The new decision we make will have some hindisght, but we must acknowledge that we 
