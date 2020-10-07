@@ -14,6 +14,7 @@ The only way to navigate through the website is by following links. These are so
 
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
+
 - [[Guide on how to open-source projects]] <- This is [[work in progress]]
 - [[Designing electronics]] is a joyful (and time consuming) task
 - I am thinking about the [[digital garden tos]], help me figure out how to behave in this space!
