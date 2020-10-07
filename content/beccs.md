@@ -1,3 +1,9 @@
+---
+title: Bioenergy with Carbon Capture and Storage
+description: Generating energy based on burning crops but preventing the release of CO2 to the atmosphere
+epistemic: First time I see this concepts, still many things I don't understand
+topics: Climate Change, Biofuel
+---
 # Bioenergy with Carbon Capture and Storage
 
 Keywords: [[climate change]], [[biofuel]]

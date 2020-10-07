@@ -1,3 +1,9 @@
+---
+title: Dictionary Views in Python
+description: How to retrieve and modify information in dictionaries. Views access the same underlying data, and thus can be used to modify dictionaries even if not explicitly
+topics: Python
+keywords: dictionaries, mutability, dictionary views
+---
 In [[Python]], [[dictionary]] views actually change their data if the underlying dictionary changes. Let's remove some keys:
 
 ```pycon
