@@ -14,8 +14,6 @@ Once we decide that we can push content online at different levels of certainty,
 
 Another aspect of this way of blogging is [[breaking the chronological order]]. Many of the things I want to write about are not explicitly time-dependent. If I write about a book I read, the person finding my thoughts would probably not care whether I wrote the notes one day or one year before. This timeless aspect is poorly reflected with time-based logs. 
 
-
-
 ## Digital Garden or New Type of Blog
 I find very compelling the idea of a [[digital garden]], and of [[learning in public]]. However, I also think this approach is not for everybody, and not all people can afford to be truly transparent about what they think when their business is at stake. However, I do think that there is an **approach in between a garden and a blog** that can be of great value to a lot of people. 
 
@@ -44,7 +42,7 @@ And this may not fit everyone. Creativity, especially on tasks we are not famili
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Therefore, there is an intermediate approach, in which you can still curate your content in the same way you create blog posts, but lower the barrier to publishing. As Tom Critchlow puts it, you an find a way of **less performative blogging**. You may start with notes (either public or not) that grow into an article. However, once you acknowledge that whatever you publish can be edited, expanded, deleted, you will also realize that the content you generate can mutate. It is still a blog, but it is also a garden. You can (and are encourage to) revisit the notes, build new links, update them. 
+Therefore, there is an intermediate approach, in which you can still curate your content in the same way you create blog posts, but lower the barrier to publishing. As Tom Critchlow puts it, you an find a way of **[[less performative blogging]]**. You may start with notes (either public or not) that grow into an article. However, once you acknowledge that whatever you publish can be edited, expanded, deleted, you will also realize that the content you generate can mutate. It is still a blog, but it is also a garden. You can (and are encourage to) revisit the notes, build new links, update them. 
 
 I do think this approach is particularly interesting for personal blogs because the personality we show online can change over time. We can be very vocal about some subjects at one moment in our lives. After learning more on some of those topics, or just maturing, our views can change. Once we embrace the flowing spirit of thoughts and writings, there won't be any need to keep a chronological log of what we were thinking about at every moment of our lives if we don't want to.
 
@@ -66,8 +64,14 @@ It may also be that a blog is not a just a content-creation engine for another p
 There are many other examples around, but nesslabs is the first one I get to see born, grow, and flourish to become a successful business. However, marketing blogs require new content to be released in order to keep the audience and the algorithms happy. Improving on old notes has a relatively low impact as a marketing strategy. As a customer, I wouldn't like updates every two days about a couple of lines that you improved in your writing of an article that I already saw two months ago. 
 
 ## The Personal Marketing Blog
-Finally, there is one last type of website to discuss: the hybrid between marketing and personal. What happens when you are trying to sell yourself. [Tom Critchlow](https://tomcritchlow.com) openly talks about this. He is a consultant, and you may decide to hire him based on what you read on his website. 
+Finally, there is one last type of website to discuss: the hybrid between marketing and personal. What happens when you are trying to sell yourself. [Tom Critchlow](https://tomcritchlow.com) openly talks about this. He is a consultant, and you may decide to hire him based on what you read on his website. This quote is very descriptive of what *developers* perceive generating content must be:
 
-In that case you have to be mindful about what you post online and how you present yourself. I have seen people separating between blog and notes. [Andy Matuschack](notes.andymatuschak.org/) does this by having his notes on a separate domain. Once the notes evolve to a stable state he publishes them. 
+<blockquote class="quoteback" darkmode="" data-title="Learn%20In%20Public%3A%20The%20fastest%20way%20to%20learn" data-author="" cite="https://www.swyx.io/learn-in-public/">
+At some point people will start asking you for help because of all the stuff you put out. 80% of developers are "dark", they dont write or speak or participate in public tech discourse. But you do. You must be an expert, right? Don't tell them you aren't. Answer best as you can, and when you're stuck or wrong pass it up to your mentors.
+<footer> <cite><a href="https://www.swyx.io/learn-in-public/">https://www.swyx.io/learn-in-public/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+In that case you have to be mindful about what you post online and how you present yourself. I have seen people separating between blog and notes. [Andy Matuschack](notes.andymatuschak.org/) does this by having his notes on a separate subdomain. Once the notes evolve to a stable state he publishes them in the form of articles.  
 
 As I discussed above, making the notes public is not for everyone, and not all notes can be shared. In any case, the approach of harvesting, curating, and linking knowledge applies. 

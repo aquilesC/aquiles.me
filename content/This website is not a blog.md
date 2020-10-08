@@ -15,7 +15,9 @@ The phrase "digital garden" is a metaphor for thinking about writing and creatin
 Although I knew what the idea of a [[digital garden]] was, I never considered it as an alternative for personal website. Most people I knew in that space are thought-workers. People whose main focus is to think about how to think. Such is the case of  [Ness Labs](https://www.nesslabs.com), or [Andy Matuschak](https://notes.andymatuschak.org/). Even though [[I like to think about stuff]], I don't focus on the *meta* part of thinking. 
 
 ## A Blog without a publish button
-This quote is a great way of describing what I am trying to achieve. Notes are there, evolve into articles, are linked. There's no change from draft to published. There's only a warning (sometimes) regarding its [[epistemic status]]. Tom Critchlow puts it very nicely:
+This quote is a great way of describing what I am trying to achieve. On the one hand, I have notes, perhaps [[evergreen notes]], that are built on links (see: [[why backlinks are the core of my digital garden]]). Thanks to these connections, some notes evolve into *articles*. There's no change from draft to published, just a difference in length, [[epistemic status]], or dominant position on the home page. 
+
+Tom Critchlow puts it very nicely:
 
 <blockquote class="quoteback" darkmode="" data-title="Building%20a%20digital%20garden" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/02/17/building-digital-garden/">
 The distinction will come down to how you blog - some people blog in much the same way. For me however blogging is mostly <em>performative thinking</em> and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
@@ -23,8 +25,7 @@ The distinction will come down to how you blog - some people blog in much the sa
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-For a very long time, dates on my posts had no specific relevance. They do not form a stream as what we are used to on social media, but a web of interconnected ideas. This is what I wanted to achieve. 
-
-I wanted to sit in between the two possibilities. Writing longer-form if I felt like it, or just some notes. You can learn [[how i built this website]] if you are technically curious. 
+## This website is a blog that is not blog
+The biggest question is what I wanted to achieve. 
 
 **Disclaimer**:  [[I don't think blogs broke the internet]], I think they were (and still are) one of the biggest digital breakthroughs. Just that the chronological idea of blogging is not for everyone, and certainly not for what I want to achieve in this specific corner of the internet.
