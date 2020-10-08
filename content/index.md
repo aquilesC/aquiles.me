@@ -1,7 +1,7 @@
 ---
 title: My Corner of the Internet
 description: This is the place where I think and learn in public. From science to technology and the world.
-keywords: Aquiles, learning in public, digital garden
+keywords: Aquiles, Carattino, learning in public, digital garden
 ---
 ## Welcome to my corner of the internet
 [[This website is not a blog]] in the traditional sense. It is my attempt at [[learning in public]], and building [[a healthier internet]]. You can learn more [[about me]], and the [[things I've done]].
@@ -9,7 +9,7 @@ keywords: Aquiles, learning in public, digital garden
 The only way to navigate through the website is by following links. These are some starting points that may be of interest:
 
 - [[After a Failure Revert to the Last Known Working State]]
-- Can you [[revert to the last known working state]] also in the real-life?
+- [[Simple explanation of an optimization algorithm]]
 - Do you want to learn [[How can a newsletter track you]]?
 - Or perhaps you want do discuss about the role of [[Democracy and algorithms]]?
 
