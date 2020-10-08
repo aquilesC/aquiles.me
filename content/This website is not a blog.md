@@ -4,7 +4,7 @@ description: What is the problem with blogs and why I think people should not ai
 keywords: blogging, online writing, content creation, digital garden
 ---
 # This Website is Not a Blog
-We came to understand blogs as chronologically-sorted pieces of information. And, although this works for many, it was not working for my personal space. I was searching for [[a new way of blogging]]. At that time, I crossed these words on a post called "My blog is not a blog":
+We came to understand blogs as chronologically-sorted pieces of information. And, although this works for many, it was not working for my personal space. [[I don't think blogs broke the internet]], but in any case I was searching for [[a new way of blogging]]. One day, I crossed these words on a post called "My blog is not a blog":
 
 <blockquote class="quoteback" darkmode="" data-title="%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog" data-author="" cite="https://joelhooks.com/digital-garden">
 The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
@@ -26,6 +26,9 @@ The distinction will come down to how you blog - some people blog in much the sa
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 ## This website is a blog that is not blog
-The biggest question is what I wanted to achieve. 
+What I want to achieve in this space is a curated access to information. I want to step-out of my comfort-zone and explore edge-cases in the hope of reaching and connecting with like-minded individuals. I am in the intersection between academic science, entrepreneurship, and as a hobby I am a web developer. This intrinsically opposite drives are hard to channel on one single outlet... Unless that outlet is designed to let the readers find what they want to find. 
 
-**Disclaimer**:  [[I don't think blogs broke the internet]], I think they were (and still are) one of the biggest digital breakthroughs. Just that the chronological idea of blogging is not for everyone, and certainly not for what I want to achieve in this specific corner of the internet.
+This website has a *blog* component. It is not a pure brain dump, a collection of linked notes. It has longer articles that will probably be featured on the homepage if I think they are worthy. There is no 'previous', no 'next', nor 'suggested articles'. The only way out of this note is by following a link to something you found interesting. 
+
+I am still struggling with the contradictory feelings of whether this is an attempt to [[Grow your online persona with smart performative blogging]], or it is purely a combination of [[Digital gardens and personal blogs]]. 
+

@@ -1,5 +1,5 @@
 ---
-title: About
+title: About this Website
 description: Writing but not blogging. What a brain dump means.
 ---
 
@@ -19,3 +19,7 @@ On the other hand, each page has a list of the pages linking back to it. And the
 
 I do not track which pages are viewed the most. It is not the point of the website. I don't want metrics to dictate what I write about. If you do find something interesting, you are always free to share or link back to it. Some ideas may get written down in the form of an article. I haven't decided yet if that will appear on this website or somewhere else. 
 
+<blockquote class="quoteback" darkmode="" data-title="About%20these%20notes%20%7C%20Work%20with%20the%20garage%20door%20up" data-author="" cite="https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">
+I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to <a href="https://notes.andymatuschak.org/z2DABWsGLkXcCuUet2scfD1duL1ZHBztwGKp" class="jsx-1555031696 " target="_blank" rel="noopener">Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds</a>. It’s also a way to avoid the problems described in <a href="https://notes.andymatuschak.org/zqG92bvaL58AWMeL97jXaRd1Dm6hsfGvhAn" class="jsx-1555031696 " target="_blank" rel="noopener">Pitching out corrupts within</a>.
+<footer><cite> <a href="https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
