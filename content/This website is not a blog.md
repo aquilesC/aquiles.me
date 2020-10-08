@@ -1,16 +1,30 @@
 ---
 title: This website is not a blog
 description: What is the problem with blogs and why I think people should not aim for one
+keywords: blogging, online writing, content creation, digital garden
 ---
-
 # This Website is Not a Blog
-I realized that *blogging* is a very time consuming task because it puts a lot of pressure on the person writing. One of the problems I faced was that I wanted articles to be complete, self-contained. That they portray the best of me. [[Python for the Lab]] is a good example of it. Articles are full tutorials, and normally people like them. However, writing each article takes me a lot of time, in the order of weeks sometimes, or a lot of hours during weekends. 
+We came to understand blogs as chronologically-sorted pieces of information. And, although this works for many, it was not working for my personal space. I was searching for [[a new way of blogging]]. At that time, I crossed these words on a post called "My blog is not a blog":
 
-At the same time, I was writing much more than what I was making public. I was also trying to document processes, and was taking notes on many different things. Some of those notes became articles, some never saw the light. I crossed the idea of a [[digital garden]] through [Ness Labs](https://www.nesslabs.com), and it felt like entering to a rabbit hole. I found out fantastic examples on how people make their notes public. Particularly, [Andy Matuschak](https://andymatuschak.org/) seems quite active in the field. 
+<blockquote class="quoteback" darkmode="" data-title="%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog" data-author="" cite="https://joelhooks.com/digital-garden">
+The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
+<footer> <cite><a href="https://joelhooks.com/digital-garden">https://joelhooks.com/digital-garden</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-## The Honesty Moment
-When I was going through those websites, I didn't feel at ease. This people spend a gigantic amount of hours writing and publishing. I also have a life, you know? It felt like I had to do more than what I was currently doing, and that anxiety is always an early indicator that there is something wrong with your way of thinking. 
+Although I knew what the idea of a [[digital garden]] was, I never considered it as an alternative for personal website. Most people I knew in that space are thought-workers. People whose main focus is to think about how to think. Such is the case of  [Ness Labs](https://www.nesslabs.com), or [Andy Matuschak](https://notes.andymatuschak.org/). Even though [[I like to think about stuff]], I don't focus on the *meta* part of thinking. 
 
-It took some time, but I realized there was something I liked about what I was seeing. Publishing online should not be exclusive for finished, self-contained work. Also, one should not be limited to only one aspect of their lives. I have many [[hobbies]], some without an overlap to each other. I have also a professional image to maintain, I am "the [[Python]] guy" in a lot of contexts. 
+## A Blog without a publish button
+This quote is a great way of describing what I am trying to achieve. Notes are there, evolve into articles, are linked. There's no change from draft to published. There's only a warning (sometimes) regarding its [[epistemic status]]. Tom Critchlow puts it very nicely:
 
-Therefore, a hyper-linked website, in which there is no index seemed the best approach. Random notes, short (or long), articles, that mutate over time while I revisit them. The me who writes today about [[Technology Transfer]] will not feel the same way in two years. 
+<blockquote class="quoteback" darkmode="" data-title="Building%20a%20digital%20garden" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/02/17/building-digital-garden/">
+The distinction will come down to how you blog - some people blog in much the same way. For me however blogging is mostly <em>performative thinking</em> and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
+<footer>@tomcritchlow <cite><a href="https://tomcritchlow.com/2019/02/17/building-digital-garden/">https://tomcritchlow.com/2019/02/17/building-digital-garden/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+For a very long time, dates on my posts had no specific relevance. They do not form a stream as what we are used to on social media, but a web of interconnected ideas. This is what I wanted to achieve. 
+
+I wanted to sit in between the two possibilities. Writing longer-form if I felt like it, or just some notes. You can learn [[how i built this website]] if you are technically curious. 
+
+**Disclaimer**:  [[I don't think blogs broke the internet]], I think they were (and still are) one of the biggest digital breakthroughs. Just that the chronological idea of blogging is not for everyone, and certainly not for what I want to achieve in this specific corner of the internet.
