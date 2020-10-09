@@ -1,34 +1,61 @@
+---
+title: Guide on how to open-source projects
+epistemic: This is work in progress. I am still exploring the challenges of organizing such a course
+---
 # Guide on how to open-source projects
-Skeleton of the topics to cover on a course on how to release [[Open Source]] projects. It is focused on researchers, scientists, and associated companies, such as [[Dispertech]]. 
+Label: [[work in progress]]
 
-Label: [[WIP]] ([[work in progress]])
+This is meant to be the central place of a future "How-To [[Open Source]]" course. The idea of this course was triggered after [[reviewing Hardware Control]] on JOSS.
 
-## Define objectives
-Every good course starts by defining learning objectives. What do I want people to be able to do after the course that couldn't be done before. 
-- [[Why would you learn how to open source projects]]? <- Question is why learning, not why open-sourcing
-- [[Common problems with open source projects]]
+## Define Target Audience
+The course will be tailored to researchers, scientists, and companies with scientific roots, such as [[Dispertech]]. 
 
-**What is the knowledge gap to be addressed?**
+## Objectives
+The reason why someone would follow this course. 
+
+### Actionable insights for someone who follows the course
+What will people be able to do/know after following the course that was not able to do before the course:
+
+- [[Avoiding common problems with open source projects]]
+- [[Practical checklist to open-source succesfully]]
+- [[Getting the code ready for publication]] (or as companion of a publication)
+
+### Knowledge gap to be addressed
+
+- [[Why would you open source]]? <- Important discussion for scientists
 - [[Risks and opportunities of open-source are misjudged]]
 - [[How to lay out a path to create a community around a project]]
-- [[Practical checklist to open-source succesfully]]
+- [[Standard patterns for open source projects]]
+
+## Personal Motivation
+
+- [[Why would you learn how to open source projects]]? <- Question is why learning, not why open-sourcing
 
 ## Structure Of the Course
-- What does it mean to open-source a project? <- Focus on scientific/research-based packages and tools. PyPylon, ODemis, Lantz, PyMeasure. Big ones like matplotlib? Numpy? Scipy? 
-    - Need to find examples of smaller packages with a following:
-        -  PyQtGraph, 
-        -  [[ADDA]] 
-        -  Astropy
-    - What about [[Open Hardware]]?
-        - [[U see 2]]
+
+- What does it mean to open-source a project?
+	Focus on [[Scientific open source]] packages and tools such as: 
+    - PyPylon, ODemis <- There's a company behind them
+    - ImageJ, CellProfiler <- Bigger projects, now well funded. Check their origins 
+- Examples of smaller packages with a following:
+    -  PyQtGraph, 
+    -  [[ADDA]] 
+    -  Astropy <- Often cited as example on [[Working in Public - Nadia Eghbal]]
+- What about [[Open Hardware]]?
+    - [[U see 2]]
+    - [[Prakash Lab]] has plenty of examples
+- Examples of non-open programs:
+    - Gadget (Astronomy)
+    - Probably epidemiologic modeling 
+    - I am sure there are plenty more, need to collect feedback
 - What is the goal of open-sourcing? <- You may have different goals!
     - Scientific reproducibility
     - Empowering a community
     - Gaining attention
-    - Lowering the maintenance burden
+    - Lowering the maintenance burden <- Is this true? Perhaps from a company perspective?
     - Marketing strategy around a product
     - [[Open source is a political act]]
-- Risks associated to open-sourcing
+- [[Risks associated with open-source]]
     - Researcher: Scooping of topics
     - Single(indie)-developer: Someone builds a product on your work
     - Company: Giving away resources to competitors
@@ -38,7 +65,7 @@ Every good course starts by defining learning objectives. What do I want people 
     - Github <- Where everyone hangs out
     - Gitlab <- Can be self-hosted, e.g. by a university or company
     - Bitbucket <- Is integrated with other tools that belong to Atlassian
-- This is not an introduction to Git! <- Can I assume people already know git?
+- This course is not an introduction to Git! <- Can I assume people already know git?
 - Readme! Create a description of the project, what it does, how it can be installed. Also, important, how to reach out! Screenshots!
 - Choosing a license: On what basis? Never lose track of the objectives you set up at the beginning. (In other words: [[Start with Why]] ;-)
 - Do you want people to contribute? <- Create contributor guidelines. If not sure, check other projects. 
@@ -46,11 +73,13 @@ Every good course starts by defining learning objectives. What do I want people 
     - The code
     - How to use the program <- Examples
     - How to extend it <- Examples?
-    - Self-hosted (and beautiful documentation) on ReadTheDocs
+    - Hosted (and beautiful documentation) on ReadTheDocs
 - More technical: Releases <- Zenodo!
 - Maintenance of the project: Master/Develop/Feature branch. Don't do all in master or people will get frustrated.
     - Pull requests?
-- How to create a community beyond the code
+- How to evaluate [[Development costs of open source software]]
+- How to evaluate [[Maintenance costs of open source projects]]
+- How to create and maintain a community beyond the code
     - Sync/Async communication
     - Respect
     - Foster inclusiveness
