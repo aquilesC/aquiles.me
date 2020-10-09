@@ -12,4 +12,4 @@ There are many resources in the world that are managed as a community, such as a
 
 Check also: Elinor Ostrom, Governing The Commons (1990)
 
-[^1]: [[Nadia Eghbal]] [[Working in Public]]
+[^1]: [[Working in Public - Nadia Eghbal]]

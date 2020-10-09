@@ -2,7 +2,7 @@
 
 ![Different types of projects](/IMG_20200924_080022.jpg)
 
-Going through [[Working in public]], I found an interesting notion about how different [[open source]] communities are structured: 
+Going through [[Working in Public - Nadia Eghbal]], I found an interesting notion about how different [[open source]] communities are structured: 
 - **Federations**: there a lot of users and a lot of contributors
 - **Clubs**: most users are also contributors
 - **Stadiums**: Few contributors and *many* users 

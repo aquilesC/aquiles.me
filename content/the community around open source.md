@@ -9,4 +9,4 @@ Several questions (some very hard to answer) arise, regarding [[the health of an
 
 
 
-[^1]: [[Nadia Eghbal]] [[Working in public]]
+[^1]: [[Working in Public - Nadia Eghbal]]

@@ -6,4 +6,4 @@ However, [[Nadia Eghbal]] argues[^1] that the convenience of easy-to-use tools s
 
 The question that remains is, therefore, what are the [[open source values]]? Do they change over time? 
 
-[^1]: [[Nadia Eghbal]], [[Working in Public]]
+[^1]: [[Working in Public - Nadia Eghbal]]

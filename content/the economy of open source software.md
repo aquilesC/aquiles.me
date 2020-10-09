@@ -7,4 +7,4 @@ A working idea is that firms are efficient because they have very low internal t
 
 However, over and over again, open source projects have shown that they are resilient and they managed to be a fundamental part of the world economy. Therefore, it may be that the value of these projects lays in [[the community around open source]], and not in the product itself. 
 
-[^1]: [[Nadia Eghbal]] [[working in public]]
+[^1]: [[Working in Public - Nadia Eghbal]]

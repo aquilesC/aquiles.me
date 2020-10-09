@@ -5,4 +5,4 @@ However, there is another side, associated with the *maintenance costs*. [[Devel
 
 [[Scientific open source]] projects are a clear example of what happens when incentives are removed. Releasing code is highly rewarded, but maintaining it is completely neglected by the community. After you release a package, there is no way you can justify allocating time for it unless it is tied to your own personal and career interests. 
 
-[^1]: [[Working in Public]] by [[Nadia Eghbal]]
+[^1]: [[Working in Public - Nadia Eghbal]]

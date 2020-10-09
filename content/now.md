@@ -11,4 +11,4 @@ keywords: now, working, projects
 - I am outlining a [[Guide on how to open-source projects]]
 - I am [[learning Javascript]], although slowly.
 - I am reading [[Start with why]] by [[Simon Sinek]]
-- I am reading [[Working in public]] by [[Nadia Eghbal]]
+- I am reading [[Working in Public - Nadia Eghbal]]
