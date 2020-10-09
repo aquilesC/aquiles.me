@@ -15,7 +15,7 @@ The phrase "digital garden" is a metaphor for thinking about writing and creatin
 Although I knew what the idea of a [[digital garden]] was, I never considered it as an alternative for personal website. Most people I knew in that space are thought-workers. People whose main focus is to think about how to think. Such is the case of  [Ness Labs](https://www.nesslabs.com), or [Andy Matuschak](https://notes.andymatuschak.org/). Even though [[I like to think about stuff]], I don't focus on the *meta* part of thinking. 
 
 ## A Blog without a publish button
-This quote is a great way of describing what I am trying to achieve. On the one hand, I have notes, perhaps [[evergreen notes]], that are built on links (see: [[why backlinks are the core of my digital garden]]). Thanks to these connections, some notes evolve into *articles*. There's no change from draft to published, just a difference in length, [[epistemic status]], or dominant position on the home page. 
+This quote is a great way of describing what I am trying to achieve. On the one hand, I have notes, perhaps [[evergreen notes]], that are built on links (see: [[backlinks are the core of my digital garden]]). Thanks to these connections, some notes evolve into *articles*. There's no change from draft to published, just a difference in length, [[epistemic status]], or dominant position on the home page. 
 
 Tom Critchlow puts it very nicely:
 

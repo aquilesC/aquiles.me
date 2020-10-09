@@ -32,7 +32,7 @@ I released the  [builder](https://github.com/aquilesC/static_website_builder) un
 ## Styling
 A different chapter is about how to make it look nice, I used [[TailwindCSS]], a great library, that has amazing video tutorials to quickly get started. The actual style for the website is stored on a separate file that later I use when rendering the pages. The process is a bit manual, separating the template from the notes, but in principle it is something that happens only once or rarely.
 
-I wanted to have links that are easy to follow, and therefore I opted to having a different underline color depending on whether they are internal or external links. I also wanted to give a predominant position to the backlinks (see: [[why backlinks are the core of my digital garden]]). Some things I've learned about TailwindCSS:
+I wanted to have links that are easy to follow, and therefore I opted to having a different underline color depending on whether they are internal or external links. I also wanted to give a predominant position to the backlinks (see: [[backlinks are the core of my digital garden]]). Some things I've learned about TailwindCSS:
 
 - [[How to setup gulp to minify the style file]]
 - [[How to make cool underlines for links with TailwindCSS]]
