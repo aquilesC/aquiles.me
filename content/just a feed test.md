@@ -8,3 +8,5 @@ topics: This, is, one, topic, testing
 Hopefully Feedly will get this and I will be able to see it on my [[rss feed]]! 
 
 What do you think? Is it a good idea to have a feed on a [[digital garden]]?
+
+And if I update, does it appear?
