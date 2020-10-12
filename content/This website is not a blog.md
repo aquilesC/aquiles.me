@@ -26,7 +26,7 @@ The distinction will come down to how you blog - some people blog in much the sa
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 ## This website is a blog that is not blog
-What I want to achieve in this space is a curated access to information. I want to step-out of my comfort-zone and explore edge-cases in the hope of reaching and connecting with like-minded individuals. I am in the intersection between academic science, entrepreneurship, and as a hobby I am a web developer. This intrinsically opposite drives are hard to channel on one single outlet... Unless that outlet is designed to let the readers find what they want to find. 
+What I want to achieve in this space is a curated access to information by [[breaking the chronological order]]. I want to step-out of my comfort-zone and explore edge-cases in the hope of reaching and connecting with like-minded individuals. I am in the intersection between academic science, entrepreneurship, and as a hobby I am a web developer. This intrinsically opposite drives are hard to channel on one single outlet... Unless that outlet is designed to let the readers find what they want to find. 
 
 This website has a *blog* component. It is not a pure brain dump, a collection of linked notes. It has longer articles that will probably be featured on the homepage if I think they are worthy. There is no 'previous', no 'next', nor 'suggested articles'. The only way out of this note is by following a link to something you found interesting. 
 
