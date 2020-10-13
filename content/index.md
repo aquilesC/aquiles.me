@@ -1,25 +1,24 @@
 ---
 title: My Corner of the Internet
 description: This is the place where I think and learn in public. From science to technology and the world.
-keywords: Aquiles, Carattino, learning in public, digital garden
+topics: Aquiles, Carattino, learning in public, digital garden
 ---
 ## My corner of the internet
-[[This website is not a blog]] in the traditional sense. It is my attempt at [[learning in public]], and building [[a healthier internet]]. You can learn more [[about me]], and the [[things I've done]].
 
-The only way to navigate through the website is by following links. These are some starting points that may be of interest:
+This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
 
 - [[After a Failure Revert to the Last Known Working State]]
 - [[There is more to data than what meets the eye]]
+- Notes on [[Working in Public - Nadia Eghbal]]
 - [[Simple explanation of an optimization algorithm]]
+- [[A new way of blogging]]
 - Do you want to learn [[How can a newsletter track you]]?
 - Or perhaps you want do discuss about the role of [[Democracy and algorithms]]?
+- This is a (partial) list of [[things I've done]]
 
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
 - [[Guide on how to open-source projects]] <- This is [[work in progress]]
 - [[Designing electronics]] is a joyful (and time consuming) task
-- I am thinking about the [[digital garden tos]], help me figure out how to behave in this space!
-
-## Terms of Digital Gardening
-Reading this website is a two-way commitment between the writer (me), and the reader (you). But [[digital garden TOS]] are not a standard for websites. What I write here is fluid, meaning that is prone to mistakes and changes of perspective. However, I mean what I write, just that every note has a different degree of confidence, regardless of how it sounds. I try to focus on the bigger arguments, but it is very well possible that you catch me following a fallacy. Just use [[the comments]], [[contact me]], engage in a fruitful discussion that can make us both better. 
+- I am thinking about the [[digital garden tos]] (terms of service), help me figure out how to behave in this space!
