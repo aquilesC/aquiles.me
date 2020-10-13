@@ -1,0 +1,47 @@
+---
+title: Notes about Working in Public - Nadia Eghbal
+description: Open-Source code has a crucial role in modern technology. Nadia Eghbal explores some of the modern concepts around this community, how it governs itself, and where it could be headed
+epistemic: I've read the book, have been following open-source projects and the community for several years already. I don't have meta-knowledge in the same way the book does
+topics: open source, software, github, commons
+---
+# Working in Public - Nadia Eghbal
+The book was released in 2020, and is a good starting point to analyze the global trend around open source projects. In the book, [[Nadia Eghbal]] tries to explore open source software through different lenses, tries to explore [[the economy of open source software]] using the knowledge from *the commons* (cites Olstrom more than once), and it extrapolates ideas arising from how we value public infrastructure. 
+
+The second part of the book is focused on less groundwork and more on practical aspects regarding the [[maintenance costs of open source projects]]. It gives plenty of examples regarding specific projects and how the developers manage the interaction with users. The book narrows down into the single aspect that is a bottleneck: the attention developers can pay to requests and contributions. 
+
+The book starts by giving a refreshing look at what [[open source]] has become. It rightly points out that [[open Source is not what it was]], many projects do not have political statements behind as they used to have in the past. This is reflected by the choice of permissive licenses such as MIT or BSD instead of GPL. It is a very interesting point that can also be looked from the perspective of [[choosing technology based on their incentives]]. 
+
+The book briefly discusses whether [[Is Github contradictory of open source values|Github is contradictory of open source values]] in the sense that it concentrates development and maintenance around a corporate-owned single-platform. But the author concludes the convenience and lower costs (Github is fundamentally free of charge) made developers go for the low effort approach even if they were reluctant at first. 
+
+One of the keys to success of Github, is related to the idea of a community. By having a tool with which other developers are familiar, the entry barrier is quite low. New contributions follow the same process in many different projects, effectively standardizing the workflow. On the other hand this destroy the idea of [[the commons]], since projects won't have clear boundaries any more. 
+
+The book also develops a framework to categorize [[Different types of open source projects based on community engagement]]. The author places all projects in one out of four categories: **Federations**, **Clubs**, **Stadiums**, and **Toys**. The key differences between them is the ratio between users and contributors. Federations have plenty of contributors and users, clubs are projects in which there is parity (i.e. most users are also contributors). Stadiums are projects with large following but few contributors and toy projects are those develop by a single person for personal use. 
+
+Based on the type of project, the roles and interactions of the people involved are going to be different. Something I haven't considered before is [[the interaction between Stackoverflow and Github]]. StackOverflow allows issues to be resolved without ever reaching the core contributors: sometimes users themselves answer questions to each other. This is something I have noticed myself, old questions about [[PyQtGraph]] are answered by [[Luke Campagnola]], while more recent ones are answered by a plethora of people. 
+
+The second part of the book focuses on exploring how the work of an open-source maintainer looks like. It builds directly on the groundwork of the first half. One of the first topics is how to measure [[the value of code]]. What the book argues is that there is no single measure to assign value to open-source software. Number of contributions/contributors is partial, number of other projects that depend on it does not show whether the code can be easily replaced by another or not, etc. 
+
+Besides value, there are costs associated with open-source. Even though the marginal costs are virtually zero for software that can be distributed online, there are also [[Maintenance costs of open source projects]] that relate to the time developers need to dedicate to the community. Depending on the users involved, some contributions can be [[extractive contributions]], meaning that the value the deliver to the project as a whole is lower than the value the whole gains. 
+
+The whole analysis is built on the presumption that the attention from developers is a limited resources that is rivalrous and non-excludable. For developers, therefore, [[lowering the maintenance burden of open source projects]] becomes a goal in itself, and to this end they start using automation methods such as bots, continuous integration, tests, templates, etc. 
+
+The final few chapters of the book are centered around the [[governance of open source]] projects. Developers can extract much less value from maintaining a project than from creating it. Therefore, there is not a lot of incentive to keep working on code that requires too much time. The notion of how much time and effort it requires to maintain a program, however, relates to how it is managed. Not all projects are collective efforts. Moreover, the book advances the idea of a **one way mirror** in which the discussion is public, but the ability to participate on it is limited. 
+
+Taking this into account, the book explores [[the role of money in open source]]. First, it explores why companies would pay for open-source, citing examples of increasing their public image, guaranteeing maintenance of critical infrastructure, or improving code quality. Developers who are not directly employed by those companies can leverage the need for attention in order to secure funding. 
+
+The final part of the book explores the possibility of individuals funding developers. This is very similar to what is defined as "[[the passion economy]]". People create tools because they enjoy it, because they gain reputation. There are many similarities between modern developers and influencers. The book ends with some open questions regarding what is the deliverable that a developer can provide to an individual founder in order to justify spending money. 
+
+## Things I missed in the book
+The book focuses on the most popular tools as defined by the visibility they have overall. That is why there are so many JavaScript examples and so few C examples. JavaScript (and other attached web technologies) really pushed the creation of softinfluencers, and the overall *dev* community, which is quite hard to find for other languages. Everyone wants to build a website, but very few people want to build cryptography software.[^1] 
+
+At some point the book discusses the Linus law, but it missed a very important example: the Heartbleed bug that affected OpenSSL. Software *is* part of our global infrastructure, and open-source has a crucial role in it. What the heartbleed meant is hard to wrap around in few sentences. I honestly expected a thorough discussion in the book. OpenShift, Apache, Nginx, different distributions of Linux, there are plenty of open-source programs at the base of the digital infrastructure and are used by companies raging from Amazon to Facebook, but they are never in the center of attention. 
+
+The book also lacks exploring the responsibilities that developers have when releasing code. When the book compares software to bridges, it misses the opportunity to discuss that if a bridge collapses, the engineer that signed the blueprints will be scrutinized. Open source software does not follow the same rules, and therefore what is delivered can be of dubious quality. 
+
+I regret that the book mentions projects such as matplotlib only in the last pages. Matplotlib, ImageJ, numpy, are projects that, at least in part, are financed by public money of different countries. Astropy, which is used as an example in the first chapters, is not revisited again as an example for funding. The Chang-Zuckerberg-Initiative has been funding open-source projects for a while. 
+
+I missed any kind of reflection on companies that work directly on open source software. For example, Red Hat and Open Suse are two examples of business competitors that contribute human hours to some overlapping projects. Anaconda is missing although it plays a central role in the numero-scientific community (academic and corporate). Android is based on Linux and open source but it operates in ways very different from what we expect from Ubuntu, for example. Their business models, contributions to society, and role in open source as a whole is, sadly, not discussed. 
+
+The final thing I wanted to reflect on is the poor gender balance of the examples chosen. I haven't tracked down every quote, but I ended up with the feeling that the book focuses almost exclusively on male-led projects. The programming world has never been a gender-diverse environment, but I had hopes that his book would
+
+[^1]: An extremely simple website, like this one, requires [more than 100 packages](https://github.com/aquilesC/static_website_builder/blob/master/templates/package-lock.json) to create the style. Who, in their own mind, things that JavaScript is the proper tool to work offline?
