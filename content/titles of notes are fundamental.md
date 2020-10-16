@@ -2,3 +2,6 @@
 My [[digital garden]] is built around [[evergreen notes]] that link to each other (see: [[backlinks are the core of my digital garden]]). I use inline-links with a simple markdown syntax: ``[[link]]`` becomes a link to a page titled *link* (which may or may not exist). The only way to create a link is therefore by remembering the title of the note, or by looking it up. Sometimes links are created to sentences, such as ``[[titles of notes are fundamental]]``, which is self-explanatory, but it may be that the title does not fit the context. 
 
 Titles should be able to summarize the content of the note in such a way that it can be embedded in a larger context (a full sentence or paragraph) and that it allows its discoverability when writing about seemingly un-related topics. Backlinks are of great help, because they may arise from notes written a long time ago, but it still requires some mental juggling to remember and update them. 
+
+## Notes without titles
+Even though I think note titles can form an API to access knowledge, sometimes thinking about a title to represent the note may create more friction. Sometimes I know **what** I want to write, but I am not sure how to describe it with a sentence. In that case I resort to time-based notes, such as ``[[202010160912]]``. These types of notes somehow represent the *zettels* of [[The Luhmann method]]. 
