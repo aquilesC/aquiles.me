@@ -1,0 +1,10 @@
+Our work method and environment must support our way of thinking. Ahrens[^1] justifies why [[The Luhmann method]] is so effective considering that it closely resembles our way of thinking and what he considers an universal way of working towards writing a paper (or any other non-fictional work). The idea of having *zettels* allows us to split the work into stages that resemble different stages of our attention span ([[202010161703]]). Having notes as those defined by Luhmann allow us to flow with our mind when needed, or to focus our attention, etc. 
+
+The same ideas can be extrapolated to other working environments, not necessarily writing and academic work can benefit from lowering the friction towards the work to be done. Many of the new management styles such as *scrum* are geared towards short meetings, lowering the attention span required from the attendees, etc. They also pile up on the idea of [[spaced repetition]], since they have short working timeframes with feedback sessions. 
+
+The question is, therefore, what patterns can be observed in different working environments that would point to high friction schemes. Many new management styles are rooted in software companies, but they may not be suitable for other types of enterprises. For example, a factory has a different workflow, or even in the development world, marketeers, human resources, infrastructure, of the same company may have very different needs. 
+
+If [[Switching contexts has a cost]], we could try to optimize the productivity of people by understanding how tasks are interleaved. 40 hours a week of creative work is almost unsustainable, but creative people are seldom depleted. They will resort to other hobbies after work (and perhaps working less than 40 hours a week). If there would be a way to empower those moments instead of blocking them, we could untap a new source of productivity. 
+
+
+[^1]: [[How to Take Smart Notes - Sönke Ahrens]]
