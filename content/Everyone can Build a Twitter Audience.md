@@ -4,7 +4,7 @@ description: Reflections on the course about building a Twitter Audience
 ---
 
 # Everyone can Build a Twitter Audience
-Keywords: #[twitter] #[[courses]]
+Keywords: #twitter #courses
 
 I bought the [course](https://gumroad.com/l/twitter-audience/indiehackers) because I felt into the vanity trap of wanting to have more followers on Twitter. It was too expensive (around 70U$) and, as expected, provided very little value. 7
 

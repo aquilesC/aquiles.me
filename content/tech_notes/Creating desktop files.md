@@ -1,5 +1,5 @@
 # Creating .desktop files
-**Keywords**: #[[linux]] #[[AppImage]]
+**Keywords**: #linux #AppImage
 
 This is a quick tutorial on how to create ``.desktop`` files for ``AppImage`` programs so that you can have a shortcut in the activities panel, can pin it to the sidebar, etc, on [[gnome]]-based computers. 
 

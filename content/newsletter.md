@@ -18,3 +18,7 @@ For the time being, this is the link to join:
 Not everything needs to move incredibly fast. An article worth reading a month ago should also be worth reading in a year from now. I will start with a monthly newsletter, sharing everything from [[podcast]], to [[videos]], to [[articles]] or [[books]] I've read. 
 
 Looking back, I can confidently say I am not good at keeping a newsletter going. Nor for [[Python for the Lab]], nor for this website. I completely lack consistency. One of the problems is not finding my audience yet. 
+
+inline #newsletter-long,
+
+#newnewsletter
