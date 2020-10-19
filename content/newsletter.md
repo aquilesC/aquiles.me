@@ -19,6 +19,4 @@ Not everything needs to move incredibly fast. An article worth reading a month a
 
 Looking back, I can confidently say I am not good at keeping a newsletter going. Nor for [[Python for the Lab]], nor for this website. I completely lack consistency. One of the problems is not finding my audience yet. 
 
-inline #newsletter-long,
-
-#newnewsletter
+tags: #newsletter, #long-newsletter
