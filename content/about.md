@@ -12,12 +12,12 @@ However, sometimes I would like to write about how I achieved something that may
 ## This website is a digital garden
 This website is meant to be a forever growing [[work in progress]] and is also known as a [[digital garden]]. Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, you can [[contact me]], [reach out to me on Twitter](https://www.twitter.com/aquicarattino) or through [[my e-mail]]. 
 
-### No indexes, no vanity tracking
+### No indexes
 The idea of breaking with the mold of a *blog* is that there are no indexes, no categories, no chronological ordering. The only way to navigate this website is by following [[links]]. Some are orange, some are blue. The orange ones are internal links; the blue ones bring you to other websites. 
 
 On the other hand, each page has a list of the pages linking back to it. And there shouldn't be dead links. If I make a link to an empty page, it will be created automatically. This allows to have nodes between pages, and the tree becomes apparent even without explicit content. 
 
-I do not track which pages are viewed the most. It is not the point of the website. I don't want metrics to dictate what I write about. If you do find something interesting, you are always free to share or link back to it. Some ideas may get written down in the form of an article. I haven't decided yet if that will appear on this website or somewhere else. 
+On **20 October 2020** I started monitoring website visits using my own tracking service called [[Privalytics]]. After reflecting for a while, I thought that measuring the amount of guests different pages receive can be a boost for the motivation. However, if I feel that traffic pushes me in one or the other direction regarding my thinking or my writing, I will stop the experiment. 
 
 <blockquote class="quoteback" darkmode="" data-title="About%20these%20notes%20%7C%20Work%20with%20the%20garage%20door%20up" data-author="" cite="https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">
 I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to <a href="https://notes.andymatuschak.org/z2DABWsGLkXcCuUet2scfD1duL1ZHBztwGKp" class="jsx-1555031696 " target="_blank" rel="noopener">Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds</a>. It’s also a way to avoid the problems described in <a href="https://notes.andymatuschak.org/zqG92bvaL58AWMeL97jXaRd1Dm6hsfGvhAn" class="jsx-1555031696 " target="_blank" rel="noopener">Pitching out corrupts within</a>.
