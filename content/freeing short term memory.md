@@ -1,0 +1,5 @@
+Ahrens[^1] argues that attention is not our only limited resource (see: [[lowering the maintenance burden of open source projects]]), but that our short-term memory is also limited. He cites a wealth of studies but specifically Zeigarnik, that reached the conclusion that open-tasks occupy our short-term memory until we complete them, and that we can trick our brains to think tasks are *done* by writing them down. This is known as the [[Zeigarnik effect]]. (See: [[bullet journaling]], [[get things donw]] ). 
+
+The biggest challenge with having things in the short-term memory is that we are not able to prioritize them, and therefore any task can jump to our mind at any moment (see: [[Switching contexts has a cost]]). If we free our mind from the non-important things for the task at hand, we can fully focus on what we want to achieve. We just prevent unwanted thoughts to reach our conscious mind, since they'll be safely offloaded to a paper somewhere else. 
+
+[^1]: [[How to Take Smart Notes - Sönke Ahrens]] chapter 9.5
