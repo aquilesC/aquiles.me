@@ -5,8 +5,10 @@ If you have a note numbered 22, and one numbered 23, you could slip a note betwe
 
 In this system, the placement of the notes is crucial to build knowledge. An index could point to the starting point, to make it easier finding where to place a note. 
 
-[[How can links replace the ordering of notes in a box?]]
+[[How can links replace the ordering of notes in a box]]?
 
 [[Luhmann notes are static]], can [[evergreen notes]] be a superseding tool?
 
 [^1]: [[How to Take Smart Notes - Sönke Ahrens]]
+
+Tags: #Zettelkasten #Luhmann-method #knowledge-management
