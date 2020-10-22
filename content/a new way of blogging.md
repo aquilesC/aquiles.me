@@ -6,17 +6,14 @@ epistemic: reflections with low consequences, based on input gathered from other
 # A New Way of Blogging
 I define a *blog* as any website that delivers value through written content from well defined authors. This means that Wikipedia is not a blog because its authors are not at the center, but [[newspapers are blogs]], as well as many personal websites. Therefore, discussing *how to blog* must consider the type of website that is behind. 
 
-For *personal websites*, such as this one, I do believe that the first objective one must have is to [[lower the barrier to writing]]. I focused for too long on how to manage content that forgot the most important aspect of having a personal website: push content out as often as I wanted, with as low friction as possible. In other words, I also wanted to [[lower the barrier to publishing]]. 
+I will focus on *personal websites*, such as this one. I do believe that for many people who ever considered having a blog, the first objective is to [[lower the barrier to writing]]. I focused for too long on how to manage content that forgot the most important aspect of having a personal website: push content out as often as I wanted, with as low friction as possible. In other words, I also wanted to [[lower the barrier to publishing]] (related: [[low friction working]]). 
 
-The idea of approaching a blog as a public [[digital garden]], seemed like a perfect fit for what I wanted to achieve. But gardening is only half the aspect of blogging, it relates to the writing, the content creation and curation but not to the publishing. In order to make the writings public, there must be an agreement between me and the readers. I am trying to summarize that agreement as [[digital garden tos]] (terms of service). 
+Once we agree that we actually want to write publicly, we have to [[ask why]] we are doing it. There are as many reasons to have a blog as people on the planet. A valid reason is as a marketing strategy to secure our next job (see: [[Grow your online persona with smart performative blogging]]), or perhaps we want to share our knowledge (see: [[Digital gardens and personal blogs]]), or we want to keep a temporal log of what we are doing, such as an online diary.
 
-## Digital Garden or New Type of Blog
-Even though I find very compelling the idea of a [[digital garden]] as a way of [[thinking better]], a garden is associated with the process of note-taking. This is great to get started, because I could focus on very short creative sprints. However, why would I limit myself to short notes instead of going for full-fledged articles and reflection? 
-
-When I asked myself [[what happens when notes become long]], I realized I didn't need to push them to a different corner of the internet. I could let them flourish where I feel confident. That's how this hybrid idea between both a garden and a blog came to me. I've seen people separating their notes from their articles, but I want to experiment having them intertwined. 
+The latter is what I consider the traditional way of blogging, in which each article is temporally organized after the previous one. Even though this approach may work for some, it was definitely not working for me, and hence, the need to define **a new way of blogging**. 
 
 ## Curation at the center of creation or breaking the chronological order
-Another idea normally associated to blogging is to keep the articles in a chronological order. This may be rooted into the origins of blogs, and the ideas permeated our social media channels and the way we interact with content online. 
+Keeping our articles in a chronological order may be rooted into the origins of blogs, where the idea was to have a log of the things we were doing and thinking at every moment. It is possible that the idea of a *stream* of information permeated into social media channels and the way we interact with content online. 
 
 <blockquote class="quoteback" darkmode="" data-title="How%20the%20Blog%20Broke%20the%20Web" data-author="@stackingbricks" cite="https://stackingthebricks.com/how-blogs-broke-the-web/">
 And the damn reverse chronology bias — <em>once called into creation, it hungers eternally</em> — sought its next victim. Myspace. Facebook. Twitter. Instagram. Pinterest, of all things.
@@ -24,7 +21,7 @@ And the damn reverse chronology bias — <em>once called into creation, it hunge
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-But it does not mean that all we do must be organized in the form of a log. If we are not a newspaper dealing with the most pressing issues of the day, we are free to [[breaking the chronological order]]. Ideas pop up at different stages, we create links between thoughts perhaps much after we have developed the original concepts. And the web is perfectly capable of dealing with these forms of organizing the contents.  
+But it does not mean that all we do must be organized in the form of a log. If we are not a newspaper dealing with the most pressing issues of the day, we are free to [[breaking the chronological order]]. Ideas pop up at different stages, we create links between thoughts perhaps much after we have developed the original concepts. And the web is perfectly capable of dealing with these forms of organizing content.  
 
 <blockquote class="quoteback" darkmode="" data-title="Building%20a%20digital%20garden" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/02/17/building-digital-garden/">
 The distinction will come down to how you blog - some people blog in much the same way. For me however blogging is mostly <em>performative thinking</em> and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
@@ -34,17 +31,40 @@ The distinction will come down to how you blog - some people blog in much the sa
 
 I believe that for websites such as this one, curation must be at the center of creation. Each link to another note is carefully decided. The home page shows some links to things I've written and am proud of, or half-baked ideas that I want to get out to discuss with people to understand them better. 
 
-## Without a publish button, then what? 
-I work with plain files. I write offline, and when the notes are saved they end up on the website. There is no 'private draft', no preview opportunity, no schedule for later. This is tightly related to the notion of [[learning in public]]. If you pay close attention, you could see how half-written articles progress to a full-fledged, hacker-news frontpage-worthy post. 
+Rarely on a blog we will write articles without any connection to what we have previously written. For example, I tend to think about the same group of topics over and over again, and sometimes feel like writing something. It is only natural to wish to link between articles, and in that process we may find outdated content that needs a revamp or a revisit. 
 
-However, I also believe this approach is not for everybody, and not all people can afford to be truly transparent about what they think when their business is at stake. Whenever I am about to save an article I must filter its contents. It does not mean I don't have my own biases, but somehow I must force myself to overcome them. I force myself to *think politely* instead of sanguinously. It is both good and bad, but I think it contributes towards making [[a healthier internet]]. 
+And that is one of the central principles of the **new way of blogging**, in which articles are not static pieces of content in the same way that Wikipedia's articles are not static but they improve over time. Some people like to refer to this ideas as a [[digital garden]], in which each article is regarded as a *note* that branches into others. Although I originally liked the idea, the more I reflect on it, the more confident I am that the two things are very distinct. 
 
-The idea of blogging without a "Publish Button" can both [[lower the barrier to writing]] and [[lower the barrier to publishing]]. It also means that articles and notes are not static, perennial, they can (and must) be periodically looked after, updated, improved, or even removed. That's why I've added the publish date, last edit date, and the total number of edits on each one of them (see: [[how do I define number of edits on notes]]). 
+## Digital Garden or New Type of Blog
+I first came across the idea of a [[digital garden]] as a way of learning to [[thinking better]]. I've read countless of articles associated with this approach. However, I do believe that the idea of a (public) digital garden is not for everyone, and therefore there must be a solution for those seeking to start blogging, but not necessarily to start [[learning in public]]. 
 
-There are no: "related articles" algorithmically created. I am not trying to [[Simple explanation of an optimization algorithm|optimize]] the time a user spends on my website. I am trying to optimize, though, the value someone can extract from these pages. The idea of having so many inter-connected notes is that each reader can follow their own path. You may start on this article and quickly diverge and start reading about *Democracy and Algorithms* (I intentionally don't put a link here, but there is a path of less than 4 clicks up to that note). 
+If we cut the noise around the principles of digital gardens, the core message is to have a website in which content can be discovered by following links. This, I believe, is the most powerful teaching we get. Once we start writing, new ideas will start branching out and it should be as easy as possible to develop them further without compartmentalizing ourselves in *articles*. 
+
+We don't need to publish half-baked ideas if we don't feel like it, but editing the content should be a part of maintaining a blog. That is way, sorting by latest article wouldn't make sense, simply because the latest may not be the best. What I normally do is to push whatever I write online, but the main page links only to the things I am more proud of. 
+
+## A Blog without a publish button
+One possible approach to blogging is how [[Tom Critchlow]] puts it:
+
+<blockquote class="quoteback" darkmode="" data-title="Building%20a%20digital%20garden" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/02/17/building-digital-garden/">
+The distinction will come down to how you blog - some people blog in much the same way. For me however blogging is mostly <em>performative thinking</em> and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
+<footer>@tomcritchlow <cite><a href="https://tomcritchlow.com/2019/02/17/building-digital-garden/">https://tomcritchlow.com/2019/02/17/building-digital-garden/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+For him, blogging and thinking go hand in hand. He uses what he publishes online as a way of sharing thoughts and letting them evolve over time. He is a consultant and, therefore, his job is *thinking*. In the process of sharing the content, he can grow a following and expose initial ideas to others. However, his main page is a chronological order of posts, and so is the homepage of [Stacking The Bricks]
+(https://stackingthebricks.com/), which I quoted earlier. 
+
+## Streams or Gardens
+Choosing a style of blogging will come down to deciding why we do what we do. You may want to push new content weekly because that's what your readership is expecting. You may be building a body of work that focuses not on novelty but on quality. You may be using the blog as a way of documenting a learning process: While [[Nadia Eghbal]] was writing the book [[Working in Public - Nadia Eghbal|Working in Public]], for example, she published several blog posts and discussed in podcasts. That was her way of sharing while building knowledge, building a following before releasing a book. 
+
+The most important thing to remember is that a blog is a personal space, and we are free to do whatever we want with them. We can have a home page with the latest posts, we can link to what we find more interesting. We may want to review articles periodically, to ensure that the entire website is consistent, or we may just produce new articles in a continuous stream because that is what gives us joy (or more exposure). 
+
+In any case, being aware of the choices is what gives us freedom. And if you have a bit of coding knowledge, that freedom is fundamentally limitless (see: [[how i built this website]]). 
 
 ## Where to next
-What I explored above is the path I've followed to achieve my goals. Mostly, writing more, publishing content online more often. I've managed to lower the friction a lot and I am happy with [[how i built this website]]. However, I understand that not everything what I believe and do can be extrapolated to other cases. See, for example:
+In the previous sections I've explored how can we blog in a new way, that may be better suited for people who don't care too much about the continuous stream. People who like to create links between thoughts, between articles, and like to keep a consistent body of knowledge. In my particular case, my focus was (and still is) writing more, publishing content online more often and expose my thoughts to other people and see whether they engage or not. 
+
+Of course, this is not functional to everyone, therefore I have also reflected on the following:
 
 - [[Digital gardens and personal blogs]]
 - [[Marketing blogs are not meant to be a digital garden]]
