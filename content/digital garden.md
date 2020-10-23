@@ -10,7 +10,7 @@ In the past few years there has been a movement towards different degrees of ope
 There are two aspects of digital gardening: the creation of knowledge and the dissemination of that knowledge. A *digital garden* can be private, which means that it only becomes a way of structuring notes in the long run. On the other hand, a garden can be made public (or at least partially public), and then can be regarded as a way of [[learning in public]], but it can also become [[a new way of blogging]].
 
 ## Knowledge Generation
-The idea of *tendering* a garden is relatively simple from a technical perspective: just write down [[notes]] with [[links]] to other notes. With enough time, the notes will start to form a graph of interconnected thoughts. 
+The idea of *tendering* a garden is relatively simple from a technical perspective: just write down notes with links to other notes. With enough time, the notes will start to form a graph of interconnected thoughts. 
 
 !!! image medium
 	![Graph of Notes of this website](/graph_of_my_notes.png)
@@ -57,11 +57,11 @@ These are not <a href="https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68
 If we put our own voice on each note (as opposed to quoting by copy/pasting), then the most part of the work is done. We can go from content consumers to content producers simply by putting thought and our context into what we write (see: [[hermeneutic circle]], [[lower the barrier to writing]]). 
 
 ## Gardens for Inspiration
-I have modeled this website on the following gardens, although not all have the same approach, nor are actually maintained:
+I have modeled this website on the following gardens, although not all have the same approach, nor are actively maintained:
 
 - [Notes](https://notes.andymatuschak.org/About_these_notes) by [[Andy Matuschak]]
 - [Mental Nodes](https://www.mentalnodes.com/) by [[Anne-Laure le Cunff]]
 - [Tom Critchlow](https://tomcritchlow.com/)
 - [Joel Hooks](https://joelhooks.com/)
 
-Tags: #digital-garden, #writing, #knowledge-management #knowledge-generation
+Tags: #digital-garden, #writing, #knowledge-management #knowledge-generation****
