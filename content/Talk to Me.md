@@ -1,14 +1,15 @@
 ---
 title: Talk to Me
-description: Book a timeslot to discuss about open-sourcing, entrepreneurship or science in general
+description: Book a time slot to discuss about open-sourcing, entrepreneurship or science in general
 ---
 # Talk to Me
 I am making myself available on Fridays afternoons (CET) to have a one-on-one chat if:
 
-- You are a scientist (Ph.D., Postdoc, Prof.) curious about entrepreneurship
-- You want to discuss about open-source software, how-to, why, when.
-
-If you identify yourself with one of the above, use the form (or [this link](https://calendly.com/aqui-carattino)) to schedule a meeting with me. 
+- You are a scientist (Ph.D., Postdoc, Prof.) curious about **entrepreneurship**
+- You want to discuss about **open-source software**, how-to, why, when. 
+- Want to discuss about the **career choices** for scientists, either before starting a Ph.D., or if you are considering moving out of academia
+ 
+If you identify yourself with one of the above, use the form (or [this link](https://calendly.com/aqui-carattino)) to schedule a meeting with me. If you don't identify with one of the topics but still want to reach out, see how to [[contact me]]. 
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/aqui-carattino" style="min-width:320px;height:630px;"></div>
