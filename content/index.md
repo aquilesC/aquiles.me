@@ -16,6 +16,9 @@ This website can be navigated only by following links. There are no "latest arti
 - Or perhaps you want do discuss about the role of [[Democracy and algorithms]]?
 - This is a (partial) list of [[things I've done]]
 
+## Talk to me
+If you are interested in open-sourcing your code, or if you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. I am making myself available on Friday afternoon to have 1-on-1 chats. 
+
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
