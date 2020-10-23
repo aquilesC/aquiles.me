@@ -60,7 +60,7 @@ If we put our own voice on each note (as opposed to quoting by copy/pasting), th
 I have modeled this website on the following gardens, although not all have the same approach, nor are actually maintained:
 
 - [Notes](https://notes.andymatuschak.org/About_these_notes) by [[Andy Matuschak]]
-- [Mental Nodes](https://www.mentalnodes.com/) by [[Anne-Laure le Cunff]] (Looks abandoned)
+- [Mental Nodes](https://www.mentalnodes.com/) by [[Anne-Laure le Cunff]]
 - [Tom Critchlow](https://tomcritchlow.com/)
 - [Joel Hooks](https://joelhooks.com/)
 
