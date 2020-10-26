@@ -13,6 +13,5 @@ The other benefit is that by having a lower background signal, we can observe sm
 
 The background is static, and therefore it can be easily subtracted ipso-facto. 
 
-In [[Faez2015]], three experiments were done, [[tracking polystyrene particles]] down to 19nm at 3.5kHz, tracking [[CCMV virions]], and measuring particle-particle interactions. 
+In @faez2015, three experiments were done: [[tracking polystyrene particles]] down to 19nm at 3.5kHz, tracking [[CCMV virions]], and measuring particle-particle interactions. In @fo2020 , they use hollow core fibers (not optical fibers) that are able to guide light in the channel and not just the evanescent field.  
 
-Reference: [[Faez2015]]

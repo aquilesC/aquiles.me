@@ -4,11 +4,9 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- I am deciding whether [[This website is not a blog]]
 - I am [[designing electronics]] and iterating on the device for [[Dispertech]]. 
 - I am reading about [[Brownian Diffusion]] in order to improve the methods for [[nanoparticle tracking analysis]] and measuring the [[size of nanoparticles]]
 - I am making [[video tutorials]] for [[Python for the Lab]]. 
 - I am outlining a [[Guide on how to open-source projects]]
 - I am [[learning Javascript]], although slowly.
-- I am reading [[Start with why]] by [[Simon Sinek]]
-- I am reading [[How to Take Smart Notes - Sönke Ahrens]]
+- I am reading [[Invisible Women - Caroline Criado Perez]]
