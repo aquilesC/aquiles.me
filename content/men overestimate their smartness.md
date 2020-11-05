@@ -2,6 +2,6 @@ Male-students of biology have higher self-concepts (@cooper2018) than female stu
 
 Can this be related to the [[brilliance bias]]? 
 
-![difference men women self-concepts](Pasted image 20201105101935.png)
+![difference men women self-concepts](/Pasted image 20201105101935.png)
 
 Tags: #active-learning #bias-in-education #gender-bias 
