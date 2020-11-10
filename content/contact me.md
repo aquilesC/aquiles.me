@@ -1,9 +1,9 @@
 # Contact Me
 There are many ways of reaching out to me, I will try to keep them updated:
 
-- Twitter: @aquicarattino
+- Twitter: [@aquicarattino](https://www.twitter.com/aquicarattino)
 - LinkedIn: aquic
-- [[my e-mail]]: hey@aquiles.me
+- [[my e-mail]]: [hey@aquiles.me](mailto:hey@aquiles.me)
 
 <form name="contact" method="POST" data-netlify="true">
 <p>
