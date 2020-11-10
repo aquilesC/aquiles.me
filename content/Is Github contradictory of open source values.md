@@ -6,4 +6,11 @@ However, [[Nadia Eghbal]] argues[^1] that the convenience of easy-to-use tools s
 
 The question that remains is, therefore, what are the [[open source values]]? Do they change over time? 
 
+Another interesting point is that Github does not take community suggestions. Developers had to create a repository within Github to complain and to suggest improvements. Is the governance of Github aligned with the interests of their users? 
+
+See:
+
+- [[Choosing technology based on their incentives]]
+- [[202011100855]]
+
 [^1]: [[Working in Public - Nadia Eghbal]]
