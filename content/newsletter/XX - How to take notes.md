@@ -1,0 +1,8 @@
+The book "How to take smart notes" by Sönke Ahrens is a great starting point for anyone who is planning to make a living out of writing. However, most people's work involve other types of ambitions and nonetheless taking notes is equally important. I won't make a review of the book here, but wanted to discuss the importance of taking notes and how to be effective at it. 
+
+In Ahrens' book, it is emphasized that the method he describes mimics the way in which the human brain works, by capturing fleeing thoughts and storing them long-term until we need to retrieve them again. The book describes a method that works well if you are trying to build knowledge. However, it is not everyone's objective, and even for people in the knowledge industry, it is not the only thing they have to do. 
+
+In the eyes of Ahrens, and even of [Tiago Forte](https://fortelabs.co/blog/how-to-take-smart-notes/), taking notes is exclusive to those creating content, either in the for of a blog, a book, or a scientific article. But I disagree. Taking notes is something useful for any type of industry and for people doing any type of job. And therefore the methods, names, and workflow must be adapted to work in general. 
+
+## Input for Notes
+The first thing we must find out is what is the input that triggers us to take a note. For some people it may be what they read, but for others it may be what they hear in a training. 
