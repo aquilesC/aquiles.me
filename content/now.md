@@ -4,9 +4,9 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- I am [[designing electronics]] and iterating on the device for [[Dispertech]]. 
 - I am reading about [[Brownian Diffusion]] in order to improve the methods for [[nanoparticle tracking analysis]] and measuring the [[size of nanoparticles]]
+- I am developing [[what are algorithms|algorithms]] to improve the tracking and linking of nanoparticles in [[hollow optical fibers]]
 - I am making [[video tutorials]] for [[Python for the Lab]]. 
 - I am outlining a [[Guide on how to open-source projects]]
-- I am [[learning Javascript]], although slowly.
-- I am reading [[Invisible Women - Caroline Criado Perez]]
+- I am reading [[Tres Truenos - Marina Closs]]
+- I am designing [[Online version of Python for the Lab]]
