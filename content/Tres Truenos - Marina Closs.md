@@ -15,4 +15,3 @@ Demut tiene una gran sensibilidad por la música y la naturaleza. Pasa horas baj
 
 La historia está ambientada en las colonias alemanas del noreste de Argentina, donde tengo entendido que casos de incesto son frecuentes, fundamentalmente por ser comunidades muy cerradas (o por haberlo sido). Sin embargo en este caso se trata de un incesto preexistente. Ajeno a las cuestiones morales, la historia presenta un amor prohibido, en este caso por una relación sanguínea entre los amantes, pero que podría haber sido cualquier otra. 
 
-

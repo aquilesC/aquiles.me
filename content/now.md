@@ -8,5 +8,5 @@ keywords: now, working, projects
 - I am developing [[what are algorithms|algorithms]] to improve the tracking and linking of nanoparticles in [[hollow optical fibers]]
 - I am making [[video tutorials]] for [[Python for the Lab]]. 
 - I am outlining a [[Guide on how to open-source projects]]
-- I am reading [[Tres Truenos - Marina Closs]]
+- I am reading [[The Future we Choose - Christiana Figueres and Tom Rivett-Carnac]]
 - I am designing [[Online version of Python for the Lab]]
