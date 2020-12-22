@@ -11,3 +11,5 @@ Health will improve because of less pollution the air, and the extra money becau
 An interesting point is **regarding food**. The authors claim that food will become more expensive. Meat will virtually not consumed and protein will be sourced from plants. People will be incentivised to produce their own food because of the higher costs. 
 
 Sadly, the authors do not mention at all inequality in this chapter. Higher food costs, and access to technology to produce it will likely be not spread through the world. Especially on denser cities around the world this can become a bottleneck, imposed by higher transport costs imposed by wealthier countries. 
+
+Something I liked in the chapter is this notion of a cooperative future. People will need to come together to collect rain water in their neighborhoods, to tender gardens for food, etc. Not sure how easy it is to materialize, considering the unequal access to space in different cities. 
