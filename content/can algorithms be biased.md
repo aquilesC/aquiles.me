@@ -1,0 +1,1 @@
+I have seen many discussions regarding whether algorithms can be biased or they are *pure* mathematical formulations beyond human reproach. What most people lack to acknowledge is that algorithms are, above all, human creations and therefore subject to all our prejudices. Secondly, algorithms despite what *guru's* try to make us believe are nothing more than sets of rules.  
