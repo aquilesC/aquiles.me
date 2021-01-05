@@ -15,3 +15,11 @@ This section focuses on fake news and how non-scientific statements can quickly 
 ### 4. See yourself as a citizen
 
 This action refer mostly to fight consumism. They argue that by choosing products that better align with what we expect from the world, we can have a big impact. Instead of buying clothes meant to be used for weeks, we could spend more money and buy clothes meant to last years (see: [[Choosing technology based on their incentives]]). They briefly cover ideas such as dematerializing (for instance using streaming instead of buying a CD or DVD), or using Uber instead of buying a car. They also mention that we could re-define what we expect of a good life. What do we really need to *have* in order to be happy, and what are we lead to believe we must possess.
+
+### 5. Move beyond fossil fuels
+
+This topic repeats in several parts, and is associated with different actions. Particularly in this section, the authors use some companies that are moving to green energy as their main source. They also briefly discuss that pension funds should start moving away from investment in fossil fuels. The biggest challenge is that fossil fuels are entrenched in politics, economy, and the society. We must let go (action 1) and envision a structurally different future (action 2). 
+
+### 6. Reforest the Earth
+
+The authors point to the need of planting trees. So far, the best solution for capturing and storing carbon are trees. They claim that if we would recover the lost trees, it would be possible to recapture all the carbon that was emitted since the onset of the industrial revolution. They also mention the importance of protecting the trees that are already in place. They use the section to cover an important issue: a very large percentage of the food we produce is used to feed animals. This is highly inefficient, and therefore the more plant-base diet can reach great lengths. 
