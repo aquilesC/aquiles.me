@@ -23,3 +23,24 @@ This topic repeats in several parts, and is associated with different actions. P
 ### 6. Reforest the Earth
 
 The authors point to the need of planting trees. So far, the best solution for capturing and storing carbon are trees. They claim that if we would recover the lost trees, it would be possible to recapture all the carbon that was emitted since the onset of the industrial revolution. They also mention the importance of protecting the trees that are already in place. They use the section to cover an important issue: a very large percentage of the food we produce is used to feed animals. This is highly inefficient, and therefore the more plant-base diet can reach great lengths. 
+
+### 7. Invest in a clean economy
+
+I have read these arguments many times in the past. The only way we can change energy production is if we actually spend money in new sources. They authors use as an example the Norwegian sovereign fund, that pledged to invest in solar and wind. Sadly, the authors miss acknowledging where does the money of the fund come from. They mention retirement investment funds, for example, as one of the tools people have to make a change. 
+
+The authors also discuss about endless growth, but they abandon the point half-baked. They don't explore what it means, especially for developing economies. Growth is linked to finances. Without growth, economic models for investment funds would simply not work. However, the authors don't discuss anything about responsible growth, or what they envision for the future.  
+
+### 8. Use technology responsibly
+Technology can be a key to overcome the challenges of climate change, but we can't blindly trust on a miraculous solution. The authors discuss about artificial intelligence as one of the enablers for finding solutions to climate change. If a machine can teach itself to play go, then it should be possible to teach itself how to solve the climate crisis. 
+
+However, these technologies must be regulated to avoid abuse from power groups. They also briefly discuss job loss in the hands of automation and how it'll impact lower income countries. I find it contradictory to what they mention at the beginning of the book, regarding farming in cities or 3D printing as a way of not shipping goods around the world. 
+
+### 9. Build gender equality
+The authors use some data showing that when women are in charge, the policies tend to be longer term and climate action becomes central to the discussion. They claim that it is a matter of women *sensitivities* that make them apt leaders to change the world. They use the prime minister of New Zealand as an example of someone who cares about human well being of their citizens and not just economical well being. 
+
+What the authors do not mention (not even once) is that including women in leadership positions is not a matter of *sensititivies* but of representation. They are half the population of the world, and many companies make decisions that impact directly on them without even having a woman in their ranking officers. Dictatorial CEO's, like Zuckerberg, are men, and their decisions impact women without taking them into account. 
+
+Women are the obvious representation problem because they are half the population. However, any minority in a society should be represented. It is sad that the authors do not discuss this at all. Gender serves *a* purpose to the authors, but this is, I believe, the wrong optics. Gender equality should not be passed because that would guarantee my own agenda, it should be aimed to because it is *fair*. 
+
+### 10. Engage in politics
+The authors use examples of activists such as Greta Thunberg as how one can engage in politics. It is not only a matter of voting, it is also about actively participating in the political choices. These also include the choices that happen even within each person's working environment. You are free to question the decisions made by management regarding sustainability, etc. 
