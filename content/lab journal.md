@@ -5,7 +5,7 @@ epistemic: Have been maintaining lab journals for more than 10 years
 ---
 # Lab Journal
 
-A lab journal (also called a lab notebook) is a central piece in proper scientific working. However, it is likely that many students graduate from university without having a proper working approach to how to maintain a lab journal. On the other side, many supervisors do not discuss about journaling with their mentees until it is too late and bad habits have already formed. 
+A lab journal (also called a lab notebook) is a central piece in proper scientific working. However, it is likely that many students graduate from university without having a working approach to how to maintain a lab journal. On the other side, many supervisors do not discuss about journaling with their mentees until it is too late and bad habits have already formed. 
 
 Part of the problem is that lab journals during the studies are meant to be used for a semester at most, while professional lab journals are to be used during years or even decades. 
 
