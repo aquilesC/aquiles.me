@@ -22,7 +22,7 @@ This topic repeats in several parts, and is associated with different actions. P
 
 ### 6. Reforest the Earth
 
-The authors point to the need of planting trees. So far, the best solution for capturing and storing carbon are trees. They claim that if we would recover the lost trees, it would be possible to recapture all the carbon that was emitted since the onset of the industrial revolution. They also mention the importance of protecting the trees that are already in place. They use the section to cover an important issue: a very large percentage of the food we produce is used to feed animals. This is highly inefficient, and therefore the more plant-base diet can reach great lengths. 
+The authors point to the need of planting trees. So far, the best solution for capturing and storing carbon are trees. They claim that if we would recover the lost trees, it would be possible to recapture all the carbon that was emitted since the onset of the industrial revolution. They also mention the importance of protecting the trees that are already in place. They use the section to cover an important issue: a very large percentage of the food we produce is used to feed animals. This is highly inefficient, and therefore a more plant-based diet can reach great lengths. 
 
 ### 7. Invest in a clean economy
 
