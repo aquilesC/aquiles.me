@@ -4,7 +4,7 @@ description: Discussion of the limitations of current tracking technology, inclu
 ---
 
 # Limitations of Nanoparticle Tracking Analysis
-[[Nanoparticle tracking analysis]] relies on following a particle over time and determining its size from its motion (see: [[difference between detection and tracking of nanoparticles]]). 
+[[Nanoparticle tracking analysis]] relies on following a particle over time and determining its size from its motion (see: [[difference between detection and tracking of nanoparticles]] and [[Sources of error in measuring Brownian Motion]]).
 
 The first limit to the analysis is that the accuracy is related to the number of frames during which the same particle can be localized, and the localization accuracy of each particle. 
 
@@ -39,5 +39,6 @@ I am not sure about what [[Particle Metrix]] software looks like, but the softwa
 
 I understand that many researchers don't want to deal with specific values, and they just want to click a button saying "high sensitivity" or "low sensitivity", but it really looks like they are doing a disservice to science by hiding away the true values. Without even counting the [[nanosight proprietary software update]] that included the [[Walker algorithm]] and some "calibration". 
 
+References: @faez2015 @thane2019
 
-References: [[Faez2015]], [[Thane2019]]
+Tags: #nta #nanoparticle-tracking-analysis #limitations-hollow-optical-fibers
