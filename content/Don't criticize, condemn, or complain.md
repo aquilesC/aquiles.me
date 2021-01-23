@@ -8,5 +8,7 @@ Instead of criticizing someone actions, we can start by putting ourselves on the
 
 With people is the same. We should start by **not criticizing, condemning, nor complaining**. If we do, the other person can hold a grudge for very long. If we have to work with, or see that other person every day, then the consequences can be dire.
 
+Note on [[The Leader in You - Dale Carnegie]]
+
 
 Tags: #literature-note, #2021, #books

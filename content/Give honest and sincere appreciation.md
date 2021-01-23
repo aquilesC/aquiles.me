@@ -14,4 +14,6 @@ Carnegie also points out the difference between flattery and appreciation. The f
 
 He also mentions that we should try to start showing gratitude in our daily lives, to the chef of the restaurant where we enjoyed a meal, to the bus driver. I think this is something that appears many times in examples of [[bullet journaling]], which forces you, at least, to think about what to be grateful, even if not sharing it with others. 
 
+Note on [[The Leader in You - Dale Carnegie]]
+
 Tags: #literature-note #2021 #reading
