@@ -30,3 +30,4 @@ In The Netherlands, [[NWO]] has a scheme called [[Take off grant]], that starts 
 ## What to read
 I am looking for reports, books, papers that tackle the issue of technology transfer in different countries. Which policies lead to what results. 
 
+Tags: #technology-transfer #academia #education #value-generation
