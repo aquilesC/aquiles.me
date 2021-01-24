@@ -23,3 +23,4 @@ The most powerful thing I've learned is that the best we can do is become the ow
 
 Managers can empower this behavior in the people they lead. Sometimes we push down rules and methods without actively thinking why we are doing it. Hearing what people have to say is the simplest way of improving the working environment. Perhaps the tools we chose are not the tools people 
 
+Tags: #WIP #newsletter 
