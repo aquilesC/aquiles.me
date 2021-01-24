@@ -83,3 +83,6 @@ What will people be able to do/know after following the course that was not able
     - Sync/Async communication
     - Respect
     - Foster inclusiveness
+
+
+Tags: #WIP #Open-Source
