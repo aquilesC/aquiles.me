@@ -16,7 +16,7 @@ Comments directly on pages increase the workload through moderation and maintena
 I have been exploring [[webmentions]] as a path to distribute the commenting system. With webmentions each page, anywhere on the Internet, becomes a potential source of comments to any other page. Even though this is tempting, it is also very prone to abuses (mentions can't be moderated). Giving visibility to mentions on websites automatically always has an inherent risk. Webmentions have many merits, I just don't think they are the proper tool for *comments* themselves. 
 
 ## Utterances are not the way to go
-I have implemented [utterances](https://www.utteranc.es) as a commenting system. However, it is not the proper way to go. Comments are stored as issues on Github, which means that:
+I have implemented [utterances](https://www.utteranc.es) as a commenting system. However, it is not the proper way to go. Comments are stored as issues on [[Github]], which means that:
 
 1. Whoever is writing must be a Github user
 2. I'm platform-locked with Github
@@ -28,3 +28,5 @@ However, leveraging [[git as a commenting platform]] may not be a bad idea. With
 
 ## Or Just don't Care
 Even though I believe in a long-term approach by using technologies I fully own, with standards that are likely to be compatible with future technologies, comments may be just transient snippets not worth storing for the long run. [Gwern](https://www.gwern.net/About#anonymous-feedback) and I share many of the general concerns regarding how to write online for the long haul, but he actually implements Disqus. 
+
+Tags: #git #comments #commenting-system #discussions-website

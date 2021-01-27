@@ -17,3 +17,5 @@ I don't see a clear path out of this besides limiting contributions to a group o
 Also, an extractive contribution may be only the first contribution of a new developer, and therefore spending the time to introduce them to the inner workings of the project may pay off in the long run. 
 
 The question is, therefore, how do we judge the value of the contribution and the value added/extracted (see: [[the value of code]]). If the project is somehow seen as a community empowering endeavor, being receptive of new contributions may be required (like having a teacher answering questions instead of dismissing them). But not all projects need to be like this. 
+
+Tags: #literature-note #Open-Source #community-building #software

@@ -4,3 +4,5 @@ It is possible to use plain text files, versioned through git as a commenting pl
 In any case, both services store the comment information as plain text files, which would make the comments durable over time and transparent. 
 
 **Note**: Commie uses the combination of IP/Browser/E-mail to validate user's identity and allow for comment edits and publish without verification. [[Django-comments]] uses a similar approach (comments are sent by e-mail encoded with base64 to prevent hitting the database before verification). 
+
+Tags: #git #commenting-system #discussions-website 

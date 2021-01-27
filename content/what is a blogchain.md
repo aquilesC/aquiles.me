@@ -11,4 +11,4 @@ A blogchain is longform by other means. Containerized longform if you like. A th
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Thinking in blogchains may both help to [[lower the barrier to writing]], and develop into [[a new way of blogging]]. However, the examples I've seen up to now, such as [Tom Critchlow's](https://tomcritchlow.com/blogchains/) seem more in the direction of grouping together posts based on a theme than building a long form article based on containers. 
+Thinking in #blogchains may both help to [[lower the barrier to writing]], and develop into [[a new way of blogging]]. However, the examples I've seen up to now, such as [Tom Critchlow's](https://tomcritchlow.com/blogchains/) seem more in the direction of grouping together posts based on a theme than building a long form article based on containers. 

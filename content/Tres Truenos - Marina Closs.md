@@ -34,3 +34,5 @@ Comparada con las otras dos historias, la última es, de alguna manera, menos or
 El libro Tres Truenos es corto, y cada una de las historias es fácil de leer de una sentada. Son tres personajes femeninas, cada una aborda algún ángulo de la sexualidad de manera diferente. Desde el incesto hasta el amor verdadero, el libro intenta pintar un pantallazo de cómo una dada realidad puede ser vivida desde una perspectiva femenina. Ese es el punto que le da valor al libro, romper con el molde de un punto de visión único y masculino. 
 
 Por otro lado, el estilo de las primeras dos historias es demasiado similar y puede cansar un poco. El tercer cuento busca otro acercamiento, pero se queda un poco corto con respecto a los otros dos. Fue un libro interesante para descubrir y para agregar a la lista de escritoras argentinas contemporáneas. Pero los cuentos no me parecieron particularmente brillantes como para recomendarlo en general. 
+
+Tags: #reading #2020 #literature-argentina

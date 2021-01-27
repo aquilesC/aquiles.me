@@ -61,10 +61,10 @@ What will people be able to do/know after following the course that was not able
     - Company: Giving away resources to competitors
 - The question: Do benefits outweigh the risks? 
     - Or how do we mitigate the risks? <- Topic for later, since this is more technical
-- Choosing the tools to open-source: Git has eaten the world. 3 options:
-    - Github <- Where everyone hangs out
-    - Gitlab <- Can be self-hosted, e.g. by a university or company
-    - Bitbucket <- Is integrated with other tools that belong to Atlassian
+- Choosing the tools to open-source: #git has eaten the world. 3 options:
+    - [[Github]] <- Where everyone hangs out
+    - [[Gitlab]] <- Can be self-hosted, e.g. by a university or company
+    - [[Bitbucket]] <- Is integrated with other tools that belong to Atlassian
 - This course is not an introduction to Git! <- Can I assume people already know git?
 - Readme! Create a description of the project, what it does, how it can be installed. Also, important, how to reach out! Screenshots!
 - Choosing a license: On what basis? Never lose track of the objectives you set up at the beginning. (In other words: [[Start with Why]] ;-)
