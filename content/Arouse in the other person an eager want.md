@@ -6,8 +6,6 @@ The rest of the chapter focuses on separating what *we* want from what the *othe
 
 The book cites some examples of letters sent to and from companies and how they could have been re-written to create a higher impact and lower the barrier at convincing the other. One of the examples is about a shipping company that needs trucks to arrive earlier to prevent a bottleneck. Instead, they can explain that trucks arriving earlier is a benefit to the other person because there'll be less dead time overall. 
 
-
-
 Note on [[The Leader in You - Dale Carnegie]]
 
 Tags: #literature-note #2021 #reading #sales

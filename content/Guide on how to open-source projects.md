@@ -85,4 +85,4 @@ What will people be able to do/know after following the course that was not able
     - Foster inclusiveness
 
 
-Tags: #WIP #Open-Source
+Tags: #WIP #Open-Source #courses

@@ -28,6 +28,5 @@ Topics: [[extracelluar vesicle]], [[fluorescent labeling of extracellular vesicl
 - Quantification of protein expression on single-EV's. 
 - Purification is highly dependent on methods. Even depleting EV's from plasma gives some EV's while measuring (sometimes like the depletion didn't work at all)
 - Concentrations of EV's vary wildly depending on method for purification. 
-- 
 
 https://www.youtube.com/watch?v=jLjyjPqXRO4
