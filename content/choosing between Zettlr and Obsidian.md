@@ -3,24 +3,30 @@ title: Choosing between Zettlr and Obsidian
 description: Tools that look similar on the surface can have a great difference in impact on your productivity
 ---
 # Choosing Between Zettlr and Obsidian
-When I decided to start this [[digital garden]], I had to look around for the tools I felt confident using. I fell for [[roam research]], and liked their approach, but didn't like the fact that it is a [[subscription-based product]], plus I had several concerns about the [[privacy]] of my data. At that moment I found [Zettlr](https://www.zettlr.com/), and started using it.
+When I decided to start this [[digital garden]], I had to look around for the tools I felt confident using. I tried [[roam research]], and liked their approach. However, I didn't like that it is a [[subscription-based product]], plus I had several concerns about the [[user privacy online|privacy]] of my data. 
 
-I really like the [[open source]] nature of the project, that its author is very vocal about what he is trying to accomplish. However, I found it too geared towards academic publishing. It has a great way of dealing with bibliography, and it renders markdown beautifully. However, I was not looking for a markdown editor, I was looking for a note-taking program. 
+I have very specific requirements for the programs I use to take notes:
 
-Serendipity brought me to [Obsidian](https://obsidian.md/), which defines itself as:
->Obsidian is a powerful knowledge base that works on top of
-a local folder of plain text Markdown files. 
+- Files should be stored locally
+- In a format that guarantees long-term compatibility, such as Markdown
+- Interface should not be in the way
+- Should support easy linking (such a as wikilinks)
+- No need for including many figures
+- Some support for equations 
+- Some support for references
 
-It works on plain markdown files makes, therefore it is interchangeable with Zettlr. I have to acknowledge that it has a very low friction to get started, and does not focus that much on rendering and keeping a bibliography record. It lacks some features such as multi-lingual support, but it really helped me getting started. Just a blank screen, my thoughts and a keyboard. 
+Now, I left the last two points to the end because I don't use those features every day, but I do require them once in a while. 
 
-The biggest question, as always, is [[choosing the proper tool for the job]]. If you only want to take notes, [[Obsidian]] is great. Quick to get started, bi-directional linking, uncluttered interface. **BUT** is not open-source, which is a very big limiting factor (see: [[Choosing technology based on their incentives]]). [[Zettlr]], on the other hand, is a great tool for more complex projects beyond note-taking. You can confidently write an entire book on it, your thesis or your research papers. It is open source, and it has an interesting community around it. 
+I have explored many different programs, and none reaches to the level of either [Zettlr](https://www.zettlr.com/) or [Obsidian](https://obsidian.md/). But they are different to each other and that is what I wanted to discuss. 
 
-I briefly explored other options but, to be honest, nothing even reaches the bare-minimum of what I wanted for a writing tool:
+First, [[Zettlr]] is [[open source]] and I believe in [[choosing technology based on their incentives]]. I have actually used parts of the code of Zettlr to understand how to parse markdown and render this very website. [[Obsidian]] is not open source and probably will never be. 
 
-- markdown based
-- local storage
-- low friction
-- [[daily notes]]
-- [[Zettelkasten notes]]
+In any case, they both store files locally, work with markdown and the interface is clean. Obsidian is more minimalistic than Zettlr. They both support quick links with the wikilink format, although Zettlr offers a bit more of configuration on how they look like (adding text, referencing by title, etc.) Obsidian offers bidirectional links, and a network graph to see how notes are linked to each other. It may sound like a minor feature, but it is great to quickly find orphan notes, or put several together. 
 
-What I am missing, overall, are template-based notes, i.e. that I can start a note with a predefined template. Support for more complex linking, such as being able to use ``@`` to refer to a person. Compiling *to-do's*, *to-reads*, etc. Being able to centralized notes to easier exchange between [[daily notes]] and my [[digital garden]]. 
+Up to this point, my favorite to use on a daily basis is Obsidian. Zettlr employs too many resources into making the presentation of the markdown files. It offers to export to different formats, and more. However, I am not interested in those features and it somehow permeates to the interface. I find searching through notes easier on Obsidian, and simply writing has a [[lower the barrier to writing|lower barrier]]. Zettlr calls itself a markdown editor, and that was not what I was after. 
+
+But, there is a big but. Zettlr is geared towards academic work. Which means it bundles some very nice features: it renders equations written in LaTeX, and it handles bibliographic databases straight out of [[Zotero]]. This is not included in Obsidian (and probably it'll never be, since their target customers are elsewhere). 
+
+I've reached a compromise: I take *most* notes using Obsidian. Because it feels quick, unintrusive. But if I need to take literature notes (such as [[Sources of error in measuring Brownian Motion|this one]]) that require more equations and proper handling of citations, I use Zettlr directly. 
+
+It is not ideal, but the end result is convenient. 
