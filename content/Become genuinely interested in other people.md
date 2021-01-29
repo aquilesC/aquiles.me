@@ -4,6 +4,6 @@ There are other examples, for example for a writer. He states that in order to c
 
 Examples of politicians that remembered people’s stories and backgrounds, and that showed interest in their lives. 
 
-> [Interest] must pay off not only for the person showing it, but for the person receiving the attention.
+> Interest must pay off not only for the person showing it, but for the person receiving the attention.
 
-Tags: #reading #management #2021 #literature-note
+Tags: #reading #management #2021 #literature-note #management-books #sales-books 
