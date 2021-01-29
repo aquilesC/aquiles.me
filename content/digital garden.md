@@ -5,39 +5,21 @@ keywords: Digital Gardening, writing, blogging
 epistemic: I have been giving deep thoughts to the concept, but they are still initial considerations
 ---
 # Digital Gardening
-In the past few years there has been a movement towards different degrees of openness online. In her book, [[Working in Public - Nadia Eghbal|Working in Public]], Nadia Eghbal explores how people decide to build software tools in the open. In the same line, [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) decided to make public his thinking process. 
+In the past few years there has been a movement towards different degrees of openness online. In her book, [[Working in Public - Nadia Eghbal|Working in Public]], Nadia Eghbal explores how people decide to build software tools in the open. In the same line, [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) decided to make public his *thinking* process by publishing his notes, even if not in a final form. 
 
-There are two aspects of digital gardening: the creation of knowledge and the dissemination of that knowledge. A *digital garden* can be private, which means that it only becomes a way of structuring notes in the long run. On the other hand, a garden can be made public (or at least partially public), and then can be regarded as a way of [[learning in public]], but it can also become [[a new way of blogging]].
+There are two aspects of digital gardening: the creation of knowledge and the dissemination of that knowledge. N.B.: I am talking about knowledge and not *content*. A *digital garden* can be private, which means that it only becomes a way of structuring notes in the long run. On the other hand, a garden can be made public, or partially public, and then it becomes a way of [[learning in public]], but it can also become [[a new way of blogging]].
+
+I became intrigued by the two intersecting worlds of generating content and [[better thinking]]. Taking notes is a discipline, that can be harvested if there is a reward associated with he practice (see: [[are rewards useful to build a habit]]). In the case of making the notes public, the reward comes in the form of a body of work that people can find useful, or in the worst case helps me build my online persona (see: [[Grow your online persona with smart performative blogging]]). 
+
+Digital gardens have different moments, aspects, use cases, and approaches:
+
+- [[Structure of a digital garden]]
+- [[Tendering a digital garden]]
+- [[Digital Gardens for Knowledge Generation]]
+- [[Digital Gardens for Content Creation]]
 
 ## Knowledge Generation
-The idea of *tendering* a garden is relatively simple from a technical perspective: just write down notes with links to other notes. With enough time, the notes will start to form a graph of interconnected thoughts. 
 
-!!! image medium
-	![Graph of Notes of this website](/graph_of_my_notes.png)
-
-Each note is a seed, that has to potential to develop branches. At the same time, each branch is a seed itself, and therefore the garden becomes a graph. But, **gardening sounds better than graphing**. 
-
-To make the best of the notes that we take there are different approaches. [[The Luhmann method]] of note-taking has a very well defined structure, including transient notes, literature notes, and permanent notes. However, the digital medium allows a much more flexible approach if we know how to build our own tools. One of the possibilities is the use of [[backlinks are the core of my digital garden|backlinks]]. This idea alone enables one to explore possibilities way beyond what Luhmann himself imagined. 
-
-On the other hand, while the [[Zettelkasten method]] may be very useful for people trying to build new knowledge, publish books or papers, it may become too convoluted for people writing online. For instance, the sources of *literature notes* are very diverse and harder to reference properly. 
-
-<blockquote class="quoteback" darkmode="" data-title="Archiving%20URLs" data-author="Gwern Branwen" cite="https://www.gwern.net/Archiving-URLs">
-Links on the Internet last forever or a year, whichever comes first. This is a major problem for anyone serious about writing with good references, as link rot will cripple several percent of all links each year, and compounding.
-<footer>Gwern Branwen <cite><a href="https://www.gwern.net/Archiving-URLs">https://www.gwern.net/Archiving-URLs</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-Blogs, news articles, podcasts, they all build an interconnected network of sources that are very valuable for anybody creating content online. [Gwern](https://www.gwern.net/Archiving-URLs) has a very sophisticated approach, in which he actually stores each page he links to in order to make his website self-contained.  
-
-<blockquote class="quoteback" darkmode="" data-title="Archiving%20URLs" data-author="Gwern Branwen" cite="https://www.gwern.net/Archiving-URLs">
-I need backups not just for my files, but for the web pages I read and use—they’re all part of my exomind. It’s not much good to have an extensive essay on some topic where half the links are dead and the reader can neither verify my claims nor get context for my claims.
-<footer>Gwern Branwen <cite><a href="https://www.gwern.net/Archiving-URLs">https://www.gwern.net/Archiving-URLs</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-But we can work at different degrees of technical complexity depending on what we want to achieve and we don't need to start right away with such a sophisticated tool-chain. 
-
-The most important aspect to a garden is, therefore, the idea of tendering it. We should have a system that makes it easy to review notes, update them, delete them. Digital notes are easy to revisit, to find, to extend. However, when we don't need to keep our thoughts short, it can become a double-sided sword. 
 
 ## Gardening in Public
 Two of the examples I mentioned above are of people who decided to [[learning in public]]. Both the [notes](https://notes.andymatuschak.org/About_these_notes) of Andy Matuschak, or [Gwern](https://www.gwern.net)'s website evolve over time. Some of their thoughts are more stable than others, but you can see the entire process happening. 
