@@ -1,0 +1,5 @@
+It is possible that to fully understand Inca cosmology (or any other system to understand reality) we should develop a completely new ontology [@j.mckimmalville2010] in order to understand why and how Inca’s built different [[huacas]]. The idea is that if Inca’s view sacred places a living organisms, and they removed the duality of live/dead (see: [[cartesian dualism]]), then we can see shrines as actual powerful not only places, but actual beings. 
+
+In this light, Cusco is actually protected by a belt of huacas that connect to the inner seats of power. This places had running water as a symbolism for a living organism. Although, I believe using the word *symbolism* is imposing an etnohistoric interpretation that may not be correct. From the perspective that a huaca is an actual living organism, running water may be of vital importance for its survival, in pretty much the same way blood keeps animals alive. 
+
+Follow up reading: [@bray2009]

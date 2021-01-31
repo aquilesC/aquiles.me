@@ -1,0 +1,1 @@
+The sun is in the zenith when it is directly above one's location (see: [[20210124123522]]). The anti-zenith is when the sun is directly below one's location. They are about 6-months apart from each other. In tropical regions, the earth passes the zenith twice per year. 
