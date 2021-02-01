@@ -4,7 +4,7 @@ Dale Carnegie, in [@carnegie2010], suggests that the only way of getting someone
 
 This is somehow similar to the argument of [[Start with why - Simon Sinek]], in which brands lead us to believe we want something that goes beyond the product itself. 
 
-The feeling of importance is what makes billionaires donate money or somehow contribute with things that do not make directly their personal fortunes. 
+The feeling of importance is what makes billionaires donate money or somehow contribute with things that do not constitute their personal fortunes directly. 
 
 This is a quote from Schwab:
 
