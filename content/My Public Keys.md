@@ -1,1 +1,2 @@
-![[disper.pub]]
+- [[Dispertech E-mail Public Key]]
+- [[Python for the Lab Public Key]]
