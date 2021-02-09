@@ -7,6 +7,7 @@ topics: Aquiles, Carattino, learning in public, digital garden
 
 This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
 
+- [[Notes on How to Take Smart Notes]] by Sönke Ahrens
 - [[After a Failure Revert to the Last Known Working State]]
 - [[There is more to data than what meets the eye]]
 - Notes on [[Working in Public - Nadia Eghbal]]
@@ -22,6 +23,7 @@ If you are interested in open-sourcing your code, or if you are a scientist inte
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
+- I am writing a guide on [[digital garden|Digital Gardens]], perhaps a short book?
 - [[Guide on how to open-source projects]] <- This is [[work in progress]]
 - [[Designing electronics]] is a joyful (and time consuming) task
 - I am thinking about the [[digital garden tos]] (terms of service), help me figure out how to behave in this space!
