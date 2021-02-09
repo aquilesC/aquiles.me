@@ -3,6 +3,7 @@ title: Digital Garden
 description: I want to see how far along I can keep track of my own thoughts and their connections
 keywords: Digital Gardening, writing, blogging
 epistemic: I have been giving deep thoughts to the concept, but they are still initial considerations
+status: draft
 ---
 # Digital Gardening
 In the past few years there has been a movement towards different degrees of openness online. In her book, [[Working in Public - Nadia Eghbal|Working in Public]], Nadia Eghbal explores how people decide to build software tools in the open. In the same line, [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) decided to make public his *thinking* process by publishing his notes, even if not in a final form. 

@@ -6,3 +6,5 @@ In any case, I trust you know how to proceed, and that you already know my e-mai
 - [[Python for the Lab E-mail Public Key]]
 
 You can download it directly from those links, together with some instructions on how to behave in case e-mails are not signed, or you suspect my account could have been compromised. 
+
+If in doubt, check alternatives ways to [[contact me]]
