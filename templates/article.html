@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 {% block main %}
     <div class="w-full"><a class="text-4xl font-head" href="https://www.aquiles.me">Aquiles.me</a></div>
-    <div class="mt-5 w-full px-4 md:mx-auto lg:max-w-screen-lg xl:max-w-screen-xl">
-        <div class="mb-12 bg-gray-100 text-gray-800 shadow-lg p-1 md:rounded lg:p-4">
+    <div class="mt-5 w-full md:px-4 md:mx-auto md:max-w-screen-md">
+        <div class="mb-12 bg-white text-gray-900 shadow md:p-1 md:rounded lg:p-4">
             {% block content %}
                 {% if content %}
                     <div class="md:flex">
                         <article class="h-entry px-4">
-                            <h1 class="p-name mb-2">{{ title }}</h1>
+                            <h1 class="p-name font-head leading-tight break-tight mb-2">{{ title }}</h1>
                             <div class="flex text-xs">
                                 <div class="mx-2">
                                     <svg class="h-4 w-4 inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
@@ -61,7 +61,7 @@
                                         <strong>draft</strong>. It is not in its final form.</p></div>
                                 </div>
                             {% endif %}
-                            <div class="e-content mt-6 md:text-xl lg:text-2xl">
+                            <div class="e-content mt-6 text-sm md:text-xl">
                                 {{ content }}
                             </div>
                             <div class="p-author h-card flex mt-4 md:mt-12 border-solid border-t-4 border-teal-400">
