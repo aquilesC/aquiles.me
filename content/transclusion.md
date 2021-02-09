@@ -1,10 +1,11 @@
 ---
 title: Transclusion
 description: Transclusions involve embedding and linking content of different origins on the same visual landscape. A webpage could be composed using various sources, and be used as a source
+epistemic: Very early initial considerations. Couldn't yet find a working example of building on transclusions
 ---
 Transclusion in the digital domain is the possibility of embedding and linking content in order to build a dialog between parts. For example, embedding a tweet, or a video, is a form of transclusion. However, I can't embed parts of a web page in order to compose a new one. 
 
-In my mind, I can't think about transclussion without thinking about Cortázar's book: Último Round.
+In my mind, I can't think about transclusion without thinking about Cortázar's book: Último Round.
 
 Maggie Appleton[^1] discusses transclusions in a very similar way to how [[Web Mentions and Comments|webmentions]] work. I wonder if she was aware of the standard when she wrote the note. She quickly identifies the caveats associated with embedding content of others, mainly of link rot, but also of moderation nightmares. 
 
