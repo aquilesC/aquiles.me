@@ -16,5 +16,8 @@ These are notes on [@carnegie2010]:
 ## Part 3: How to win people to your way of thinking
 - [[The only way to get the best of an argument is to avoid it]]
 - [[Show respect for the other person's opinions. Never say You're wrong]]
+- [[If you are wrong, admit it quickly and emphatically]]
+- [[Begin in a friendly way]]
+- Get the other person saying yes, yes, immediately
 
 Tags: #literature-notes #2021 #reading
