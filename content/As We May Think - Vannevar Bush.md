@@ -28,6 +28,8 @@ Bush is explicitly talking about the act of collecting information. This is radi
 
 The last part of the essay focuses on the topic that is discussed more often in other places: **thinking by association**. We built our understanding not by a continuous stream of ideas (see: [[the garden or the stream]]) but by linking inputs together. Therefore, the tools we use have to support this process (see: [[low friction working]]). 
 
-Vannervar Bush imagines a tool that is able to give the reader the ability to link different sources and to be able to navigate these links in a seamless way. Not too different to what we call *hyperlinks* today, but with the gigantic difference that is the *reader* making the links, not the author. 
+Vannevar Bush imagines a tool that is able to give the reader the ability to link different sources and to be able to navigate these links in a seamless way. Not too different to what we call *hyperlinks* today, but with the gigantic difference that is the *reader* making the links, not the author. 
+
+Related: [[Scientific publishing is the largest experiment on backlinking we have access to]]
 
 Keywords: #knowledge-management #essays #reading #2021
