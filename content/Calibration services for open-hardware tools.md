@@ -1,0 +1,3 @@
+[@pearce2017] argues that a possible business model for [[Open Hardware]] is to offer calibration services. For example, even if the design of a tool is open, there can still be value in certifying its accuracy. Non-open processes, trademarks, etc. all build into this direction. Even if the device can be cloned, one still keeps the key of the certification. 
+
+This practice is not exclusive of open hardware, though. See: [[How Phillips protected IP by not outsourcing key manufacturing components]]

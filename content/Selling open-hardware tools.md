@@ -1,0 +1,3 @@
+Without doubts, the easiest model to generate revenue is to sell a product. [[Open hardware]] is no exception, and [@pearce2017] suggests it as a possible way of generating income. However, I find that the paper focuses too much in cutting costs. I wonder if costs are related to lower quality, not factoring in development, or violating royalties that more established companies have to pay. 
+
+The examples [@pearce2017] cites are from the electronics world, in which there is a clear advantage in: being first to market, scale, and commoditized manufacturing processes (PnP machines, etc.)
