@@ -18,6 +18,13 @@ These are notes on [@carnegie2010]:
 - [[Show respect for the other person's opinions. Never say You're wrong]]
 - [[If you are wrong, admit it quickly and emphatically]]
 - [[Begin in a friendly way]]
-- Get the other person saying yes, yes, immediately
+- [[Get the other person saying yes, yes, immediately]]
+- [[Let the other person do a great deal of the talking]]
+- [[Let the other person feel that the idea is his or hers]]
+- [[Try honestly to see things from the other person's point of view]]
+- Be sympathetic with the other person's ideas and desires
+- Appeal to the nobler motives
+- Dramatize your ideas
+- Throw down a challenge
 
 Tags: #literature-notes #2021 #reading
