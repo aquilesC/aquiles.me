@@ -9,4 +9,5 @@ keywords: now, working, projects
 - I am making [[video tutorials]] for [[Python for the Lab]]. 
 - I am outlining a [[Guide on how to open-source projects]]
 - I am reading [[The Leader in You - Dale Carnegie]]
+- I am reading [[Catalytic Experiences - Hamid Ghanadan]]
 - I am designing [[Online version of Python for the Lab]]
