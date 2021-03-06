@@ -22,8 +22,8 @@ These are notes on [@carnegie2010]:
 - [[Let the other person do a great deal of the talking]]
 - [[Let the other person feel that the idea is his or hers]]
 - [[Try honestly to see things from the other person's point of view]]
-- Be sympathetic with the other person's ideas and desires
-- Appeal to the nobler motives
+- [[Be sympathetic with the other person's ideas and desires]]
+- [[Appeal to the nobler motives]]
 - Dramatize your ideas
 - Throw down a challenge
 
