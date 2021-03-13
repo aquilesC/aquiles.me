@@ -1,0 +1,1 @@
+Compared to [[the traditional marketing funnel]], social media allows marketing campaigns to reach unprecedented levels of targeting. The idea is that the first few stages of outbound, lead generation, content, and promotion can all be handled by the automation tools provided by social media platforms [@ghanadan2016]. 

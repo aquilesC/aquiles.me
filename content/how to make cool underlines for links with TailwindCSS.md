@@ -53,6 +53,6 @@ Using a background image as an underline requires slightly more tuning but allow
 
 We use the ``@layer base`` to create a global style that will be applied to all the ``a`` tags. The rest is CSS code to create a linear gradient that goes from orange, to yellow to transparent, from bottom to top. The result would like in the image below:
 
-![](fancy_underline.png)
+![How does a fancy underline looks like](fancy_underline.png)
 
 So, if you see those fancy underlines and want to create them with Tailwind, you know now where to start!
