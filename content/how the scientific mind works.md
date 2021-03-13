@@ -1,4 +1,4 @@
-![How the scientific mind works](framework_content_centric_model.png)
+![How the scientific mind works](/images/framework_content_centric_model.png)
 
 Most people describe the scientific method as a play between hypothesis and validation. However, this neglects the emotional dimensions of the human mind at play, such as those involved in creativity and filtering[@ghanadan2016]. Therefore, from a marketing perspective, we can address the different aspects of the path with different types of content. 
 

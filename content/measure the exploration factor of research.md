@@ -7,6 +7,6 @@ They call this the "edge factor" and could be complimentary to the "impact facto
 The authors of [@bhattacharya2020] describe a possible method, also using machine learning, to identify papers that have a high novelty even though this may not be reflected in the number of citations. 
 
 !!! image medium
-    ![Novelty and impact in pub med publications](/Screenshot 2021-02-23 at 20.38.06.png)
+    ![Novelty and impact in pub med publications](/images//Screenshot 2021-02-23 at 20.38.06.png)
     
 The idea (shown in the plot above) is that there is a correlation between novelty and number of citations, but by adding another dimension to measuring output, it is possible to justify funding research that not necessarily belong to the Region 1 (i.e. high-impact research.)
