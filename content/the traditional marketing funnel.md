@@ -1,2 +1,2 @@
-![[./images/traditional_marketing_funnel.png]]
+![](./images/traditional_marketing_funnel.png)
 
