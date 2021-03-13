@@ -1,5 +1,3 @@
-These are notes on [@carnegie2010]:
-
 ## Part 1: Fundamental Techniques in Handling People
 - [[Don't criticize, condemn, or complain]]
 - [[Give honest and sincere appreciation]]
@@ -24,7 +22,20 @@ These are notes on [@carnegie2010]:
 - [[Try honestly to see things from the other person's point of view]]
 - [[Be sympathetic with the other person's ideas and desires]]
 - [[Appeal to the nobler motives]]
-- Dramatize your ideas
-- Throw down a challenge
+- [[Dramatize your ideas]]
+- [[Throw down a challenge]]
+
+## Part 4: Be a leader
+- [[Begin with praise and honest appreciation]]
+- Call attention to people's mistakes indirectly
+- Talk about your own mistakes before criticizing the other person
+- Ask questions instead of giving direct orders
+- Let the other person save face
+- Praise the slightest improvement and praise every improvement. Be hearty in your approbation and lavish in your praise. 
+- Give the other person a fine reputation to live up to
+- Use encouragement. Make the fault seem easy to correct
+- Make the other person happy about doing the thing you suggest
+- 
+Literature notes on [@carnegie2010]
 
 Tags: #literature-notes #2021 #reading

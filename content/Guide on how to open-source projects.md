@@ -1,10 +1,9 @@
 ---
 title: Guide on how to open-source projects
 epistemic: This is work in progress. I am still exploring the challenges of organizing such a course
+status: draft
 ---
 # Guide on how to open-source projects
-Label: [[work in progress]]
-
 This is meant to be the central place of a future "How-To [[Open Source]]" course. The idea of this course was triggered after [[reviewing Hardware Control]] on JOSS.
 
 ## Define Target Audience
@@ -84,5 +83,4 @@ What will people be able to do/know after following the course that was not able
     - Respect
     - Foster inclusiveness
 
-
-Tags: #WIP #Open-Source #courses
+Tags:  #Open-Source #courses
