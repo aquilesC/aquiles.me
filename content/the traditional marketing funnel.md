@@ -1,4 +1,4 @@
-![](./images/traditional_marketing_funnel.png)
+![Traditional marketing funnel](/images/traditional_marketing_funnel.png)
 
 > Other than at trade shows, where people make direct inquiries, leads are typically gathered as a result of a call-to-action on the company's website or on a discrete landing page, in exchange for something. [@ghanadan2016]
 

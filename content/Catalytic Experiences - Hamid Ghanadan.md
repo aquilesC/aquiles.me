@@ -1,5 +1,7 @@
 This book is a write up of the experience of Hamid Ghanadan working on marketing for large pharmaceutical companies that mostly target researchers and clinicians for customers. 
 
+![Catalytic Experiences Hamid Ghanadan Book Cover](/images/Catalytic+Experiences+Book+Linus+Hamid+Ghanadan.png)
+
 ## How people consume information
 The first thing the book discusses is that [[Scientists are shifting their attention from traditional to social media]]. Everyone is exposed to an increasing number of stimuli and must filter what is relevant from what is not. Traditional channels (such as cold-emailing) are failing. Trade show attendance is declining. Social media, on the other hand is on the rise, also for scientists. 
 
@@ -12,7 +14,14 @@ In the *digital era* the idea of a funnel is completely mistaken. All the tradit
 
 Appropriately, the title of the book [[catalytic experiences]] reflects what a customer should experience through their decision journey and must be fueled by a company's generated content. The catalysis of the customer's journey is better explored in the follow section. 
 
+## Content-centric marketing model in context
+In order to be able to engage with an audience, such as scientists, the first step is to understand its way of thinking. Specifically, one can look at [[how the scientific mind works]] and understand how to engage with it at different stages of recognition, exploration, and evaluation. 
+
+In the [[content centric model of marketing]], there are three types of content that relate to the different stages mentioned above: leadership, educational, persuasive. This flow also overlaps to [[the golden circle]], in which each stage is naturally descriptive of a why, how, or what. It seems that this is like a good match between both the Apple-world described in [[Start with Why - Simon Sinek]] and the scientific world. 
+
 
 
 
 - Literature notes on [@ghanadan2016]
+
+Tags: #scientific-marketing 
