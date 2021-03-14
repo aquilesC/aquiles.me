@@ -1,3 +1,7 @@
+---
+title: Digital gardens for knowledge generation
+status: draft
+---
 To make the best of the notes that we take there are different approaches. [[The Luhmann method]] of note-taking has a very well defined structure, including [[transient notes]], [[literature notes]], and [[permanent notes]]. However, the digital medium allows a much more flexible approach. For example, we can use [[backlinks are the core of my digital garden|backlinks]], which is knowing not only where a link goes to, but also how a certain note can be reached. This idea alone enables us to explore possibilities way beyond what Luhmann himself imagined. 
 
 !!! image medium

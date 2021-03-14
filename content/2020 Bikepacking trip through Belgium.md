@@ -4,7 +4,7 @@ description: Stages and information of our first bikepacking trip through Belgiu
 ---
 # 2020 Bikepacking trip through Belgium
 
-The 12 of August 2020 we started a [[bikepacking]] trip through [[Belgium]]. We had **one reason**: Taking some days off, maintaining a [[Covid19]]-safe approach. The only **real goal** was to arrive to [[La Roche en Ardennes]] by the 14 of August, since we had a standing reservation. We had no specific destinations, nor time constraints. We did an 18-day trip:
+The 12 of August 2020 we started a [[bikepacking]] trip through Belgium. We had **one reason**: Taking some days off, maintaining a [[Covid19]]-safe approach. The only **real goal** was to arrive to [[La Roche en Ardennes]] by the 14 of August, since we had a standing reservation. We had no specific destinations, nor time constraints. We did an 18-day trip:
 
 - Day 1: Sittard to Maastricht
 - Day 2: Maastricht to Esneux

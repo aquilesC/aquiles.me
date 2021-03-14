@@ -1,7 +1,3 @@
----
-title: Carbon Tax
-description: Is purely monetary strategy such as adding a carbon tax enough to fight climate change?
----
 # Carbon Tax
 One way of changing the behavior of humans is by forcing changes in the price of things. If you have access to the same thing at two different prices, you probably will opt for the cheaper one. Adding tariffs is a way in which countries can push consumers towards local products instead of imported ones[^1]. 
 
@@ -16,3 +12,5 @@ One can think of a country adding tariffs to imports based on their carbon impac
 
 [^1]: https://www.npr.org/2020/08/05/899393029/summer-school-5-trade-santa
 [^2]: https://www.npr.org/2020/07/28/896308345/summer-school-4-pistachios-scarcity
+
+Tags: #climate-change #economics #climate-and-economics

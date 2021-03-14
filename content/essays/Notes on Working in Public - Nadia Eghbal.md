@@ -4,7 +4,8 @@ description: Open-Source code has a crucial role in modern technology. Nadia Egh
 epistemic: I've read the book, have been following open-source projects and the community for several years already. I don't have meta-knowledge in the same way the book does
 topics: open source, software, github, commons
 ---
-# Working in Public - Nadia Eghbal
+# Notes on Working in Public - Nadia Eghbal
+
 ## Short Summary
 The book was released in 2020, and is a good starting point to analyze the global trend around [[open source]] projects. In the book, [[Nadia Eghbal]] tries to explore open source software through different lenses, she explores [[the economy of open source software]] using the knowledge from *the commons* (cites Elinor Ostrom more than once), and it extrapolates ideas arising from how we value public infrastructure. 
 

@@ -1,6 +1,6 @@
-A very interesting topic discussed in [[Working in Public - Nadia Eghbal]] is that there may be contributions to [[open source]] projects that are extractive. This means that the time and resources needed to deal with the contribution have a higher value than the one derived from the contribution itself. 
+Some contributions to [[open source]] projects can are extractive[@eghbal2020]. This means that the time and resources needed to deal with the contribution have a higher value than the one derived from the contribution itself. 
 
-This is what [[hacktoberfest]] has made evident:
+This is what hacktoberfest has made evident:
 
 <blockquote class="quoteback" darkmode="" data-title="DigitalOcean's%20Hacktoberfest%20is%20Hurting%20Open%20Source" data-author="" cite="https://blog.domenic.me/hacktoberfest/">
 And each of them requires maintainer time to visit the pull request page, evaluate its

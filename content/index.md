@@ -7,14 +7,13 @@ topics: Aquiles, Carattino, learning in public, digital garden
 
 This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
 
-- [[Notes on How to Take Smart Notes]] by Sönke Ahrens
-- [[After a Failure Revert to the Last Known Working State]]
-- [[There is more to data than what meets the eye]]
-- Notes on [[Working in Public - Nadia Eghbal]]
+- [[Choosing between Zettlr and Obsidian]]
+- [[essays/Notes on How to Take Smart Notes]] by Sönke Ahrens
+- [[essays/After a Failure Revert to the Last Known Working State]]
+- [[essays/there is more to data than what meets the eye]]
+- [[essays/Notes on Working in Public - Nadia Eghbal]]
 - [[Simple explanation of an optimization algorithm]]
-- [[A new way of blogging]]
-- Do you want to learn [[How can a newsletter track you]]?
-- Or perhaps you want do discuss about the role of [[Democracy and algorithms]]?
+- [[essays/a new way of blogging]]
 - This is a (partial) list of [[things I've done]]
 
 ## Talk to me

@@ -12,7 +12,7 @@ But this uncertainty also opens interesting possibilities. Fundamentally, compan
 
 But it is not all about just creating content. Brands must establish a relationship with their customers. After all, you'll see an ad right in between the photos of the holidays of your friends. Genuine interactions, transparency, are all elements that play an increasing role on how much time someone will dedicate to us. 
 
-I wonder if this is a great opportunity for both [[open hardware]] and [[open source]] developments in the science-hardware business community, something that software-services have been exploiting for a while (see: [[Working in Public - Nadia Eghbal]]).
+I wonder if this is a great opportunity for both [[open hardware]] and [[open source]] developments in the science-hardware business community, something that software-services have been exploiting for a while (see: [[why companies fund open source software]]).
 
 
 Literature note on [[Catalytic Experiences - Hamid Ghanadan]]

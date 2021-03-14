@@ -2,7 +2,7 @@ Detecting a nanoparticle means knowing whether it is present or not. This is a p
 
 Tracking, on the other hand, implies connecting several time-point measurements. It means knowing the position of *the same particle* at different time-stamps. This is what the NTA technique uses (see: [[nanoparticle tracking analysis]]). In order for the tracking to be able to provide information on the particles, the time resolution should be higher than the characteristic diffusion or advection[^1] time. 
 
-References: [[Faez2015]]
+References: [@Faez2015]
 
 See further: [[limitations of nanoparticle tracking analysis]]
 

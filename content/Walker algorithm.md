@@ -1,3 +1,3 @@
-# Improved Nanoparticle Tracking Analysis (The Walker Algorithm)
+When doing [[nanoparticle tracking analysis]], one of the end goals is to produce a histogram of sizes. However, the number of frames over which particles are tracked limits the accuracy of the method. Therefore, we could assign more statistical relevance to the particles that are tracked for longer[@walker2012]. 
 
-See: dx.doi.org/10.1088/0957-0233/23/6/065605
+Also, see the approach on [[202010261540]], in which they simply multiply each particle's information by the number of frames over which it was observed. 

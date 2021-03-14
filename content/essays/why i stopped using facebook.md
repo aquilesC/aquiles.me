@@ -1,6 +1,7 @@
 ---
 title: Why I stopped using Facebook
 description: The rationale behind deleting the app and removing my account from the social network platform, and my contradictions with  Whatsapp
+status: draft
 ---
 # Why I stopped using Facebook
 Two years ago I decided that it was enough, that I wanted to completely stop using [[Facebook]]. The reasons behind were multiple:

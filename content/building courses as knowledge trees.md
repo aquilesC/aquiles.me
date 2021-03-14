@@ -1,9 +1,3 @@
----
-title: Building Courses as Knowledge Trees
-description: How can we approach teaching and learning not as a linear process but as highly convoluted path, empowering students to spend their times where they need the most. 
-epistemic: Initial considerations. I have no formal education in pedagogy, but have taught in schools, universities, and online for years.
-topics: education, courses
----
 # Building Courses as Knowledge Trees
 Learning is an experience that changes from student to student, regardless of their age. Each person brings to a learning situation all their experiences, and therefore the teaching strategy should embrace and empower this diversity. 
 
@@ -16,3 +10,5 @@ What if we would build courses in which each *lesson* is a node, very similar to
 3. courses must be cross-domain i.e. it does not make *sense* to teach physics separated from history or literature
 
 A clear example of a knowledge tree is Wikipedia. Compared to a normal book that is read from top to bottom, mostly in chronological order, Wikipedia allows to jump within topics. And these topics are not limited to just one domain. Therefore, we want to [[build knowledge without domain barriers]] that limit the scope and interests of the learners. 
+
+Tags: #courses #learning-trees #active-learning 

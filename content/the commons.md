@@ -1,5 +1,5 @@
 # The Commons
-There are many resources in the world that are managed as a community, such as a forest, irrigation systems, water management (the Dutch are a prime example). There are 9 principles that contribute to the proper management of the commons[^1]
+There are many resources in the world that are managed as a community, such as a forest, irrigation systems, water management (the Dutch are a prime example). There are 9 principles that contribute to the proper management of the commons[@eghbal2020]
 
 1. Membership boundaries are clearly defined
 2. The rules that govern the commons should match the actual conditions
@@ -11,5 +11,3 @@ There are many resources in the world that are managed as a community, such as a
 8. If the commons is part of a larger system, its governing rules are organized into multiple "nested" layers of authority
 
 Check also: Elinor Ostrom, Governing The Commons (1990)
-
-[^1]: [[Working in Public - Nadia Eghbal]]

@@ -39,7 +39,7 @@ What will people be able to do/know after following the course that was not able
 - Examples of smaller packages with a following:
     -  PyQtGraph, 
     -  [[ADDA]] 
-    -  Astropy <- Often cited as example on [[Working in Public - Nadia Eghbal]]
+    -  Astropy <- Often cited as example on [[/essays/Notes on Working in Public - Nadia Eghbal]]
 - What about [[Open Hardware]]?
     - [[U see 2]]
     - [[Prakash Lab]] has plenty of examples

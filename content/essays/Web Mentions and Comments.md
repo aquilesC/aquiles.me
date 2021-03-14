@@ -2,6 +2,7 @@
 title: Web Mentions and comments for websites
 description: Is it worth implementing a commenting system and webmentions on blogs? 
 tags: Webmention, comments, websites, blogs, interaction
+status: draft
 ---
 
 I think there are different dimensions to how [[webmentions]] or [[comments]] can add value to the content of an article. They can also come at a cost, which means we should balance them. Both comments and web mentions can be implemented in different ways, to generate different outcomes. Each website owner should judge what they want to achieve.    

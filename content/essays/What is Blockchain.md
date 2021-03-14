@@ -2,6 +2,7 @@
 title: What is Blockchain
 description: Dissecting what is Blockchain and how it can be used in different industries
 epistemic: These are building blocks of knowledge. Although I have a working knowledge of how blockchain operates, I never tried to explain it to anybody. 
+status: draft
 ---
 # What is Blockchain
 Blockchain is a technology popularized by cryptocurrencies such as Bitcoin. The easiest picture of it is that of a decentralized ledger. Just this idea is complex enough as to deserve a deeper exploration. It must be noted that blockchain itself goes beyond the applications of digital currency and can be used for anything that involves a transaction, especially when third parties must be involved. On the other hand, it is important not to forget that older technologies such as digital signing are still valuable in many (if not most) contexts. 
