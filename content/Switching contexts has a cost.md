@@ -1,6 +1,6 @@
 Assuming that [[Multitasking does not increase productivity]] (in people), it is possible that this can be justified by a cost function when switching contexts. This is not unlike what happens with [[multithreading]] in [[Python]] (and probably other programming languages). 
 
-Switching contexts while we are thinking means jumping from one train of thought to another. While writing, for example, this would be the difference between finding the words and copyediting what we have written. They require different types of attention ([[202010161703]]) and probably access to different neural paths on our brains.
+Switching contexts while we are thinking means jumping from one train of thought to another. While writing, for example, this would be the difference between finding the words and copyediting what we have written. They require different types of attention ([[The five different types of attention when doing creative work]]) and probably access to different neural paths on our brains.
 
 If switching from one context to another has a cost which is dependent on the distance between tasks (i.e. receiving a notification on the phone while replying an e-mail), and we assume that there may be some idle time while performing tasks, then we can postulate the following:
 

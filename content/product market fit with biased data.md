@@ -4,6 +4,6 @@ The [[lean methodology]] suggests that we should learn from experiments and iter
 
 This can be even worse if we have [[gender biased data]] (see: [[202011110957]] and [[202011110941]]). Therefore we can think that we have a product that satisfies the demand, but based an skewed insights and prejudices. 
 
-Therefore it is important to develop design procedures and business analysis tools that take into account not only gender as a random sample of the population, but actively considering that roles and physiology of women are different (see: [[202011110929]] and [[202011110920]]). 
+Therefore it is important to develop design procedures and business analysis tools that take into account not only gender as a random sample of the population, but actively considering that roles and physiology of women are different (see: [[it is not clear the amount of farming done by women]] and [[Designing tools for work is traditionally done considering the *average* man and not woman]]). 
 
 Tags: #gender-bias-in-business #business-development-based-on-data #product-market-fit 

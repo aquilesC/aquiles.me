@@ -4,7 +4,7 @@ What digital possibilities could enhanced the learning outcome leveraging the wo
 
 For example, [[bullet journaling]] seems to be an efficient way of offloading tasks from our minds so that we can focus. Could children use that approach or their minds are jumping from one thing to another to render it unusable? 
 
-Could we use [[spaced repetition]] in parallel with different students in one class (and possibly in front of only one teacher?) (see: [[202010191025]])
+Could we use [[spaced repetition]] in parallel with different students in one class (and possibly in front of only one teacher?) (see: [[educational tools based on the ideas of spaced repetition]])
 
 And, [[The Luhmann method]] itself, can be somehow valuable for students? I know I was instructed to underline the text as a way of summarizing its content, but was never encouraged to actually write about what I thought and learned. The biggest challenge would be how to incentivize students to  get on with it (and to what end). 
 

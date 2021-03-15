@@ -2,6 +2,4 @@ It is not clear the percentage of farming that is done by women (@criadoperez202
 
 The fact that we evaluate problems and propose solutions with very limited data sets is already challenging, the fact that we design data collection with a biased approach brings us to a completely different level. And this data is biased from the root, including companies not even interviewing women before deciding what kind of seed (or tool) to develop. This is neglecting half the population’s opinion just because. 
 
-Literature note: [[Invisible Women - Caroline Criado Perez]]
-
 Tags: #gender-bias-in-data #gender-data-gap

@@ -12,7 +12,7 @@ This website can be navigated only by following links. There are no "latest arti
 - [[essays/After a Failure Revert to the Last Known Working State]]
 - [[essays/there is more to data than what meets the eye]]
 - [[essays/Notes on Working in Public - Nadia Eghbal]]
-- [[Simple explanation of an optimization algorithm]]
+- [[essays/Simple explanation of an optimization algorithm]]
 - [[essays/a new way of blogging]]
 - This is a (partial) list of [[things I've done]]
 

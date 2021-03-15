@@ -11,4 +11,4 @@ Another interesting point is that Github does not take community suggestions. De
 See:
 
 - [[Choosing technology based on their incentives]]
-- [[202011100855]]
+- [[comparing facebook revenue with country budgets]]
