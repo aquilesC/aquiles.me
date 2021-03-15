@@ -35,7 +35,8 @@
 - Give the other person a fine reputation to live up to
 - Use encouragement. Make the fault seem easy to correct
 - Make the other person happy about doing the thing you suggest
-- 
+
+
 Literature notes on [@carnegie2010]
 
 Tags: #literature-notes #2021 #reading

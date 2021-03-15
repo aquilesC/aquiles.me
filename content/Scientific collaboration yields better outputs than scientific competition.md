@@ -1,0 +1,5 @@
+WWII showed that scientific collaboration yields great results for technological development[@bush1945]. This is seen not only on the development of the nuclear bombs, but also plenty of biomedical research was fueled in this period. The common sense was that scientists dropped (at least partially) their egos and collaborated on common goals. 
+
+Assuming that [[science after WWII has stagnated]] it could be fair to wonder whether [[war or conflict fuel economic growth]] through scientific achievements or whether it is actually the collaboration that arises from finding common causes that yields better results. If this would be the case, [[egoistic scientific incentives]] will never help fuel discovery and technological advancement to the rate it was in the first half of the XX century. 
+
+> This has not been a scientist's war; it has been a war in which all have had a part. The scientists, burying their old professional competition in the demand of a common cause, have shared greatly and learned much. [@bush1945]

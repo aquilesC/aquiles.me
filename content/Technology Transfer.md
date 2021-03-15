@@ -3,7 +3,7 @@ title: Technology Transfer
 description: How to transform knowledge generated in universities to useful technology that can serve society as a whole
 ---
 # Technology Transfer
-I would assume that every country on Earth invest in [[science]]. Assuming we don't ask [[why investing in research]] is a good strategy, we can focus on the next step, how to transform the results into actionable knowledge that can benefit society. This is generally referred to as *Technology Transfer*. 
+I would assume that every country on Earth invest in [[Science after WWII has stagnated]]. Assuming we don't ask [[why investing in research]] is a good strategy, we can focus on the next step, how to transform the results into actionable knowledge that can benefit society. This is generally referred to as *Technology Transfer*. 
 
 The process has many different mechanisms that highly depend on the country, the [[funding agencies]], and the field. A possible train of thought that permeates everything is associated with [[risk]]: research is inherently a risky endeavor. This risk is absorbed by the state. 
 
