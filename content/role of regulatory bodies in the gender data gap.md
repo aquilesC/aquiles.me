@@ -2,6 +2,4 @@ Regulatory bodies have a great responsibility in the generation of the [[gender 
 
 Also, when they added female dummies to the tests, the safety ratings of many cars dropped considerably (see: [[building to pass tests]]). Female dummies are either anatomically not correct (i.e. is only a smaller male dummy), or are used only on passenger seats. 
 
-Literature note: [[Invisible Women - Caroline Criado Perez]]
-
 Tags: #gender-data-gap #car-safety #gender-bias-regulation #gender-bias-in-safety 

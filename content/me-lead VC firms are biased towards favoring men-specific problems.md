@@ -4,7 +4,4 @@ Some of the examples cited in the book relate to menstruation, brest milk pumps,
 
 What is surprising is that the technologies available for women (for example regarding contraception) is technology of over 50 years ago. There was no innovation nor in male contraception nor in improvement of choices for women. 
 
-
-Literature note: [[Invisible Women - Caroline Criado Perez]]
-
 Tags: #gender-data-gap #gender-bias-in-business #gender-entrepreneurs

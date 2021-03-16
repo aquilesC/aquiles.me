@@ -1,3 +1,9 @@
+---
+title: The biases each one of us carries
+description: We all have biases even if we try to fight them. Access to education is not a guarantee of bias removal. 
+status: draft
+epistemic: Early considerations on the biases we have incorporated, based on my own observations, but with no external support. 
+---
 Despite dismissing [[flatearthers]] as unscientific, I do think there are a lot of valid reflections that can be done on what they represent. Somehow we managed to build a society more educated than ever before, with access to more information than ever before, but we still see the appearance of this kind of believes, propelled by the same media used to educate. 
 
 Each one of us carries biases based on the context in which we have been raised and lived. These biases are further enhanced by the education (formal and informal) to which we have access. Scientists are not absent from these biases, which span from topics such as [[gender diversity in academia]], all the way to their daily scientific work. Sometimes it may not feel correct to call them biases, they may be legitimate prior knowledge. 

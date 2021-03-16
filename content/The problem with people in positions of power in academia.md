@@ -7,7 +7,7 @@ Researchers in positions of power normally lack the courage to actively decide. 
 
 Even if people hide the names of the applicants, they will fall prey of [[the myth of the double blind]], which lacks acknowledging that men and women are not operating in a leveled playing field. 
 
-And people in position of power in academia appear at different stages and with different roles. It may be a reviewer, but it may also be a conference organizer (see: [[202011271124]] and [[limit the number of male speakers in conferences]]). 
+And people in position of power in academia appear at different stages and with different roles. It may be a reviewer, but it may also be a conference organizer (see: [[women are half the population, not a minority]] and [[limit the number of male speakers in conferences]]). 
 
 A generalized issue, I believe, is that most men in positions of power do not stop to think, reflect, engage in meaningful discussions, nor seek external help. Which is completely in line with the idea that [[if you are the problem, you can't be the solution]]. 
 
