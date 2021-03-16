@@ -46,10 +46,10 @@
                 <div class="flex mt-4 md:mt-8 p-2 min-w-0 border-solid border-l-2 border-orange-200 text-base shadow-md">
                     <div class="font-strong"><a class="wikilink" href="/epistemic_status">Epistemic
                         status:</a></div>
-                    <div class="ml-4 font-extrabold">{{ meta.epistemic }}</div>
+                    <div class="ml-4 font-extrabold">{{ note.metadata.epistemic }}</div>
                 </div>
                 {% endif %}
-                {% if 'status' in meta and meta.status == 'draft' %}
+                {% if 'status' in meta and note.metadata.status == 'draft' %}
                 <div class="my-4 border-solid border-l-8 border-orange-200">
                     <div class="inline-block">
                         <svg class="h-6 w-6 color-text-teal-400" xmlns="http://www.w3.org/2000/svg"
@@ -208,7 +208,7 @@
             </p>
             <p class="font-strong mb-4">These other pages link here:</p>
             <ul class="h-feed">
-                {% for link in page.backlinks %}
+                {% for link in note.backlinks %}
                 <li class="h-entry"><a class="wikilink" href="{{ link.url }}">{{ link.title }}</a></li>
                 {% endfor %}
             </ul>

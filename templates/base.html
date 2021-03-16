@@ -7,12 +7,12 @@
     {%- if description %}
         <meta name="description" content="{{ description }}">
     {% endif %}
-    {%- if 'keywords' in meta.keys() %}
-        <meta name="keywords" content="{{ meta.keywords }}">
+    {%- if 'keywords' in note.metadata.keys() %}
+        <meta name="keywords" content="{{ note.metadata.keywords }}">
     {% endif %}
     <meta name="generator" content="Aqui Brain Dump">
 
-    <title>{{ page.title }} | Aquiles Carattino</title>
+    <title>{{ note.title }} | Aquiles Carattino</title>
     <link href="{{ base_url }}/{{ static }}/bundle.min.css" rel="stylesheet">
 
     <link rel="canonical" href="{{ url }}">
