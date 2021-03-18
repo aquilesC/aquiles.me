@@ -1,3 +1,0 @@
-A possible approach for companies selling [[open hardware]] tools is to offer services in the form of selling expertise [@pearce2017]. Comparing open-hardware to Red Hat I think is not the right approach, however. Software has zero [[marginal cost]] and thus services can scale linearly while adoption scales exponentially. For hardware this is definitely not the case and it is not clear that services revenue alone can fuel the growth in open-hardware manufacturing and design. 
-
-[@pearce2017] suggest that firms can offer training and support, which is not exclusive to open-hardware initiatives, and it is not clear how much revenue it can actually generate. 
