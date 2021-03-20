@@ -3,3 +3,5 @@
 A possibility is to change the **reward system** (some other ideas are discussed in [[20210223190134]]). One could think of ways in which open science, reproducibility, sharing, community building, etc. become currencies researchers can exchange, in the same way a published paper or a grant does. If institutions force higher exchange rates for these currencies, more researchers will naturally pursue them. 
 
 > Interventions to make science less wasteful and more effective could be hugely beneficial to our health, our comfort, and our grasp of truth and could help scientific research more successfully pursue its noble goals. 
+
+This is linked to the problems that appear when [[quantifying performance using multiple measurements]], and in general it describes the problem that [[quantitative performance measurements produce undesired outputs]]. 
