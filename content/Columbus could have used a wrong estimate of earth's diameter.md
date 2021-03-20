@@ -1,5 +1,4 @@
-# Columbus and the measurement of Eratosthenes
-In the tradition of the measurement of Eratosthenes (see [[20210124123522]]), it is said the Columbus had the wrong number when planning his voyage [@dutka1993]. Apparently, Posidonius estimated the Earth circumference to 180.000 stades instead of 250.000. 
+In the tradition of the measurement of Eratosthenes (see [[Eratosthenes Measurement of the Circumference of the Earth]]), it is said the Columbus had the wrong number when planning his voyage [@dutka1993]. Apparently, Posidonius estimated the Earth circumference to 180.000 stades instead of 250.000. 
 
 Now, assuming the Earth circumference is 40000km, and 250000 stades are the proper measurement, we get that 180.000 stades would give a circumference of 28000km. The distance from Madrid to Beijing is 9217km, which means that traveling the other way around would require 21000km (roughly). This is much more than the distance from Madrid to Mexico: 9000km. 
 
