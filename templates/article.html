@@ -64,6 +64,46 @@
                 <div class="e-content mt-6 text-sm md:text-xl">
                     {{ content }}
                 </div>
+                <hr/>
+                <div id="revue-embed" class="mx-2">
+                    <h4 class="text-3xl font-head">Newsletter</h4>
+                    <div class="text-md font-sans">Join my experiment of better thinking and interesting discussions</div>
+                    <div class="shadow overflow-hidden sm:rounded-md p-6">
+                        <form action="https://www.getrevue.co/profile/aquiles/add_subscriber" method="post"
+                              id="revue-form" name="revue-form" target="_blank">
+                            <div class="grid grid-cols-6 gap-6 mb-2">
+                                <div class="col-span-6 sm:col-span-4">
+                                    <label for="member_email" class="block">
+                                        <span class="text-md font-medium text-gray-800">Email address</span>
+                                        <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                                               placeholder="Your email address..." type="email"
+                                               name="member[email]" id="member_email">
+                                    </label>
+                                </div>
+                                <div class="col-span-6 sm:col-span-3">
+                                    <label for="member_first_name" class="block">
+                                        <span class=" text-md font-medium text-gray-500">Name
+                                            <span class="text-sm text-gray-600">(Optional)</span>
+                                        </span>
+                                        <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                                               placeholder="First name... (Optional)" type="text"
+                                               name="member[first_name]" id="member_first_name"
+                                               autocomplete="given-name"></label>
+                                </div>
+                            </div>
+                            <div class="mt-5 py-3 text-left ">
+                                <button type="submit" id="member_submit"
+                                        class="inline-flex bg-green-200 justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md bg-teal-600 hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
+                                    Subscribe
+                                </button>
+                            </div>
+                        </form>
+                        <div class="text-xs">By subscribing, you agree with Revue’s <a target="_blank"
+                                                                                       href="https://www.getrevue.co/terms">Terms</a>
+                            and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
+                        </div>
+                    </div>
+                </div>
                 <div class="mt-4 md:mt-8 lg:mt-12 xl:mt-16">
                     <h4 class="text-3xl font-head">Backlinks</h4>
                     <p class="text-sans text-sm">These are the other notes that link to this one. </p>
@@ -186,6 +226,8 @@
                             </div>
                         </div>
                     </div>
+
+
                 </div>
             </article>
         </div>

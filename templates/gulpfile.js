@@ -9,7 +9,7 @@ gulp.task('default', function () {
         // Auto-prefix css styles for cross browser compatibility
         // Minify the file
         .pipe(concatCss('bundle.css'))
-        .pipe(csso())
+        // .pipe(csso())
         .pipe(rename({
             suffix: '.min'
         }))
