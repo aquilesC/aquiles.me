@@ -1066,6 +1066,11 @@ blockquote {
   padding-bottom: 0.5rem;
 }
 
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -1160,6 +1165,10 @@ blockquote {
 .focus\:ring-green-500:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgba(16, 185, 129, var(--tw-ring-opacity));
+}
+
+.text-left {
+  text-align: left;
 }
 
 .text-center {
