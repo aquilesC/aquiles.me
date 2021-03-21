@@ -8,4 +8,4 @@ In order to make more published research true there are some interventions that 
 - **Replication** should be feasible by default, meaning that it has to be taken into account for the experimental design, and has to be taken into account by the research agendas of the different funding bodies. 
 - **Registration** of trials and results increases transparency, but it can also trigger unwanted consequences; e.g.: bad data analysis to claim spurious effects of a drug is, perhaps, harder to combat than "good" science. But nonetheless the end goal is to increase trust and credibility of the research done. 
 - **Statistical methods** must be defined upfront, and there must be training and continuous education of researchers to perform proper analysis. 
-- #TODO: check the EQUATOR initiative on how to [[change peer review]]
+- check the EQUATOR initiative on how to [[change peer review]] #TODO

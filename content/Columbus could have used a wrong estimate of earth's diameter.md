@@ -7,6 +7,6 @@ With the proper measurement (250000 stades), the distance Madrid/Beijing through
 ## At constant latitude
 At constant latitude, the distance Madrid/Beijing is 16000km through the ocean, and 9000km through land. Assuming the scaling factor of $$180/250$$ for the earth circumference, and keeping the land-distance fixed at 9000km, one gets a total circumference at constant latitude of $$25000km*180/250 = 18000km$$. This means that the distance from Madrid to Beijing would have been 9000km through the ocean, which happens to be, by change, the distance from Madrid to Mexico.  
 
-#TODO: check how accurate was the measurement of the distance Europe/China in the XV century. 
+- check how accurate was the measurement of the distance Europe/China in the XV century. #TODO
 
 Tags: #measurement-earth-size 
