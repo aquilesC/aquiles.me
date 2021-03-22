@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
     purge: {
         enabled: true,
@@ -32,6 +34,21 @@ module.exports = {
                     },
                 }
             }
+        },
+        colors: {
+            transparent: 'transparent',
+            current: 'currentColor',
+            warmGray: colors.warmGray,
+            gray: colors.coolGray,
+            blue: colors.blue,
+            white: colors.white,
+            teal: colors.teal,
+            green: colors.green,
+        },
+    },
+    variants: {
+        extend: {
+            boxShadow: ['active'],
         },
     },
     plugins: [
