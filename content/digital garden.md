@@ -19,8 +19,6 @@ Digital gardens have different moments, aspects, use cases, and approaches:
 - [[Digital Gardens for Knowledge Generation]]
 - [[Digital Gardens for Content Creation]]
 
-## Knowledge Generation
-
 
 ## Gardening in Public
 Two of the examples I mentioned above are of people who decided to [[learning in public]]. Both the [notes](https://notes.andymatuschak.org/About_these_notes) of Andy Matuschak, or [Gwern](https://www.gwern.net)'s website evolve over time. Some of their thoughts are more stable than others, but you can see the entire process happening. 
