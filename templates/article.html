@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block main %}
-<div class="w-full"><a class="text-4xl font-head" href="https://www.aquiles.me">Aquiles.me</a></div>
+<div class="w-full"><a class="text-4xl font-head wikilink" href="https://www.aquiles.me">Aquiles</a></div>
 <div class="mt-5 w-full md:px-4 md:mx-auto md:max-w-screen-md">
     <div class="mb-12 bg-white text-gray-900 shadow md:p-1 md:rounded lg:p-4">
         {% block content %}
@@ -22,7 +22,11 @@
                             <path d="M6 6V2c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-4v4a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V8c0-1.1.9-2 2-2h4zm2 0h4a2 2 0 0 1 2 2v4h4V2H8v4zM2 8v10h10V8H2z"/>
                         </svg>
                         <p class="text-xs inline">Last Edited:
-                            <time class="dt-updated">{{ note.last_mod|datetime }}</time>
+                            {% if note.last_mod %}
+                                <time class="dt-updated">{{ note.last_mod|datetime }}</time>
+                            {% else %}
+                                <time class="dt-updated">{{ note.creation_date|datetime }}</time>
+                            {% endif %}
                         </p>
                     </div>
                     <div class="mx-2">
@@ -42,14 +46,14 @@
                         </a>
                     </div>
                 </div>
-                {%- if 'epistemic' in meta %}
+                {%- if 'epistemic' in note.meta %}
                 <div class="flex mt-4 md:mt-8 p-2 min-w-0 border-solid border-l-2 border-orange-200 text-base shadow-md">
                     <div class="font-strong"><a class="wikilink" href="/epistemic_status">Epistemic
                         status:</a></div>
-                    <div class="ml-4 font-extrabold">{{ note.metadata.epistemic }}</div>
+                    <div class="ml-4 font-extrabold">{{ note.meta.epistemic }}</div>
                 </div>
                 {% endif %}
-                {% if 'status' in meta and note.metadata.status == 'draft' %}
+                {% if 'status' in note.meta and note.meta.status == 'draft' %}
                 <div class="my-4 border-solid border-l-8 border-orange-200">
                     <div class="inline-block">
                         <svg class="h-6 w-6 color-text-teal-400" xmlns="http://www.w3.org/2000/svg"
@@ -64,6 +68,46 @@
                 <div class="e-content mt-6 text-sm md:text-xl">
                     {{ note.content }}
                 </div>
+                <hr/>
+                <div id="revue-embed" class="my-4 p-6 shadow rounded-lg">
+        <h4 class="text-3xl font-head">Newsletter</h4>
+        <div class="text-md font-sans">Join my experiment of better thinking and interesting discussions</div>
+        <div class="sm:rounded-md my-6">
+            <form action="https://www.getrevue.co/profile/aquiles/add_subscriber" method="post"
+                  id="revue-form" name="revue-form" target="_blank">
+                <div class="grid grid-cols-6 gap-6 mb-2">
+                    <div class="col-span-6 sm:col-span-4">
+                        <label for="member_email" class="block">
+                            <span class="text-md font-medium text-gray-800">Email address</span>
+                            <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                                   placeholder="Your email address..." type="email"
+                                   name="member[email]" id="member_email">
+                        </label>
+                    </div>
+                    <div class="col-span-6 sm:col-span-4">
+                        <label for="member_first_name" class="block">
+                                        <span class="text-md font-medium text-gray-800">Name
+                                            <span class="text-gray-600">(Optional)</span>
+                                        </span>
+                            <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                                   placeholder="First name... (Optional)" type="text"
+                                   name="member[first_name]" id="member_first_name"
+                                   autocomplete="given-name"></label>
+                    </div>
+                </div>
+                <div class="mt-5 py-3 text-left ">
+                    <button type="submit" id="member_submit"
+                            class="inline-flex bg-green-200 justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md hover:shadow-md active:shadow-inner active:shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
+                        Subscribe
+                    </button>
+                </div>
+            </form>
+            <div class="text-xs">By subscribing, you agree with Revue’s <a target="_blank"
+                                                                           href="https://www.getrevue.co/terms">Terms</a>
+                and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
+            </div>
+        </div>
+    </div>
                 <div class="mt-4 md:mt-8 lg:mt-12 xl:mt-16">
                     <h4 class="text-3xl font-head">Backlinks</h4>
                     <p class="text-sans text-sm">These are the other notes that link to this one. </p>
@@ -186,6 +230,8 @@
                             </div>
                         </div>
                     </div>
+
+
                 </div>
             </article>
         </div>
@@ -201,7 +247,7 @@
         </div>
         {% else %}
         <div class="md:text-xl lg:text-2xl">
-            <h1>{{ title }}</h1>
+            <h1>{{ note.title }}</h1>
             <p>This element has no content, which means it was automatically created because something else
                 links here. If you want to learn more about how this website works, head to
                 the <a class="wikilink" href="{{ base_url }}/about">about page</a>.
