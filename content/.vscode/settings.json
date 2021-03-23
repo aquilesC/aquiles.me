@@ -27,4 +27,12 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "workbench.colorTheme": "Default Light+",
   "workbench.preferredDarkColorTheme": "Default Light+",
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
 }
