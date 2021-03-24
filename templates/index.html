@@ -18,10 +18,10 @@
         </div>
         <div class="mb-12 bg-gray-100 text-gray-800 leading-tight text-xl shadow-lg p-6 mx-auto max-w-full lg:max-w-screen-lg">
             {% block content %}
-                {% if content %}
+                {% if note.content %}
                     {{ content }}
                 {% else %}
-                    <h1>{{ title }}</h1>
+                    <h1>{{ note.title }}</h1>
                     <p>This element has no content, which means it was automatically created because
                         something else links here. If you want to learn more about how this website works, head to our
                         <a class="wikilink" href="/about">about page</a></p>
