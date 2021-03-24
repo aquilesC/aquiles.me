@@ -6,7 +6,7 @@
     <div class="mb-12 bg-warmGray-50 text-gray-900 leading-tight text-xl shadow-lg p-6">
         {% block content %}
                 {% if note.content %}
-                    {{ content }}
+                    {{ note.content }}
                 {% else %}
                     <h1>{{ note.title }}</h1>
                     <p>This element has no content, which means it was automatically created because
