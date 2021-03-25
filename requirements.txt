@@ -1,3 +1,1 @@
-pyyaml
-markdown-checklist
 -e git+git://github.com/aquilesC/static_website_builder.git#egg=aqui_brain_dump
