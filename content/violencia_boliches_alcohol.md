@@ -1,6 +1,6 @@
 ---
 title: Violencia, boliches, rugby y las cosas que nadie discute
-description: El periodismo argentino, otra vez, le falla a la sociedad
+description: Los periodistas argentinos olvidan hechos a cambio de sensacionalismo. 
 ---
 
 # Violencia, boliches, rugby y las cosas que nadie discute

@@ -1,3 +1,3 @@
 When doing [[nanoparticle tracking analysis]], one of the end goals is to produce a histogram of sizes. However, the number of frames over which particles are tracked limits the accuracy of the method. Therefore, we could assign more statistical relevance to the particles that are tracked for longer[@walker2012]. 
 
-Also, see the approach on [[202010261540]], in which they simply multiply each particle's information by the number of frames over which it was observed. 
+Also, see the approach on [[nanoparticle tracking in hollow optical fibers]], in which they[@fo2020] simply multiply each particle's information by the number of frames over which it was observed. 

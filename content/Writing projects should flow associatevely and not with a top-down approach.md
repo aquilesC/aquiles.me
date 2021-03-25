@@ -8,7 +8,7 @@ Several universities have guidelines on how to write *papers* following a top-do
 > if you’ve already written lots of concept-oriented [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative. 
 > [AM notes](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
 
-Well formatted notes, especially if we pay attention to [[tendering a digital garden]], could become a fantastic tool to speed up the time it takes to sit down and write with novel insights. However, I still wonder [[where does observation fit into the digital garden]]. 
+Well formatted notes, especially if we pay attention to [[Tendering a digital garden]], could become a fantastic tool to speed up the time it takes to sit down and write with novel insights. However, I still wonder [[where does observation fit into the digital garden]]. 
 
 
 

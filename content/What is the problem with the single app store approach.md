@@ -1,7 +1,7 @@
 # What is the Problem with the Single App Store Approach
-[[Hey.com]], [[Spotify]], [[ProtonMail]] are just few of the companies that started raising their voices regarding the abusive practices of [[Apple]] and the [[App Store]]. (See [[protonmail takes a stance against apple practices]]). 
+Hey.com, Spotify, ProtonMail are just few of the companies that started raising their voices regarding the abusive practices of Apple and the App Store. (See [[protonmail takes a stance against apple practices]]). 
 
-Apple charges 30% as transaction fees for any purchase done within the apps. So many developers opted to charge outside of their apps. For example, you can get a subscription to [[Netflix]] on their website and then use the app. The main problem is that Apple has different stances regarding different companies, as proven by [[the fight between Hey and Apple]]. There was also [[the fight between Fortnite and Apple]]
+Apple charges 30% as transaction fees for any purchase done within the apps. So many developers opted to charge outside of their apps. For example, you can get a subscription to Netflix on their website and then use the app. The main problem is that Apple has different stances regarding different companies, as proven by the fight between Hey and Apple. There was also the fight between Fortnite and Apple.
 
 The outcome of having a single app store, is, therefore, that 
 
