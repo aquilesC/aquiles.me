@@ -1,4 +1,4 @@
--e git+git@github.com:aquilesC/static_website_builder.git#egg=aqui_brain_dump
+-e git+git://github.com/aquilesC/static_website_builder.git#egg=aqui_brain_dump
 beautifulsoup4==4.9.3
 certifi==2020.12.5
 chardet==4.0.0
