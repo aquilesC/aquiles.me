@@ -1,7 +1,7 @@
 ---
 title: After a Failure, Revert to the Last Known Working State
 description: In any project, and even in life, it is very easy to depart from the path that would bring us closer to our goals. Finding the first moment we started to diverge is the best way to recover. 
-topics: business, management, project
+keywords: business, management, project
 ---
 # After a Failure, Revert to the Last Known Working State
 I have been working full-time on [[Dispertech]] for almost two years already. This [[technology transfer]] project is focused on building a product that can be used (at least initially) by researchers from other areas than where the technique originated. The challenge, therefore, is transforming a prototype that sits in a physics lab to a device that can be used in a biology/bio-medicine lab. 
