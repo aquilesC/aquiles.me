@@ -59,3 +59,5 @@ Digital note-taking has opened the door to many interesting new approaches.  For
 The knowledge-building space is gaining some momentum.  Some interesting tools are popping up, such as RoamResearch. Still, in many aspects, I think people are falling in love with the technology and not with the method. External tools can only go this far. Better thinking must be grown in each one of us. The fact that education is anachronistic may be the biggest problem in the long run. 
 
 I would love to see how proficient writers take notes. Does Harari use the Luhmann method? What about Niel deGrasse Tyson? Until I don't see successful applications of a specific note-taking method, I would be wary of subscribing blindly to its claims of superiority. 
+
+![](/images/how_to_take_smart_notes.png)
