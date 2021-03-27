@@ -1,0 +1,3 @@
+The AttoBright[@brown2019] is a simple 3D printed confocal microscope that allows detection of single-molecules. It is important to note that although the body of the microscope is 3D printed, it includes a piezo-driven mirror for alignment, a single-photon counting module, and an Olympus objective. 
+
+The body is [[open hardware]], but most of the components are commercially available (detector, objective, piezo, mirrors). There is little to learn from such systems, and the github repository hasn't been updated since October 2019 (date of publishing of the paper in Nature Comms). This is one example stressing that [[open hardware projects focus on cutting costs]], and little on the [[specific value in being open]]. 
