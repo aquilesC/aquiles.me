@@ -1,11 +1,32 @@
 {% extends "base.html" %}
+{% block extra_head %}
+  <meta property="og:title" content="{{ note.title }}"/>
+  <meta property="og:description" content="{{ note.meta.description }}"/>
+  <meta property="og:url" content="{{ note.url }}">
+  <meta property="og:type" content="article"/>
+  <meta property="og:image" content="https://aquiles.me/{{ static }}/og_image.png"/>
+
+  <meta name="twitter:creator" content="@aquicarattino"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="{{ note.title }}">
+  <meta name="twitter:description" content="{{ note.meta.description }}"/>
+  {% if 'head_image' in note.meta %}
+    <meta name="twitter:image" content="{{ base_url }}/images/{{ note.meta.head_image }}"/>
+  {% else %}
+    <meta name="twitter:image" content="{{ base_url}}/{{ static }}/og_image.png"/>
+  {% endif %}
+{% endblock %}
 {% block main %}
-<div class="mt-2 md:4 md:w-4/5 content-center mx-auto max-w-full lg:max-w-screen-lg">
+  <div class="mt-2 md:w-4/5 content-center mx-auto max-w-full lg:max-w-screen-lg">
     <h1><a class="wikilink">Aquiles Carattino</a></h1>
 </div>
-
 <div class="mt-4 md:mt-16 content-center mx-auto max-w-full lg:max-w-screen-lg">
-    <div class="mb-12 bg-white text-gray-900 shadow md:p-1 md:rounded lg:p-4">
+  <img src="{{ base_url }}/images/{{ note.meta.head_image }}"
+       alt="{{ note.title }}"
+       class="w-full shadow-lg" />
+</div>
+  <div class="mt-4 md:mt-16 content-center mx-auto max-w-full lg:max-w-screen-lg">
+  <div class="mb-12 bg-white text-gray-900 shadow md:p-1 md:rounded lg:p-4">
         {% block content %}
         {% if note.content %}
         <div class="md:flex">
@@ -266,9 +287,5 @@
         {% endif %}
         {% endblock content %}
     </div>
-</div>
-{% endblock main %}
-
-{% block footer_scripts %}
-
+  </div>
 {% endblock %}

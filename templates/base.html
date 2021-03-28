@@ -34,6 +34,7 @@
     <link rel="alternate" type="application/rss+xml" title="Aquiles Corner of the Internet"
           href="https://aquiles.me/feed.rss"/>
 
+  {% block extra_head %}
     <meta property="og:title" content="{{ note.title }}"/>
     <meta property="og:description" content="{{ note.meta.description }}"/>
     <meta property="og:url" content="{{ note.url }}">
@@ -45,8 +46,9 @@
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:title" content="{{ note.title }}">
     <meta name="twitter:description" content="{{ note.meta.description }}"/>
+  {% endblock %}
 </head>
-<body class="bg-white text-gray-800 font-sans leading-normal tracking-normal mx-auto">
+<body class="bg-white text-gray-900 font-sans leading-normal tracking-normal mx-auto">
 <div class="main-block min-h-screen md:px-5">
     {% block main %}
     {% endblock main %}
