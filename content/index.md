@@ -7,9 +7,9 @@ topics: Aquiles, Carattino, learning in public, digital garden
 
 This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
 
-- [[Choosing between Zettlr and Obsidian]]
 - [[essays/Notes on How to Take Smart Notes]] by Sönke Ahrens
 - [[essays/After a Failure Revert to the Last Known Working State]]
+- [[essays/Choosing between Zetllr and Obsidian]]
 - [[essays/there is more to data than what meets the eye]]
 - [[essays/Notes on Working in Public - Nadia Eghbal]]
 - [[essays/Simple explanation of an optimization algorithm]]
