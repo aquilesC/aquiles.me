@@ -2,6 +2,8 @@
 title: A New Way of Blogging
 description: A solution between a digital garden and a blog may be the answer that many content creators are looking for.
 epistemic: reflections with low consequences, based on input gathered from other online sources, and conscious practice. Associated risks are not fully developed.
+template: essay.html
+head_image: a_new_way_of_blogging.png
 ---
 # A New Way of Blogging
 I define a *blog* as any website that delivers value through written content from well-defined authors. It means that Wikipedia is not a blog because its authors are not at the center, but newspapers and personal websites are blogs. Therefore, discussing *how to blog* must consider the type of website that is behind. For this article, I will focus on *personal websites*, such as the one you are reading right now. 
