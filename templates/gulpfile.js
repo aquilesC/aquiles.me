@@ -3,6 +3,7 @@ const minify = require("gulp-minify");
 var csso = require('gulp-csso');
 var rename = require('gulp-rename');
 var concatCss = require('gulp-concat-css');
+const { watch } = require('gulp');
 
 gulp.task('default', function () {
     return gulp.src(['./static/*.css'])
@@ -16,3 +17,4 @@ gulp.task('default', function () {
         // Output
         .pipe(gulp.dest('../static/'))
 });
+

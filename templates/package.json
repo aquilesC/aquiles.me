@@ -8,20 +8,24 @@
     "autoprefixer": "^10.2.4",
     "postcss": "^8.2.5",
     "postcss-cli": "^8.3.1",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "^2.0.3",
+    "watch": "^1.0.2"
   },
   "devDependencies": {
+    "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
     "gulp-concat-css": "^1.2.0",
     "gulp-csso": "^4.0.1",
+    "gulp-imagemin": "^7.1.0",
     "gulp-minify": "^3.1.0",
+    "gulp-postcss": "^9.0.0",
     "gulp-rename": "^2.0.0"
   },
   "scripts": {
     "build": "npx tailwindcss build css/style.css -o ./static/style.css && gulp",
     "develop": "postcss css/style.css -o ../static/style.css",
-    "watch": "postcss css/style.css -o ../static/style.css --watch"
+    "watch": "watch 'npm run build'"
   },
   "repository": {
     "type": "git",

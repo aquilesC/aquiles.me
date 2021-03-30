@@ -9,6 +9,20 @@ module.exports = {
     },
     theme: {
         extend: {
+            variants: {
+                ringColor: ['hover', 'active'],
+            },
+            borderWidth: {
+                DEFAULT: '1px',
+                '0': '0',
+                '2': '2px',
+               '3': '3px',
+                '4': '4px',
+               '6': '6px',
+               '8': '8px',
+               '16': '16px',
+              },
+
             fontFamily: {
                 sans: ['geomanistregular'],
                 head: ['geomanistbold'],
@@ -45,6 +59,7 @@ module.exports = {
             teal: colors.teal,
             green: colors.green,
             black: colors.black,
+            yellow: colors.yellow,
         },
     },
     variants: {
