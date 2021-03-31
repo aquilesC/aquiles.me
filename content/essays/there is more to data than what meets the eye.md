@@ -2,17 +2,12 @@
 title: There is More to Data than what Meets the Eye
 description: Online privacy concerns are rooted in what can be done with user data. However there is little effort in explaining the far reaches of data collection
 epistemic: I have been studying the subject for years. I have implemented my own data analysis algorithms and analytics service
+status:draft
 ---
 # There is More to Data than what Meets the Eye
-When raising the concern about [[user privacy online]] and [[data collection]], one of the biggest challenges is replying to a comment such as:
+When I discuss about online privacy, often I encounter people who simply do not care enough. Their argument is that *data* is only a collection of clicks, of websites visited. The worse thing that can happen is that you see advertisements for the products you are looking for online. What people fail to see is that what they are describing is only the tip of the iceberg of what those clicks and collections of websites can tell about a person. 
 
-<blockquote class="quoteback" darkmode="" data-title="I%20don't%20Click%20on%20Newsletter%20Links%20Because%20I%20Know%20they%20Track%20me" data-author="@IndieHackers" cite="https://www.indiehackers.com/post/i-dont-click-on-newsletter-links-because-i-know-they-track-me-842c28e6f5">
-But... what's the big deal? The "data" you're referring to is simply that you clicked on a link, that they sent you, because you signed up..... I don't get it.
-<footer>@IndieHackers <cite><a href="https://www.indiehackers.com/post/i-dont-click-on-newsletter-links-because-i-know-they-track-me-842c28e6f5">https://www.indiehackers.com/post/i-dont-click-on-newsletter-links-because-i-know-they-track-me-842c28e6f5</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-And I believe that these reactions stem from poor communication, especially fueled by the bigger players around, because they strive at creating misconceptions.
+One must not forget that the champions for creating public opinion are also the focus of the scrutiny. Facebook, Google, and Amazon are behind most of our interactions online. These corporations have a massive infrastructure to push to the public opinion whatever agenda they want to pursue. There's very little that can be done if they want to cast doubts or fuel misconceptions. 
 
 <blockquote class="quoteback" darkmode="" data-title="AI%20won%E2%80%99t%20relieve%20the%20misery%20of%20Facebook%E2%80%99s%20human%20moderators" data-author="James Vincent" cite="https://www.theverge.com/2019/2/27/18242724/facebook-moderation-ai-artificial-intelligence-platforms">
 When presented with the misery their platforms are creating (as well as other moderation-adjacent problems, like perceived bias) companies often say more technology is the solution. During his hearings in front of congress <a href="https://www.theverge.com/2018/4/11/17226356/mark-zuckerberg-congress-hearing-house-energy-commerce-takeaways" target="_blank" rel="noopener">last year</a>, for example, Zuckerberg cited artificial intelligence more than 30 times as the answer to this and other issues. 
@@ -20,7 +15,11 @@ When presented with the misery their platforms are creating (as well as other mo
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-The issue with data collection is not necessarily the data itself, which may be innocent: what browser I use, what fonts I have installed, when did I click on a newsletter article, but what questions can be answered with that data. That is why, the most important thing is to understand [[what is a machine learning algorithm]] and roughly how it works. Maybe there is a correlation between the seemingly *innocent* data and my sexual orientation, or political views. 
+Although social networks can be analyzed from different perspectives, I want to focus on the issue of data collection itself. In this area is not only the super big players involved, but a myriad of small and medium data aggregators distributed around the world. Personal data became a source of revenue and entire business models are created around it. It started as loyalty cards in which we could store rewards, and it morphed into the money that allows us to enjoy some free games on our phones. 
+
+The biggest problem when analyzing the situations is that data itself may be completely innocent: what browser we use, what fonts we have installed on the computer, when did we click on a newsletter article. Every single piece of information, in itself, does not mean anything. 
+
+That is why, the most important thing is to understand [[what is a machine learning algorithm]] and roughly how it works. Maybe there is a correlation between the seemingly *innocent* data and my sexual orientation, or political views. 
 
 From an algorithm perspective, it does not matter whether I explicitly state my political position. The correlation can be found using other's people data and extrapolated to the *innocent* information that was collected from me The two examples of sexual orientation and political inclination are already a problem in today's world. There are countries in which homosexuality can be punished or is highly un-approved by society. In some places political dissent is forbidden. 
 
