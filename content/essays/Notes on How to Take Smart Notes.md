@@ -1,9 +1,9 @@
 ---
 title: Notes on "How to take Smart Notes" by Sönke Ahrens
-description: The book introduces Luhmann's note-taking method and opens many fronts for discussion. 
+description: The book introduces Luhmann's note-taking method and opens many fronts for discussion. I summarize the content of the book and discuss how it can be extended.
 keywords: Notes, thinking, book review, zettelkasten
+header_image: og_how_smart_notes.png
 ---
-
 # Notes on "How to Take Smart Notes"
 
 How to Take Smart Notes became the *de-facto* source of truth to understand and practice [[the Luhmann method]] of note-taking. The book focuses on the academic writing done by students, not by professionals. The main difference is that students have shorter-term goals, such as writing a paper by the end of the semester. This focus explains why the book diverges and discusses studying techniques or brainstorming sessions. 
