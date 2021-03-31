@@ -88,6 +88,10 @@ blockquote {
 
 @tailwind utilities;
 
+.wikilink {
+    @apply no-underline shadow-wikilink transition duration-300 ease-in-out;
+}
+
 a.wikilink {
     @apply no-underline shadow-wikilink transition duration-300 ease-in-out;
 }
