@@ -785,6 +785,11 @@ blockquote {
   background-color: rgba(250, 204, 21, var(--tw-bg-opacity));
 }
 
+.bg-yellow-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(234, 179, 8, var(--tw-bg-opacity));
+}
+
 .hover\:bg-green-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgba(21, 128, 61, var(--tw-bg-opacity));
@@ -802,11 +807,6 @@ blockquote {
 .border-teal-400 {
   --tw-border-opacity: 1;
   border-color: rgba(45, 212, 191, var(--tw-border-opacity));
-}
-
-.border-yellow-400 {
-  --tw-border-opacity: 1;
-  border-color: rgba(250, 204, 21, var(--tw-border-opacity));
 }
 
 .focus\:border-green-500:focus {
@@ -844,10 +844,6 @@ blockquote {
 
 .border-l-8 {
   border-left-width: 8px;
-}
-
-.border-t-16 {
-  border-top-width: 16px;
 }
 
 .block {
@@ -928,6 +924,10 @@ blockquote {
 
 .h-10 {
   height: 2.5rem;
+}
+
+.h-12 {
+  height: 3rem;
 }
 
 .h-64 {
@@ -1064,6 +1064,10 @@ blockquote {
 
 .mr-8 {
   margin-right: 2rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
 }
 
 .mt-10 {
@@ -1532,6 +1536,10 @@ a.wikilink:hover {
     display: flex;
   }
 
+  .md\:h-24 {
+    height: 6rem;
+  }
+
   .md\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
@@ -1545,6 +1553,11 @@ a.wikilink:hover {
   .md\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
+  }
+
+  .md\:mx-2 {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
 
   .md\:mx-auto {
