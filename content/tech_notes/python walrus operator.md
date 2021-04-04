@@ -48,4 +48,4 @@ if (n := len(var)) > 3:
 
 Outputs ``4``. In the example with the filename it was not an issue because I was using already another function with the output of the walrus. 
 
-I am still hesitant about adding this syntax, since it only works on latest versions of Python which are still not the default on [[Linux]]. 
+I am still hesitant about adding this syntax, since it only works on latest versions of Python which are still not the default on Linux. 
