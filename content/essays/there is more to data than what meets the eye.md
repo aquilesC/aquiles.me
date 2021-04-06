@@ -15,7 +15,27 @@ When presented with the misery their platforms are creating (as well as other mo
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Although social networks can be analyzed from different perspectives, I want to focus on the issue of data collection itself. In this area is not only the super big players involved, but a myriad of small and medium data aggregators distributed around the world. Personal data became a source of revenue and entire business models are created around it. It started as loyalty cards in which we could store rewards, and it morphed into the money that allows us to enjoy some free games on our phones. 
+Although social networks can be analyzed from different perspectives, I want to focus on the issue of data collection itself. Data is collected, shared, and aggregated by many different companies, some of them are even unknown to the public until a scandal [breaks out](https://www.troyhunt.com/data-enrichment-people-data-labs-and-another-622m-email-addresses/). If there are entire business cases built around personal data, it means the value of accumulating it is higher than the mere idea of showing advertisements to the user of a free app. 
+
+The discussion has many different angles, including defining what is *personal* data and what can be done with it. Another interesting topic that is often overlooked is where does the data collection start and the responsibility of webmasters and app developers. Therefore, I am going to break the discussion into different, perhaps easier to digest, sections. 
+
+## What is personal data
+I would argue that *personal* data is any piece of information that can be linked to a person, even if indirectly. For example, we can register the license plates of the cars that pass through a certain spot in the city. License plates in themselves are not personal information, they belong to a car. However, cars are registered to people. Assuming that the owner of the car was driving it will be a correct assumption on most of the cases. 
+
+The examples in the online world are very similar. When we surf the internet, we get assigned a unique number called IP address. And the IP address is public in every online interaction, pretty much like a license plate on a car. Every website we visit, every ping a program sends to check whether the license is valid will be associated with an IP address. Assuming that one IP belongs to one person will be correct in a lot of cases. IP addresses *are* personal data, and this is also established by the GDPR regulation in Europe. 
+
+Storing IP addresses is a default behavior when setting up a server to host a website or the backed to an app. Looking at the IP addresses allow to identify abusers and block them before they create some damage to the other users. Therefore there is a very thin line between 
+
+At this point it may seem like a stretch, but bear with me during the following sections to understand what I mean. 
+
+## Where data collection starts
+Personal data collection
+
+In this area there are many different actors involved, not only the extremely big players. And all these different companies are scattered around the world, subject to different laws. Since the moment that personal data became a commodity, entire business models were created around it. Perhaps the earliest examples are loyalty cards that allowed us to accumulate points that we could exchange for rewards. The loyalty cards were accumulating data on consumer behavior that could later be fed to consumer analytics models. 
+
+What happens online is not too different from what was happening few decades ago. People are able to release free games online because they get money out of our data. Sometimes it is in the form of an advertisement, sometimes it is by openly sharing all they know of us to many different companies. For example, a weather app I used not only had advertisements it was also sharing my data with other 30 companies
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Something as simple as a weather app (<a href="https://twitter.com/Buienalarm?ref_src=twsrc%5Etfw">@Buienalarm</a>) shares my personal information with about 30 other companies. Seriously? What&#39;s the limit? <a href="https://t.co/cVuB1OXFgN">pic.twitter.com/cVuB1OXFgN</a></p>&mdash; Aquiles Carattino (@aquicarattino) <a href="https://twitter.com/aquicarattino/status/1368493316854194182?ref_src=twsrc%5Etfw">March 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 The biggest problem when analyzing the situations is that data itself may be completely innocent: what browser we use, what fonts we have installed on the computer, when did we click on a newsletter article. Every single piece of information, in itself, does not mean anything. 
 
