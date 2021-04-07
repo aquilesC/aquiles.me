@@ -2,7 +2,7 @@
 title: There is More to Data than what Meets the Eye
 description: Online privacy concerns are rooted in what can be done with user data. However there is little effort in explaining the far reaches of data collection
 epistemic: I have been studying the subject for years. I have implemented my own data analysis algorithms and analytics service
-status:draft
+status: draft
 ---
 # There is More to Data than what Meets the Eye
 When I discuss about online privacy, often I encounter people who simply do not care enough. Their argument is that *data* is only a collection of clicks, of websites visited. The worse thing that can happen is that you see advertisements for the products you are looking for online. What people fail to see is that what they are describing is only the tip of the iceberg of what those clicks and collections of websites can tell about a person. 
