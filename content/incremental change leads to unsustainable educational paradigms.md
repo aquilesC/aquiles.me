@@ -1,11 +1,8 @@
----
-title: Incremental change leads to unsustainable educational paradigms
-description: Can we keep adding incremental changes to the educational system, or we must reformulate how we build knowledge in order to empower the citizens of tomorrow?
-epistemic: This is a seed for many ideas I have. I am missing references, and many of the things I say may be the result of my own biases and lack of exposure to other realities. 
----
-In the same way [[incremental change can lead to undesired outcomes]] when we think about design, interfaces, or [[the web does not resemble the memex|the web]], what happens if we extrapolate to other systems, such as education? 
+In the same way [[incremental change can lead to undesired outcomes]] when we think about design, interfaces, or why [[the web does not resemble the memex]], what happens if we extrapolate to other systems, such as education? 
 
-When I had to teach Physics in high-school, I modeled my classes on the ones I received. I tried to make them better, but at best it could have been a marginal improvement. Moreover, I was in a context that didn't allow for much innovation. 
+Changes in education are tough because the system has a lot of inertia and very little amount of incentives to innovate. When I had to teach Physics in high-school, I modeled my classes on the ones I received. I tried to make them better, but at best it was a marginal improvement. Moreover, I was in a context that didn't allow for much innovation. 
+
+An idea that changed how I perceived the process was that [[science in the classroom is separated from the real world outside]]. 
 
 The thing I am most satisfied with was relating the amount of water that flows through a dam (that the students visited earlier in the year) with the energy consumption at their houses. They could finally understand what the $$kWh$$ meant, and the massive amount of water that is required just to switch the lights on. 
 
