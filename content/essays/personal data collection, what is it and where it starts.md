@@ -2,6 +2,7 @@
 title: Personal data collection, what is it and where it starts
 description: Online privacy concerns are rooted in what can be done with user data. However, there is little effort in explaining the far reaches of data collection
 epistemic: I have been studying the subject for years. I have implemented my own data analysis algorithms and analytics service
+head_image: personal_data_collection.jpg
 ---
 # Personal data collection, what is it and where it starts
 It is easy to believe that if personal data is used to show us advertisements, it is not that bad. However, advertisements are the visible aspect of the massive accumulation of data of end consumers. Hiring decisions, credit scores, surveillance can be based on the same personal data. The only difference between them is their visibility during our daily activities.  
