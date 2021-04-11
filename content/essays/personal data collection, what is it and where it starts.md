@@ -2,6 +2,7 @@
 title: Personal data collection, what is it and where it starts
 description: Online privacy concerns are rooted in what can be done with user data. However, there is little effort in explaining the far reaches of data collection
 epistemic: I have been studying the subject for years. I have implemented my own data analysis algorithms and analytics service
+template: essay.html
 head_image: personal_data_collection.jpg
 ---
 # Personal data collection, what is it and where it starts
