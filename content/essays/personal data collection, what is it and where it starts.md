@@ -42,6 +42,8 @@ And these reflections can get even darker. What would happen if you had access t
 
 Picking the example of pregnancy is not naive[^1]. I will pursue this line of reasoning even further in another piece. For the time being, it is essential to point out that pregnancy can be predicted with access to purchase records, not even medical records. Which links directly to the reidentifiability of meta-data discussed earlier. 
 
+![Value of data collection](/images/value_of_data 1.jpg)
+
 ## Where data collection starts
 For the sake of argument, I'll limit myself to discussing the online world and services. Data collection, however, can happen in many different instances. 
 
