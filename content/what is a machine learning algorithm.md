@@ -21,4 +21,4 @@ Perhaps today it is not possible to identify the sexual orientation of a person 
 
 But if numbers allow us to already think about far fetched possibilities, imagine what else is possible if you had access to the proper data. The mail office can scan each envelope and know *who* wrote each number. The medical services know whether you are sick or healthy. Those two pieces of information, if put together, transform the idea of predicting whether you are sick based on your handwriting from a bogus idea to a conceivable one. 
 
-That is why [[there is more to data than what meets the eye]]. 
+That is why [[personal data collection, what is it and where it starts]]. 
