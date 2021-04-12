@@ -2,7 +2,6 @@
 title: Low friction working
 status: draft
 ---
-
 Recently, I found myself thinking about my working habits and how can I improve them not only to be more productive, but find joy in the things I do. After thinking and trying several methods, I cam up with a framework I like to call *low friction working*. It is not a about a fixed set of tools but it is a way of thinking about the tools we use daily and how to tune them into our favor. 
 
 It took me long to understand that the best way of working is by having tools that adapt to the way our mind works. 
