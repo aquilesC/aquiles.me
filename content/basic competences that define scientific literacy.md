@@ -20,4 +20,6 @@ But, they can be further extended to a more concrete plane:
 
 These different skills fit perfectly the ideas if [[Curiosity-driven education]], by [[science education should be method-oriented]]. 
 
-Although the different steps seem reasonable, I am completely missing the trigger. How can we experiment if we don't have a question. This is one of the biggest concerns I have: [[ideas are born through interaction with the world]]
+Although the different steps seem reasonable, I am completely missing the trigger. How can we experiment if we don't have a question. This is one of the biggest concerns I have: [[ideas are born through interaction with the world]]. 
+
+The competences are measured through [[standardized educational tests]]. Through this tests it is possible to know that, at least in Latin America, [[science education outputs correlate with socioeconomic level]] and that [[university students perform poorly in basic science tests]].

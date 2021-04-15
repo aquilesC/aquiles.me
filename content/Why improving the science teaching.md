@@ -1,0 +1,8 @@
+I have been focusing on [[why we teach science in school]], but the reality is that question has been more or less answered and agreed on[@furman2020]. A much more appropriate one is why we should improve it. 
+
+Provided that we assume the premises of the why we do it, then we can argue the following:
+
+- Teaching is instrumental for social justice and equality. While [[science education outputs correlate with socioeconomic level]], the system will be self-replicating and the idea that [[education allows upwards social mobility]] will be a fallacy. This, however, does not relate exclusively to [[science education]] but to education overall. 
+- Social justice in our current context is highly related to [[climate change]]. The current condition has been likely pushed by having a very small pool of people (mainly white men) making decisions for the rest of the humanity. Therefore, expanding the pool of people that can think and judge the solutions being pushed forward can only help humanity as a whole. 
+- Assuming that [[GDP is a reliable metric of growth]], and considering that [[correlating GDP to scientific productivity is a reasonable proxy for progress]], we can argue that [[Science after WWII has stagnated]]. Although there may be a short-term solution by [[changing scientific incentives can help overcome stagnation]], the most important thing is that democratizing the access to science can only help overcoming the current lack of progress. 
+- To achieve an overall increase of humanity's progress it is of utmost importance that educational projects do not focus exclusively on strengthening those who are already achieving exceptional performance, but on those that are lagging behind. 
