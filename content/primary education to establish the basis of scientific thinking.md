@@ -4,7 +4,7 @@ Primary education is crucial in shaping the future of educative success of stude
 
 There is evidence that kids can form theories about the world that surrounds them[@furman2020]. The way they explore the world is very similar to "professional" [[scientific Exploration and Play]]. 
 
-However without deliberate practices, the kids will not fully develop complete scientific thinking. There is only so much that students can develop by themselves, and they'll need support to push their boundaries further. The role of teachers and how they make students achieve [[basic competences of scientific literacy]] must be strengthen. 
+However without deliberate practices, the kids will not fully develop complete scientific thinking. There is only so much that students can develop by themselves, and they'll need support to push their boundaries further. The role of teachers and how they make students achieve [[basic competences that define scientific literacy]] must be strengthen. 
 
 The method that is gaining traction is [[curiosity-driven education]], and there are more critics to the idea of [[education is content based]]. Although, many ideas overlap with the principle that [[science education should be method-oriented]][@furman2020], there still problems. For example [[Teaching curricula in latin america fail to guide teachers]], rendering the access to improving cycles almost negligible. 
 
