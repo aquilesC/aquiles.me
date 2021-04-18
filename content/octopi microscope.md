@@ -16,7 +16,7 @@ I have also seen a [[spectrometer]] from [[Armani Lab]] that targets the same pr
 Simple microscope with a stage that can scan large areas and auto-focus. In this way it is possible to image large areas of a smear of [[blood]]. A piezo focuses on the microscope slide and two stepper motors move the sample in XY. A [[Jetson Nano]] powers the pattern recognition software that identifies red blood cells. There is also a laser for fluorescent imaging, and in principle a filter
 
 ## Limitations of Octopi
-It is very badly documented. It is hard to know what hardware is actually used. A lot of components are sourced from Aliexpress, which means they come and go of stock and it is very hard to buy the exact same components. 
+It is very badly documented. It is hard to know what hardware is actually used. A lot of components are sourced from Aliexpress, which means they come and go out of stock and it is very hard to buy the exact same components. 
 
 
 [^1]: https://doi.org/10.1101/684423 

@@ -2,7 +2,15 @@
 title: Low friction working
 status: draft
 ---
-Recently, I found myself thinking about my working habits and how can I improve them not only to be more productive, but find joy in the things I do. After thinking and trying several methods, I cam up with a framework I like to call *low friction working*. It is not a about a fixed set of tools but it is a way of thinking about the tools we use daily and how to tune them into our favor. 
+As humans, whatever we do during a day will be supported by tools. From the alarm clock that wakes us in the morning to the pen we use to take notes, to the computer or phone we use for hours on end. It is virtually impossible to achieve anything during a day without the use of tools. However, how often do we take a moment to judge the tools we use? 
+
+The problem with not reflecting on the tools themselves is that they may be a source of friction during our activities. Friction, as we may remember from physics courses, if a phenomenon that manifests when we want to do *work* and it ends up wasting our energy, transforming it to heat. If during a normal day we need to interact with a high-friction tool, a lot of our energy will be dissipated and we won't be able to achieve much. 
+
+
+
+In any case, these forms are completely out of our control and they are not *our tools* but the tools of the tax authorities or an online merchant. 
+
+I started paying attention not just the small rituals to be more productive.  and how can I improve them not only to be more productive, but find joy in the things I do. After thinking and trying several methods, I cam up with a framework I like to call *low friction working*. It is not a about a fixed set of tools but it is a way of thinking about the tools we use daily and how to tune them into our favor. 
 
 It took me long to understand that the best way of working is by having tools that adapt to the way our mind works. 
 
