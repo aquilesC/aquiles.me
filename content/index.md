@@ -4,10 +4,17 @@ description: This is the place where I think and learn in public. From science t
 topics: Aquiles, Carattino, learning in public, digital garden
 template: index.html
 ---
-## My corner of the internet
+
+## Mi rincón en Internet
+Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
+
+- [[Las palabras en los libros son como el ADN que cuenta una historia antigua]]
+
+## My corner on the Internet
 
 This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
 
+- [[essays/Words in books are like the DNA that describes our ancient history]]
 - [[essays/How to write a programming book|How to write a programming book]]
 - [[essays/Notes on How to Take Smart Notes|Notes on How to Take Smart Notes]] by Sönke Ahrens
 - [[essays/After a Failure Revert to the Last Known Working State|After a Failure Revert to the Last Known Working State]]
