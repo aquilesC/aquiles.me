@@ -1,6 +1,6 @@
 ---
 title: Las palabras en los libros son como el ADN que cuenta una historia antigua
-description: Los libros acumulan cambios en sus páginas de la misma manera que el ADN. Estudiándolos se puede aprender sobre el contexto, la historia no contada.
+description: Los libros acumulan cambios en sus páginas de la misma manera que el ADN. Estudiándolos se puede aprender sobre parte de la historia no contada de la humanidad
 lan: es
 template: essay.html
 head_image: books_dna.png
