@@ -1,6 +1,6 @@
 ---
 title: Los libros cuentan la historia que queremos recordar. El ADN cuenta la historia que no podemos recordar. 
-status: draft
+description: Los libros acumulan cambios en sus páginas de la misma manera que el ADN. Estudiándolos se puede aprender sobre el contexto, la historia no contada.
 lan: es
 template: essay.html
 head_image: a_new_way_of_blogging.png

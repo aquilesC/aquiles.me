@@ -1,6 +1,7 @@
 ---
 title: Words are the DNA of the history we remember. DNA is the book of the histories we don't remember
-status: draft
+description: Text in books accumulate changes such as DNA does. Studying them can tell the untold story of humanity. 
+template: essay.html
 ---
 There are two types of history, the one we remember and the one we don't. Many people remember the glorious times when gods inhabited the planet. Some were compassionate, and some were as fallible and self-centered as many modern celebrities. In some parts of the world, the stories of exploration and creation are alive and guide daily practices and rituals. 
 
