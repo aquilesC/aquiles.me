@@ -3,7 +3,7 @@ title: Los libros cuentan la historia que queremos recordar. El ADN cuenta la hi
 description: Los libros acumulan cambios en sus páginas de la misma manera que el ADN. Estudiándolos se puede aprender sobre el contexto, la historia no contada.
 lan: es
 template: essay.html
-head_image: a_new_way_of_blogging.png
+head_image: books_dna.png
 ---
 
 Hay dos tipos de historia, la que podemos recordar y la que podemos imaginar. La historia que podemos recordar está llena de dioses, tan frívolos y falibles como cualquier vecino, que habitaban el planeta. Había gigantes y gentes extrañas, nadie sabía qué había del otro lado del mundo. En muchos lugares, las gestas de descubrimiento y creación primigenia aún están presentes en las prácticas que guían rituales a diario. 
