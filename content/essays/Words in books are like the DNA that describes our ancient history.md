@@ -1,5 +1,5 @@
 ---
-title: Words are the DNA of the history we remember. DNA is the book of the histories we don't remember
+title: Words in books are like the DNA that describes our ancient history
 description: Text in books accumulate changes such as DNA does. Studying them can tell the untold story of humanity. 
 template: essay.html
 head_image: books_dna.png
