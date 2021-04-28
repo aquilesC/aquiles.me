@@ -1,0 +1,1 @@
+They are a kind of [[extracelluar vesicle]] with size range between \(1\mu m\) and \(5\mu m\)
