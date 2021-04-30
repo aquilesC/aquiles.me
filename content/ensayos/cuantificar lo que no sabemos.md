@@ -4,6 +4,7 @@ description: Más allá del socrático no saber nada, podemos cuantificar cuánt
 lan: es
 template: essay.html
 head_image: books_dna.png
+status: draft
 ---
 
 Una de las características que nos hace humanos es la capacidad de acumular conocimiento. La tecnología, nuestra habilidad de manipular la naturaleza o el lenguaje, van cambiando en el tiempo gracias a que podemos construir sobre lo que nuestros antepasados desarrollaron. Pero esto no quiere decir que cada vez haya menos por descubrir sino todo lo contrario. Cada vez tenemos cosas más alucinantes esperándonos por delante, motivándonos a seguir pensando y acumulando conocimiento. 
