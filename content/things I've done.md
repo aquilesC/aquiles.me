@@ -9,7 +9,7 @@ It is hard to summarize the things I've done, especially because some are relati
 - [[Dispertech]]
     - Everything from [[business development]], to [[optics design]], including [[instrumentation software]], and [[prototype development]].
 - [[Python for the Lab]]
-- [[Helpdesk Klimaat]]
+- [Klimaat Helpdesk](https://www.klimaathelpdesk.org/)
 - [[This website is not a blog|This Website]]
 
 ## Things I've done (some I may re-start):
