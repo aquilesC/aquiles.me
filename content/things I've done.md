@@ -5,7 +5,7 @@ description: Over the years I have done many things, some that persist some that
 # Things I've Done
 It is hard to summarize the things I've done, especially because some are relatively small, but not less important in my life. 
 
-## Things I am doing right [[now]]:
+## Some things I am doing right [[now]]:
 - [[Dispertech]]
     - Everything from [[business development]], to [[optics design]], including [[instrumentation software]], and [[prototype development]].
 - [[Python for the Lab]]
@@ -15,8 +15,8 @@ It is hard to summarize the things I've done, especially because some are relati
 ## Things I've done (some I may re-start):
 This list of things belong, somewhat, to my past, but they also have an impact on my present. Some were stepping stones, some were really path changers. I am still evaluating which is which. 
 
--  [[Privalytics]] My first attempt at a SaaS. Frozen status but working.
--  [[Uetke]] My first serious business after [[My PhD]]
+-  [[Privalytics]] My first attempt at a SaaS. Frozen status but working for my own projects.
+-  [Uetke](https://www.uetke.com) My first serious business after [[My PhD]]
 -  [[My PhD]]
     - [[Temperature sensing with gold nanoparticles]]
     - [[Background-free imaging of gold nanoparticles]]
