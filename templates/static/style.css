@@ -927,6 +927,10 @@ blockquote {
   height: 2.5rem;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .h-64 {
   height: 16rem;
 }
@@ -1318,6 +1322,10 @@ blockquote {
 
 .w-64 {
   width: 16rem;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .w-full {
