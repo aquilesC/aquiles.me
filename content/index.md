@@ -8,6 +8,7 @@ template: index.html
 ## Mi rincón en Internet
 Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
 
+- [[ensayos/Cuantificar lo que no sabemos]]
 - [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua]]
 
 ## My corner on the Internet
