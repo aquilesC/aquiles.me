@@ -4,6 +4,7 @@ description: Cuántas veces tenemos la oportunidad de hacer tabula rasa. Ir acum
 lan: es
 template: essay.html
 head_image: og_cuantificar_no_sabemos.png
+status: draft
 ---
 
 Cada vez que interactuamos con alguna herramienta, lo hacemos a través de una interfaz. Por ejemplo, para abrir una puerta usamos una llave que encaja en un orificio y sabemos que la tenemos que hacer girar hacia la izquierda para destrabarla. No importa si es la puerta de una casa, de una caja fuerte, o de un coche, en todos los contextos sabremos cómo abrirla. Si usamos un teléfono para escribir un mensaje, la interfaz que nos aparecerá es la de un teclado y sabremos inmediatamente cómo componer un texto. Lo que más me intriga es el hecho de que el teclado luzca igual que el de las máquinas de escribir hace más de 100 años, aunque la tecnología disponible sea radicalmente diferente. 
