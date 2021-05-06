@@ -1,0 +1,15 @@
+.header {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    nav {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 15px;
+        padding-right: 50px;
+    }
+
+    &__logo {
+        display: flex;
+        flex-grow: 1;
+        height: 24px;
+    }
+}
