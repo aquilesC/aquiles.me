@@ -1,6 +1,6 @@
 ---
-title: El cambio incremental nos puede llevar a lugares indeseados
-description: Cuántas veces tenemos la oportunidad de hacer tabula rasa. Ir acumulando cambios nos puede llevar a destinos lejos de ser óptimos.
+title: Repensando el rol de la tecnología en la educación
+description: Los avances tecnológicos no llegaron a las aulas de una manera eficiente. Diferentes pensamientos sobre cómo nuevas herramientas podrían cambiar la dinámica escolar.
 lan: es
 template: essay.html
 head_image: og_cuantificar_no_sabemos.png

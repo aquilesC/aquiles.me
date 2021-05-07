@@ -1,6 +1,6 @@
 ---
-title: Ciencia ciudadana: repensando el rol de la investigación
-description: Haciendo ciencia puede estar en manos de científicos no profesionales
+title: Repensando el rol de la tecnología en la educación
+description: Los avances tecnológicos no llegaron a las aulas de una manera eficiente. Diferentes pensamientos sobre cómo nuevas herramientas podrían cambiar la dinámica escolar.
 lan: es
 template: essay.html
 head_image: og_cuantificar_no_sabemos.png
