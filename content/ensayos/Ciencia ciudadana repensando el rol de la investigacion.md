@@ -1,6 +1,6 @@
 ---
 title: Ciencia ciudadana: repensando el rol de la investigación
-description: 
+description: Haciendo ciencia puede estar en manos de científicos no profesionales
 lan: es
 template: essay.html
 head_image: og_cuantificar_no_sabemos.png
