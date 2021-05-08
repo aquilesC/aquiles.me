@@ -1,9 +1,9 @@
 ---
-title: Repensando el rol de la tecnología en la educación
-description: Los avances tecnológicos no llegaron a las aulas de una manera eficiente. Diferentes pensamientos sobre cómo nuevas herramientas podrían cambiar la dinámica escolar.
+title: El cambio incremental nos puede llevar hacia lugares indeseados
+description: Que los teléfonos sigan teniendo teclados QWERTY en sus pantallas es producto de una acumulación de decisiones que impiden transformaciones realmente innovadoras. No sólo la tecnología presenta esta problemática. 
 lan: es
 template: essay.html
-head_image: og_cuantificar_no_sabemos.png
+head_image: og_cambio_incremental.png
 status: draft
 ---
 
