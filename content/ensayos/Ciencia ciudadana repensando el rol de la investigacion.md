@@ -1,5 +1,5 @@
 ---
-title: Repensando el rol de la tecnología en la educación
+title: La ciencia ciudadana recupera el rol de la observación de la naturaleza
 description: Los avances tecnológicos no llegaron a las aulas de una manera eficiente. Diferentes pensamientos sobre cómo nuevas herramientas podrían cambiar la dinámica escolar.
 lan: es
 template: essay.html
