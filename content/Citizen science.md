@@ -9,6 +9,7 @@ Some projects worth keeping an eye on:
 - [Exoss](https://press.exoss.org/)
 - [Game Fold-it](https://fold.it/)
 - [GalaxyZoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
+- [Astroplant](https://www.astroplant.io)
 
 
 ## Platforms

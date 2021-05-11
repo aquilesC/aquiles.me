@@ -4,7 +4,7 @@ They argue that it is possible to measure the novelty of research by doing a tex
 
 They call this the "edge factor" and could be complimentary to the "impact factor". Perhaps a scientist focuses on novel ideas that are still to immature to generate "impact" but that are part of the [[Scientific Exploration and Play]]. 
 
-The authors of [@bhattacharya2020] describe a possible method, also using machine learning, to identify papers that have a high novelty even though this may not be reflected in the number of citations. 
+The authors of [@bhattacharya2020] describe a possible method, also using [[machine learning]], to identify papers that have a high novelty even though this may not be reflected in the number of citations. 
 
 !!! image medium
     ![Novelty and impact in pub med publications](/images//Screenshot 2021-02-23 at 20.38.06.png)
