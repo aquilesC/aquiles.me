@@ -667,6 +667,10 @@ p {
   margin-bottom: 1rem;
 }
 
+hr {
+  border-width: 4px;
+}
+
 strong {
   font-family: geomanistbook;
 }
@@ -1683,10 +1687,6 @@ a.wikilink:hover {
     margin-top: 3rem;
   }
 
-  .lg\:max-w-screen-md {
-    max-width: 768px;
-  }
-
   .lg\:max-w-screen-lg {
     max-width: 1024px;
   }
@@ -1708,3 +1708,4 @@ a.wikilink:hover {
 
 @media (min-width: 1536px) {
 }
+
