@@ -3,8 +3,7 @@ title: Repensando el rol de la tecnología en la educación
 description: Los avances tecnológicos no llegaron a las aulas de una manera eficiente. Diferentes pensamientos sobre cómo nuevas herramientas podrían cambiar la dinámica escolar.
 lan: es
 template: essay.html
-head_image: og_cuantificar_no_sabemos.png
-status: draft
+head_image: og_educacion_tecnologia.png
 ---
 
 El desarrollo tecnológico ha abierto muchas posibilidades a lo largo de la historia. Los libros permitieron la diseminación de ideas a velocidades y con alcances geográficos impensados. Formas económicas de escritura permitieron que grandes grupos de personas aprendieran a leer y escribir. Sin embargo, en los últimos dos milenios, el progreso tecnológico dentro de las aulas fue marginal. Sin dudas hubo un gran esfuerzo inclusivo, muchos países erradicaron el analfabetismo. Ahora es el momento de dar el siguiente paso, sólo que esta vez no debe ser cuantitativo sino cualitativo. 
