@@ -4,7 +4,6 @@ description: Ciencia ciudadana.
 lan: es
 template: essay.html
 head_image: og_ciencia_ciudadana.png
-status: draft
 ---
 Si hoy en día pensamos en el lugar donde se hace investigación, probablemente nos venga a la mente un laboratorio lleno de instrumentos muy sofisticados. Pensaremos en gente usando batas blancas y quizás anteojos de seguridad. El último la actividad científica se profesionalizó como nunca antes, a la par de muchas otras profesiones. Gradualmente la ciencia se alejó del público, se recluyó en campuses cada vez más alejados de centros urbanos. Esta falta de contacto entre ciencia y sociedad se está revirtiendo gracias a proyectos de **ciencia ciudadana**. Proyectos que intentan devolver el contacto con la naturaleza, la curiosidad y la motivación para el avance científico al lugar del que originó: la naturaleza a la que cada persona tiene acceso, desde desde el cielo o un parque público hasta las bacterias en la cocina.    
 
