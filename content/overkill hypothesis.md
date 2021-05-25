@@ -4,4 +4,4 @@ The [[Pleistocene extinctions]] are temporally correlated to the arrival of mode
 
 However, [[not all hominins drove extinctions in islands]], which cast some doubts regarding the validity of the overkill extinction across the board. One possibility is that *overkill* is a result of cultural changes that appeared later in time and not an intrinsic characteristic of humans. 
 
-![Overkill plot showing decrease of species in different parts of the world and its correlation with human arrival](Screenshot 2021-05-25 at 17.44.04.png)
+![Overkill plot showing decrease of species in different parts of the world and its correlation with human arrival](/images/Screenshot 2021-05-25 at 17.44.04.png)
