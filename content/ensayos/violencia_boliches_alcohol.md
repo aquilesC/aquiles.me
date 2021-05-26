@@ -1,6 +1,7 @@
 ---
 title: Violencia, boliches, rugby y las cosas que nadie discute
 description: Los periodistas argentinos olvidan hechos a cambio de sensacionalismo. 
+lan: es
 ---
 
 # Violencia, boliches, rugby y las cosas que nadie discute

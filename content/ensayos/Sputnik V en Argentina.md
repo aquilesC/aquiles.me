@@ -1,6 +1,7 @@
 ---
 title: La llegada de la Sputnik V a Argentina
 description: En un contexto donde la aprobación de las vacunas se hace bajo una gran presión, la transparencia debe ser el principio rector de cualquier actividad política. 
+lan: es
 ---
 Argentina decidió importar la vacuna Sputnik V desde Rusia y la aprobación no vino desde la ANMAT, sino desde el Ministerio de Salud en el momento en que la vacuna estaba en el aire, volando hacia al país. Hay que reconocer que el gobierno invirtió un gran esfuerzo publicitario, al punto que los pilotos que volaron a Moscú tenían tapabocas con la leyenda "Operación Moscú 2020".
 
