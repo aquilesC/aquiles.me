@@ -1,6 +1,6 @@
 ---
 title: Ciencia ciudadana
-description: Ciencia ciudadana.
+description: Proyectos que acercan la idea de hacer ciencia a un público general, retomando las ideas de que ciencia y naturaleza nacen juntas
 lan: es
 template: essay.html
 head_image: og_ciencia_ciudadana.png
