@@ -4,12 +4,37 @@
         padding-top: 5px;
         padding-bottom: 5px;
         padding-left: 15px;
-        padding-right: 50px;
+        padding-right: 15px;
     }
 
     &__logo {
         display: flex;
         flex-grow: 1;
         height: 24px;
+    }
+
+    &__links{
+        font-size: 1.125rem;
+        font-weight: bold;
+        > a{        
+            color: black;
+            border: 0px;
+            border-bottom: 2px $lightyellow;
+            border-style: solid;
+            transition: border 300ms ease-in-out;
+            &:hover{
+                border: 0px;
+                border-bottom: 5px $darkyellow;
+                border-style: solid;
+                bottom: 5px;
+            }
+            &:not(:last-child){
+                margin-right: 33px;
+            }
+        }
+    }
+
+    .lang-light{
+        font-weight: normal;
     }
 }

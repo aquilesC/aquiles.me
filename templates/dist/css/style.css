@@ -16,6 +16,18 @@ body {
   font-family: 'Profile Pro', sans-serif;
 }
 
+@media (min-width: 64em) {
+  body {
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+a, a:visited, a:hover {
+  text-decoration: none;
+}
+
 .flex {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -49,7 +61,7 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 15px;
-  padding-right: 50px;
+  padding-right: 15px;
 }
 
 .header__logo {
@@ -60,5 +72,34 @@ body {
       -ms-flex-positive: 1;
           flex-grow: 1;
   height: 24px;
+}
+
+.header__links {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.header__links > a {
+  color: black;
+  border: 0px;
+  border-bottom: 2px #ffd000;
+  border-style: solid;
+  -webkit-transition: border 300ms ease-in-out;
+  transition: border 300ms ease-in-out;
+}
+
+.header__links > a:hover {
+  border: 0px;
+  border-bottom: 5px #ffd000;
+  border-style: solid;
+  bottom: 5px;
+}
+
+.header__links > a:not(:last-child) {
+  margin-right: 33px;
+}
+
+.header .lang-light {
+  font-weight: normal;
 }
 /*# sourceMappingURL=style.css.map */
