@@ -3,7 +3,7 @@ title: Ella la Cazadora
 description: Extrapolar hacia el pasado nos puede llevar a crear imágenes completamente erróneas sobre nuestros ancestros
 lan: es
 template: essay.html
-head_image: og_ella_cazadora.png
+head_image: og_ella_cazadora.jpg
 ---
 
 Mucho antes de que los humanos pudieran depender de la agricultura para alimentarse, nuestros ancestros debían cazar animales y recolectar lo que encontraran en el camino. En nuestro ideario colectivo hay un antes y un después de la introducción de la agricultura, desde la explosión poblacional hasta el desarrollo de estructuras económicas y de gobierno. Sin embargo, algunas características sobre nuestra naturaleza, gestadas en esa antigüedad de cazadores/recolectores, pueden haber permanecido hasta nuestros días. Siempre se dijo que entender la historia es una forma de abrir una ventana hacia nuestro futuro. Por el otro lado, imaginar pasados equivocados nos permite justificar cualquier comportamiento moderno. 
