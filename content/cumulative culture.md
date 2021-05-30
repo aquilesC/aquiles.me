@@ -5,5 +5,5 @@ Humans are able to build knowledge that is passed through generations. This coul
 
 For earlier groups of humans, [[egalitarian societies explain diveristy in hunter-gatherer groups]], which could further increase the accumulation of knowledge and cooperation among people. 
 
-> The shift from an acnestral hierarchical, female-dispersal sstem to a multilocal, egalitarian one would provide the selective context for expanded social networks, cumulative culture, and cooperation among unrelated individuals.
+> The shift from an ancestral hierarchical, female-dispersal system to a multilocal, egalitarian one would provide the selective context for expanded social networks, cumulative culture, and cooperation among unrelated individuals.
 > [@dyble2015]
