@@ -4,8 +4,8 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- Reading about [[extracellular vesicle]] and how they can be used as drug delivery systems, or for diagnosis.
-- Reading [[Catalytic Experiences - Hamid Ghanadan]]
-- Reading [[El infinito en un junco - Irene Vallejo]]
+- Building a prototype of a [[light sheet]] microscope to image [[extracelluar vesicle]]
+- Reading [@ianuzzi2017] see starting point at: [[entrepreneurship for scientists]]
+- Reading [[Project Hail Mary - Andy Weir]]
 - [[Building an 8-bit computer]]
 - [Building a Newsletter (yet again)](http://newsletter.aquiles.me/)
