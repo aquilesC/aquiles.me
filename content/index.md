@@ -8,6 +8,8 @@ template: index.html
 ## Mi rincón en Internet
 Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
 
+- [[ensayos/ciencia ciudadana]]
+- [[ensayos/ella la cazadora]]
 - [[ensayos/Cuantificar lo que no sabemos]]
 - [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua]]
 
@@ -31,7 +33,6 @@ If you are interested in open-sourcing your code, or if you are a scientist inte
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
-- I am writing a guide on [[digital garden|Digital Gardens]], perhaps a short book?
+- I am thinking about [[technolog transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
 - [[Guide on how to open-source projects]] <- This is [[work in progress]]
-- [[Designing electronics]] is a joyful (and time consuming) task
-- I am thinking about the [[digital garden tos]] (terms of service), help me figure out how to behave in this space!
+- Check what I am doing [[now]]
