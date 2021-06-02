@@ -19,7 +19,7 @@ This website can be navigated only by following links. There are no "latest arti
 - [[essays/How to write a programming book|How to write a programming book]]
 - [[essays/Notes on How to Take Smart Notes|Notes on How to Take Smart Notes]] by Sönke Ahrens
 - [[essays/After a Failure Revert to the Last Known Working State|After a Failure Revert to the Last Known Working State]]
-- [[essays/Choosing between Zetllr and Obsidian|Choosing between Zetllr and Obsidian]]
+- [[essays/choosing between zettlr and obsidian|Choosing between Zetllr and Obsidian]]
 - [[essays/personal data collection, what is it and where it starts|Personal data collection, what is it and where it starts]]
 - [[essays/Notes on Working in Public - Nadia Eghbal|Notes on Working in Public]] by Nadia Eghbal
 - [[essays/Simple explanation of an optimization algorithm|Simple explanation of an optimization algorithm]]
