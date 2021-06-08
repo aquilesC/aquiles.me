@@ -29,7 +29,7 @@ En 2021, 350 años después de la fabricación de los primeros microscopios, un 
 
 De los dos microscopios analizados, uno poseía una lente que había sido pulida. Es una técnica muy similar a la que se empleaba para fabricar lentes para telescopios. El resultado son microscopios con un poder de resolución intermedio. Este resultado no es particularmente llamativo porque era el método que el propio van Leeuwenhoek decía que utilizaba. Además las propiedades ópticas siempre estuvieron en línea con lo que se esperaba. 
 
-![Lente usada en el microscopio de van Leeuwenhoek. Tomada de Cocquyt 2021][/images/van_leeuwenhoek_lens.png]]
+![Lente usada en el microscopio de van Leeuwenhoek. Tomada de Cocquyt 2021](/images/van_leeuwenhoek_lens.png)
 
 La mayor sorpresa vino al estudiar el segundo microscopio. La lente usada era una lente globular con un pequeño tallo saliendo hacia el costado. Este resultado era completamente inesperado. Primero, porque van Leeuwenhoek explícitamente había dicho que las lentes esféricas no podrían haber sido colocadas dentro de sus microscopios, no había suficiente espacio entre las placas de bronce. Segundo, porque el tallo es el resultado de usar la técnica de fabricación que Hooke había desarrollado y no una técnica secreta como se creía. 
 
