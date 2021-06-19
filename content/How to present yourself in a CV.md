@@ -35,7 +35,7 @@ Today, people are exposed to many different stimuli and can pursue many differen
 ## The presentation of the CV
 Knowing what to write is the first step, knowing how to write is a different discussion. There are many templates available for CV's. Pick one that you think represents your personality. But don't over stress about it. I tend to prefer single-column CV's in which you can easily see the different blocks like *education*, *work experience*, *hobbies*, *languages*, etc. That makes it parsing the information much easier. 
 
-I have been asked about **single or double page** CV's. I think if you are just finishing your studies there's a chance there won't be much to cover more than one page. If you already have experience, the challenge is to condense all you have done. In general, use the front page to capture the interest of the reader and use the second/back page for the extras. If your academic qualifications or work experience are good enough, I'll flip the page, if they are not, probably there's nothing on the second page that can make me change my mind. 
+I have been asked about **single or double page** CV's. I think if you are just finishing your studies there's a chance there won't be much information about yourself to cover more than one page. If you already have experience, the challenge is to condense all you have done. In general, use the front page to capture the interest of the reader and use the second/back page for the extras. If your academic qualifications or work experience are good enough, I'll flip the page, if they are not, probably there's nothing on the second page that can make me change my mind. 
 
 **To photo or not to photo** is open for discussion. I wouldn't mind getting CV's without a photo, so I know I can base my decision without even having access to the looks of the person. However, I also understand that in some contexts this may work the other way around, generating some form of negative bias on the recipient of the application. I don't have elements to give an opinion on this matter, I know I don't mind getting CV's without a photo and I think it would be a better idea to avoid them altogether, same as with marital status, for example. 
 
@@ -43,4 +43,5 @@ Finally, it is important to **make it easy to find you**. If you have a blog, a 
 
 One you are done with your CV, the next step is learning [[how to write a good cover letter for a job]]
 
-
+## Ask someone to read it
+Never forget the value of early feedback. Ask someone you trust and that may have experience reviewing CV's (especially if they are in the same field where you are applying). There are some key elements in CV's that are very easy to miss when it is your own but very easy to spot on others'. 
