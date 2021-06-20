@@ -33,6 +33,6 @@ If you are interested in open-sourcing your code, or if you are a scientist inte
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
-- I am thinking about [[technolog transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
+- I am thinking about [[technology transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
 - [[Guide on how to open-source projects]] <- This is [[work in progress]]
 - Check what I am doing [[now]]
