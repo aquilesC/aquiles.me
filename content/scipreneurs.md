@@ -1,4 +1,4 @@
-Although I have seen this word elsewhere, I relate to anybody who follows the [[entrepreneurship for scientists]] path, especially focusing on [[technolog transfer]]. 
+Although I have seen this word elsewhere, I relate to anybody who follows the [[entrepreneurship for scientists]] path, especially focusing on [[technology transfer]]. 
 
 Useful links:
 
