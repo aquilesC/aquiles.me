@@ -14,45 +14,6 @@
                 {% endif %}
             {% endblock content %}
     </div>
-    <div id="revue-embed" class="my-4 p-6 shadow rounded-lg">
-        <h4 class="text-3xl font-head">Newsletter</h4>
-        <div class="text-md font-sans">Join my experiment of better thinking and interesting discussions</div>
-        <div class="sm:rounded-md my-6">
-            <form action="https://www.getrevue.co/profile/aquiles/add_subscriber" method="post"
-                  id="revue-form" name="revue-form" target="_blank">
-                <div class="grid grid-cols-6 gap-6 mb-2">
-                    <div class="col-span-6 sm:col-span-4">
-                        <label for="member_email" class="block">
-                            <span class="text-md font-medium text-gray-800">Email address</span>
-                            <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
-                                   placeholder="Your email address..." type="email"
-                                   name="member[email]" id="member_email">
-                        </label>
-                    </div>
-                    <div class="col-span-6 sm:col-span-4">
-                        <label for="member_first_name" class="block">
-                                        <span class="text-md font-medium text-gray-800">Name
-                                            <span class="text-gray-600">(Optional)</span>
-                                        </span>
-                            <input class="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
-                                   placeholder="First name... (Optional)" type="text"
-                                   name="member[first_name]" id="member_first_name"
-                                   autocomplete="given-name"></label>
-                    </div>
-                </div>
-                <div class="mt-5 py-3 text-left ">
-                    <button type="submit" id="member_submit"
-                            class="inline-flex bg-green-200 justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md hover:shadow-md active:shadow-inner active:shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
-                        Subscribe
-                    </button>
-                </div>
-            </form>
-            <div class="text-xs">By subscribing, you agree with Revue’s <a target="_blank"
-                                                                           href="https://www.getrevue.co/terms">Terms</a>
-                and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
-            </div>
-        </div>
-    </div>
     <div class="h-card flex bg-blue-100 shadow-inner shadow-lg">
         <img src="/{{ static }}/aquiles_square.jpg"
              alt="photo of Aquiles Carattino" class="u-photo h-64 mr-8"/>
