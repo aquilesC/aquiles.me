@@ -17,35 +17,14 @@ El ADN es una molécula que permite identificar unívocamente a un organismo. Da
 
 Las bacterias de nuestro intestino, también llamadas *microbioma*, son una parte integral del proceso digestivo. En algunos casos se encargan de procesar moléculas complejas. Si bien la tolerancia a la lactosa es de origen genético, la presencia de bacterias puede ayudar a paliar los casos de intolerancia[@azcarate-peril2017]. Que las bacterias estén dentro de nuestro organismo, no las hace menos susceptibles a cambios en el entorno. Cambios en nuestras dietas, por ejemplo, pueden reflejar cambios en las poblaciones bacterianas. Por eso estudiar la historia del microbioma puede ayudarnos a entender no sólo cambios en nuestras dietas en el pasado, sino también la raíz de varios problemas alimenticios modernos, como la diabetes. 
 
-Una de las dificultades de estudiar organismos como bacterias es que difícilmente se preservan junto con los restos humanos. Es por eso que un grupo de científicos de diferentes institutos alrededor del mundo decidieron estudiar paleo-heces. En el desierto entre Estados Unidos y México, las heces humanas se preservaron de forma excepcional gracias al clima de la región. Esto permitió identificar bacterias presentes en el intestino humano hace más de 2000 años y compararlas con las bacterias presentes en diferentes sociedades modernas, tanto industriales como pre-industriales. 
+Una de las dificultades de estudiar organismos como bacterias es que difícilmente se preservan junto con los restos humanos. Es por eso que un grupo de científicos de diferentes institutos alrededor del mundo decidieron estudiar paleo-heces. En el desierto entre Estados Unidos y México, las heces humanas se preservaron de forma excepcional gracias al clima de la región. En estas muestras se pudieron identificar bacterias que estaban en el intestino humano hace más de 2000 años y compararlas con las que están presentes en diferentes sociedades modernas, tanto industriales como pre-industriales. Sin dudas uno de los aspectos más complejos es poder distinguir el material genético de bacterias antiguas y el proveniente de contaminaciones más recientes. 
 
-- La extinción dentro nuestro
-    - Las bacterias en nuestro sistema digestivo nos ayudan a procesar alimentos
-    - Es válido preguntarnos si estas bacterias fueron siempre las mismas o cambiaron en el tiempo
-    - Un grupo de investigadores miró paleo-heces para poder responder estas preguntas y encontraron rastros de bacterias nunca antes descritas
+En el trabajo publicado por Wibowo en 2021 se encuentran muchas conclusiones interesantes. Primero, que hay muchas más similitudes entre las paleo-heces y las sociedades modernas no industrializadas salvo por un detalle importante: la resistencia a antibióticos. Tantos las sociedades industrializadas como no industrializadas tienen bacterias resistentes a antibióticos en sus intestinos y, como era de esperarse, estas están completamente ausentes en las paleo-heces. El hecho de que las bacterias en el intestino humano hace 2000 años fueran más similares a las que están presentes en sociedades no industriales da alguna indicación sobre los cambios en las dietas a lo largo del tiempo. El acceso a diferentes tipos de azúcares quizás sea lo que empujó en gran medida la adaptación de las bacterias en el sistema digestivo. 
 
-- El trabajo de investigación
-    - El trabajo es muy complejo porque a lo largo de milenios hay contaminación. 
-    - En particular estudiaron muestras en Estados Unidos y México 
-    - Las compararon con muestras de sociedades industrializadas y no industralizadas modernas
-    - Hay muchas cosas en común entre las paleo-heces y las sociedades no industrializadas, salvo por la resistencia a antibióticos
+El resultado más interesante, en mi opinión, es la presencia de bacterias en las paleo-heces que nunca antes habían sido descritas. Se trata de una extinción masiva que sucedió dentro de nuestros propios cuerpos en los últimos 2 mil años. Estas bacterias no fueron encontradas en ninguna muestra contemporánea. Quizás los cambios en el microbioma humano abran la puerta a entender por qué enfermedades como la diabetes están incrementando su incidencia en las sociedades modernas. Aunque sea muy pronto para llegar a este tipo de conclusiones, es posible que en las paleo-heces exista mucho más valor encerrado que una mera curiosidad evolutiva. 
 
-- Resultados interesantes
-    - Cuando la humanidad transicionó a una sociedad industrial, las dietas y los hábitos comenzaron a cambiar
-    - La gente comenzó a comer otros tipos de azúcares
-    - Las bacterias en el estómago comenzaron a evolucionar para adaptarse al nuevo ambiente
-    - Muchas de las bacterias se extinguieron
-    - Es posible que la mayor incidencia de algunas enfermedades como la diabetes se deban a estas extinciones masivas dentro de nuestro propio organismo
+Pero los resultados del análisis genético de las bacterias arroja otro tipo de resultados al mismo tiempo: el de la historia de la humanidad. La información almacenada en el ADN cambia lentamente a lo largo del tiempo y en general a ritmos bastante concretos. Comparando dos organismos es posible saber hace cuánto tiempo sus historias divergieron. Las bacterias en el intestino no son diferentes pero tienen una característica extra: están íntimamente vinculadas a los movimientos de las personas. La historia genética de las bacterias encontradas en el desierto del norte de México indican que la evolución de las bacterias americanas divergió de las del resto entre 40.000 y 16.000 años atrás. La evidencia arqueológica de la población de América sitúa la migración entre 20.000 y 16.000 años en el pasado. 
 
-- Resultados suplementarios
-    - El ADN permite reconstruir la historia genética de un organismo. 
-    - Mirando las bacterias en las paleo-heces es posible reconstruir la historia de las migraciones humanas
-    - En este paper encontraron que el momento de la migración a América, cuando la historia genética de las bacterias se separa en dos linajes independientes, fue alrededor de XXX años, varios miles de años antes de lo propuesto con otras evidencias paleo-arqueológicas
+Estudiar el microbioma humano puede servir para entender por qué ciertas enfermedades se vuelven más frecuentes. Después de todo, el cuerpo humano no puede ser considerado como una unidad separada de todo lo demás, sino que es una parte integral de un sistema mucho más amplio. Los resultados con las paleo-heces abren un debate que debe ser dado con cuidado. Quizás las bacterias presentes en el intestino hace 2000 años puedan ser re-introducidas como suplementos dietarios. Las dudas que surgen son con respecto a la posibilidad de patentar o registrar información genética que, en principio, si le pertenece a alguien es a los descendientes de los pobladores donde las bacterias fueron encontradas. 
 
-- Conclusiones
-    - Estudias las bacterias digestivas es importante para poder entender mejor ciertas enfermedades
-    - Puede generar debates, por ejemplo si una empresa fuera a patentar paleo-genes para distribuirlos en un yogur
-    - Pero también nos muestra que nuestra historia no es independiente del ambiente donde vivimos
-    - Las bacterias dentro nuestro evolucionan y se extinguen de la misma manera que animales enormes
-    - A fin de cuentas tenemos que aceptar que somos parte integral de la naturaleza y no ajenos ni superiores a ella
-    
+Escuché ya varias veces que los humanos dejamos de evolucionar hace miles de años. 
