@@ -27,4 +27,4 @@ Pero los resultados del análisis genético de las bacterias arroja otro tipo de
 
 Estudiar el microbioma humano puede servir para entender por qué ciertas enfermedades se vuelven más frecuentes. Después de todo, el cuerpo humano no puede ser considerado como una unidad separada de todo lo demás, sino que es una parte integral de un sistema mucho más amplio. Los resultados con las paleo-heces abren un debate que debe ser dado con cuidado. Quizás las bacterias presentes en el intestino hace 2000 años puedan ser re-introducidas como suplementos dietarios. Las dudas que surgen son con respecto a la posibilidad de patentar o registrar información genética que, en principio, si le pertenece a alguien es a los descendientes de los pobladores donde las bacterias fueron encontradas. 
 
-Escuché ya varias veces que los humanos dejamos de evolucionar hace miles de años. 
+Escuché ya varias veces que los humanos dejamos de evolucionar hace miles de años. Si bien desde un punto de vista puramente genético es cierto, 
