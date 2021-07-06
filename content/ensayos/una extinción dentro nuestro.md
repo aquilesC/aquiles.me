@@ -1,10 +1,9 @@
 ---
 title: Una extinción dentro nuestro
-description: 
+description: El microbioma de los humanos cambió en los últimos 2000 años. Puede ser la clave para entender la incidencia de algunas enfermedades como la diabetes.
 lan: es
 template: essay.html
 head_image: og_exctincion.png
-status: draft
 ---
 
 Quizás preguntarnos quiénes somos o qué nos define sea una de las cuestiones más complejas para ser abordada desde diferentes disciplinas. En particular, la forma en la que vemos el cuerpo humano como algo único, que se puede describir a partir de una secuencia de genes, no representa la realidad en su totalidad. En nuestras bocas, manos y estómago albergamos un sinfín de bacterias que son instrumentales para nuestra supervivencia. Sin ellas nos enfermaríamos más seguido o no podríamos digerir la comida a la que tenemos acceso. 
