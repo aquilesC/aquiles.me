@@ -1,0 +1,1 @@
+Although [[CD9]] and [[CD63]] are used to detect [[extracelluar vesicle]], they are also present in viruses that use outward budding from host cell membrane to form their envelope[@duijvesz2015a]. Such is the case of the [[HIV]]-1 virus.
