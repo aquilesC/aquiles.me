@@ -94,13 +94,25 @@ We next need to add this file to the LUKS partition:
 sudo cryptsetup luksAddKey /dev/sdz1 /root/keyfile
 ```
 
-Now we can automatically map the disk using that file. You can edit the file /etc/crypttab with whatever editor you like, and then you add:
+Now we can automatically map the disk using that file. First, we find the UUID of the device:
 
 ```bash
-backup      /dev/sdz1  /root/keyfile  luks
+sudo blkid /dev/sda1
 ```
 
-This will map the device /dev/sdz1 to /dev/mapper/backup by using the /root/keyfile. You can customize whatever you need in this command. You then save the file and close the editor. Once we automatically map the drive, we can also automatically mount it. We modify the file /etc/fstab with a text editor and we add the following line:
+And then we can edit the file ``/etc/crypttab`` with the appropriate information:
+
+```bash
+backup      UUID="<UUID found earlier>"  /root/keyfile  luks
+```
+
+This will map the device /dev/sdz1 to /dev/mapper/backup by using the /root/keyfile. To test whether this is working, we can try the following command:
+
+```bash
+sudo cryptdisks_start backup
+```
+
+Once we automatically map the drive, we can also automatically mount it. We modify the file ``/etc/fstab`` and add the following line:
 
 ```bash
 /dev/mapper/backup /backup     ext4    defaults        0       2
