@@ -21,3 +21,5 @@ The true unexpected turn in the story is that Grace was put on the space ship by
 As a whole is a fun read. There are many engineering details embedded. The sad part is that the author decided to include explanations way too often. Either how to transform from normal units to imperial, etc. or explanations of very basic physics. If the book is for geeks, it should stick to it. 
 
 It would have been very interesting to see how this same story would have ended up if written by a linguist instead of an engineer. 
+
+Tags: #books #2021 #reading 

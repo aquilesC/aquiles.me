@@ -20,8 +20,6 @@ In order to be able to engage with an audience, such as scientists, the first st
 In the [[content centric model of marketing]], there are three types of content that relate to the different stages mentioned above: leadership, educational, persuasive. This flow also overlaps to [[the golden circle]], in which each stage is naturally descriptive of a why, how, or what. It seems that this is like a good match between both the Apple-world described in [[Start with Why - Simon Sinek]] and the scientific world. 
 
 
-
-
 - Literature notes on [@ghanadan2016]
 
-Tags: #scientific-marketing 
+Tags: #scientific-marketing #books #2021 #reading 
