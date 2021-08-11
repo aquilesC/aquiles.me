@@ -7,3 +7,5 @@ To avoid this problem, it is possible to form an intermediate image that is late
 By building a custom tertiary objective, it is possible to tune the optical properties such that one does not need to deal with different media and alignment of non-orthogonal planes. This is what gave rise to Snouty[@millett-sikking2019], which achieves a relatively high NA (1.0). 
 
 ![Schematic of Snouty, a single-objective light sheet microscope](https://pbs.twimg.com/media/D85oCsqUEAAk-br?format=jpg&name=medium)
+
+Tags: #microscopy #light-sheet 
