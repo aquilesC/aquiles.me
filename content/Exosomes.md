@@ -3,7 +3,7 @@ They are a kind of [[extracelluar vesicle]] with sizes between 30nm and 150nm. T
 There are two *known* pathways for their biogenesis:
 
 - [[ESCRT]]-dependent
-    - Are enriched with syntenin-1 and ALG-2-interacting protein X (ALIX)
+    - Are enriched with [[syntenin-1]] and ALG-2-interacting protein X ([[ALIX]])
 - [[ESCRT]]-independent
     - Are enriched with tetraspanins ([[CD9]], [[CD63]], [[CD81]], see: [[CD9 and CD63 are used as biomarkers in EVs but they can change from cell line to cell line]])
 

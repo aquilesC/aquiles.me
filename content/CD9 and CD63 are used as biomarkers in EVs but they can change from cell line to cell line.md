@@ -5,4 +5,10 @@ The amount of [[CD9]] and [[CD63]] (tetraspanin) could change from cell line to 
 
 **Importantly**, although [[CD9]] and [[CD63]] are often used as general EV markers, they are only detected on a fraction of EV's. 
 
+Thorough analysis of the relative abundance of CD9, CD63, and CD81 in different populations of EV's show the very high variation[@kugeratski2021]
+
+![Relative abundance of CD9, CD63, and CD81 in different populations of EVs](/images/cd9_cd63_cd81_in_EV.png)
+
+It is therefore postulated that [[Syntenin-1 is the most abundant protein in EVs]]. 
+
 Tags: #Extracellular-Vesicle #biomarkers #fluorescence 
