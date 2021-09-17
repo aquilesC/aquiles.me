@@ -1,0 +1,1 @@
+It is essentially an interferometric approach that allows to measure mass (i.e. the total scattered intensity) of proteins. It is commercialized by [[Refyn]], and I wonder how similar it is to the [[ExoView]] devices (are they somehow related to each other?)
