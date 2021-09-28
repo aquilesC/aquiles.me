@@ -1,1 +1,3 @@
 Single-particle interferometric reflectance imaging sensing is a technique commercialized by [[NanoView Biosciences]] under the name [[ExoView]]. It somehow feels similar to how [[Simoa]] works, just that it used interferometry to detect the presence of particle on a surface. I wonder how much are these devices overlapping with [[iSCAT]]. 
+
+Another company producing a relatively similar product is [[Myriade]], under the name Video Drop. 
