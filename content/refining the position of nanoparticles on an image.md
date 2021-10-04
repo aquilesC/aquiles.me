@@ -6,7 +6,7 @@ Where
 
 $$m_0 = \sum_{i^2+j^2\le w^2} A(x+i, y+j)$$
 
-The equations above are the common centroid calculation in a region. That is why it is important to subtract the background appropriately as done in [[image restoration for nanoparticle tracknig]] or there would be a bias towards the brighter regions of the image. 
+The equations above are the common centroid calculation in a region. That is why it is important to subtract the background appropriately as done in [[image restoration for nanoparticle tracking]] or there would be a bias towards the brighter regions of the image. 
 
 Bear in mind that $$\epsilon$$ represents the variation from the previously identified pixel as the likely center of the particle. In principle, if $$|\epsilon|>0.5$$ then we should move the likely candidate to a new region and recalculate the position. 
 
