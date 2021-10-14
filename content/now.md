@@ -4,7 +4,6 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- Building a prototype of a [[light sheet]] microscope to image [[extracelluar vesicle]] - [[EVQuant]]
-- [[Building an 8-bit computer]]
-- Leyendo [[Zorba el Griego]]
+- Building a prototype of a [[light sheet]] microscope to image [[extracelluar vesicle]] - [[EVQuant]] at [[Dispertech]]
+- Leyendo [[Nieve de primavera - Mishima]]
 - Reading [[The Shock Doctrine - Naomi Klein]]
