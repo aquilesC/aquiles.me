@@ -5,18 +5,15 @@ topics: Aquiles, Carattino, learning in public, digital garden
 template: index.html
 ---
 
-## Mi rincón en Internet
-Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
-
-- [[ensayos/ciencia ciudadana]]
-- [[ensayos/ella la cazadora]]
-- [[ensayos/Cuantificar lo que no sabemos]]
-- [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua]]
-
 ## My corner on the Internet
 
-This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions.  This is a list of some articles that may trigger some curiosity:
+This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions. Some of these links may be the starting point of exploration into my thinking. 
 
+- I am very interested in understanding [[extracelluar vesicle]]s, especially from the perspective of building solutions for researchers within my company [[Dispertech]]. 
+- Some people call this website a [[digital garden]], and I have reflected about them, but may need to do it more deeply. 
+- Perhaps a list of [[things I've done]] is interesting, or learn [[about me]]. 
+
+### More elaborated writing
 - [[essays/Words in books are like the DNA that describes our ancient history]]
 - [[essays/How to write a programming book|How to write a programming book]]
 - [[essays/Notes on How to Take Smart Notes|Notes on How to Take Smart Notes]] by Sönke Ahrens
@@ -25,14 +22,20 @@ This website can be navigated only by following links. There are no "latest arti
 - [[essays/personal data collection, what is it and where it starts|Personal data collection, what is it and where it starts]]
 - [[essays/Notes on Working in Public - Nadia Eghbal|Notes on Working in Public]] by Nadia Eghbal
 - [[essays/Simple explanation of an optimization algorithm|Simple explanation of an optimization algorithm]]
-- This is a (partial) list of [[things I've done]]
+
+## Mi rincón en Internet
+Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
+
+- [[ensayos/ciencia ciudadana]]
+- [[ensayos/ella la cazadora]]
+- [[ensayos/Cuantificar lo que no sabemos]]
+- [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua]]
 
 ## Talk to me
-If you are interested in open-sourcing your code, or if you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. I am making myself available on Friday afternoon to have 1-on-1 chats. 
+If you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. I am making myself available on Friday afternoon to have 1-on-1 chats. If you want to chat about [[technolgy transfer]], setting your own company, what it takes and how the road looks like, you are more than welcome to [[contact me]]. 
 
 ### Work in Progress
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
 - I am thinking about [[technology transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
-- [[Guide on how to open-source projects]] <- This is [[work in progress]]
-- Check what I am doing [[now]]
+- I am spending a lot of time trying to understand [[extracelluar vesicle]]s and how they can be used to improve the quality of life. 
