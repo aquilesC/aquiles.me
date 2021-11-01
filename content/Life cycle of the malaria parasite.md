@@ -6,12 +6,12 @@ It starts with the bite of a mosquito ([[anopheles]]). The parasite [[sporozoite
 
 Each sporozite gives rise to tens of thousands of merozoites inside the liver cells, and each one of them can invade a red blood cell. Apparently, at this stage, the infected host cells in the liver release the merosomes that act as a protective carrier that goes undetected by the immune system. 
 
-Afterwards, the merozoites enter red blood cells ([[erythrocytes]]) by a complex biochemical process of recognition, attachment and fusion. Interestingly, the parasites can't degrade [[heme]] by-product and free heme is potentially toxic to the parasite. During hemoglobin degradation, most of the liberated heme is polymerized intp [[hemozoin]]. 
+Afterwards, the merozoites enter red blood cells ([[erythrocytes]]) by a complex biochemical process of recognition, attachment and fusion. Interestingly, the parasites can't degrade [[heme]] by-product and free heme is potentially toxic to the parasite. During hemoglobin degradation, most of the liberated heme is polymerized into [[hemozoin]]. 
 
 After this stage, the infected red blood cells continue to produce merozoites (around 50 per cell) that will invade other cells. The cycle seems to be synchronous and the merozoites are released at the same time every day. In this stage, the temperature of the infected person increases. 
 
 A proportion of the merozoites differentiate to produce micro and macro[gametocytes](https://en.wikipedia.org/wiki/Gametocyte) which have no function in the human host but are essential to transmitting the infection to other hosts through the [[anopheles]] mosquitoes. The time it takes to produce the first gametocytes varies by species, but is in the order of days or months. 
 
-If a mosquito ingests the gametocytes. After another complicated cycle within the mosquito's gut, the gametes form a zygote. Eventually, the sporozoites reach the salivary glands of the mosquitoes and the cycle restarts.
+If a mosquito ingests the gametocytes, after another complicated cycle within the mosquito's gut, the gametes form a zygote. Eventually, the sporozoites reach the salivary glands of the mosquitoes and the cycle restarts.
 
 See also: [Apicomplexan life cycle](https://en.wikipedia.org/wiki/Apicomplexan_life_cycle)

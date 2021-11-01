@@ -1,0 +1,5 @@
+Although the efforts of [[open hardware]] and [[open science]] in general are great, [[egoistic scientific incentives]] imply that researchers would prefer to build new tools rather than build on tools. That may explain the proliferation of many projects targeting the same issues (see how many light-sheet microscopes are being released, none of which leverages open microscopy frameworks[@hohlbein2021a]). 
+
+While [[reproducibility is the key factor of open science]], it should still be important to factor in time and costs. For people who are *users* of a device, they clearly don't care, they'll choose the one that best suits them. For developers, however, piling up may be counter-productive. There are million examples on software. 
+
+I do think that [[successful open projects are those that last longer]]. If one projects gets continuous funding for 20 years, it'll reach much further than if independent researchers get 20 years worth of funding 

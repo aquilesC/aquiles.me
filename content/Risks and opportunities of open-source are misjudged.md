@@ -18,7 +18,5 @@ For companies, the discussion is completely different. Open-sourcing can have an
 
 This is without even considering the possibility of creating a community around the software released by the company. There's nothing stronger than a group of committed users. Of course, there are all the other moral considerations regarding how it should be, especially for scientific hardware. 
 
-
-
 Is it possible to do a [[SWOT analysis]] for [[open source]] projects? 
 
