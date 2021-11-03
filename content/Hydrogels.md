@@ -1,0 +1,1 @@
+Hydrogels are water-swollen polymers networks formed by cross-linked polymer chains[@foyt2018]. Humans produce hydrogels based on collagen and hylauronic acid. 
