@@ -5,5 +5,4 @@ keywords: now, working, projects
 ---
 # NOW!
 - Building a prototype of a [[light sheet]] microscope to image [[extracelluar vesicle]] - [[EVQuant]] at [[Dispertech]]
-- Leyendo [[Nieve de primavera - Mishima]]
 - Reading [[The Shock Doctrine - Naomi Klein]]
