@@ -9,7 +9,7 @@ Exosomes show these promising qualities:[@pedrioli2021]
 
 However, the challenges in the clinical use of EV's are:
 
-- EV isolation and purification
+- [[EV isolation and purification]]
 - EV Production scale-up and storage
 - EV Cargo loading
 - [[EV Targeting]]
