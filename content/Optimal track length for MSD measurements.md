@@ -1,0 +1,3 @@
+When using [[brownian motion]] to characterize particles, it is important to always take a look at the [[Sources of error in measuring Brownian Motion]]. Especially for [[nanoparticle tracking analysis]] (or [[NTA]]), the accuracy of the method is related to the track length that can be recorded. 
+
+Longer tracks allow to calculate the MSD with higher precision, and thus the fitting process is more accurate. However, longer tracks can suffer from long-term stability issues. This leads to the other side of the problem, which is estimating the [[optimal number of fitting points for MSD measurements]]. 

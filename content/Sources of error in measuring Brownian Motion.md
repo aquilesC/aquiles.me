@@ -42,6 +42,12 @@ To compute the effect on the results that would arise from a distribution of par
 ### Tracking Error
 This is an interesting point. Tracking error is defined as the uncertainty in time and position for each particle. The localization of the particle is limited by the number of photons, shot noise, etc. In the simulations, it is very interesting to see that this error has a larger impact on method 1 than on method 2. The authors conclude that this is the case because the tracking error is relatively large compared to the changes of positions between frames, but not compared to the total length of a track. 
 
+Another important source of uncertainty is the brownian motion itself and its relation with exposure time[@ernst2013]. Although longer exposure times allow the collection of more light, they induce a larger uncertainty if the particles can diffuse a lot during that time window. This is quadratically problematic for small particles, since they scatter less light AND move faster. 
+
+The *reduced localization error* can be expressed as:
+
+$$x=\frac{\sigma^2}{D\Delta t}$$
+
 ## Drift or vibrational noise
 The authors added a drift of 200nm/s and vibrational noise with a standard deviation of 100nm. In this case, method 1 gives a D 11% larger, while method 2 gives a D 18% larger. They also note that if the drift is increased to around $$1\mu m/s$$ then the result **can be off by a factor 10 or more!** 
 
@@ -49,6 +55,8 @@ Therefore, the most important source of uncertainty that people must consider is
 
 ## Conclusions
 Method 2 suffers more from sampling errors than Method 1. The only way to reduce the errors in method 2 is by increasing the number of tracks recorded. Therefore, if one can improve the tracking accuracy, method 1 seems to give better results. 
+
+It is important to consider that there may be an [[Optimal track length for MSD measurements]] as well as an [[optimal number of fitting points for MSD measurements]], which are further discussed in [@ernst2013]. 
 
 
 
