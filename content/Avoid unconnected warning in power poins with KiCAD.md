@@ -1,4 +1,4 @@
-Sometimes Kciad complains about pins not being driven while during the electrical rules check, like in the example below:
+Sometimes KiCad complains about pins not being driven while during the electrical rules check, like in the example below:
 
 ![Kicad complaining about not driven pins](/images/Screenshot 2021-08-20 at 15.46.47.png)
 
