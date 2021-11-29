@@ -1,5 +1,5 @@
 ---
-source: [@golan2012]
+source: golan2012
 tags: flow-cytometry, clinical application, bloodstream
 ---
 
