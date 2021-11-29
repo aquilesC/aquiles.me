@@ -1,10 +1,9 @@
-# The effect of the track length on the accuracy of the diffusion coefficient in MSD measurements
-
 ---
 source: @ernst2013
-
 tags: errors in nanoparticle tracking analysis
-...
+---
+
+# The effect of the track length on the accuracy of the diffusion coefficient in MSD measurements
 
 The mean squared displacement of a particle’s trajectory can be useful to calculate its diffusion coefficient. The following equation:
 

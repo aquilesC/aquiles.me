@@ -1,10 +1,9 @@
-# The power of flow cytometry
-
 ---
 source: rieseberg2001
-
 tags: single-cell, biomarkers
 ---
+
+# The power of flow cytometry
 
 The power of flow cytometry resides, first, in the wide range of cellular parameters that can be analyzed at the same time. Secondly, on the single-cell nature of the method. Flow cytometry allows not only to detect markers in average, but as a distribution, which gives access to sub-population information. 
 
