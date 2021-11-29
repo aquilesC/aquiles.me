@@ -1,8 +1,7 @@
----
-source: rieseberg2001
-tags: limitations-flow-cytometry
----
 # Limitations of flow cytometry
+
+- source: [@rieseberg2001]
+- tags: #limitations-flow-cytometry
 
 **Note**: This paper is from 2001
 

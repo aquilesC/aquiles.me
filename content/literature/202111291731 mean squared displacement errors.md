@@ -1,9 +1,8 @@
----
-source: @ernst2013
-tags: errors in nanoparticle tracking analysis
----
-
 # Determining the best number of fitting points for MSD data
+
+- source: [@ernst2013]
+- tags: #errors-nanoparticle-tracking-analysis
+
 To measure the diffusion coefficient, we can fit the mean squared displacement curve with the following equation:
 
 $$\textrm{MSD}(\tau) = 4\tilde{\textrm{D}}\tau^\alpha$$ 
