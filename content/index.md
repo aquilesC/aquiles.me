@@ -26,6 +26,7 @@ This website can be navigated only by following links. There are no "latest arti
 ## Mi rincón en Internet
 Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
 
+- [[ensayos/La Inevitabilidad de Envejecer]]
 - [[ensayos/ciencia ciudadana]]
 - [[ensayos/ella la cazadora]]
 - [[ensayos/Cuantificar lo que no sabemos]]
