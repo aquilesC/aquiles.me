@@ -1,6 +1,6 @@
 ---
-source: @rieseberg2001
-tags: cell-growth, 
+source: rieseberg2001
+tags: cell-growth, beer-fermentation, milk-quality, becateria-in-food
 ---
 
 # Applications of flow cytometry
