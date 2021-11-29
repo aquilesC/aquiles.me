@@ -26,11 +26,11 @@ This website can be navigated only by following links. There are no "latest arti
 ## Mi rincón en Internet
 Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
 
-- [[ensayos/La Inevitabilidad de Envejecer]]
-- [[ensayos/ciencia ciudadana]]
-- [[ensayos/ella la cazadora]]
-- [[ensayos/Cuantificar lo que no sabemos]]
-- [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua]]
+- [[ensayos/envejecer|La Inevitabilidad de Envejecer]]
+- [[ensayos/ciencia ciudadana|Ciencia Ciudadana]]
+- [[ensayos/ella la cazadora|Ella La Cazadora]]
+- [[ensayos/Cuantificar lo que no sabemos|Cuantificar lo que no Sabemos]]
+- [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua|Las palabras en los libros son como el ADN que cuenta una historia antigua]]
 
 ## Talk to me
 If you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. I am making myself available on Friday afternoon to have 1-on-1 chats. If you want to chat about [[technolgy transfer]], setting your own company, what it takes and how the road looks like, you are more than welcome to [[contact me]]. 

@@ -8,7 +8,7 @@ To measure the diffusion coefficient, we can fit the mean squared displacement c
 
 $$\textrm{MSD}(\tau) = 4\tilde{\textrm{D}}\tau^\alpha$$ 
 
-Where $$\tilde\textrm{D}$$ is the generalized diffusion coefficient, and $$\alpha$$ depends on the diffusive process ($$\alpha=1$$ normal brownian, $$\alpha>1$$ superdiffusive, $$\alpha<1$$ subdifussive). 
+Where \(\tilde{\textrm{D}}\) is the generalized diffusion coefficient, and $$\alpha$$ depends on the diffusive process (\(\alpha=1\) normal brownian, $$\alpha>1$$ superdiffusive, $$\alpha<1$$ subdifussive). 
 
 Experimentally, the accuracy of the MSD is limited, as well as the maximum $$\tau$$ possible. Therefore, it is valid to ask the question of what is the best approach to fit the data in order to extract the most accurate diffusion coefficient. 
 
