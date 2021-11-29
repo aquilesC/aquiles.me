@@ -1,5 +1,5 @@
 ---
-source: [@rieseberg2001]
+source: @rieseberg2001
 tags: flow-cytometry
 ---
 
