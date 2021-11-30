@@ -1,7 +1,7 @@
 ## Notes
 Notes on the [[WebEVTalk]] by [[Xiaomei Yan]]
 
-Topics: [[extracelluar vesicle]], [[fluorescent labeling of extracellular vesicles]], [[flow cytometer]]
+Topics: [[extracellular vesicle]], [[fluorescent labeling of extracellular vesicles]], [[flow cytometer]]
 
 - Welsh et al 2020: MIFlowCyt-EV: standardizing the report of extracellular vesicle flow cytometry data. 
 - Using cryo-TEM, 66% of EV's are below 100nm. 26% are between 100nm and 300nm. Only 8% are above 300nm (HCT15 cells). In urine, 77% are below 100nm. 

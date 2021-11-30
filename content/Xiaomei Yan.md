@@ -1,5 +1,5 @@
 Works on EV, founder of [[nanoFCM]]
 
-Keywords: [[flow cytometer]], [[extracelluar vesicle]],
+Keywords: [[flow cytometer]], [[extracellular vesicle]],
 
 Tags: #EV #Extracellular-Vesicle #flow-cytometry

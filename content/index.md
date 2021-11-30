@@ -9,7 +9,7 @@ template: index.html
 
 This website can be navigated only by following links. There are no "latest articles", nor algorithmically generated suggestions. Some of these links may be the starting point of exploration into my thinking. 
 
-- I am very interested in understanding [[extracelluar vesicle]]s, especially from the perspective of building solutions for researchers within my company [[Dispertech]]. 
+- I am very interested in understanding [[extracellular vesicle]]s, especially from the perspective of building solutions for researchers within my company [[Dispertech]]. 
 - Some people call this website a [[digital garden]], and I have reflected about them, but may need to do it more deeply. 
 - Perhaps a list of [[things I've done]] is interesting, or learn [[about me]]. 
 
@@ -39,4 +39,4 @@ If you are a scientist interested about entrepreneurship, you can [[Talk to Me]]
 These are some of the things I am working on [[now]], feel free to comment to expand my knowledge:
 
 - I am thinking about [[technology transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
-- I am spending a lot of time trying to understand [[extracelluar vesicle]]s and how they can be used to improve the quality of life. 
+- I am spending a lot of time trying to understand [[extracellular vesicle]]s and how they can be used to improve the quality of life. 

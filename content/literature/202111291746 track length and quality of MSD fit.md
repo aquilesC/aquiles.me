@@ -11,5 +11,5 @@ Can be used to extract the diffusion coefficient. Longer tracks should yield mor
 
 ![36d9841b72a29429df941df4e2747863.png](/images/36d9841b72a29429df941df4e2747863.png)
 
-The figure above shows the uncertainty in the determination of the diffusion coefficient for different track lengths. The extration was done using the optimal number of time-delays (see: [[202111291731 mean squared displacement errors]]). For \\(N=100\\) the accuracy in the determination of the diffusion coefficient is of only \\(\pm25\%\\) . To get the accuracy down to \\(\pm10\%\\) we need to measure at least 1000 frames per particle. 
+The figure above shows the uncertainty in the determination of the diffusion coefficient for different track lengths. The extration was done using the optimal number of time-delays (see: [[literature/202111291731 mean squared displacement errors]]). For \\(N=100\\) the accuracy in the determination of the diffusion coefficient is of only \\(\pm25\%\\) . To get the accuracy down to \\(\pm10\%\\) we need to measure at least 1000 frames per particle. 
 

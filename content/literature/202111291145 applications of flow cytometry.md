@@ -1,6 +1,6 @@
 # Applications of flow cytometry
 
-- source: rieseberg2001
+- source: [@rieseberg2001]
 - tags: #cell-growth, #beer-fermentation, #milk-quality, #becateria-in-food
 
 The vast majority of publications on the flow cytometry technique belong to **medical** and **clinical** applications. This may be due to the appearance of commercial, robust, and versatile equipment. 

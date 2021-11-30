@@ -1,4 +1,4 @@
-Extracellular Vesicles (shortened as EV's) are sub-micron sized particles which have an enclosing membrane. They are one mechanism for inter-cellular communication. They are composed of lipids and proteins, and there may be nucleic acid inside (the *cargo*)[@libregts2018].
+Extracellular Vesicles (shortened as [[EV]]'s) are sub-micron sized particles which have an enclosing membrane. They are one mechanism for inter-cellular communication. They are composed of lipids and proteins, and there may be nucleic acid inside (the *cargo*)[@libregts2018].
 
 Extracellular vesicles were initially called nanovesicles, and they belong to one of three different categories based on their biogenesis:[@pedrioli2021, @elsharkasy2020]
 
@@ -14,3 +14,5 @@ The biggest challenge is that most exosomes and microvesicles are <500nm in diam
 
 !!! question
 	Do other organisms use EV's for [[intracellular communication]]? I assume most [[animals]] do, what about [[plants]]? 
+
+
