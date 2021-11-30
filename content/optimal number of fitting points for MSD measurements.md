@@ -6,7 +6,7 @@ In the equation above, $$\tau$$ is the time step between measurements. For a nor
 
 The uncertainty with which $$\left<\Delta x^2\right>(\tau_i)$$ is measured will depend on the number of values being averaged. The smallest time-step is averaged over $$N$$ frames, the second over $$N-1$$, and so forth, until the last one is not averaged at all. 
 
-Taking into account the [[Sources of error in measuring Brownian Motion]], one can assume that averaging many steps yields more accurate results. Although this is theoretically understood, experimentally may be harder to realize[@ernst2013]. 
+Taking into account the [[Sources of error in measuring diffusion coefficient through nanoparticle tracking analysis]], one can assume that averaging many steps yields more accurate results. Although this is theoretically understood, experimentally may be harder to realize[@ernst2013]. 
 
 Therefore the question is how many $$\tau$$ points must be considered for yielding the better measurement of the diffusion coefficient $$D$$. In the figure below, there are experimental results showing what happens when the number of points considered for the fit changes:
 

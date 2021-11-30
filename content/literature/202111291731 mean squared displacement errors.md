@@ -17,5 +17,5 @@ In a setting where a single-particle is tracked over \\(10^5\\) time-points, it 
 
 ![b881021951df409af1d5c93bdcbd2496.png](/images/b881021951df409af1d5c93bdcbd2496.png)
 
-The figure above shows that using tracks of either \\(N=100\\) or \\(N=1000\\) points, the error in the determination of \\(\tilde{\textrm{D}}\\) goes down initially, but after 4 or 5 fitting points, it increases dramatically. This means that the determination of the diffusion coefficient is best when using 4 or 5 points of $$\tau$$ and not the entire dataset. 
+The figure above shows that using tracks of either \\(N=100\\) or \\(N=1000\\) points, the error in the determination of \\(\tilde{\textrm{D}}\\) goes down initially, but after 4 or 5 fitting points, it increases dramatically. This means that the determination of the diffusion coefficient is best when using 4 or 5 points of $\tau$ and not the entire dataset. 
 

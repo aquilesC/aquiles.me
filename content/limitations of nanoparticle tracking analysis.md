@@ -4,7 +4,7 @@ description: Discussion of the limitations of current tracking technology, inclu
 ---
 
 # Limitations of Nanoparticle Tracking Analysis
-[[Nanoparticle tracking analysis]] relies on following a particle over time and determining its size from its motion (see: [[difference between detection and tracking of nanoparticles]] and [[Sources of error in measuring Brownian Motion]]).
+[[Nanoparticle tracking analysis]] relies on following a particle over time and determining its size from its motion (see: [[difference between detection and tracking of nanoparticles]] and [[Sources of error in measuring diffusion coefficient through nanoparticle tracking analysis]]).
 
 The first limit to the analysis is that the accuracy is related to the number of frames during which the same particle can be localized, and the localization accuracy of each particle. 
 
