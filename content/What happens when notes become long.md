@@ -1,5 +1,10 @@
-Sometimes [[notes]] become long enough to be considered [[articles]] in their own right. In principle, I would like those pieces to be published on [[aquicarattino.com]], but it is so much simpler to keep them in here that I am not sure how to proceed. 
+Sometimes notes become long enough to be closer to an articles in their own right. The idea behind this website is to be a [[digital garden]] in the sense of having access to the notes I take while I learn new things or think about different subjects (very closely related to the idea of [[the Luhmann method]]) but also  from the idea that [[this website is not a blog]]. Therefore, it is inherent to my approach having different types of notes coexisting in the same space. 
 
-When I decided that [[This website is not a blog]], I didn't think about how it would grow, since I was modeling on other people's approach to a [[digital garden]], and not on my own perspective. 
+These varieties of notes are emerging organically as I start to find patterns between them. Besides the basic note ([[notes should be concept-based]]), I have identified the following taxonomy:
 
-Following with the metaphor of a garden, I think it is fair to ask what to do when sprouts become a tree. 
+- [[literature notes]]
+- [[structure notes]]
+- [[§ notes]]
+- [[essays]]
+
+Tags: #how-to-take-notes #how-to-maintain-a-digital-garden

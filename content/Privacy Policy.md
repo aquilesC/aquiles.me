@@ -4,7 +4,7 @@ This website tries to respect the maximum possible [[user privacy online]].
 **Last Meaningful Update:** Jun 2 - 2021
 
 ## Tracking page visits without storing personal information
-I started monitoring the visits to each page as of October 20, 2020. There is a short discussion on the [[about]] page. The visits are monitored by a service I wrote myself (see: [[things I've done]]), and therefore I fully own the data generated. Moreover, the system was designed to avoid recording personally identifiable information such as geo-location, IP address, or specific browser data. I don't use cookies. 
+I started monitoring the visits to each page as of October 20, 2020. There is a short discussion on the [[§about]] page. The visits are monitored by a service I wrote myself (see: [[things I've done]]), and therefore I fully own the data generated. Moreover, the system was designed to avoid recording personally identifiable information such as geo-location, IP address, or specific browser data. I don't use cookies. 
 
 Next to my own script, I use an analytics service provided by CloudFront. This service does not store personal information. You can read more about it on [their documentation](https://developers.cloudflare.com/analytics/web-analytics).
 
