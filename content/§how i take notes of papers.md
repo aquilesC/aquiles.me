@@ -1,12 +1,11 @@
 ---
-title: How I take notes
-description: My strategy for taking notes on the things I read, listen, or watch
+description: This is my strategy for taking notes of the papers I read. From underlining and marginalia to a permanent note in my digital garden. 
 status: draft
 epistemic: This is work in progress. I still don't have a clear process on how to take good notes on papers that can be used in the long term. 
 ---
 # How I Take Notes of Papers
 
-There are two types of notes: [[notes to collect information]], [[notes to create knowledge]]. Both of them are valid. My common strategy for [[note taking]] is:
+From marginalia to a permanent note, this is normally the strategy I try to follow when reading papers or books:
 
 - The first set of happens on paper, in the margins of whatever I read. Sometimes notes take the form of underlining, not of actual writing.
     - **Underlining** allows me to quickly skim through the text to find the bits that were more interesting to remember.
