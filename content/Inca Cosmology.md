@@ -7,4 +7,4 @@ Every known instance of Inca astronomy appears to be associated with huacas and 
 The [[Huaca of Chankillo]] may be marking the solar path through a year. The 13 towers are aligned according to the position of sunrises/sunsets along the year. 
 
 - Had astronomy a higher role in the Inca society?
-- Dow we need [[a new ontology to understand Inca Cosmology]]?
+- Dow we need [[literature/202101311220 a new ontology to understand Inca Cosmology]]?

@@ -2,4 +2,4 @@ Since [[egalitarian societies explain diveristy in hunter-gatherer groups]], it 
 
 ![Non egalitarian groups social distribution](Screenshot 2021-03-27 at 13.55.47.png)
 
-Comparing both groups, and assuming that modern hunter-gatherers preserve ancestral organization structures, it is possible to think that the advent of [[agriculture created new social hierarchies]]. 
+Comparing both groups, and assuming that modern hunter-gatherers preserve ancestral organization structures, it is possible to think that the advent of [[literature/202103271415 agriculture created new social hierarchies]]. 

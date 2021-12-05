@@ -4,4 +4,4 @@ In principle, when launching new products, entrepreneurs can turn into their own
 
 The most important thing to note is that customers can be part of the quilt as well. Especially *early adopters* and beta testers. If they get incorporated as part of something bigger than themselves, they can deliver value to the startup beyond whatever they could have payed. They could become what others refer to as evangelists or ambassadors. 
 
-Resorting to the quilt around a product is also a way of not crossing the [[Affordable loss for entrepreneurs]]. If you set a time limit commitment, for example, you can seek out for others to step in. If it's money, others could invest[@ianuzzi2017]. 
+Resorting to the quilt around a product is also a way of not crossing the [[literature/202106010813 Affordable loss for entrepreneurs]]. If you set a time limit commitment, for example, you can seek out for others to step in. If it's money, others could invest[@ianuzzi2017]. 

@@ -1,4 +1,4 @@
-In the [[Inca Cosmology]], huacas are places where [[the three worlds of the andean cosmos]] connect. They normally have under-world features such as a cave, stairs, and something going upwards. According to [[a new ontology to understand Inca Cosmology]], these huacas were living organisms. Which may explain why they were irrigated with water, chicha, or blood @j.mckimmalville2010. 
+In the [[Inca Cosmology]], huacas are places where [[the three worlds of the andean cosmos]] connect. They normally have under-world features such as a cave, stairs, and something going upwards. According to [[literature/202101311220 a new ontology to understand Inca Cosmology]], these huacas were living organisms. Which may explain why they were irrigated with water, chicha, or blood @j.mckimmalville2010. 
 
 Huacas can also be places of great symbolism, such as where a lightning struck, but could also be mummies, or children born with deformities. 
 

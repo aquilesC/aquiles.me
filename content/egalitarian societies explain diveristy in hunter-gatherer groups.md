@@ -4,6 +4,6 @@ Modern hunter-gatherer societies such as the Agta and Mbendjele show distributio
 
 One possible model to explain these distributions assumes that both genders have equal power in deciding their co-residencies[@dyble2015]. The model seems to reproduce the distributions of Agta and Mbendjele. Moreover, the same model explains why [[non-egalitarian groups reside with fewer unrelated individuals]]. 
 
-The distribution of relatedness in groups is important to understand how [[cumulative culture]] emerged. Comparing it with farmer societies, it could be possible to argue that [[agriculture created new social hierarchies]]. 
+The distribution of relatedness in groups is important to understand how [[cumulative culture]] emerged. Comparing it with farmer societies, it could be possible to argue that [[literature/202103271415 agriculture created new social hierarchies]]. 
 
 Tags: #gender-diversity #gender-unbalance #gender
