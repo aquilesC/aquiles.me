@@ -1,4 +1,8 @@
-There are 8 principles [developed by Kotter](https://www.kotterinc.com/8-steps-process-for-leading-change/) that define when a manager is unable to perform changes in the organization where they work: 
+- Source: [@ianuzzi2017]
+- Tags: #effective-management #organization-change #drive-innovation
+
+
+There are 8 principles [developed by Kotter](https://www.kotterinc.com/8-steps-process-for-leading-change/) that define how a manager can perform changes in the organization where they work: 
 
 - create a sense of urgency
     - Communicate the importance of acting quickly
