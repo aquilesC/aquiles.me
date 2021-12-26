@@ -629,6 +629,10 @@ h5 {
   line-height: 1.75rem;
 }
 
+.essay.h1{
+  font-family: sourceserifpro;
+}
+
 @media (min-width: 768px){
   h1 {
     font-size: 2.25rem;
@@ -667,16 +671,12 @@ p {
   margin-bottom: 1rem;
 }
 
-hr {
-  border-width: 4px;
-}
-
 strong {
   font-family: geomanistbook;
 }
 
 a {
-  --tw-shadow: 0 -4px 0 0 rgba(178, 245, 234, .7) inset;
+  --tw-shadow: 0 -2px 0 0 rgba(178, 245, 234, .7) inset;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   text-decoration: none;
 }
@@ -879,6 +879,10 @@ blockquote {
   display: grid;
 }
 
+.flex-col {
+  flex-direction: column;
+}
+
 .items-center {
   align-items: center;
 }
@@ -891,8 +895,20 @@ blockquote {
   justify-content: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
+.flex-none {
+  flex: none;
+}
+
 .font-sans {
   font-family: geomanistregular;
+}
+
+.font-serif {
+  font-family: lusitana;
 }
 
 .font-head {
@@ -901,6 +917,10 @@ blockquote {
 
 .font-strong {
   font-family: geomanistbook;
+}
+
+.font-title {
+  font-family: sourceserifpro;
 }
 
 .font-medium {
@@ -919,6 +939,10 @@ blockquote {
   font-weight: 800;
 }
 
+.font-black {
+  font-weight: 900;
+}
+
 .h-4 {
   height: 1rem;
 }
@@ -933,6 +957,10 @@ blockquote {
 
 .h-12 {
   height: 3rem;
+}
+
+.h-48 {
+  height: 12rem;
 }
 
 .h-64 {
@@ -1081,10 +1109,6 @@ blockquote {
 
 .mb-12 {
   margin-bottom: 3rem;
-}
-
-.ml-12 {
-  margin-left: 3rem;
 }
 
 .max-w-sm {
@@ -1438,7 +1462,7 @@ blockquote {
 }
 
 .wikilink {
-  --tw-shadow: 0 -4px 0 0 rgba(255, 208, 0, .9) inset;
+  --tw-shadow: 0 -2px 0 0 rgba(255, 208, 0, .9) inset;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   text-decoration: none;
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
@@ -1449,7 +1473,7 @@ blockquote {
 }
 
 a.wikilink {
-  --tw-shadow: 0 -4px 0 0 rgba(255, 208, 0, .9) inset;
+  --tw-shadow: 0 -2px 0 0 rgba(255, 208, 0, .9) inset;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   text-decoration: none;
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
@@ -1625,6 +1649,10 @@ a.wikilink:hover {
     margin-top: 3rem;
   }
 
+  .md\:ml-12 {
+    margin-left: 3rem;
+  }
+
   .md\:mt-16 {
     margin-top: 4rem;
   }
@@ -1673,6 +1701,14 @@ a.wikilink:hover {
 }
 
 @media (min-width: 1024px) {
+  .lg\:flex {
+    display: flex;
+  }
+
+  .lg\:h-auto {
+    height: auto;
+  }
+
   .lg\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
@@ -1687,12 +1723,20 @@ a.wikilink:hover {
     margin-top: 3rem;
   }
 
+  .lg\:max-w-full {
+    max-width: 100%;
+  }
+
   .lg\:max-w-screen-lg {
     max-width: 1024px;
   }
 
   .lg\:p-4 {
     padding: 1rem;
+  }
+
+  .lg\:w-48 {
+    width: 12rem;
   }
 
   .lg\:grid-cols-3 {

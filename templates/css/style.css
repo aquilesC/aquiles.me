@@ -18,6 +18,10 @@ h5 {
     @apply font-bold text-lg;
 }
 
+.essay.h1{
+    @apply font-title;
+}
+
 @screen md{
     h1 {
         @apply text-4xl;
