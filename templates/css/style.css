@@ -22,6 +22,10 @@ h5 {
     @apply font-title;
 }
 
+nav a{
+    @apply shadow-none;
+}
+
 @screen md{
     h1 {
         @apply text-4xl;
@@ -45,8 +49,6 @@ h5 {
         @apply text-3xl;
     }
 }
-
-
 
 p {
     @apply mb-4;
@@ -158,3 +160,6 @@ a.wikilink:hover {
   @apply visible;
 }
 
+.note-pill {
+    @apply bg-white rounded-lg p-6 border-solid text-sm text-center;
+}

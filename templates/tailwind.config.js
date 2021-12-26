@@ -1,12 +1,9 @@
 const colors = require('tailwindcss/colors')
 
 module.exports = {
-    purge: {
-        enabled: true,
-        content: [
-            './*.html',
-        ],
-    },
+    content: [
+        './*.html',
+    ],
     theme: {
         extend: {
             variants: {
@@ -16,12 +13,12 @@ module.exports = {
                 DEFAULT: '1px',
                 '0': '0',
                 '2': '2px',
-               '3': '3px',
+                '3': '3px',
                 '4': '4px',
-               '6': '6px',
-               '8': '8px',
-               '16': '16px',
-              },
+                '6': '6px',
+                '8': '8px',
+                '16': '16px',
+            },
 
             fontFamily: {
                 sans: ['geomanistregular'],
@@ -54,8 +51,8 @@ module.exports = {
         colors: {
             transparent: 'transparent',
             current: 'currentColor',
-            warmGray: colors.warmGray,
-            gray: colors.coolGray,
+            stone: colors.stone,
+            gray: colors.gray,
             blue: colors.blue,
             white: colors.white,
             teal: colors.teal,

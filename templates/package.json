@@ -23,7 +23,7 @@
     "gulp-rename": "^2.0.0"
   },
   "scripts": {
-    "build": "npx tailwindcss build css/style.css -o ./static/style.css && gulp",
+    "build": "npx tailwindcss build -i css/style.css -o ./static/style.css && gulp",
     "develop": "postcss css/style.css -o ../static/style.css",
     "watch": "watch 'npm run build'"
   },
