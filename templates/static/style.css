@@ -1134,6 +1134,11 @@ blockquote {
   padding: 1.5rem;
 }
 
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -1522,8 +1527,15 @@ a.wikilink:hover {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
   padding: 1.5rem;
   text-align: center;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+@media (min-width: 768px){
+  .note-pill {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
 }
 
 .hover\:-translate-y-0\.5:hover {
@@ -1774,3 +1786,4 @@ a.wikilink:hover {
     margin-top: 4rem;
   }
 }
+

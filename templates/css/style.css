@@ -161,5 +161,12 @@ a.wikilink:hover {
 }
 
 .note-pill {
-    @apply bg-white rounded-lg p-6 border-solid text-sm text-center;
+    @apply bg-white rounded-lg p-6 border-solid text-xs text-center;
 }
+
+@screen md{
+    .note-pill {
+        @apply text-sm;
+    }
+}
+
