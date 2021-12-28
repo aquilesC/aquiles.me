@@ -5,7 +5,7 @@ description: How to contact Aquiles Carattino
 There are many ways of reaching out to me, I will try to keep them updated:
 
 - Twitter: [@aquicarattino](https://www.twitter.com/aquicarattino)
-- LinkedIn: aquic
+- LinkedIn: [aquic](http://linkedin.com/u/aquic)
 - [[my e-mail]]: [hey@aquiles.me](mailto:hey@aquiles.me)
 
 ### Or use the contact form below
