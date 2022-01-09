@@ -16,6 +16,8 @@ sudo apt install python3 python3-pip python3-venv
 
 This will install Python (most likely it is already installed, but just in case), the Python package manager ``pip``, and the ``venv`` module to create virtual environments. 
 
+See: [[Difference conda environment and virtual environment in Pyhon]]
+
 Once it is ready, we can proceed to creating a virtual environment, for example:
 
 ```bash
@@ -28,6 +30,12 @@ The ``-m venv`` is a quick way of using a Python module directly from the comman
 source fastapi/bin/activate
 ```
 
+To deactivate the virtual environment:
+```bash
+deactivate
+```
+
+
 We can see that it worked because there'll be a ``(fastapi)`` string at the beginning of the command line. 
 
 Before installing FastAPI, we will need to install ``cargo``, the package manager of Rust, another programming language. 
@@ -36,7 +44,7 @@ Before installing FastAPI, we will need to install ``cargo``, the package manage
 sudo apt install cargo
 ```
 
-Now we can install the python packages that are needed:
+Now we can install the python packages that are needed. It is important to install these packages inside a virtual environment, for example by first activating fastapi as we did earlier. 
 
 ```bash
 pip install fastapi[all]
