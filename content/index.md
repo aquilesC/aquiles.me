@@ -2,7 +2,6 @@
 title: My Corner of the Internet
 description: This is the place where I think and learn in public. From science to technology and the world.
 topics: Aquiles, Carattino, learning in public, digital garden
-template: index.html
 ---
 
 ## My corner on the Internet
