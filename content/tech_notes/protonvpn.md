@@ -12,7 +12,7 @@ ProtonVPN is a great service. In this article I will show you how to configure i
 If you want to run something at startup, the best idea is to run it as a service. This gives you a lot of control regarding when to run it, how to stop it, etc. After you followed the installation instructions on the website, you will need to define a new service, which starts after the network connection has been established. It will also need to run as ``sudo``, or it will fail to start (running as root user does not work on Ubuntu/Debian systems). The first step is to know where the protonvpn command was installed on your system:
 
 ```bash
-sudo which protonvpn
+which protonvpn
 ```
 
 The output should be something like: ``/usr/local/bin/protonvpn``, but if it is not, pay attention and change it in the code block below. 
@@ -25,7 +25,7 @@ Description=ProtonVPN-CLI auto-connect
 Wants=network-online.target
 [Service]
 Type=forking
-ExecStart=/usr/local/bin/protonvpn connect -f
+ExecStart=/usr/local/bin/protonvpn c -f
 Environment=PVPN_WAIT=300
 Environment=PVPN_DEBUG=1
 Environment=SUDO_USER=user
