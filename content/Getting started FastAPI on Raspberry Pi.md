@@ -1,3 +1,7 @@
+---
+title: Getting started with FastAPI on a Raspberry Pi
+description: FastAPI on a raspberry pi can be easily installed. These are the steps to follow in order to have a smooth experience, including the installation of the Python tools required. 
+---
 Recommended operating system: **Ubuntu Server 20.4**. 
 
 After loading the operating system on an SSD card, booting, and logging into it, the most important is to perform an update to the latest libraries following the steps that will appear on screen:

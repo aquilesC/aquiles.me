@@ -7,6 +7,8 @@ keywords: ProtonVPN, Service, Linux, Startup
 # ProtonVPN at startup on Linux
 ProtonVPN is a great service. In this article I will show you how to configure it to run at startup on Linux machines. This is ideal for [[Raspberry Pi]] which you want to keep secured.
 
+**NOTE**: ProtonVPN-CLI does not work on a headless Linux installation (Updated: 10-January-2022). The best way forward is to use [the community version](https://github.com/Rafficer/linux-cli-community). The following steps are based on it and not on the official solution.  
+
 [ProtonVPN](https://protonvpn.com/) is a great VPN solution which includes also a free tier. Some months ago they've released an updated version of their [command-line tool](https://protonvpn.com/support/linux-vpn-tool/) which allows you to connect to the ProtonVPN servers directly. However, this new version is not compatible out-of-the-box with the previous version. It gave me a lot of headaches to find a way to run it automatically at startup on my Raspberry Pi. 
 
 If you want to run something at startup, the best idea is to run it as a service. This gives you a lot of control regarding when to run it, how to stop it, etc. After you followed the installation instructions on the website, you will need to define a new service, which starts after the network connection has been established. It will also need to run as ``sudo``, or it will fail to start (running as root user does not work on Ubuntu/Debian systems). The first step is to know where the protonvpn command was installed on your system:
