@@ -14,4 +14,4 @@ On the down side, this method only works with dead (fixed) cells, therefore not 
 
 The overall precision of the method can be of as much as 5nm to 10nm. Mostly limited by how isotropic the expansion process is[@wassie2019]. 
 
-See more: [https://www.expansionmicroscopy.org/](https://www.expansionmicroscopy.org/)
+See more: [https://www.expansionmicroscopy.org/](https://www.expansionmicroscopy.org/[]())
