@@ -2,7 +2,13 @@ Writing a CV is challenging, and there are many different approaches. I will foc
 
 A curriculum vitae is a summary of your life, not just of your academic achievements. The real challenge is **how to present yourself in a succinct way that allows the person screening it to determine whether you have the minimum required abilities** and predispositions in order to move forward and read your cover letter. 
 
-The first step, always, is to **carefully read the job description to which you are applying**. 
+A CV, at a first glance, must convey the following:
+
+- You have at the minimum required skills for the position
+- You seem to have a matching set of secondary aptitudes
+- There is something that distinguishes you from other applicants
+
+To get started, the first step is to **carefully read the job description to which you are applying**. 
 
 I can't stress this enough. Always read and check the company before you reach out. LinkedIn makes it trivial to apply for a job, which means your application will be listed among many others.  If you want to stand out: submit a custom CV where you at least hint that you read the job description. 
 
