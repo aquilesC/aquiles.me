@@ -2,7 +2,7 @@
 - cration date: 2022-03-14
 - tags: #recruitment #career #curriculum
 - url: https://www.arctoris.com/careers/
-- related notes: 
+- related notes: [[How to present yourself in a CV]]
 
 Arctoris is a collaborative community so being a team-player is a must, but we want to understand your individual ambitions and ways of working. Experience, qualifications and skills are only part of the selection process. Getting to know you as a person and how you can make a positive impact on our mission is equally important.
 
