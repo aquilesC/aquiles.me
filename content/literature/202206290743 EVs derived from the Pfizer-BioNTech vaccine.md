@@ -11,7 +11,7 @@ The plots above show the abundances of exosomes with the protein after 7 and 14 
 
 In essence, the paper shows that exosomes with a given protein are fundamental to generating antibodies beyond the place were the vaccine was applied. The methods used included [[Transmission electron microscopy]] in which the spike protein was labeled with immunogold, and [[NTA]] to count the number of exosomes. However, the entire method for extraction and purification is quite convoluted. 
 
-![NTA measurement of the isolated exosomes carrying the Spike Protein](/images/Pasted image 20220629075524.png)
+![NTA measurement of the isolated exosomes carrying the Spike Protein](/images/Screenshot 2022-06-29 at 07.55.19.png)
 
 An important step was to inoculate mice with the extracted extracellular vesicles. The mice showed the generation of antibodies against [[SARS-CoV-2]], which shows two interesting paths forward: [[EVs can be used as a drug delivery platform]], and that in the specific case of this vaccine, EV's are instrumental for generating immunity. 
 
