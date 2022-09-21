@@ -4,9 +4,6 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- Finishing the [[fluorescence]] version of the [[nanoCET implementation|nanoCET]]
-    - Looking into the electronics, software, and alignment
-- Polishing the [[nanoCET implementation|nanoCET]] to make it work as expected and as simple as possible.  
-- Building a prototype of a [[light sheet]] microscope to image [[extracellular vesicle]] - [[EVQuant]] at [[Dispertech]]
-- Reading [[Klara and the Sun - Kazuo Ishiguro]]
-- I want to commit to writing daily (similar to the approach of ship 30 by 30). I started a [[resonance calendar/index]]
+- Wrapping up the first delivery of the [[nanoCET]] system. 
+- Bringing the [[light sheet]] microscope of [[Dispertech]] to the next level. 
+- Preparing talks, posters, and presentations for the Dutch Biophysics Meeting. 
