@@ -1,4 +1,4 @@
-The natural use of exosomes (i.e. the use that cells make of them in their natural environment) is for [[intracellular communication]]. Exosomes are released by cells and other uptake them. Therefore, they are ideal candidates for drug delivery. Moreover, their membrane is able to protect the cargo, such as RNA that could quickly disintegrate in the intracellular matrix. 
+    The natural use of exosomes (i.e. the use that cells make of them in their natural environment) is for [[intracellular communication]]. Exosomes are released by cells and other uptake them. Therefore, they are ideal candidates for drug delivery. Moreover, their membrane is able to protect the cargo, such as RNA that could quickly disintegrate in the intracellular matrix. 
 
 Exosomes show these promising qualities:[@pedrioli2021]
 
