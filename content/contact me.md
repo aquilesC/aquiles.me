@@ -2,11 +2,13 @@
 title: Contact Me
 description: How to contact Aquiles Carattino
 ---
+
+!!! image small
+    ![Photo of Aquiles Carattino](/images/WCVK4883.jpg)
 There are many ways of reaching out to me, I will try to keep them updated:
 
 - Twitter: [@aquicarattino](https://www.twitter.com/aquicarattino)
 - LinkedIn: [aquic](http://linkedin.com/u/aquic)
-- [[my e-mail]]: [hey@aquiles.me](mailto:hey@aquiles.me)
 
 ### Or use the contact form below
 <div class="max-w-sm flex items-center justify-center">
