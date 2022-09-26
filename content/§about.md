@@ -4,22 +4,34 @@ description: Writing but not blogging. What a brain dump means.
 ---
 
 # About this Website
+This website is built around the idea of collecting thoughts and linking them as much as possible. In some circles this is called a [[digital garden]]. Essentially notes build up nodes of knowledge, while the links between them are the edges of the graph. 
 
-I realized that maintaining a blog requires a lot of effort, mostly because the expectations are very high. I can't publish half-baked articles, nor short notes. Moreover, a blog should construct a persona of myself. That is why I blog about Python on [Python for the Lab](https://www.pythonforthelab.com), and about more professional topics on [Aquicarattino](https://www.aquicarattino.com). 
+Through the relationship between notes taken far apart in time, mood, and [[epistemic status]], we can build new insights. 
+
+Of course I also maintain a more traditional blog over at [aquiles.me](https://www.aquiles.me), but in this space I try to keep the constrains as low as possible. 
+
+## How this website was born
+I realised that maintaining a blog requires a lot of effort, mostly because the expectations are very high. I can't publish half-baked articles, nor short notes. Moreover, a blog should construct a persona of myself. That is why I blog about Python on [Python for the Lab](https://www.pythonforthelab.com), and about more professional topics on [Aquiles.me](https://www.aquiles.me). 
 
 However, sometimes, I would like to write about how I achieved something that may be useful for myself or others. Still, it does not quite fit the content of my websites. I end up documenting scattered notes that never become public. Fortunately, I crossed [this article](https://nesslabs.com/digital-garden-tiddlywiki) on how to build a [[digital garden]], which lead to a series of surprising discoveries. 
 
 ## This website is a digital garden
-This website is meant to be a forever growing *work in progress*, meaning that it is meant to explore designs, structure, and ideas. I can't promise links will stay forever in the same place. The format is also known as a [[digital garden]]. Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, you can [[contact me]], [reach out to me on Twitter](https://www.twitter.com/aquicarattino) or through [[my e-mail]]. 
+This website is meant to be a forever growing *work in progress*, meaning that it is meant to explore designs, structures, and ideas. I have control of the program used to render the online version ([[how i built this website]]), and the notes are plain markdown available on [github](https://github.com/aquilesC/aquiles.me).
+
+ Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, you can [[contact me]], [reach out to me on Twitter](https://www.twitter.com/aquicarattino) or through [[my e-mail]]. 
 
 ### No indexes
-The idea of breaking with the mold of a *blog* is that there are no indexes, no categories, no chronological ordering. The only way to navigate this website is by following links. Some are orange, some are blue. The orange ones are internal links; the blue ones bring you to other websites. 
+The idea that attracted me the most about digital gardens is the absence of an index. The only way to navigate through the website is by following a given train of thought. 
 
-On the other hand, each page has a list of the pages linking back to it. And there shouldn't be dead links. If I make a link to an empty page, it will be created automatically. This allows to have nodes between pages, and the tree becomes apparent even without explicit content. 
+Newer articles are not more predominant than older ones. It is also easy to revisit old notes and make few corrections. 
 
-On **October 20th 2020** I started monitoring website visits using my own tracking service called [[Privalytics]]. After reflecting for a while, I thought that measuring the amount of guests different pages receive can be a boost for the motivation. However, if I feel that traffic pushes me in one or the other direction regarding my thinking or my writing, I will stop the experiment. 
+[[essays/backlinks are the core of my digital garden|Backlinks]] make it easier to connect pieces together without having to actively modify the recipient of the link. This allows the emergence of structure even if not explicitly. For example, there are more links to [[extracellular vesicle]] than *from* it. 
 
-<blockquote class="quoteback" darkmode="" data-title="About%20these%20notes%20%7C%20Work%20with%20the%20garage%20door%20up" data-author="" cite="https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">
-I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to <a href="https://notes.andymatuschak.org/z2DABWsGLkXcCuUet2scfD1duL1ZHBztwGKp" class="jsx-1555031696 " target="_blank" rel="noopener">Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds</a>. It’s also a way to avoid the problems described in <a href="https://notes.andymatuschak.org/zqG92bvaL58AWMeL97jXaRd1Dm6hsfGvhAn" class="jsx-1555031696 " target="_blank" rel="noopener">Pitching out corrupts within</a>.
-<footer><cite> <a href="https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+Without indexing, the only way to find threads to follow is if you happened to land on one through a search engine or if I shared one with you. There are some starting points elsewhere, like on what am I doing [[now]]. 
+
+## Free flow of thoughts to see what happens
+The promise of this way of taking notes is that in the connections that appear lies the strength. This is based on [[The Luhmann method]], but with a digital twist and a personal touch. 
+
+So far I can't say that it has changed the way I build knowledge, but it has definitely helped onboarding colleagues. I gave them few links to start following threads and they managed to pull the interesting papers and my personal opinions on some matters. 
+
+It triggered independent discussions, but that quickly decay. People is most interested in discussing about the tools and not about novel thoughts. 
