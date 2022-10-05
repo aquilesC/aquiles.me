@@ -2,4 +2,6 @@ The idea of **technology push** for [[technolgy transfer]] means that the [[prob
 
 The biggest challenge is to realize whether the technology developed in the lab is market-ready or some adaptions are still required in order to transform the idea into a product. 
 
+One possible path is to [[create the need for a product]], by educating the intended audience (for example, by creating [[catalytic experiences]]). 
+
 May be interesting to follow up with the [[Treacy-Wiersema frame]].
