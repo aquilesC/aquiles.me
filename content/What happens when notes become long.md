@@ -4,7 +4,7 @@ These varieties of notes are emerging organically as I start to find patterns be
 
 - [[literature notes]]
 - [[structure notes]]
-- [[§ notes]]
+- [[§-notes]]
 - [[essays]]
 
 Tags: #how-to-take-notes #how-to-maintain-a-digital-garden

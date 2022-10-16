@@ -5,6 +5,6 @@ In my approach to a [[digital garden]], having atomic notes became very useful t
 
 In [[The Luhmann method]] there's a type of note called the bibliographic note, that should be used to keep track of all the notes that derived from a single source and could have been stored at different locations within the Zettelkasten. For digital storage this type of note is irrelevant, since a quick search of the source's identifier (such as: [@carattino2018]) yields the exact same information. 
 
-Maybe relevant: [[§how i take notes of papers]]
+Maybe relevant: [[§ how i take notes of papers]]
 
 Tags: #how-to-take-notes #how-to-maintain-a-digital-garden
