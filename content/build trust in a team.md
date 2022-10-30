@@ -1,4 +1,4 @@
-There are many models to explain trust in a group of people. [@ianuzzi2017] settles for one that relies on three pillars, which in turn were adapted from [@gillespie2009]
+There are many models to explain trust in a group of people. [@ianuzzi2017] settles for one that relies on three pillars, which in turn were adapted from [@gillespie2009], or perhaps more accurate from [@burke2007]
 
 - Honesty:
    I *trust* you if I believe that you won't screw me up
@@ -9,4 +9,4 @@ There are many models to explain trust in a group of people. [@ianuzzi2017] sett
    
 In principle, these guidelines point to a twofold process: from top to bottom, for example, ask people to do what they are good at, so the rest of the team trusts their ability. From bottom up, don't try to do things you are not good at. In the same way for honesty, we can control how we behave, but we can also call up on behavior that is not honest within a team or environment. 
 
-I wonder how trust can be earned after it has been lost.
+I wonder how trust can be earned after it has been lost (for this see: [@gillespie2009]).
