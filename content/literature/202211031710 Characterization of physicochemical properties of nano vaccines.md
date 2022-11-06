@@ -13,5 +13,5 @@ There is an initiative called [[MIRIBEL]] (Minimum Information Reporting in Bio-
 For **physical characterization**, [[dynamic light scattering]] is proposed as an ubiquitous tool that fails with polydisperse samples. Of course, [[literature/202111301108 limitations of A4F-DLS-MALS|A4F]] is pushed as a valuable alternative. Other techniques mentioned are [[NTA]], [[TRPS]], and [[Analytical Ultracentrifugation]]. The gold standard for imaging is still the electron microscope. 
 
 **Chemical characterization** is done with [[High Performance Liquid Chromatography]], perhaps coupled with [[mass spectrometry]]. One of the most challenges aspects is to characterise the active substance that is loaded into the particles. 
-
-![[images/Pasted image 20221103171854.png]]
+    
+![Illustration of the physicochemical characterization of nanoparticles](/images/20221103171854.png)
