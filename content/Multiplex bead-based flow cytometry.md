@@ -2,7 +2,7 @@ The core idea of the MBFCM technique is to use fluorescent beads coated with spe
 
 The image below ([@jani2002]) shows a schematic of the idea of separating information based on fluorescence spectra.
 
-![Schematic of how an MBFCM experiment is done](images/schematic of a mbfcm assay.png)
+![Schematic of how an MBFCM experiment is done](images/schematic%20of%20a%20mbfcm%20assay.png)
 
 Coupling these essays with spectrally-resolved [[flow cytometer]]s, or even with [[imaging flow cytometer]] can add new dimensions to the study of small objects (such as [[extracellular vesicle]]).
 
