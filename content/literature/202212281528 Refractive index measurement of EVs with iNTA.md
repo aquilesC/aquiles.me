@@ -8,7 +8,7 @@ This paper piles on the developments of [[literature/202212281528 Refractive ind
 !!! note
     The camera they use can acquire data at 5kHz
 
-![](/images/Pasted image 20221228153630.png)]]
+![[/images/Pasted image 20221228153630.png]]
 
 In the figure above it is clear that [[iNTA]] produces a narrower distribution for all the samples studied (EV's and lipoproteins), however the biggest doubt, as always, is what is the *ground truth*. Broadening for [[NTA]] makes sense ([[limitations of nanoparticle tracking analysis]]), but it is unclear how closer to the real data iNTA is. 
 

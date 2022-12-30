@@ -1,5 +1,3 @@
-# 202212291648
-
 - Source: [@walt2013]
 - Tags: #single-molecule #analysis #detection 
 
@@ -9,5 +7,12 @@ Therefore, flow-methods (like [[Flow Cytometry]]) operate a concentration regime
 
 Low concentrations are important, for example see: [[literature/202212291643 Errors in amino acid sequences]], [[why pushing sensitivity of assays]]. 
 
-- Many methods rely on pre-concentration steps, to limit the volume that must be scanned
+- Many methods rely on pre-concentration steps, to limit the volume that must be scanned. Examples:
+    - [[Simoa]]
+    - [[Erenna]]
+
+- Some methods are truly single-molecule sensitive:
+    - [[Zero-mode waveguide]]
+
+
 
