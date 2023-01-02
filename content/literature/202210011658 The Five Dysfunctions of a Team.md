@@ -1,5 +1,3 @@
-# 202210011658 The Five Dysfunctions of a Team
-
 - Source: [@lencioni2002]
 - Tags: #Team-Building, #Leadership
 

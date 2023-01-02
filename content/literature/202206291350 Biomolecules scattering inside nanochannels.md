@@ -1,5 +1,3 @@
-# 202206291350 Biomolecules scattering inside nanochannels
-
 - Source: [@spackova2022]
 - Tags: #nanoparticle-tracking-analysis #nanochannels #nanofabrication #nanoparticle-sizing 
 

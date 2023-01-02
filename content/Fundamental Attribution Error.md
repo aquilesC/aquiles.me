@@ -5,7 +5,7 @@ description: Mental model
 
 # Fundamental Attribution Error
 
-This is a [[mental model]], also known as [[correspondence bias]] or[[ over-attribution effect]]. 
+This is a [[mental model]], also known as [[correspondence bias]] or [[over-attribution effect]]. 
 
 The core idea is that people may attribute actions of a person to an inherent natural trait and not to the environment. An example is blaming the victim of a crime as if they had it coming. 
 
