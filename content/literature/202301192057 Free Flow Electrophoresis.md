@@ -1,4 +1,3 @@
-# 202301192057
 
 - Source: [@krivankova1998]
 - Tags: #Free-flow-electrophoresis
@@ -18,6 +17,7 @@ Some **concerns** with the method are:
 
 There are different implementations of free-flow electrophoresis, including:
 
+- [[free flow electrophoresis]]
 - [[Isotachophoresis]]
 - Free-flow [[isoelectric focusing]]
 - Recycling zone electrophoresis
