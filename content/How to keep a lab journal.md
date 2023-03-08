@@ -1,7 +1,7 @@
 ---
 title: How to keep a lab journal
 description: Keeping a lab journal is, above all, an act of discipline. Follow some simple techniques to achieve the maximum efficiency
-epistemic: Work in progress for a future book
+epistemic: Work in progress for a future hand-book
 ---
 Keeping a [[lab journal]] is, above all, an act of discipline. You need consistency and a set of rules on which you have agreed yourself. Getting started is easy, but making it grow is hard. 
 
@@ -15,7 +15,10 @@ And, if I should pick a single reason why to keep a lab journal it would be that
 The first thing to do is to establish some ground rules on what a lab journal must be and must have. Unless you work in an automated setting, there is no way to beat a **paper log book**, so the rest of this guide is focused on the assumption you are writing on paper. 
 
 ### Type of log book
+(Read more on [[Requirements of a Lab Journal]])
+
 The first thing you need is a paper note book that must conform to some basic standards to work as a lab journal. The most important: 
+
 - **Pages can't be ripped out**. This rules out binders, notebooks with rings, etc. Pages must be bound to the journal. 
 - **Numbered pages**. This can be done by hand as you progress with the use of the journal. 
 - *Hard cover*. Although not a strict requirement, lab journals must be resilient to their context, for instance spilling a mild solvent like acetone on them. Grabbing them with dirty gloves, etc.  
@@ -31,7 +34,6 @@ As soon as you get a new lab journal, you must **make it yours**. A good idea is
 **Index** for the journal. The first two pages of the journal can be left empty to create an index. 
 
 An index is useful to quickly find interesting things back, like the protocol for sample preparation, settings for a measurement, etc. It is definitely useful if you work on many different things and your brain is switching contexts often. 
-
 
 
 ## Using the Lab Journal
@@ -119,6 +121,7 @@ And in my lab journal, under the day 2023-03-08 I would write down something lik
 ```
 
 This is a real example of how a page of my lab journal looks like:
+
 ![[images/Pasted image 20230308133308.png]]
 ### On shared equipment
 On equipment and computers that are shared between people, it is of utmost importance to write down who acquired each dataset, or it'll be a nightmare to find out which lab journal to check. 
