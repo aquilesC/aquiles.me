@@ -118,8 +118,12 @@ And in my lab journal, under the day 2023-03-08 I would write down something lik
     Silica_2: idem, 50ms exposure. Data looks OK, but I think it can be done better with a different wavelength.
 ```
 
+This is a real example of how a page of my lab journal looks like:
+![[images/Pasted image 20230308133308.png]]
 ### On shared equipment
 On equipment and computers that are shared between people, it is of utmost importance to write down who acquired each dataset, or it'll be a nightmare to find out which lab journal to check. 
 
-A healthy habit is to create folders for different users, and inside the folder to keep the data-based structure. 
+A healthy habit is to create folders for different users, and inside the folder to keep the date-based structure. 
+
+Of course, the best approach on shared equipment is to agree on a standard flow everyone will follow, so it becomes clear who is the owner of each file, and what can be done with it. 
 

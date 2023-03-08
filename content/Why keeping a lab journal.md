@@ -3,7 +3,7 @@ title: Why keeping a lab journal
 description: Reasons for keeping a lab journal while you are doing a PhD, postdoc, and beyond.
 epistemic: Work in progress for a future book
 ---
-There are many reasons to keep a lab journal. Most information available tends to focus on two main topics: reproducibility and legal claims. However, a lab journal can be extremely helpful in other aspects, such as gaining insights, keeping track of progress, accountability, and they can be useful project management tools. Journals are a great for [[mindful productivity]], but in scientific environments these practices tend to be overlooked. 
+There are many reasons to keep a [[lab journal]]. Most information available tends to focus on two main topics: reproducibility and legal claims. However, a lab journal can be extremely helpful in other aspects, such as gaining insights, keeping track of progress, accountability, and they can be useful project management tools. Journals are a great for [[mindful productivity]], but in scientific environments these practices tend to be overlooked. 
 
 Even though the first two reasons for keeping a lab journal are very valid, it is almost impossible to find someone who used a journal for these ends. Sadly, the other aspects of journaling, the ones that can easily improve the daily work of every researcher are much less discussed. We will start with the common topics, and then move to the more interesting ones.  
 
