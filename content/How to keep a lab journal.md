@@ -114,10 +114,18 @@ And in my lab journal, under the day 2023-03-08 I would write down something lik
     Polystyrene nanoparticle sample prepared as in page 32. 
     Silica sample prepared as p. 25. 
     
-    Polystyrene_1: 90nm nanoparticles in water. Exposure time 5ms. Data looks good.
-    Polystyrene_2: Idem 1, but exposure time 10ms. Data looks good.
-    Silica_1: 100nm nanoparticles, 5ms exposure. Particles were too dim!
-    Silica_2: idem, 50ms exposure. Data looks OK, but I think it can be done better with a different wavelength.
+    Polystyrene_1: 90nm nanoparticles in water. Exposure 
+    time 5ms. 
+    Data looks good.
+    
+    Polystyrene_2: Idem 1, but exposure time 10ms. Data 
+    looks good.
+    
+    Silica_1: 100nm nanoparticles, 5ms exposure. Particles 
+    were too dim!
+    
+    Silica_2: idem, 50ms exposure. Data looks OK, but I 
+    think it can be done better with a different wavelength.
 ```
 
 This is a real example of how a page of my lab journal looks like:
