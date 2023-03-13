@@ -9,4 +9,4 @@ Hay también dos príncipes de Siam que acuden a la misma escuela y que un veran
 
 Terminé Nieve de Primavera en Noviembre de 2021. Me lo había recomendado Pablo Zadunaiski cuando vio que había leído [[El Pabellón de Oro - Mishima]]
 
-Tags: #books #reading #2021
+Tags: #books #reading #reading-2021
