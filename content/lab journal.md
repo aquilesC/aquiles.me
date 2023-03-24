@@ -12,6 +12,7 @@ Aging PI's don't help, since they normally stop maintaining journals when they s
 
 Topics to cover:
 
+- [[Simple rules to keep a lab journal]]
 - [[Why keeping a lab journal]]
 - [[How to keep a lab journal]]
 - [[Requirements of a Lab Journal]]
