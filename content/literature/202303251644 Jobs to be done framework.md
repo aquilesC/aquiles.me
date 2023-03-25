@@ -1,3 +1,6 @@
+- Source: [@ulwick]
+- Tags: #product-market-fit #jobs-to-be-done 
+
 The framework is built over the premise that people buy products because "*to get a job done*". The core outcome is that by following this framework, teams can identify need statements that will be valid for years to come. 
 
 The framework also helps determining the types of inputs that are needed in order to bring predictability to the innovation process. 
@@ -16,6 +19,10 @@ There is also a discussion on the **types of jobs** that are being done.
 
 1. **The core functional job**. The underlying process that the job executor is trying to get done. 
 2. **Related jobs**. These are the things that happen before, after, or during the core functional job. If these jobs are under-served, then a company may provide solutions for it. Having a product that addresses not just the core functional job but the related jobs can deliver much more value to the customer. 
-3. **Emotional jobs**. These relate to how the *job executor* is perceived or how they feel while performing the job. It is important to deliver products that connect both with the core functional job and the emotional aspects of the customers. 
-   This made me think about the case study in [[catalytic experiences]] regarding [[Catalytic Experience of GE Healthcare Life Sciences|automating western blots]] and how that is perceived as an art. 
+3. **Emotional jobs**. These relate to how the *job executor* is perceived or how they feel while performing the job. It is important to deliver products that connect both with the core functional job and the emotional aspects of the customers.      This made me think about the case study in [[catalytic experiences]] regarding [[Catalytic Experience of GE Healthcare Life Sciences|automating western blots]] and how that is perceived as an art. 
+4. **Consumption chain jobs**. These are the jobs associated with the life-cycle of the product, such as maintaining, installing, cleaning, disposing, etc. 
+5. **Purchase decision job**. These are, perhaps, the most common metrics regarding buying decision: will it be cheaper/faster? 
+
+The different types of jobs are summarized below:
+![[images/Pasted image 20230325154948.png]]
 

@@ -1,5 +1,3 @@
-# 202201061619 Treating a business model as a scientific model
-
 - Source: [@camuffo2019]
 - Tags: #entrepreneurship-principles #sciprenerus #business-models 
 

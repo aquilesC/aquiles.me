@@ -6,4 +6,6 @@ This can be even worse if we have [[gender biased data]] (see: [[the only way of
 
 Therefore it is important to develop design procedures and business analysis tools that take into account not only gender as a random sample of the population, but actively considering that roles and physiology of women are different (see: [[it is not clear the amount of farming done by women]] and [[Designing tools for work is traditionally done considering the *average* man and not woman]]). 
 
+These notions are supported by the fact that [[literature/202303251644 Ideas-first product innovation is flawed]]. In the [[literature/202303251644 Jobs to be done framework]], the initial step for triggering innovation is to get a sense of the [[literature/202303251644 Metrics used to measure success by customers]]. 
+
 Tags: #gender-bias-in-business #business-development-based-on-data #product-market-fit 
