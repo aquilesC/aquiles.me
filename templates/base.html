@@ -17,7 +17,7 @@
   {% if 'canonical' in note.meta %}
     <link rel="canonical" href="{{ note.meta['canonical'] }}">
   {% else %}
-    <link rel="canonical" href="{{ note.url }}">
+    <link rel="canonical" href="{{ base_url }}{{ note.url }}">
   {% endif %}
   <link rel="apple-touch-icon" sizes="180x180" href="/{{ static }}/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/{{ static }}/favicon-32x32.png">
@@ -35,17 +35,17 @@
   <link rel="pingback" href="https://webmention.io/www.aquiles.me/xmlrpc"/>
 
   <link rel="alternate" type="application/rss+xml" title="Aquiles Corner of the Internet"
-        href="https://aquiles.me/feed.rss"/>
+        href="https://notes.aquiles.me/feed.rss"/>
 
   {% block extra_head %}
     <meta property="og:title" content="{{ note.title }}"/>
     <meta property="og:description" content="{{ note.meta.description }}"/>
     <meta property="og:url" content="{{ note.url }}">
     <meta property="og:type" content="article"/>
-    <meta property="og:image" content="https://aquiles.me/{{ static }}/og_image.png"/>
+    <meta property="og:image" content="https://notes.aquiles.me/{{ static }}/og_image.png"/>
 
     <meta name="twitter:creator" content="@aquicarattino"/>
-    <meta name="twitter:image" content="https://aquiles.me/{{ static }}/og_image.png"/>
+    <meta name="twitter:image" content="https://notes.aquiles.me/{{ static }}/og_image.png"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:title" content="{{ note.title }}">
     <meta name="twitter:description" content="{{ note.meta.description }}"/>
