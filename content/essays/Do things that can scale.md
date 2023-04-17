@@ -1,10 +1,6 @@
 # Do things that can scale
 
-- Source:
-- Tags: # Do things that can scale
-
-- Source:
-- Tags: There is a mantra repeated in the entrepreneurial world about *doing things that don't scale*. However, most people take the words at face value without ever digging deeper into their actual meaning. 
+There is a mantra repeated in the entrepreneurial world about *doing things that don't scale*. However, most people take the words at face value without ever digging deeper into their actual meaning. 
 
 You should only do things that *can* scale, even if they wouldn't scale in the way you do them now. 
 
