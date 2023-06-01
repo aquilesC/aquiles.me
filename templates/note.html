@@ -95,21 +95,28 @@
                 <h4 class="text-3xl font-head">Comment</h4>
                 <div class="text-md font-sans">Share your thoughts on this note
                 </div>
-                <form name="comment-{{ note.url }}" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+                <form name="comments" method="POST" data-netlify="true" class="w-full bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+<div class="mb-4">
+<label class="block text-gray-700 text-sm font-bold mb-2">Your Name:</label>
+<input type="text" name="name"
+class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" />
+</div>
+<div class="mb-4">
+<label class="block text-gray-700 text-sm font-bold mb-2">Your Email:</label>
+<input type="email" name="email"
+class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" />
+</div>
+<div class="mb-4">
+<label class="block text-gray-700 text-sm font-bold mb-2">Message:</label>
+<textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+name="message"></textarea>
+</div>
+<div class="mb-4">
+<button id="submit" type="submit"
+class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Send</button>
+</div>
+                  <input type="hidden" name="note-url" value="{{ note.url }}">
 </form>
-
               </div>
               <div class="p-author h-card flex mt-4 md:mt-12 border-solid border-t-4 border-teal-400">
                 <div class="w-64">

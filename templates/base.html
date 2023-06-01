@@ -40,7 +40,7 @@
   {% block extra_head %}
     <meta property="og:title" content="{{ note.title }}"/>
     <meta property="og:description" content="{{ note.meta.description }}"/>
-    <meta property="og:url" content="{{ note.url }}">
+    <meta property="og:url" content="https://notes.aquiles.me/{{ note.url }}">
     <meta property="og:type" content="article"/>
     <meta property="og:image" content="https://notes.aquiles.me/{{ static }}/og_image.png"/>
 
@@ -60,8 +60,8 @@
                          alt="Aquiles Carattino logo"/></a>
       </div>
       <div class="flex space-x-4 pr-4">
-        <a class="font-black px-1" href="/§about">About</a>
-        <a class="font-black px-1" href="/contact_me">Contact</a>
+        <a class="font-black px-1" href="https://notes.aquiles.me/§about">About</a>
+        <a class="font-black px-1" href="https://notes.aquiles.me/contact_me">Contact</a>
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@
     work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
       Commons Attribution-ShareAlike 4.0 International License</a>
   </div>
-  <div class="m-2 p-2 inline-block text-right text-xs md:text-lg"><a class="wikilink" href="/privacy_policy">Privacy
+  <div class="m-2 p-2 inline-block text-right text-xs md:text-lg"><a class="wikilink" href="https://notes.aquiles.me/privacy_policy">Privacy
     Policy</a></div>
 </div>
 {% block footer_scripts %}
