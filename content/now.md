@@ -4,6 +4,9 @@ description: What am I doing right now, or sort of. Now understood as a continuu
 keywords: now, working, projects
 ---
 # NOW!
-- Wrapping up the first delivery of the [[nanoCET]] system. 
-- Bringing the [[light sheet]] microscope of [[Dispertech]] to the next level. 
-- Preparing talks, posters, and presentations for the Dutch Biophysics Meeting. 
+- Going through an interesting process: [[essays/how it feels quitting your own startup]]
+- Starting to focus on my next challenges. Deciding whether:
+    - Finding a job in a larger organization is the way to exert the changes I want to generate
+    - Supporting startups, either locally or those which want to expand into Europe
+    - Focus on my own projects once more. Perhaps press [[Python for the Lab]] forward to gain some runway, and leverage that to setup some [[open hardware]] projects in motion
+- Dusting off my pitch-deck design skills
