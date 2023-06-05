@@ -1,5 +1,5 @@
 # NanoCET Implementation
-In @faez2016 there is a follow up to @faez2015 on how to use [[hollow optical fibers]] to measure the [[electrophoretic mobility]] of single gold nanospheres. The idea of the setup is the same used by [[Dispertech]], but with two additional electrodes next to the fiber and perpendicular to it. 
+In [@faez2016] there is a follow up to [@faez2015] on how to use [[hollow optical fibers]] to measure the [[electrophoretic mobility]] of single gold nanospheres. The idea of the setup is the same used by [[Dispertech]], but with two additional electrodes next to the fiber and perpendicular to it. 
 
 The **challenges** of the implementation are (see also [[challenges of electrophoretic mobility measurements]]):
 
