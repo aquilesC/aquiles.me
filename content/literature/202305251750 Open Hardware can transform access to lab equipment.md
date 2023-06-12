@@ -8,21 +8,15 @@ There is also an important aspect to consider, which is the role open-hardware c
 
 In some low resource settings, one of the problems is access to technicians that can troubleshoot and support equipment. It is also worth mentioning that open hardware initiatives seem to be triggered in contexts of high-resources and specifically in countries with a well developed tech/scientific industrial matrix. 
 
->CNC milling, they are common in most countries and, therefore, suitable to local fabrication through local services. 
+![[images/Pasted image 20230612120402.png]]
 
-I think there is a bit of a problem in the boundary between DIY and open-hardware. A well-documented paper should fall in the category of DIY. For example, the microscope I used during [[my phd]] was home-built and documented, but didn't use a Raspberry Pi nor an Arduino (two conditions for a paper to appear as DIY). Therefore, in the overlap of "maker" and "lab setting", there's still a lot of space to define what is "open", what is reproducible, etc. 
+The figure above shows the distribution of countries with a specific definition of how the industrial matrix looks like. Top-right is where both the scientific and technology industries are well-developed, meaning there could be a nice flow of [[Technology Transfer]]. Bottom right is where the industrial matrix is complex, but the scientific environment is not very dynamic, and the opposite for the top-left. The rest are countries with fewer resources. 
 
-## Is it all about money?
-Interesting question, that is not always asked nor answered. Many [[open hardware projects focus on cutting costs]], but "openness" can be more, it can be a way for transferring knowledge across boundaries. It can empower local fabrication, increasing the accessibility. Surprisingly, the paper cites the [[flamingo project]] as an example no why giving tools to biologists as early as possible can be useful to collect feedback. 
+> Question: **what is the trend?** Do we see countries like Austrialia or New Zealand moving towards the right-quadrant, generating more complex industries over time, or do we see India moving faster in that direction? 
 
-**Local Fabrication** is key to ensure accessibility also in times of strain to the supply chain (as the COVID pandemic has shown). A distributed system is more reliable under unexpected circumstances than a centralized approach. 
+A quote I liked:
 
-![[images/Pasted image 20230525180136.png]]
+> A technology is deemed to be appropriate when it is “compatible with local, cultural, and economic conditions (i.e., the human, material, and cultural resources of the economy) and utilizes locally available materials and energy resources, with tools and processes maintained and operationally controlled by the local population”
 
-The author identifies 10 possible situations for open/DIY approaches. Surprisingly, the only one that can be cited in the "sweet spot" is the [[Open Flexure]] project. The "Expensive assembly" should not be neglected, as is, potentially, the first approach many researchers can follow, without the extra burden of going the "open hardware" route, without sacrificing chances at protecting the IP, and ensuring reproducibility. 
+To the question of "**Why are Open Hardware projects not more broadly adopted**"
 
-The author also proposes to follow an open approach to bypass the roles of the TTO (see: [[open hardware should not be a strategy to overcome licensing]]). It clearly says:
-
-> Sometimes, academics are also prevented from open-sourcing their potentially patentable developments. This is one more reason to work openly from the start of a project and release documentation as the research develops, enabling early collaboration and feedback. With such an approach, there is no point in time at which an institutionally problematic amount of intellectual property is released. The “open from the start” model also avoids the backlog of documentation tasks left for final deadlines. 
-
-I find this statement misleading and careless. Bypassing the TTO office is not the proper way to go. Educating the TTO's on the power of open-hardware can be a much more suitable approach. After all, it is within the employers prerogative to decide on licensing, not on the employees. 
