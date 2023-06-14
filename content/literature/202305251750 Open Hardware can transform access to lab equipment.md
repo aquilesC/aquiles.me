@@ -12,7 +12,7 @@ In some low resource settings, one of the problems is access to technicians that
 
 The figure above shows the distribution of countries with a specific definition of how the industrial matrix looks like. Top-right is where both the scientific and technology industries are well-developed, meaning there could be a nice flow of [[Technology Transfer]]. Bottom right is where the industrial matrix is complex, but the scientific environment is not very dynamic, and the opposite for the top-left. The rest are countries with fewer resources. 
 
-> Question: **what is the trend?** Do we see countries like Austrialia or New Zealand moving towards the right-quadrant, generating more complex industries over time, or do we see India moving faster in that direction? 
+> Question: **what is the trend?** Do we see countries like Australia or New Zealand moving towards the right-quadrant, generating more complex industries over time, or do we see India moving faster in that direction? 
 
 A quote I liked:
 

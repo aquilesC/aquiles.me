@@ -9,18 +9,20 @@ epistemic: I have been developing technology for extracellular vesicle character
 In the past couple of decades, a lot of effort has been placed in studying how they can be used to diagnose disease and how to exploit them to target the delivery of drugs. It is important not to forget that **many basic biology questions** regarding biogenesis, uptake, and the overall life-cycle of these particles are still open. 
 
 ## My Interest in the field
-Coming from a [[my phd|purely physics background]], my interest in extracellular vesicles is somewhat tangential to the technology behind their characterization. For the past 4+ years, I have been developing technologies to measure the concentration, size, refractive index, and protein content of nano particles. 
+Coming from a [[my phd|purely physics background]], my interest in extracellular vesicles is somewhat tangential to the technology behind their characterization. For the past 4+ years, I have been developing technologies to measure their concentration, size, refractive index, and protein content. 
 
 When [[Dispertech]] started, we focused on extracellular vesicles because we believed it was a booming field, with plenty of opportunities for new analytical tools (although we may have misjudged what the field needed.) 
 
-I joined online journal clubs, followed an endless number of researchers on Twitter and LinkedIn (I compiled [a list of interesting profiles](https://twitter.com/i/lists/1656191648404221954?s=20)), and embedded myself in the questions the field had. 
+I joined online journal clubs, MOOCS, followed an endless number of researchers on Twitter and LinkedIn (I compiled [a list of interesting profiles](https://twitter.com/i/lists/1656191648404221954?s=20)), attended conferences and embedded myself in the questions I could perceive the field has. 
 
 ## The technological landscape
-Biology in general, and the Extracellular Field in particular, always benefit from the technological advancements that allow researchers to gain new insights. There is a long standing tradition of increasing the number of details that can be seen, from super-resolution microscopy, to cryo-EM, to X-Ray diffraction. 
+Biology in general, and the extracellular vesicles field in particular, can greatly benefit from technological advancements that allow researchers to gain new insights. There is a long standing tradition of translating tools developed in physics labs to increase the number of details that can be seen in biological samples. From super-resolution microscopy, to cryo-EM, from X-Ray diffraction to mass spectrometry. 
 
-But sometimes the **key to understanding** new biological processes lays on all the **steps taken for preparing the sample**. 
+Sometimes, however, the **key to understanding** biological processes lays not on how much you can see but on all the **steps taken for preparing the sample** before the measurement. 
 
-Super-resolution is not possible without specific fluorescence markers, antibodies, buffers. Cryo-EM requires vitrification of very clean samples. X-Ray diffraction needs a degree of crystallization to be useful. 
+Super-resolution is not possible without specific fluorescence markers, antibodies, buffers. Cryo-EM requires vitrification of very clean samples. X-Ray diffraction needs a degree of crystallization to be useful, etc. 
+
+Extracellular Vesicles samples are not exempt of heavy workloads before each measurement. Lot's of efforts are focussed on increasing the yield of the interesting particles, 
 
 ### Sample enrichment
 Today, the field of extracellular vesicles is the convergence of a broad pool of techniques. On the one hand, sample preparation is mostly focused on *enriching*. This means increasing the concentration of interested particles, and removing as much as possible the background. 
