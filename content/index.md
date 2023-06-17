@@ -1,7 +1,6 @@
 ---
-title: My Corner of the Internet
-description: This is the place where I think and learn in public. From science to technology and the world.
-topics: Aquiles, Carattino, learning in public, digital garden
+title: Aquiles Carattino Open Notes
+description: A digital garden is a place where thoughts are continuously updated. I write about science, business, and entrepreneurship. 
 ---
 
 ## My corner on the Internet
@@ -13,6 +12,7 @@ This website can be navigated only by following links. There are no "latest arti
 - Perhaps a list of [[things I've done]] is interesting, or learn [[about me]]. 
 
 ### More elaborated writing
+- [[essays/How it feels quitting your own startup|How it feels quitting your own startup]]
 - [[essays/Words in books are like the DNA that describes our ancient history]]
 - [[essays/How to write a programming book|How to write a programming book]]
 - [[essays/Notes on How to Take Smart Notes|Notes on How to Take Smart Notes]] by Sönke Ahrens
@@ -22,14 +22,6 @@ This website can be navigated only by following links. There are no "latest arti
 - [[essays/Notes on Working in Public - Nadia Eghbal|Notes on Working in Public]] by Nadia Eghbal
 - [[essays/Simple explanation of an optimization algorithm|Simple explanation of an optimization algorithm]]
 
-## Mi rincón en Internet
-Este sitio web puede ser navegado sólo siguiendo links. No hay "últimos artículos", ni sugerencias generadas algorítmicamente. Esta es una lista de artículos que he escrito que pueden disparar alguna curiosidad:
-
-- [[ensayos/envejecer|La Inevitabilidad de Envejecer]]
-- [[ensayos/ciencia ciudadana|Ciencia Ciudadana]]
-- [[ensayos/ella la cazadora|Ella La Cazadora]]
-- [[ensayos/Cuantificar lo que no sabemos|Cuantificar lo que no Sabemos]]
-- [[ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua|Las palabras en los libros son como el ADN que cuenta una historia antigua]]
 
 ## Talk to me
 If you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. I am making myself available on Friday afternoon to have 1-on-1 chats. If you want to chat about [[technolgy transfer]], setting your own company, what it takes and how the road looks like, you are more than welcome to [[contact me]]. 
