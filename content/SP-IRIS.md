@@ -5,7 +5,7 @@ Single-particle interferometric reflectance imaging sensing is a technique comme
 
 They use a [[microarray]] functionalized with specific antibodies, which trap particles. Using an interferometric detection system, they can measure the presence (and the size) of the particles at each spot. In a second labelling step (like in [[Elisa tests]]), the fluorescence signal can be measured. 
 
-It is a form of [[Analog versus digital detection of molecules|digital detection]], with the added size-ability which is purely analog in nature. Since it is an [[interferometric detection schemes|interferometric method]], it can work at smaller sizes ([[extracellular vesicle]]s down to 50nm, for example). 
+It is a form of [[Analog versus digital detection of molecules|digital detection]], with the added size-ability which is purely analog in nature. Since it is an [[interferometric detection schemes|interferometric method]], it can work at smaller sizes ([[extracellular vesicles]] down to $50nm$, for example). 
 
 The interferometric detection seems similar to [[iSCAT]], but I haven't checked the details of the interferometric approach. 
 

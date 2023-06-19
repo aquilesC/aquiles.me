@@ -11,7 +11,7 @@ With the capital in place, we set to develop the [[NanoCET]], our first product 
 The company was built following a very traditional [[technolgy transfer]] process, signing a licensing deal with Leiden University for the exclusive rights on the patent submitted by Sanli. 
 
 ## Extracellular Vesicles as the target market
-[[extracellular vesicle|Extracellular Vesicles]] are an interesting field of research, that grew enough the be defined as its own market. The field is ripe for disruption, since there is not a single technique that satisfies all the jobs that people need to do (see, for example: [[literature/202303251644 Jobs to be done framework|202303251644 Jobs to be done framework]]). 
+[[extracellular vesicles|Extracellular Vesicles]] are an interesting field of research, that grew enough the be defined as its own market. The field is ripe for disruption, since there is not a single technique that satisfies all the jobs that people need to do (see, for example: [[literature/202303251644 Jobs to be done framework|202303251644 Jobs to be done framework]]). 
 
 However, some companies were quick at seizing a large portion of the market ([[NanoSight]] is the prime example).
 

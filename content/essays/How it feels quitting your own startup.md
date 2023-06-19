@@ -7,7 +7,7 @@ Moving away from the startup you created and sustained over years is a very toug
 
 In my specific case, I'm departing an extremely young company, since [[Dispertech]] is still in its infancy: we have no customers, our first product, the [[nanoCET implementation|NanoCET]] did not fly too far, and the second product is barely at a minimum viable product level. 
 
-I got somewhat emotionally attached to this second product, the [[NanoQNT]]. It is based on a [[light sheet]] microscope, and I believe it can become a game changer in many contexts, and especially for [[extracellular vesicle]] characterization. 
+I got somewhat emotionally attached to this second product, the [[NanoQNT]]. It is based on a [[light sheet]] microscope, and I believe it can become a game changer in many contexts, and especially for [[extracellular vesicles]] characterization. 
 
 The closest feeling I have to leaving my own startup is **that of a breakup**. 
 

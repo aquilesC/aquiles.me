@@ -2,7 +2,7 @@
 status: draft
 epistemic: I have been developing technology for extracellular vesicle characterization for over 4 years
 ---
-[[extracellular vesicle|Extracellular Vesicles]] are a fascinating topic in biology and biomedical research. These particles, released by all cells, are fundamental agents for intracellular communication in complex organisms, as well as garbage disposal mechanisms. 
+[[extracellular vesicles|Extracellular Vesicles]] are a fascinating topic in biology and biomedical research. These particles, released by all cells, are fundamental agents for intracellular communication in complex organisms, as well as garbage disposal mechanisms. 
 
 **All bodily fluids** (urine, blood, saliva, milk, cerebrospinal fluid) **contain extracellular vesicles**, at different concentrations and with different types. 
 

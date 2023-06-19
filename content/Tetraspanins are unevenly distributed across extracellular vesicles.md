@@ -1,4 +1,4 @@
-[[Tetraspanins]] such as [[CD9]], [[CD63]], [[CD81]] are standard for identifying [[extracellular vesicle]]s. However, an important question to be asked is whether the amounts of these proteins is homogeneous across a distribution of [[EV]]'s or across different populations. Some preliminary work [@mizenko2021] shows that the number of tetraspanins can change. The image below are results using the [[ExoView]] instrument.
+[[Tetraspanins]] such as [[CD9]], [[CD63]], [[CD81]] are standard for identifying [[extracellular vesicles]]. However, an important question to be asked is whether the amounts of these proteins is homogeneous across a distribution of [[EV]]'s or across different populations. Some preliminary work [@mizenko2021] shows that the number of tetraspanins can change. The image below are results using the [[ExoView]] instrument.
 
 ![tetraspanin abundance in evs](/images/tetraspanin abundance in evs.png)
 

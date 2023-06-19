@@ -4,6 +4,6 @@ The image below ([@jani2002]) shows a schematic of the idea of separating inform
 
 ![Schematic of how an MBFCM experiment is done](images/schematic%20of%20a%20mbfcm%20assay.png)
 
-Coupling these essays with spectrally-resolved [[flow cytometer]]s, or even with [[imaging flow cytometer]] can add new dimensions to the study of small objects (such as [[extracellular vesicle]]).
+Coupling these essays with spectrally-resolved [[flow cytometer]]s, or even with [[imaging flow cytometer]] can add new dimensions to the study of small objects (such as [[extracellular vesicles]]).
 
 Tags: #beads #fluorescence #scattering-or-fluorescence 

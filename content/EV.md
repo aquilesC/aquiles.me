@@ -1,3 +1,3 @@
 # EV
 
-EV: [[extracellular vesicle]]
+EV: [[extracellular vesicles]]

@@ -1,1 +1,1 @@
-They are a kind of [[extracellular vesicle]] with size range between \\(1\mu m\\) and \\(5\mu m\\), the lumen contains fragments of cytoplasm and organelles that belong to their original cells[@pedrioli2021]. 
+They are a kind of [[extracellular vesicles]] with size range between \\(1\mu m\\) and \\(5\mu m\\), the lumen contains fragments of cytoplasm and organelles that belong to their original cells[@pedrioli2021]. 

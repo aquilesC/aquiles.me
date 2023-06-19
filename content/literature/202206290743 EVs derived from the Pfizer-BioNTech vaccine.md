@@ -5,7 +5,7 @@
 
 ![Number of exosomes with the spike protein after inoculation with the Pfizer-BioNTech vaccine](/images/Pasted image 20220629074551.png)
 
-It has been established that the mRNA vaccines generate immunity against [[SARS-CoV-2]], but the exact mechanisms can still be better explained. Interestingly, [[extracellular vesicle]]s have been found to carry the spike protein after patients have been inoculated with the BioNTech vaccine. It seems that the exosomes are instrumental at generating [[Humoral immunity]] as well as [[Cell-mediated immunity]]
+It has been established that the mRNA vaccines generate immunity against [[SARS-CoV-2]], but the exact mechanisms can still be better explained. Interestingly, [[extracellular vesicles]] have been found to carry the spike protein after patients have been inoculated with the BioNTech vaccine. It seems that the exosomes are instrumental at generating [[Humoral immunity]] as well as [[Cell-mediated immunity]]
 
 The plots above show the abundances of exosomes with the protein after 7 and 14 days of vaccination. The increase is clear, in the same way the decrease at the 4-month mark brings the numbers back to the baseline. The [[EV]]s were extracted from blood plasma (see: [[how to extract ev's from blood plasma]], and [[Blood-derived EVs are more challenging to study]]).
 

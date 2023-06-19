@@ -1,4 +1,4 @@
-They are a kind of [[extracellular vesicle]] with sizes between 30nm and 150nm. They partially overlap in size with [[Microvesicles]], but their biogenesis is different. Exosomes are associated with endocytic pathway and with endosomal multivesicular bodies' formation[@pedrioli2021]. 
+They are a kind of [[extracellular vesicles]] with sizes between 30nm and 150nm. They partially overlap in size with [[Microvesicles]], but their biogenesis is different. Exosomes are associated with endocytic pathway and with endosomal multivesicular bodies' formation[@pedrioli2021]. 
 
 There are two *known* pathways for their biogenesis:
 

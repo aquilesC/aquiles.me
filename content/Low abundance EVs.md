@@ -1,4 +1,4 @@
-In the context where every cell (and even organelles) can create [[extracellular vesicle]]s that are then released to the environment, detecting very low abundance species can be the only way to use them as diagnostic markers (see [[Extracellular vesicles as markers for prostate cancer]], [[EVs can be used as ovarian cancer markers]] [[using EVs as biomarkers]])
+In the context where every cell (and even organelles) can create [[extracellular vesicles]] that are then released to the environment, detecting very low abundance species can be the only way to use them as diagnostic markers (see [[Extracellular vesicles as markers for prostate cancer]], [[EVs can be used as ovarian cancer markers]] [[using EVs as biomarkers]])
 
 Some strategies focus on enrichment of specific subpopulations based on physicochemical traits (for example see: [[SEC is the second most popular EV enrichment method]] and [[Ultra centrifugations is the most popular EV enrichment method]]). 
 

@@ -2,7 +2,7 @@
 - Source: [@frigerio2022]
 - Tags: #SP-IRIS #SIMOA #digital-detection #Extracellular-Vesicle 
 
-[[Simoa]] and [[SP-IRIS]] are used and compared in their abilities to detect [[extracellular vesicle]]s. Both are digital methods (see: [[Analog versus digital detection of molecules]]). And they can be a crucial tool to detect and quantify [[Low abundance EVs]] in bio-fluid derived samples. 
+[[Simoa]] and [[SP-IRIS]] are used and compared in their abilities to detect [[extracellular vesicles]]. Both are digital methods (see: [[Analog versus digital detection of molecules]]). And they can be a crucial tool to detect and quantify [[Low abundance EVs]] in bio-fluid derived samples. 
 
 ## Using the SiMoA platform
 The [[SiMoA]] platform was from [[Quanterix]], and they used the Homebrew Kit (I assume a kit that allows custom bead functionalization). The concentrations of beads used was $2.8\times 10^9 \,\textrm{pcles}/\textrm{ml}.$ 

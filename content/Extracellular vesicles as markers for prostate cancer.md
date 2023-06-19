@@ -1,4 +1,4 @@
-[[Extracellular vesicle]]s can be used as markers for [[prostate cancer]]. Most likely it's not going to be the vesicles themselves that carry important information, but their cargo[@ramirez-garrastacho2021]. The cargo may reflect the intracellular status and physiological state of their parental cells. The entire approach can also be included into the topic of [[liquid biopsy]]. 
+[[extracellular vesicles]] can be used as markers for [[prostate cancer]]. Most likely it's not going to be the vesicles themselves that carry important information, but their cargo[@ramirez-garrastacho2021]. The cargo may reflect the intracellular status and physiological state of their parental cells. The entire approach can also be included into the topic of [[liquid biopsy]]. 
 
 Gentle prostate massage can enrich the number of [[EV]] in urine, since it induces the secretion of prostatic fluid into the urethra, which is then mixed with urine. It is normally called *DRE* urine (Digital Rectal Examination). 
 

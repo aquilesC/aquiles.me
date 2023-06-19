@@ -1,7 +1,7 @@
 - Source: [@kashkanova2022a]
 - Tags: #Extracellular-Vesicle #Refractive-Index #Lipoproteins
 
-This paper piles on the developments of [[literature/202212281528 Refractive index measurement of EVs with iNTA]] applied to [[extracellular vesicle]]s instead of gold nanoparticles. 
+This paper piles on the developments of [[literature/202212281528 Refractive index measurement of EVs with iNTA]] applied to [[extracellular vesicles]] instead of gold nanoparticles. 
 
 > Due to their different biochemical composition, EVs and large LPs differ in refractive index (RI). The RI is typically below 1.4 31 for EVs and above 1.4 for LPs.7 This results in distinct light-scattering properties, which can be used to separately analyze the two 32 populations. However, until now this has only been successfully implemented for EVs larger than 200 nm, using a conventional flow 33 cytometry-based approach. 
 
@@ -23,7 +23,7 @@ The figure above shows mixtures of EV's and lipoproteins. They've built a classi
 
 ## Important Conclusion
 
-[[Extracellular vesicle]]s have a median refractive index of 1.367 while large lipoproteins have a refractive index of 1.534 for ULDLs and 1.518 for VLDLs. 
+[[extracellular vesicles]] have a median refractive index of 1.367 while large lipoproteins have a refractive index of 1.534 for ULDLs and 1.518 for VLDLs. 
 
 It is important to point out that to calculate the refractive index of the particle, there is more than one variable at play: the method can acquire the scattered intensity, but to get the refractive index it is important to know the size (measured from the diffusion coefficient), as well as the thickness of the shell and the refractive index of the interior (assumed to be water in most cases). 
 

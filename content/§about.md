@@ -25,7 +25,7 @@ The idea that attracted me the most about digital gardens is the absence of an i
 
 Newer articles are not more predominant than older ones. It is also easy to revisit old notes and make few corrections. 
 
-[[essays/backlinks are the core of my digital garden|Backlinks]] make it easier to connect pieces together without having to actively modify the recipient of the link. This allows the emergence of structure even if not explicitly. For example, there are more links to [[extracellular vesicle]] than *from* it. 
+[[essays/backlinks are the core of my digital garden|Backlinks]] make it easier to connect pieces together without having to actively modify the recipient of the link. This allows the emergence of structure even if not explicitly. For example, there are more links to [[extracellular vesicles]] than *from* it. 
 
 Without indexing, the only way to find threads to follow is if you happened to land on one through a search engine or if I shared one with you. There are some starting points elsewhere, like on what am I doing [[now]]. 
 
