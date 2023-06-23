@@ -10,7 +10,7 @@ The general challenge for the use of EVs, as almost always, is related to the [[
 
 One possible approach is to target [[CD9]] and [[CD63]], two [[tetraspanins]] normally found on exosomes, and use a second labeling agent that targets proteins specific to the cancer cells. This is something like what the [[ExoView]] device could, in principle, achieve. There's also a clear path forward for the [[EVQuant]] in case there is a double-labeling possible. 
 
-One possible path is to combine [[TR-FIA]] with europium labeling[@duijvesz2015a]. An essay similar to [[Elisa tests]] with fluorescence is able to quantify the amount of [[CD9]] and [[CD63]] in urine samples from patients with and without prostate cancer. 
+One possible path is to combine [[TR-FIA]] with europium labeling[@duijvesz2015a]. An essay similar to [[Elisa test]] with fluorescence is able to quantify the amount of [[CD9]] and [[CD63]] in urine samples from patients with and without prostate cancer. 
 
 ![Europium-based detection of CD9 and CD63 in urine samples](/images/tr-fia_prostate_cancer.png)
 

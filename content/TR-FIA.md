@@ -1,6 +1,6 @@
 Time-resolved fluorescence immunoassay: **TR-FIA**. 
 
-It is similar to [[Elisa tests]], but using a fluorescent label such as europium. I am not sure what the "Time-resolved" part of the essay entails. 
+It is similar to [[Elisa test]], but using a fluorescent label such as europium. I am not sure what the "Time-resolved" part of the essay entails. 
 
 **Check**: Wallac Victor 2 (device on which some tests are performed[@duijvesz2015a]) (#TODO)
 
