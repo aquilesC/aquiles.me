@@ -113,9 +113,13 @@ I think the most important aspect is to acknowledge that science is multi-discip
 
 In this line of thought, training people on the use of modern technologies is fundamental. And this idea is not limited to just machine learning tools. The more someone understands about the guiding principles behind a technique, the more chances they have to extend it to solve their own needs. That's one of the things I like about [[open hardware]], it incentivizes people to understand the underlying mechanisms that make a tool. 
 
-Black boxes are dangerous, because they can be misleading, and because they place too much power in external hands. 
+**Black boxes** are dangerous, not only because they can be misleading, but because **they place too much power in external hands**. 
 
 Next generation scientists should have a broad understanding on the applications of new algorithms for their own benefit. It is not simply speeding up the write up of a paper through a language model. It's the way results are analyzed, how experiments are designed, without losing the perspective of the underlying biology, chemistry, or physics involved. 
 
 ## Exciting Vesicles
-All in all, the field of extracellular vesicles is extremely exciting from many different perspectives. It is a field that emerged in a place where few devices were available for their study. 
+All in all, the field of extracellular vesicles is extremely exciting from many different perspectives. It is a field that emerged in a place where few devices were available for their study. The complexity of the field itself lead to very creative solutions to complex problems. 
+
+I think Extracellular Vesicles are an extremely promising field to work on, both from the technology perspective, as well as the basic biological questions being answered. 
+
+I am convinced that in the **next 5 to 10 years we'll see the first exosome-based vaccine for humans**, allowing to over many of the challenges derived from the use of lipid nanoparticles for drug delivery. 
