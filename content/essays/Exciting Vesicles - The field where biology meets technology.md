@@ -2,6 +2,7 @@
 epistemic: I have been developing technology for extracellular vesicle characterization for over 4 years
 template: essay.html
 head_image: Exciting_vesicles.png
+canonical: https://www.aquiles.me/exciting-vesicles-the-field-where-biology-meets-technology
 ---
 [[extracellular vesicles|Extracellular Vesicles]] are a fascinating topic of research in biology and biomedical sciences. These particles, released by all cells, are fundamental agents for intracellular communication in complex organisms.
 
