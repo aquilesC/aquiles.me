@@ -1,5 +1,4 @@
 ---
-status: draft
 epistemic: I have been developing technology for extracellular vesicle characterization for over 4 years
 template: essay.html
 head_image: Exciting_vesicles.png
