@@ -1,1 +1,1 @@
--e git+https://github.com/aquilesC/static_website_builder.git#egg=aqui_brain_dump
+aqui_brain_dump
