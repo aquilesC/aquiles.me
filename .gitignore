@@ -3,6 +3,5 @@ logger.log
 .DS_Store
 node_modules/
 output/
-new_output/
 .idea/
 .obsidian/
