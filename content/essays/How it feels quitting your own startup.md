@@ -1,5 +1,5 @@
 ---
-episemic: I worked on my own company for 4+ years until it was time to move on into new adventures. 
+epistemic: I worked on my own company for 4+ years until it was time to move on into new adventures.
 ---
 Creating a startup is an extremely personal endeavor. It starts with you, your computer, and perhaps one more person with whom you discuss. It can slowly grow, but during the first few years it is *you* the only one that can make things happen. 
 
