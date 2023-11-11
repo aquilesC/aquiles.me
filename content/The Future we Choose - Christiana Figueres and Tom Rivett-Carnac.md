@@ -23,3 +23,4 @@ They don't even mention the role of genetically modified crops or nuclear power.
 
 Overall, I would say the book is not worth reading.
 
+It is worth mentioning that the book by [[Bill Gates]], [[literature/202311101858 Avoiding a climate disaster|202311101858 Avoiding a climate disaster]], is radically different, more on-point, and actionable. 

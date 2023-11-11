@@ -14,7 +14,7 @@ This section focuses on fake news and how non-scientific statements can quickly 
     
 ### 4. See yourself as a citizen
 
-This action refer mostly to fight consumism. They argue that by choosing products that better align with what we expect from the world, we can have a big impact. Instead of buying clothes meant to be used for weeks, we could spend more money and buy clothes meant to last years (see: [[Choosing technology based on their incentives]]). They briefly cover ideas such as dematerializing (for instance using streaming instead of buying a CD or DVD), or using Uber instead of buying a car. They also mention that we could re-define what we expect of a good life. What do we really need to *have* in order to be happy, and what are we lead to believe we must possess.
+This action refer mostly to fight consumerism. They argue that by choosing products that better align with what we expect from the world, we can have a big impact. Instead of buying clothes meant to be used for weeks, we could spend more money and buy clothes meant to last years (see: [[Choosing technology based on their incentives]]). They briefly cover ideas such as dematerializing (for instance using streaming instead of buying a CD or DVD), or using Uber instead of buying a car. They also mention that we could re-define what we expect of a good life. What do we really need to *have* in order to be happy, and what are we lead to believe we must possess.
 
 ### 5. Move beyond fossil fuels
 

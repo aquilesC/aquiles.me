@@ -1,5 +1,3 @@
-
-# Diesel is the most efficient energy storage solution for transport
 - source: [@smil2020, 166]
 - tags: technological progress, fossil fuels, climate change, energy storage
 
