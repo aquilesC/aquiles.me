@@ -21,7 +21,7 @@ epistemic: I have been researching the topic of technology transfer and science-
 - What do you want to do? 
     - Don't focus on price (!)
 - Who are you helping?
-- What problem do you think you are solving? ([[Love the problem if you don't know what it is?]])
+- What problem do you think you are solving? ([[Love the problem if you don't know what it is]]?)
 ### Week 3: Who can be an entrepreneur
 - Effectuation theory (Suggested readings)
 - What resources do you have available *now*?
