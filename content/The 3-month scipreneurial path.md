@@ -38,3 +38,16 @@ epistemic: I have been researching the topic of technology transfer and science-
     - Comparing to other solutions
     - But from the *potential customer* perspective!
 - Iterating on the value proposition
+
+
+> _In October 2016, MIT announced creating a startup incubator called The Engine,_ _which will provide funding,workspace, and access to equipment and experts to help_ _them during the early stages of establishing a product or a business. The Engine_ _has a straightforward application process that references the Heilmeier Catechism,_ _created by George H. Heilmeier, former DARPA director, who established a set of_ _questions to help the Agency evaluate these types of proposals [5].
+_The Heilmeier Catechism_:
+    1. What are you trying to do? Articulate your objectives using absolutely no jargon.
+    2. How is it done today, and what are the limits of current practice?
+    3. What is new in your approach, and why do you think it will be successful?
+    4. Who cares? If you are successful, what difference will it make?
+    5. What are the risks?
+    6. How much will it cost?
+    7. How long will it take?
+    8. What are the mid-term and final “exams to check for success”?
+    [@garcia-martinez2019]
