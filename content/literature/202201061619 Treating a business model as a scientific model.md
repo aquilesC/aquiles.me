@@ -1,5 +1,5 @@
 - Source: [@camuffo2019]
-- Tags: #entrepreneurship-principles #sciprenerus #business-models 
+- Tags: #entrepreneurship-principles #scipreneurs #business-models 
 
 A business model is, in essence, an approximation to reality in pretty much the same way a scientific model is. Models are built with partial knowledge and try to predict the future, they are based on hypotheses, and have a certain degree of uncertainty. 
 

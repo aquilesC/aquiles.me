@@ -1,4 +1,4 @@
-- tags: #sciprenerus #entrepreneurship-principles 
+- tags: #scipreneurs #entrepreneurship-principles 
 
 One of the very first advices I when joining an [[value of incubators|incubator]] was that you should [[love the problem and not the solution]]. You should be passionate about *solving* a problem. 
 

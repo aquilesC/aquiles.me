@@ -1,6 +1,6 @@
 # Arctoris Lab Automation
 - cration date: 2022-03-14
-- tags: #sciprenerus #podcast #drug-discovery   
+- tags: #scipreneurs #podcast #drug-discovery   
 - url: https://podcasts.apple.com/nl/podcast/tomorrowscale-podcast/id1472883653?i=1000523714277
 - related notes: [[resonance calendar/Arctoris CV Suggestions]]
 
