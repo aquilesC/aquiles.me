@@ -1,6 +1,6 @@
 ---
 published_on: 20-11-2023
-status: draft
+status: published
 epistemic: Generic advise based on my own experiences reviewing plans and planning myself
 ---
 🎶 TAM, SOM, SAM, sounds like a song, but they are the numbers most founders focus on: 1% of a gazillion is a gazillion. Giving immense market numbers for a startup in the ideation phase may not be the best approach to building a business plan. 
