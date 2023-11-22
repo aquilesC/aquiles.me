@@ -1,5 +1,5 @@
 
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-and-technology #climate-and-electricity
 
 One of the largest challenges to *decarbonize* electricity in the world, is adapting the grid to new sources of power. Currently, infrastructure has been built around power centrals close to the places of consumption. 

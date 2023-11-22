@@ -1,6 +1,6 @@
 ---
 status: draft
-published_on: 24-11-2023
+published_on: None
 ---
 🌍 I finished reading Bill Gate's book "How to avoid a climate disaster". It's a super interesting take, and it packs lots of things to learn and discuss. Even a concise teachable moment for entrepreneurs. 
 

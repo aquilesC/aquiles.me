@@ -1,8 +1,6 @@
-Welcome back! 
-
 Today, it's a special day, because technically it's the last day of the core of the crash-course. 
 
-If there's a day to go out and celebrate, it is definitely today. Don't forget to share the photos of the celebration! 
+If there's a day to go out and celebrate, it is definitely today. Don't forget to share the photos! 
 
 Now, back to business... Or entrepreneurship! 
 

@@ -1,5 +1,5 @@
 ---
-published_on: 24-11-2023
+published_on: None
 status: draft
 ---
 🐣 Joining an incubator seems like the only way forward for a scientist who wants to become entrepreneur. But sometimes they come at an unbearable cost for the company. 

@@ -1,5 +1,5 @@
 ---
-published_on: 23-11-2023
+published_on: None
 status: draft
 ---
 📢 I hated pitching. I like giving talks, but I always dreaded having such a limited time to arouse the audience, moreover when big stakes were at play. 

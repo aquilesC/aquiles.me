@@ -1,5 +1,5 @@
 
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-change #climate-and-economics #climate-and-technology
 
 There are very interesting insights in how [[Bill Gates]] thinks climate disaster can be avoided. It goes from technology innovations, to policy changes with, to my opinion, a very realistic perception of the world. It is heavily centered around the US, which is a pity given the global scale of the problem. 

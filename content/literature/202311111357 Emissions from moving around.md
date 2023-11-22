@@ -1,4 +1,4 @@
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-change #climate-and-transport
 
 Many things fall in the definition of "Moving around". The image below is a perfect summary:

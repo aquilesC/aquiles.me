@@ -1,4 +1,4 @@
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-change #climate-and-politics
 
 Policies have a very large impact on the economic incentives for people (and corporations) to choose different technologies and behaviors. The book cites an example from London in 1952, when fog invaded the city to the point where it was impossible to see more than few meters away. 

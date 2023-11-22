@@ -2,6 +2,7 @@ I hope yesterday you had time to think about your reasons to becoming an entrepr
 
 I will share a little secret, playing the devil's advocate, I wrote some answers to the reasons here: [[scipreneurs/Reasons to start a company|Reasons to start a company]]. It's not to demoralize you, just to show you there is no single, perfect and unique path. 
 
+## The Idea
 If you want to become an entrepreneur, you need more than willingness, you need **an idea**. And today, we are going to focus on how to find them, validate them, and make them grow. 
 
 One of the unique positions of scientists is that they can gauge the interest in their research by the number of times papers are cited, by the amount of people that stop by a poster, or by the attention they receive in conferences. 
@@ -17,6 +18,8 @@ Physicists (like myself) are used to building tools for themselves. From microsc
 Once I realized what I had done in my lab was useful for other people, I started trying to replicate it and sell it. 
 
 If you don't have an idea yet, think about what you have done in the past year. What have you become good at doing. It may be a new synthesis, perhaps you got extremely talented with some analytical tool in the lab. 
+
+## What are you good at
 
 With that idea in mind, **describe what you do**. Imagine you already have a company running, what would that company be doing. Are you offering services? Have you developed the cure for a disease? Are you building instruments? 
 

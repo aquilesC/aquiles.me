@@ -1,5 +1,5 @@
 
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-and-economics #climate-and-construction
 
 The biggest problem with *making things* is cement. Cement releases CO2 when it is made: to get calcium, you burn limestone which contains also carbon and oxygen. The product is that by every ton of cement, there'll be a ton of CO2 liberated. 

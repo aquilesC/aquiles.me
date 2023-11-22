@@ -1,4 +1,4 @@
-I was reading [@gates2021] and there's a section in which he discusses that when hearing pitches of companies, a threshold to continue the conversation is how big the solution is. This happens in the context of [[climate change]] and [[reducing carbon emissions]], but the same framework can be applied to any context of [[pitching a startup]]. 
+I was reading [[@gates2021]] and there's a section in which he discusses that when hearing pitches of companies, a threshold to continue the conversation is how big the solution is. This happens in the context of [[climate change]] and [[reducing carbon emissions]], but the same framework can be applied to any context of [[pitching a startup]]. 
 
 When doing [[things that can scale]], it is important to have a grasp of how much they can scale. Again, in the context of climate, where resources are scarce, a company trying to tackle around 0.1% of the problem should not be prioritized over one tackling 10% of the problem. 
 

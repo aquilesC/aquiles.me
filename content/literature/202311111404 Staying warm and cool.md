@@ -1,4 +1,4 @@
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-change #building-emissions
 
 Perhaps staying warm and cool is the most personal of the chapters in the book. It is not an industry, but a necessary part of life. Heating homes in winter and cooling them down in summer is how we can afford a comfortable life at various latitudes. 

@@ -3,5 +3,5 @@ Effectuation theory is the brain child of Saras D. Sarasvathy[@sarasvathy2001] a
 - [[Effectual bird in the hand]]: Means
 - [[literature/202106010813 Affordable loss for entrepreneurs]]: Focus in downside
 - [[Crazy quilt around a product]]: Co-creation partnership
-- [[Entrepreneurial lemonade]]: Leverage contigencies
+- [[Entrepreneurial lemonade]]: Leverage contingencies
 - [[Piloting a new venture]]: Control vs prediction

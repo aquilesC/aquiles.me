@@ -1,5 +1,5 @@
 
-- Source: [@gates2021]
+- Source: [[@gates2021]]
 - Tags: #climate-change #climate-and-agriculture
 
 Interesting insights: 

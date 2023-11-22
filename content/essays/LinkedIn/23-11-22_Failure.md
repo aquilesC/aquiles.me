@@ -8,9 +8,9 @@ One would think that, being at the forefront of basic science, PhD's, Postdocs w
 
 Sadly, the academic career is built only on successes: a paper published, a grant awarded. It builds an inherently conservative ecosystem that rewards certain results over insightful yet risky paths. 
 
-We publish a paper on the experiment that worked and neglect the thousands that didn't: trust me, coming from a single-molecule/single-nanoparticle world, I know exactly what it means "one experiment". 
+We publish a paper on the experiment that worked and neglect the thousands that didn't:  coming from a single-molecule/single-nanoparticle world, I know exactly what it means "one experiment". 
 
-There are many reasons why startups don't succeed, why products don't succeed. Regardless of the success of the company, the failure (whatever failure means in context) of a product has a big impact on the people involved. 
+There are many reasons why startups don't succeed, why products don't succeed. Failure (whatever failure means in context) of a product has a big impact on the people involved. 
 
 I have one such failures under my belt, and it taught me much more than any incubator, workshop, training, book, or online guru could have ever done. 
 
