@@ -1,8 +1,8 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 24-11-2023
 ---
-📈 If you can do something 10% better every week, by the end of the year you'll have a solution 100 times better. 
+📈 If you do something 10% better every week, by the end of the year you'll have a solution 100 times better. 
 
 That's the power of compounding actions. When you set up a team around an idea, you should strive to align them around a common purpose: do things better every week. 
 
