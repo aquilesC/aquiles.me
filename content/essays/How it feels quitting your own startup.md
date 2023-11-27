@@ -1,5 +1,7 @@
 ---
 epistemic: I worked on my own company for 4+ years until it was time to move on into new adventures.
+canonical: https://www.aquiles.me/how-it-feels-quitting-your-own-startup/
+status: published
 ---
 Creating a startup is an extremely personal endeavor. It starts with you, your computer, and perhaps one more person with whom you discuss. It can slowly grow, but during the first few years it is *you* the only one that can make things happen. 
 

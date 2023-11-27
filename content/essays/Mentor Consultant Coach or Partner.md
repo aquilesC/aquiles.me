@@ -2,8 +2,9 @@
 canonical: https://www.aquiles.me/mentor-consultant-coach-partner-who-do-you-need-right-now/
 epistemic: published on my blog and linkedin as articles
 published_on: 13-11-2023
+header_image: Mentor consultant coach partner.png
+title: "Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?"
 ---
-
 # Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?
 
 ![[images/Mentor consultant coach partner.png]]

@@ -1,3 +1,7 @@
+---
+status: published
+canonical: https://www.aquiles.me/there-and-back-again-13-years-apart/
+---
 Salzburg is a special place for me because it is the symbol of the most serendipitous thing that ever happened to me: winning a paper airplane competition in Argentina and *qualifying* for the world cup organized in Red Bull's hangar at Salzburg's airport. More than 10 years later I am back in the city, only that this time I came representing my own company at a conference.
 
 There are moments in our lives, like that paper airplane contest, that serve as anchor points for who we were and what plans we had, but often we don't give ourselves the time to reflect on those moments.

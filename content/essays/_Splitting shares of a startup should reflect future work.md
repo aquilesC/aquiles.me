@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 When starting a company with several people, there is always a topic that gives raise to many discussions: how to split the pie. This becomes especially hard when founders have very different skills and each one over estimates how much brings into the table. 
 
 But there is something that is fundamental: **shares in a company should reflect future work, not past achievements**. 

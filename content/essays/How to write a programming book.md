@@ -5,7 +5,6 @@ description: Overview of the steps required to write a programming book, from mo
 template: essay.html
 head_image: how_to_write_a_programming_book.png
 ---
-
 I didn't plan to write a programming book. This means I followed a very inefficient path, which led me to a position where I was forced to re-write the entire content. However, in this process, I have learned a great deal about what I should have done to be more efficient and to deliver more value to my readers. Some of the things I outline in this article are general to any kind of writing, not only technical books, and they also work for shorter pieces such as this one.
 
 ## Why

@@ -1,3 +1,8 @@
+---
+status: published
+canonical: https://www.aquiles.me/the-things-i-miss-the-most-from-my-time-as-a-phd/
+---
+
 Many people, when faced with the struggle of stepping out of academia, ask themselves what are they going to miss after the transition. Sometimes, when it is an active choice, it is fair to ask if what we'll get compensates what we leave behind. 
 
 In my case, there is one thing that made all the difference: **access to people with interesting problems**. 
