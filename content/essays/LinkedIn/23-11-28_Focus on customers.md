@@ -1,12 +1,12 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 28-11-2023
 ---
-🤔 Founders should focus more in understanding their customers than in optimizing for the next investment round. 
+🤔 One of my biggest mistakes was thinking that I should focus on the next investment round rather than on understanding my customers. 
 
 🍾 We are used to seeing accolades when a company closes an investment round, but we are much less used to seeing celebrations when they sell their 50th product. 
 
-As soon as a company is established, a ticking clock starts running: money will run out. That creates a frenzy to check the boxes to unlock the next batch of money. In many cases we focus on IP development, hiring, marginally improving our products. 
+It seems that as soon as a company is established, a ticking clock starts running: money will finish. It creates a frenzy to check the boxes to unlock the next batch of money. In many cases we focus on IP development, hiring, marginally improving our products. 
 
 But the only thing that will make a business succeed is finding product-market-fit. And product-market-fit means surpassing your customers expectations. 
 

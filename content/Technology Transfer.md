@@ -7,7 +7,7 @@ I would assume that every country on Earth invest in [[Science after WWII has st
 
 The process has many different mechanisms that highly depend on the country, the [[funding agencies]], and the field. A possible train of thought that permeates everything is associated with [[risk]]: research is inherently a risky endeavor. This risk is absorbed by the state. 
 
-- In [[biopharma]] it is common to [[patent]] a discovery, and license it to a company. Part of the risk was overcome by the discovery, but part of the risk is latent because of [[regulatory needs]]. 
+- In [[biopharma]] it is common to [[patents]] a discovery, and license it to a company. Part of the risk was overcome by the discovery, but part of the risk is latent because of [[regulatory needs]]. 
 - In [[social sciences]] research products are more malleable and very seldom lead to a patent. These businesses focus on [[consulting]] or perhaps some tool development such as recruitment questionnaires, personality assessment, etc. 
 - In [[physics]] or [[engineering]] it is common to develop tools that lead to patents. However, it is common that no one is willing to license the technology. In this case, the development needs to be pushed further by the researchers themselves. 
 - [[Chemistry]]
