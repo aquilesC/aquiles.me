@@ -1,6 +1,6 @@
 ---
-published_on: None
-status: draft
+published_on: 29-11-2023
+status: published
 ---
 🐣 Joining an incubator seems like the only way forward for a scientist who wants to become entrepreneur. But sometimes they come at an unbearable cost for the company and the people. 
 
@@ -25,7 +25,5 @@ Some incubators excel at match making. Co-founders meet in their events, or the 
 💰 Rarely (but not impossibly), getting into an incubator comes with an initial investment. An investment that buys you the time you need to reach the next milestone. It could be that without the initial trust and support, it would have become impossible for founders to move forward. 
 
 How to value the contributions of an incubator is a completely different story. They only way to know is by asking former incubees. 
-
-
 
 #incubators #equity #startups #entrepreneurs 
