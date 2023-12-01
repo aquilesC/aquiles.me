@@ -2,23 +2,27 @@
 status: draft
 published_on: None
 ---
-🔬 Hardware-based spin outs always struggle getting an MVP off the ground. Building a stand alone instrument can be daunting, but it doesn't need to be. 
+🔬 I have seen countless hardware-based university spin outs struggling defining and then building an MVP off the ground. And we all face the same question: outsource or build in-house.
 
-Hardware minimum viable products are challenging because of their multi-dimensional requirements. They include mechanical, software, and electronics. Each one with a different skillset and different approaches to problem-solving. And all must happen in the context of validating a business case in a startup. 
+The decision is a tricky one, and it will always depend on what your business strengths and weaknesses are. 
+
+Hardware minimum viable products are challenging because of their multi-dimensional requirements. They include mechanical, software, and electronics. Each one with a different skillset and different approaches to problem-solving. 
 
 What works extremely well for software, where delivery to customers is instantaneous, marginal costs are zero, and iteration cycles happen in days, may be much more challenging for hardware. 
 
-Delivering to customers is expensive, especially if the process includes a technical installation (as is often the case for new, unstable products). Each new instrument consumes a significant amount of capital. It means that upgrading an existing customer eats away part of the margins. Iteration cycles are lengthy, from design to manufacture, to shipping, it can easily consume more than a month. 
+I strongly believe that one of the bottlenecks is lack of interactions across disciplines. Most engineering and design students are not exposed to scientific instruments or labs. On the other hand, most scientists are never exposed to engineering and design principles. 
 
-One of the bottlenecks is that most engineering and design students are not exposed to scientific instruments in their careers. And most scientists are not exposed to engineering and design principles. On top of that, the knowledge around prototyping sometimes misses the context of validating a business case. 
+To add to the complexity, #scipreneurs must do all this in the highly uncertain context of what validating a business case means. 
 
-Startups face a decision that can put their very survival at risk: outsource the product development to a company and deplete their funding, or focus on validating the idea to justify a larger round of investment. 
+👀 I have seen startups face a decision that can put their very survival at risk: outsource the product development to a company and deplete their funding, or focus on validating the idea to justify a larger round of investment. 
 
 Endlessly validating an idea will only take you so far. At some point people need to experience your product. And for high complexity instruments, the user experience will never be as smooth as you thought, data will not be as reproducible as you claim. 
 
-Outsourcing and depleting your money is risky. Without the famous product-market-fit, chances are you won't sell any of your shiny new products. It's a single-shot approach to all or nothing. 
+Outsourcing and depleting your money is very risky. Without the famous product-market-fit, chances are you won't sell anything. It's a single-shot approach to all or nothing. 
 
-The intermediate path is to build the knowledge in-house. Many mentors and coaches greatly oppose this approach. I simply think that they over estimate the costs of developing products, they underestimate the risks of outsourcing, and they mostly miss the point: startups should focus on their strengths to overcome their weaknesses. 
+🏡 The intermediate path is to build the knowledge in-house. 
+
+Many mentors and coaches greatly oppose this approach. I simply think they over estimate the complexity and costs of building scientific instruments. They underestimate the risks of outsourcing, and they mostly miss the point: startups should focus on their strengths to overcome their weaknesses. 
 
 My advice: build knowledge and outsource smartly. 
 
