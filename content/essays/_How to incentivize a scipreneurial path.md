@@ -34,7 +34,7 @@ This is one of the challenges in academia. People who want to improve their skil
 ## Entrepreneurial *Practice* for Scientists
 And this brings us to the topic of scientists who want to become entrepreneurs. 
 
-I would like to make a distinction here between a scientist such as a PhD or Postdoc who is willing **to pursue the opportunity of starting their own business, as opposed to a supervisor who wants to enable the creation of a new venture**. (This is work in progress: [[_Professors can empower the creation of startups without becoming entrepreneurs]]). 
+I would like to make a distinction here between a scientist such as a PhD or Postdoc who is willing **to pursue the opportunity of starting their own business, as opposed to a supervisor who wants to enable the creation of a new venture**. (This is work in progress: [[Professors can enable scipreneurs]]). 
 
 Becoming **entrepreneurial is more of an attitude** than a specific set of skills. 
 
