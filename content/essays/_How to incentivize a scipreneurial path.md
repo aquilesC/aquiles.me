@@ -1,6 +1,7 @@
 ---
 status: draft
 epistemic: This article is based on my observation of different ecosystems around entrepreneurial scientists
+canonical:
 ---
 Many PhD's and Postdocs, sooner or later, will face some challenging career choices. The traditional "academia or industry" dichotomy has a third contestant: becoming an entrepreneur. 
 
@@ -20,7 +21,7 @@ Doesn't matter how much I read about Python, I got good at it by spending hours 
 
 More importantly, I got good at it by **imitating others and implementing their lessons on my own practice**. 
 
-The only way of becoming good *managers* is by having role models, try what we think is good, judge the outcome, and improve. Soft skills can be more challenging to iterate on, because metrics are not unequivocal and people's lives are involved in the process. Finding mentors, role models, and coaches is extremely important to speed up the progress. Of course, assuming we have the **time** it takes to implement practices into our daily lives.  
+The only way of becoming good *managers* is by having role models, try what we think is good, **judge the outcome, and improve**. Soft skills can be more challenging to iterate on because metrics are not unequivocal and people's lives are involved in the process. Finding mentors, role models, and coaches is extremely important to speed up the progress. Of course, assuming we have the **time** it takes to implement practices into our daily lives.  
 
 **During a PhD we have time** to practice and get better in a range of skills. 
 
@@ -52,7 +53,7 @@ Giving time is perhaps one of the most actionable ones as well. Many countries o
 
 Universities are increasingly having investment branches, but the requirements to get funding are all over the place: from having a prototype to showing customer interests. 
 
-The resources are there, I'm just proposing to structuring them in a different way, and to make them accessible to the people who will execute on the plans.
+The resources are there, I'm just proposing to structuring them in a different way, and to make them accessible to the people who will execute the plans.
 
 **Investing in time is not a new idea**. It is exactly is what [Y-Combinator does](https://www.ycombinator.com/deal) (500kU$ gives 4 founders at least a year of runway), or what the [Entrepreneur First](https://www.joinef.com/) program offers (24 weeks individual fellowships). 
 
@@ -66,17 +67,17 @@ I've seen it first hand many times: people apply to two jobs, one in academia on
 
 Sadly, rearranging academic incentives and careers is not a matter of shifting resources from one place to another and it goes way beyond what a short article can cover. 
 
-Starting my own company was a way of precluding myself from an academic career. I was in a special place, and the decision came at virtually zero cost. I was not pursuing an academic career after my PhD and I knew I wanted to pursue an entrepreneurial journey, if possible. I was privileged enough to have access to a coach to helped me explore my ambitions and we laid out some alternative paths together. For most, the story will be extremely different.
+Starting my own company was a way of precluding myself from an academic career. I was in a special place and the decision came at virtually zero cost. I was not interested in an academic career after my PhD and I knew I wanted to pursue an entrepreneurial journey, if possible. I was privileged enough to have access to a coach to helped me explore my ambitions and we laid out some alternative paths together. For most, the story will be extremely different.
 
-I have seen many attempts at creating a spinout that simply collapses once the person in charge is offered yet another academic position. 
+**I have seen many attempts at creating a spinout that simply collapses once the person in charge is offered yet another academic position**. 
 ## How to use time
 Having access to time does not guarantee its smart use. Especially for young scientists, the role of the supervisor has a large impact on the choices that each one makes. From papers that were not finished, to experiments that are not complete. 
 
 The first wise step is to set an **independent path**. 
 
-Professors may *think* they are good at everything. Sadly, I have seen them derailing companies just because they were not humble enough to acknowledge their limitations. Coupled with the influence they have on mentees that can't stand up against them.  
+Professors may *think* they are good at everything. Sadly, I have seen them derailing companies just because they were not humble enough to acknowledge their limitations. Coupled with the influence they have on mentees who can't stand up against them.  
 
-The second step is to **focus on the knowledge gaps**. 
+The second step is to **focus on knowledge gaps**. 
 
 Other entrepreneurs in the network can provide an immense value to those starting up. However, most incubators fail at securing long term commitment. Instead of focusing on setting up workshop after workshop on topics that can easily be found online, they could foster mindful discussions and mentoring sessions. 
 
@@ -84,23 +85,24 @@ The third step is to **embrace the entrepreneurial practice**.
 
 Entrepreneurs need to think multi-dimensionally. It's not just developing a product, it is understanding whether customers want it. It is not just about what *they can do*, but **building a team** around an idea. It's not just acting on the resources they have, but gathering those resources for the next step. And, most importantly, is realizing that for most of the journey, you will be chasing a moving target. Entrepreneurship requires constant adaptation to changing realities. 
 
-Those skills can hardly be taught. The only way to get better is by continuous practice. With a healthy support network, we'll learn from examples, and will be able to make decisions faster, even in stressful and fast paced environments. This is a role incubators can easily take, especially considering that entrepreneurship can be **an extremely lonely path**. Losing focus is rather common, and finding daily motivation can become a hurdle in the early days. 
+Those skills can hardly be taught. The only way to get better is by continuous practice. With a healthy support network, we'll learn from examples, and will be able to make decisions faster, even in stressful and fast paced environments. It is a role very well suited for incubators, especially considering that entrepreneurship can be **an extremely lonely path**. Losing focus is rather common, and finding daily motivation can become a hurdle in the early days. 
 
+### Modernizing incubation programs
 **Incubation programs** sound like a good idea, but they work only if timelines are perfectly aligned. 
 
 As a PhD, I would have never had time to join one. Either I was writing my thesis, or my mind frame was in a completely different place. **A rolling system** would have made much more sense for me at the time, and especially if I would have had access to a short contract extension to explore entrepreneurship without other concerns. 
 
 Once you abandon the idea of "**teaching entrepreneurship**" and focus on mindful discussions, coupled with continuous practice, the process can become much more efficient. We could allow people to join, pause, and leave at different moments. Sadly, incentives for innovation are rather uncommon, resulting in programs that are copy/pasted from each other. 
 
-My first university incubation program was a copy/paste of the approach from Y-Combinator. However, there was no upfront investment to give you time to focus. More importantly, it was given by people that had never practiced what they were teaching. They had no empathy nor creativity to address the challenges I was bringing, as the only academic-spinout project of my cohort. 
+My first university incubation program was a copy/paste of the approach from Y-Combinator. However, there was no investment from the incubator to allow us time to focus on the project. More importantly, it was given by people that had never practiced what they were teaching. They had no empathy nor creativity to address the challenges I was bringing, as we were the only academic-spinout project of my cohort. 
 
-In the end, the workshops were very shallow, hard to relate to my case, and had a large cultural mismatch: the Silicon Valley approach is different from what happens in Europe. 
+In the end, this resulted in shallow workshops, advice hard to relate to my case, and a large cultural mismatch: the Silicon Valley approach is different from what happens in Europe. 
 ## Not all ideas are worth pursuing
-I believe that there is little discussion about what happens when **you realize your idea is not worth pursuing**.  
+I believe that there is too little discussion about what happens when **you realize your idea is not worth pursuing**.  
 
 There is a lot of pressure to keep moving forward, keep grinding, pivoting, spending money which is not yours, raising more money to keep going. 
 
-At some point, it may become clear that it's better to call a halt to the process. There are many reasons why it may be sensible to stop the creation of a company. From changes in the personal context, to misalignment between business plans and expectations. And, more importantly, perhaps **the idea was not as good** as originally believed and we may not find viable alternatives. 
+At some point, it may become clear that it's better to call a halt to the process. There are many reasons why it may be sensible to stop the creation of a company. From changes in the personal context, to misalignment between business plans and expectations. And, more importantly, perhaps **the idea was not as good** as originally believed. 
 
 Exploring ideas is a highly uncertain process. The context of academic spinouts adds more constrains, since *pivoting* may not be an option for founders. We can make the **process more efficient**, but **we can't increase the number of good ideas**. 
 
@@ -108,7 +110,7 @@ That is why I think that **offering time** is so important: **there will be a de
 
 At a given point in time, there will be a realistic review, and people will have to judge if it makes sense to keep the direction, perhaps the team has to be restructured, or perhaps the idea has to be dropped altogether.  
 
-Judge ideas *prima facie* is very hard. We are biased, we build on lots of preconceptions around our activities. The only way to identify valuable ideas is to have to chance to pursue them and see where they go. There's nothing like a quick reality check with potential customers or partners. **And there is no way of pursuing ideas without time**.  
+Judging ideas *prima facie* is very hard. We are biased, we build on lots of preconceptions around our activities. The only way to identify valuable ideas is to have to chance to pursue them and see where they go. There's nothing like a quick reality check with potential customers or partners. **And there is no way of pursuing ideas without time**.  
 ## Acknowledging risks and costs
 It is hard to avoid **survivorship bias** inherent to looking at examples of startups. Many people don't perform a *post-mortem* (of companies or products) to avoid repeating the same mistakes. Even worse, they just place the burden on external factors alone. 
 
@@ -116,17 +118,17 @@ It is hard to avoid **survivorship bias** inherent to looking at examples of sta
 
 The first risk a person assumes is **financial**. Many entrepreneurs start with non remunerated jobs. They spend countless hours looking for investment, prototyping, following workshops, without getting paid. 
 
-The risk in this case is to **never recover this investment**. 
+The risk in this case is to **never recover their investment**. 
 
 And even if an entrepreneur secures their own salary, there is the **opportunity cost**. 
 
-It's very hard to put a number to it. In some cases the opportunity cost will be more emotional than financial. For example, abandoning an academic career to pursue a commercial idea may not have a financial cost, but it certainly has a higher-degree concern on people. Moreover, becoming an entrepreneur, does not necessarily give access to competitive salaries. Long term, the question of whether a founder is more employable than a non-founder is open to debate. 
+It's very hard to put a number to it. In some cases the opportunity cost will be more emotional than financial. For example, abandoning an academic career to pursue a commercial idea may not have a financial cost, but it certainly is a higher-degree concern on people. Moreover, becoming an entrepreneur does not necessarily give access to competitive salaries. Long term, the question of whether a founder is more employable than a non-founder is open to debate. 
 
 In any case, whoever has decided to get a postdoc position is also assuming a large opportunity cost compared to finding a stable job. The reasoning regarding entrepreneurship should be equivalent, but scientists are not used to thinking in those terms. 
 
 Finally, the **emotional costs** of starting a business are seldom acknowledged. 
 
-Startups are a high-stress/high-reward environment. There are an infinite number of things to do, from various natures. Entrepreneurs juggle between tasks of different importance and impact. They grow into that position without a plan. It's easy to let work interfere with your personal life. Entrepreneurship as a career choice may have a direct impact on your relationships, and this is not a matter to overlook when making the decision. 
+Startups are a high-stress/high-reward environment. There are an infinite number of things to do, arising from various contexts. Entrepreneurs juggle between tasks of different importance and impact. They grow into that position without a plan. It's easy to let work interfere with your personal life. Entrepreneurship as a career choice may have a direct impact on your relationships, and this is not a matter to overlook when making the decision. 
 ## Focus on people
 A quick search online will immediately show that **early investors invest in people**, not in companies. 
 
@@ -136,7 +138,7 @@ Academia is a very dehumanized industry. When you apply to a fellowship, or a gr
 
 Focusing on people and their needs will be a **key differentiator**. 
 
-Many projects focus too much on companies, and what companies need. How to overcome the valley of death. Although these discussions are valuable at a macro scale, **projects are are not born without people pushing them**. If universities and funding organisms decide to incentivize scipreneurial activities, they can do so by focusing on the people they want to push ideas forward. 
+Many projects focus too much on companies, and what companies need. How to overcome the valley of death. Although these discussions are valuable at a macro scale, **projects are are not born without people pushing them**. If universities and funding organisms decide to incentivize scipreneurial activities, they can do so by focusing on the people who want to push ideas forward. 
 
 Moreover, it is time to[ give visibility to younger scientist](https://www.aquiles.me/empowering-young-scientists-rethinking-academic-entrepreneurship/). Not everything needs to revolve around professors and their needs, especially not when pursuing an entrepreneurial path. 
 ## Skills for scipreneurs
@@ -144,7 +146,7 @@ After joining two different incubators, interacting with tens of scientific foun
 
 What helps the most are relatable role models. Inviting a *professor* to explain how they started a company will not help a PhD or postdoc. 
 
-Inviting the founder of a multi-billion company can be inspiring, but it can alienate those who are thinking smaller, as most starting entrepreneurs. 
+Inviting the founder of a multi-billion company can be inspiring, but it can alienate those who are thinking smaller, as most starting entrepreneurs do. 
 
 The challenges scipreneurs face at the beginning normally revolve around understanding customers and their market. Planning and executing the development of an MVP. And, perhaps more importantly, **breaking free of the academic approach** to problem solving. These are challenges that are not solved by *teaching skills*, but they can be tackled with practice **and guidance**. 
 
@@ -158,9 +160,9 @@ It is fascinating what happens when you manage to align people to work on the sa
 
 It's also fascinating to live a bit in the future, and a lot in the present. 
 
-At societal level it is a harder question to answer. Creating small companies can seem sexy, but it must be done in a way were benefits are fueled back appropriately. Innovation at small companies seems to be more efficient, but the resource constraints put a limit to how much it can be achieved. 
+**At societal level it is a harder question to answer**. Creating small companies can seem sexy, but it must be done in a way were benefits are fueled back appropriately. Innovation at small companies seems to be more efficient, but the resource constraints put a limit to how much it can be achieved. 
 
-As a whole, I believe in the importance of transferring knowledge and solutions out of academic labs and into society. 
+As a whole, **I believe in the importance of transferring knowledge and solutions out of academic labs and into society**. 
 
 Whether the risks should be taken by society, or by venture capitalists, is a different discussion. 
 
