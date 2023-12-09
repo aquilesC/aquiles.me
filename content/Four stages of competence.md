@@ -1,2 +1,0 @@
-![[images/Pasted image 20230102143403.png]]
-These are stages that a person goes through when learning a new skill. It is potentially related to the [[Dunning-Kruger effect]], since it is possible that people believe they belong to different parts of the pyramid as they develop new skills? 

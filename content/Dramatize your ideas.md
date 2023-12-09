@@ -1,3 +1,0 @@
-If you want to convince someone, you can resort to dramatizing your situation[@carnegie2010]. This means giving some form of reinforcement to what you are trying to convey. The example the book gives is of a newspaper printing all their articles as a book, to show how much value they were conveying. 
-
-Dramatizing, after all, means bringing to a visual/physical/empathical world the abstract ideas and feeling. It means building something to give the idea of importance or value.

@@ -1,7 +1,0 @@
-[[Papers are research currencies]], that can purchase promotion and other power. However, they are not the only currency. Being allocated a grant can also be used to get a promotion. Therefore, one must ask what is the exchange rate between these currencies? Is supervising 5 postdocs equivalent to publishing 15 papers? Not all fields are the same, people working in interface disciplines will have a hard time. Moreover, the exchange rate is not known, and therefore planning careers and prioritizing is almost impossible. 
-
-A possibility is to change the **reward system** (some other ideas are discussed in [[changing scientific incentives can help overcome stagnation]]). One could think of ways in which open science, reproducibility, sharing, community building, etc. become currencies researchers can exchange, in the same way a published paper or a grant does. If institutions force higher exchange rates for these currencies, more researchers will naturally pursue them. 
-
-> Interventions to make science less wasteful and more effective could be hugely beneficial to our health, our comfort, and our grasp of truth and could help scientific research more successfully pursue its noble goals. 
-
-This is linked to the problems that appear when [[quantifying performance using multiple measurements]], and in general it describes the problem that [[quantitative performance measurements produce undesired outputs]]. 

@@ -1,1 +1,0 @@
-Endosomal sorting complexes required for transport: **ESCRT**

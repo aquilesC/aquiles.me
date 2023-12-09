@@ -1,1 +1,0 @@
-Very similarly to how [[size exclusion chromatography]] works, particles can be separated based on density by using high resolution density gradients. Particularly for [[extracellular vesicles]] and [[mitovesicles]], this may be the most promising way of reproducibly discriminate between populations of particles[@dacunzo2021]. 

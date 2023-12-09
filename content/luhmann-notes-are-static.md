@@ -1,2 +1,0 @@
-# Luhmann notes are static
-

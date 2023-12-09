@@ -1,1 +1,0 @@
-Companies fund open source to increase their image or to guarantee code quality and maintenance[@eghbal2020]
