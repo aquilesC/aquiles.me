@@ -1,0 +1,5 @@
+I found myself installing software such as [[Obsidian]], [[Zettlr]], [[Zoom]]  that require downloading binaries sometimes from a website, sometimes from Github. Obsidian and Zettlr offer AppImages that have the ability to update themselves, while Zoom distributes a .deb file that must be installed with root privileges. Linux in general, and Ubuntu in particular, grew out of having a fantastic package manager. It may create a bit of overhead for the developers, but I don't think a company such as Zoom would not have the resources. Especially compared with distributing binaries that require manual updates. 
+
+I am getting tired of being treated like a Windows user from the 90's. Linux was built to do much more, Linux users are expecting much more from the program developers they consume. 
+
+Tags: #rants #linux-package-manager #linux #ubuntu #binary-distribution

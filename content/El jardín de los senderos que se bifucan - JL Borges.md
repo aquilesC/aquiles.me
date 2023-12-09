@@ -1,0 +1,13 @@
+Es una historia dentro de una historia. Es la historia de un espía que quiere ayudar a los alemanes durante la segunda guerra mundial, pero también es la historia del jardín de los senderos que se bifurcan. Es una historia sobre la interpretación de los mundos paralelos ([[many-worlds theory]]) y de cómo las personas entienden el tiempo. 
+
+Encontré una referencia a esta historia en una discusión sobre [[digital garden]]([@mikecaulfield2015]), pero creo que se trata de una confusión cometida por alguien que sólo conoce el título del cuento y no el contenido. 
+
+La pregunta que Borges se hace es qué pasa si cada instante da origen a una bifurcación temporal. Si siempre existe un acto y su opuesto. Si el espía transmite el mensaje o no lo transmite. Si el inglés mata a tiempo al espía o no. De alguna manera estas cosas ya suceden: el objetivo del espía era brindar información para demorar una avanzada inglesa. Los ingleses, vencedores, dicen que la demora fue por mal clima. 
+
+La misma historia, bifurcada según el punto de vista, según la linea temporal que se siga. Esto quiere decir que la misma historia, la historia sobre el jardín, será diferente en cada linea temporal. Quizás no esté completa en ninguna. Quizás dependa de quién esté siguiendo algún camino (ver: [[hermeneutic circle]]). Estas mismas ideas aparecen en otros cuentos de Borges. Que recuerde de memoria, [[La biblioteca de babel]] o [[Tlon uqbar orbis tertius]]. 
+
+Borges se plantea algo mucho más interesante sobre la secuencialidad del idioma, que contrapone este cuento directamente con el de la biblioteca. Si es posible que haya lineas temporales paralelas, nuestros idiomas no están adaptados a ello. Una palabra forzosamente viene después de la otra para formar una frase, una idea, una representación del mundo. En la biblioteca, donde todos los libros que pueden haber sido escritos existen, donde cada historia tiene cada final posible, estamos limitados a una existencia temporal única, dada por el idioma, por las letras una después de otra. 
+
+Lo que me parece más interesante es que El Jardín de los Senderos que se Bifurcan es una obra que no entraría en la biblioteca borgeana, porque sería igual de vasta. Y  la historia que nostros leemos, es la historia de una linea temporal, done algunos de esos senderos se bifurcan y de muchos otros que nunca exploraremos. 
+
+Creo que la gente que intenta relacionar esta historia con el [[memex]], los [[digital garden]] y con cómo construír conocimiento se pierde el mensaje más importante que Borges estaba intentando transmitir. 

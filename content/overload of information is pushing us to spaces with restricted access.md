@@ -1,0 +1,2 @@
+The amount of information we are exposed to keeps increasing. We have no time to filter it and therefore we are starting to simply block it. This is one of the reasons behind the [[dark forest theory]]. Instead of keep checking the stream (see: [[streams expose us to a unique experience]]), we opt for curated spaces, where information is selected, where members able to generate content are selected. 
+

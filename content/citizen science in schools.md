@@ -1,0 +1,5 @@
+Although the idea of bringing [[Citizen science]] to the school can be compelling, I subscribe to the idea of [[curiosity-driven education]] as opposed to the fact that [[science education is utilitaristic]]. 
+
+The problem with forcing research projects onto education is that they have objectives beyond their pedagogical scope. For example, [[Astroplant]] collects data for learning how to grow plants in space. And this data is useful, however, if part of the project is to build the device, for example, each year there'll be a lot of time periodically dedicated to the same problems. 
+
+From an educational perspective this is fine, but from a scientific perspective this may be a bit of a waste of time. Therefore, although [[Citizen science can bridge the gap between school science and the real world]], it must be intended as a pedagogical-first approach and a result-based program only as an afterthought. 

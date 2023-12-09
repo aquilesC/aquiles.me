@@ -1,0 +1,12 @@
+# Subscription Economy
+I started thinking about how many things I was paying monthly, or yearly, 5 years ago and how many am I maintaining now. For sure it may be related to my economical possibilities, but it also points to the fact that there is a ever growing number of [[subscription-based product]]. 
+
+With the explosion of startups, mostly in the software-sphere, [[predictive income streams]] became a requisite to be considered *successful*. Just look at [[Indiehackers]] and you'll see therms as [[MRR]] and [[ARR]], referring to either [[monthly recurring revenue]] or [[annual recurring revenue]]. It is not just the amount of money that matters, but the fact that every month will be the same. 
+
+I do understand why this is compelling from a business perspective, but from a user perspective it is intolerable. While on the one hand I am thinking about buying a house to avoid paying rent, on the other I am forced to pay every year to use Microsoft Office. Up to few years ago, Office was a collection of programs that you could just install and forget, until the day you wanted a new version. 
+
+And is not only Microsoft. Adobe and Autodesk have similar business models. Even services such as [[Gumroad]], through which I sell [[Python for the Lab]] has a subscription in order to lower the commission they charge per book. Pay attention: they don't remove the commission, they just lower it. They offset almost entirely the risk and uncertainty, by pushing me to pay every month on top of the percentage I lose anyways. 
+
+If you hangout with entrepreneurs, you will notice that they all struggle to find ways of making whatever they want to make a recurring revenue. They all bought the logic that you should not deliver anything, but just rent it out. There are no longer products but services. And, the ones that risk the most are the consumers. If a service goes out of business, part of my data disappears, my marketing strategy, my workflow. 
+
+That is one of the reasons why, for me, it was fundamental [[choosing between Zettlr and Obsidian]] and not settling for anything that even remotely resembles a service. Since I still have files and photos on my computer that come from even before Google existed, I think I am doing a pretty decent job in safe-guarding what is important for me. 

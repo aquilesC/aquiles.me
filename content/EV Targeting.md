@@ -1,0 +1,3 @@
+There is some indication that EV's can preferentially target different cells[@pedrioli2021]. For example for tumors, EV's can be used to specifically target cancer cells, limiting the damage that drugs can produce in surrounding tissue. 
+
+Different compositions can increase the accumulation of [[extracellular vesicles]] in brain, lungs, or liver[@elsharkasy2020]. Uptake can also be enhanced by engineering the proteins making the outer shell of the EV's. 

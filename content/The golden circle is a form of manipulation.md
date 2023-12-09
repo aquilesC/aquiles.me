@@ -1,0 +1,8 @@
+# The golden circle is a form of manipulation
+I wonder if companies like Apple actually have a mission driven workforce or if it is all part of a manipulation (see: [[manipulations don't create loyalty]]). [[Simon Sinek]] presents what I believe is the only actionable insight of his book, citing solely the example of Apple as a company that "challenges the status quo". Doing it and saying it are two very different things. This also relates with the idea that [[novelty is not innovation]]. 
+
+The author of [[Start with Why]] himself discredits his [[The Golden Circle]] hypothesis when he says that the first mp3 music player was developed by another company. Therefore Apple is not challenging the status quo, they were just jumping on an unavoidable wave, propelled by Napster, alternative mp3 players, and crystallized by a corporation with access to music labels. 
+
+Apple makes computers, same as Dell or HP. Then, the "why" becomes a marketing strategy. The business model of Apple is very different from that of Dell. I could even say that it is almost the opposite in the B2C world, in which Dell computers can be customized. The book completely misses the point of the importance of the OS in the success of one or the other. Moreover, it misses completely the point that Dell is an extremely successful company, with some products that misfired, non unlike Apple. 
+
+Therefore, how can we judge whether it is only a matter of better copy-writing of the marketing time over extended periods of time, or if there is a differential that makes, somehow, Apple different from others.

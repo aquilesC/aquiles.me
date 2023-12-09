@@ -1,0 +1,1 @@
+OvCa (Ovarian Cancer Cell) is being used as a model to test [[using EVs as biomarkers]] [@mizenko2021]. The markers most commonly used are [[CD24]], [[EpCAM]], and [[Her2]]. However, it is important to note that [[Tetraspanins are unevenly distributed across extracellular vesicles]] and therefore the robustness of the methods may be subject to biases still not accounted for. 

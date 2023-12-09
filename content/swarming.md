@@ -1,0 +1,3 @@
+Swarming of [[nanoparticles]] in a [[flow cytometer]] happens when two or more objects are so close to each other that individual signals cannot be separated. This happens when the concentration of particles is above the maximum detection threshold of a cytometer. The main issue is that particles of non-interest may be swarming, while particles of interest are at much lower concentrations. 
+
+See, [[Effects of swarm of particles in flow cytometers]]

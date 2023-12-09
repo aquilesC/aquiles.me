@@ -1,0 +1,3 @@
+I like to call the **Fallacy of the Carbon Emitters** the argument stating that, for example, China is responsible for 30% of the world [[carbon emissions]] while the US is responsible for 15%. Living in a globalized economy, the responsibility for the emissions should be those of the end consumers of goods. 
+
+So, if China makes toys, but those are used in the US, shouldn't it be the US responsible for the carbon footprint of the goods they use? It's easy to be a clean country, or a low power user, when you move all the dirty and power hungry industries overseas. 

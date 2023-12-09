@@ -1,0 +1,8 @@
+# Multiparametric Optimization Problem
+When we try to achieve something, it is likely that we'll try to do it in the best possible way. If I want to go from one place to the other, I may check the fastest way. But what happens when you add an extra dimension such as cost. The fastest may be the most expensive. Therefore, you have to assign weights to each one of these dimensions. You don't care about costs if it is under X amount, but you would be willing to spend an extra 3 hours traveling if you can save Y or more. 
+
+[[Simple explanation of an optimization algorithm|Optimization algorithms]] are design in such a way that we can use them to arrive to the best conditions, provided that we know how to determine them. Sometimes it is hard to know the boundaries under which we want to operate, or the moral compass that guides the decisions. Maybe is cheap and fast, but pollutes more than anything else. 
+
+The other problem with optimization problems is knowing which parameters can be varied. In the example of the trip, if we are using a public transport software, it won't suggest to go by bike or by car. Therefore, the [[what are algorithms|algorithm]] will never find what is best *for us*, it will find what is best provided that we operate under some constrains. 
+
+These algorithms may be hard-coded as a computer program, or may be a [[mental model]]. In any case, we must be conscious of their hypothesis and limitations, so we can be ready to break free from those boxes whenever we need to. Sometimes, [[problems can't be solved from the inside]]. 

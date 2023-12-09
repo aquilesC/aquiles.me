@@ -1,0 +1,5 @@
+# How can links replace the ordering of notes in a box
+
+In [[The Luhmann method]], new notes must be placed in relation to existing notes by proximity. A note will have a *natural place*. Digital notes, however, do not need to be stored in relation to one another. Of course we could replicate the same procedure by adding prefixes, folders, etc. but it is much more natural to build relationships between notes because of links and not just because of placement. 
+
+However, there is always a risk of not building links to other notes because storing a new one is a low energy task, while creating links is a high energy task. In the analog world, we simply can't store without deciding where it'll be stored. For digital notes, it would be fair to say that they are not ready to be stored amongst the other notes until they get linked. 

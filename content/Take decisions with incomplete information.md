@@ -1,0 +1,5 @@
+One of the most challenges aspects of [[entrepreneurship]] is that information will never be complete. We can strive to understand *the market*, but it's always going to be ambiguous. Even for more practical aspects, such as choosing a specific technology, the color of a product, or committing to a marketing strategy. 
+
+We may do our best to limit the risks, but we can't keep exploring all the alternatives before committing to a decision. This can create problems internally (see: [[literature/202210011658 The Five Dysfunctions of a Team]]). 
+
+I believe that success may depend on taking a *good* decision as fast as possible, with little need for extra information. It may be gut feeling, or a special sense for what's up. It can also be better flexibility to let previous decisions go as soon as proven incorrect. In any case, all the approaches prevent the [[indecision freeze]]. 

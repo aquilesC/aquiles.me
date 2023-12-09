@@ -1,0 +1,3 @@
+The idea is that to increase the integration time of particles flowing through a [[flow cytometer]], you can use a camera in which the rows move in a synchronized way with the flow. Effectively, this means the camera can integrate the signal over a longer time as compared with a standard point-detector. 
+
+This technique is commercialized by [[Luminex]]. The device includes plenty of engineering to make self-aligning, cleaning, and calibrating. 

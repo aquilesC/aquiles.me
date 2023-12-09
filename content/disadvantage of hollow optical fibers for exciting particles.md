@@ -1,0 +1,3 @@
+The disadvantage of [[hollow optical fiber]] is that the light is guided through the core, and the inner channel is illuminated through an evanescent field (@Faez2015). To overcome this, it is possible to use hollow core fibers with channel diameters of several micrometers (@Fo2020). However, in such case, the particles can diffuse transversely over several frames. This can be used to track the position in 3D (see [[calculate the radial position of a particle in a hollow fiber]]), but adds to the overall difficulty of the experimental setup. 
+
+Tags: #limitations-hollow-optical-fibers #nanoparticle-tracking-in-channels  

@@ -1,0 +1,2 @@
+
+There's a type of note that I could not identify with a proper name yet, and therefore the nickname §. They are the notes that become too long and therefore they violate the idea of  [[notes should be concept-based]]. They are more elaborated than [[structure notes]], but they are not of the quality of an [[essays]]. For example: [[§ how i take notes of papers]].

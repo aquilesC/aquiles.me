@@ -1,0 +1,5 @@
+![[images/Pasted image 20221230113844.png]]
+
+When detecting concentration, for example, an analog measurement will yield an intensity proportional to the amount of analytes labelled. For this type of measurements to work, one needs to *integrate* over time. This is how a [[Elisa test]] work, or how [[plate readers]] operate. 
+
+On the other hand, [[single-molecule]] experiments are digital in nature[@walt2013], there either is, or there isn't a molecule to be detected. [[Digital pcr]], and [[Simoa]] are two types of measurement that exploit a form of *amplification* (either replication of a nucleotide strand, or using the non-linearity of the fluorescence signal) to determine the number of times a molecule is present versus the number of times it is not, hence generating a concentration measurement out of a digital system. 

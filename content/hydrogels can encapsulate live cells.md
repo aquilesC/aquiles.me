@@ -1,0 +1,3 @@
+The idea is to create a hydrogel out of cell-culture under mild conditions. This would result in the encapsulation of cells, which can later be used for studying properties as they would happen in different organs. This is referenced in [@foyt2018], a review paper, but not further citations are provided. 
+
+This is one way to [[Use of hydrogels for medicine]], and somehow feels similar to the process of the [[EVQuant]] method. I wonder if [[Mimetas]] employs a similar principle in their organoplates. 
