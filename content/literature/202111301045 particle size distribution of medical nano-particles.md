@@ -1,8 +1,8 @@
 # Develop a combination of methods to measure particle size distribution of medical nanoparticles
-- Source: [@gioria2018]
+- Source: [[@gioria2018]]
 - Tags: #medical-nanoparticles #nanomedicine #method-development #size-distribution #mednp
 
-Medical nanoparticles (MedNPs) need to undergo rigorous testing before they are approved by regulatory bodies. Some of the information required includes the particle size distribution, intended not only as measures of diameter, but also aggregation state or the identification of different shapes. 
+[[Medical nanoparticles]] (MedNPs) need to undergo rigorous testing before they are approved by regulatory bodies. Some of the information required includes the particle size distribution, intended not only as measures of diameter, but also aggregation state or the identification of different shapes. 
 
 As is known, DLS is not the proper tool to characterize size-distributions of non-monodispersed samples. However, DLS is still the most widely used technique and one of the few methods for which International Standards guidelines exist. 
 

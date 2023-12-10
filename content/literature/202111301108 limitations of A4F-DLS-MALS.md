@@ -1,5 +1,5 @@
 # Limitations to A4F-DLS-MALS
-- Source: [@gioria2018]
+- Source: [[@gioria2018]]
 - Tags: #nanomedicine #A4F-DLS-MALS #FFF #Biotech-Technology
 
 The Asymmetric Field Flow Fractionation coupled to DLS and MALS is a powerful approach to measuring the size distribution of nanoparticles (see: [[literature/202111301045 particle size distribution of medical nano-particles]]). However it also has limitations, namely, that each particle requires a specific protocol. Method optimization can be very laborious, and it is hard to optimize the results when there’s a severe lack of orthogonal approaches to gain insight into the truth. 

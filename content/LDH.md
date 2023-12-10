@@ -1,1 +1,1 @@
-This is a method proposed by ISO and ASTM to address the biological evaluation of medical devices and nanoparticulate materials[@gioria2018]. 
+This is a method proposed by ISO and ASTM to address the biological evaluation of medical devices and nanoparticulate materials[[@gioria2018]]. 

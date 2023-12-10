@@ -1,6 +1,6 @@
 # Determining drug loading and release kinetics in nanoparticles
 
-- Source: [@gioria2018]
+- Source: [[@gioria2018]]
 - Tags: #nanoparticle-drug-delivery #drug-release #nanoparticle-safety
 
 One of the **challenges** is to determine the amount of drug loaded into the nanoparticles and the amount of freely available active compound. The fraction of active components is listed by the EMA as one of the parameters that must be provided for nano materials. 

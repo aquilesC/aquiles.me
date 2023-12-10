@@ -1,1 +1,1 @@
-Replacement, Reduction, and Refinement[@gioria2018]
+Replacement, Reduction, and Refinement[[@gioria2018]]

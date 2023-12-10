@@ -1,9 +1,9 @@
 # Measure the protein adsorption to MedNPs
 
-- Source: [@gioria2018]
+- Source: [[@gioria2018]]
 - Tags: #nanomedicine #mednp #medical-nanoparticles
 
-Measuring the size-distribution of nanoparticles (see: [[202111301045 particle size distribution of medical nano-particles]]) can be important to determine the protein adsorption to MedNPs. When particles are incubated in cell culture media, or serum, protein adsorption can lead to changes in the sample, including aggregation, changes in morphology, or even breakdown. 
+Measuring the size-distribution of nanoparticles (see: [[202111301045 particle size distribution of medical nano-particles]]) can be important to determine the protein adsorption to [[Medical Nanoparticles]]. When particles are incubated in cell culture media, or serum, protein adsorption can lead to changes in the sample, including aggregation, changes in morphology, or even breakdown. 
 
 Drugs such as Doxil (the first approved nanomedicine in the US) are PEGylated to avoid interacting with proteins in blood. By accurately measuring the size of the particles, it could be possible to measure protein adsorption to the surface. 
 
