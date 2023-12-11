@@ -1,0 +1,3 @@
+It is essentially an interferometric approach that allows to measure mass (i.e. the total scattered intensity) of proteins. It is commercialized by [[Refeyn]], and I wonder how similar it is to the [[ExoView]] devices (are they somehow related to each other?) This is the same technique used by [[Illumion]], and is similar to what [[Envue]] is developing for nanoparticle tracking analysis.
+
+[[iNTA]] is a similar implementation but without the need for particle to attach to the substrate. 

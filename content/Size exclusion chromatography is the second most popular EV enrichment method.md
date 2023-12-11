@@ -1,0 +1,1 @@
+[[SEC]] ([[size exclusion chromatography]]) is the second most popular enrichment method of [[EV]]s after [[ultra centrifugation]] [@mizenko2021 citing an ISEV report]. 

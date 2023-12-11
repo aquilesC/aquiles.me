@@ -1,0 +1,1 @@
+As far as I understand are molecules that act both as a base or an acid, depending on their local environment. They are used in [[isoelectric focusing]] where a voltage is applied and the separation of the ampholytes creates a PH gradient

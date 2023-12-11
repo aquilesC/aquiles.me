@@ -1,0 +1,7 @@
+Depending on the reasons [[why we teach science in school]], it may be fair to question [[how we teach science in school]]. Most approaches are solution-oriented, which means that someone already knows the answer we are looking for and builds a storyline to reach it. This way of approaching education is not challenging. Moreover, it goes against the natural drive of being curious and explore, and it does not resemble the "professional" [[scientific exploration and play]].
+
+In that regard, science teaching could stem from the curiosity of people, which would strengthen the capacity of pursuing different lines of thoughts. See: [[Inquiry-based science education]]
+
+This would generate a feedback loop with each student own interests and stimuli. This is why I think it's important that [[science education should not distinguish disciplines]]. Pursuing curiosity should not be constrained to the artificial boundaries imposed by defining the scope under which one is exploring the world. 
+
+A curiosity-driven approach, however, goes against the view that [[science education is utilitaristic]]. Right now, [[education is content based]], but by following a curiosity driven approach, [[science education should be method-oriented]]. 

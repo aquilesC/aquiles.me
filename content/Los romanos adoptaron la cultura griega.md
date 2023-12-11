@@ -1,0 +1,5 @@
+Cuando el *imperio* romano comenzó a tomar forma y se expandió primero hacia el sur, a la Magna Grecia y eventualmente a Grecia, los romanos se encontraron con una vasta producción intelectual. Siglos de desarrollo, pensamiento, creatividad, no podían ser fácilmente reproducidos. Algo del todo extraordinario sucedió: Los romaons adoptaron la cultura griega. La gente más rica aprendió el idioma, comenzaron a comprar (o saquear) libros de las bibliotecas helénicas[@vallejomoreu2019]. 
+
+El comienzo de la escritura romana fueron traducciones de *clásicos* griegos. Las obras de teatro eran adaptaciones de obras anteriores. Algunos textos antiguos reflejan esta interacción entre romanos y griegos, a veces mofándose. La pregunta es qué hubiera sucedido si los romanos no adoptaban la cultura griega y la esparcían dentro de su dominio. Europa probablemnte luciría muy diferente.
+
+Nota sobre [[El infinito en un junco - Irene Vallejo]]

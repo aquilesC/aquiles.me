@@ -1,0 +1,5 @@
+A possible [[open hardware business model]] is to simply sell the product. [[Open hardware]], or not, selling something may be the easiest way of generating income[@pearce2017]. However, many [[open hardware projects focus on cutting costs]], and this is a mistake. In many cases, lowering costs is associated to a lower quality. Being open does not guarantee being cheap, nor the other way around. 
+
+If the plan is to sell cheaper than the competition, the open nature of the project may just be a hindrance, since it is likely that bigger suppliers of parts won't want their designs becoming publicly available (this is the case of the Raspberry Pi, for example).
+
+It is important to remember that there are other factors beyond [[artificially generated scarcity]], such as [[being first to market]], [[the value of a brand]], or [[the value of a community]]. 

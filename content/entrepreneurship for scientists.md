@@ -1,0 +1,17 @@
+Topics that are relevant (this is an [[outline note]])
+## [[scipreneurs]]
+
+- [[finding a problem to solve]]
+	- [[love the problem and not the solution]]
+	- [[Love the problem if you don't know what it is]]
+	- [[you must love the solution]]
+- [[Technology Transfer]]
+	- [[technology readiness level]]
+	- [[Healthech Innovation Cycle]]
+- [[innovation leads to growth]]
+	- [[disruptive innovation]]
+- [[Professors can enable scipreneurs]]
+	- [[Risks in starting a scientific company]]
+	- [[The scientific risks of professors holding shares in companies]]
+	- [[maximum of shares of a company that a professor can have]]
+	- [[maximum of shares of a company that a professor can have]]

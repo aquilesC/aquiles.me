@@ -1,0 +1,7 @@
+Although [[open science]] (including [[open hardware]]) practices have many moral benefits, the key aspect of it all should always revolve around [[reproducibility]] of scientific results. People struggle on endless discussions about the definition of *open* 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">something that is not publicly available is not open source. Software def. <a href="https://t.co/Uow4cPidGw">https://t.co/Uow4cPidGw</a> states that users have the &quot;right to use, study, change, and distribute the software and its source code to anyone and for any purpose.&quot;<br>If I cannot access it, I cannot do any of it</p>&mdash; André Maia Chagas (@Chagas_AM) <a href="https://twitter.com/Chagas_AM/status/1453758605065342980?ref_src=twsrc%5Etfw">October 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The reality is that science has a very severe crisis with reproducibility. The paramount paradigm of scientific discovery should be that others can perform the same experiment and get the same results. The semantics are secondary, what is real is that the only way of being able to reproduce an experiment is with enough information[@hohlbein2021a]. 
+
+Using reproducibility as a guiding principle, the other problems would self-align. There may be a patent in the middle, trademarks, proprietary algorithms. But nothing should be in between reproducing results, or it should not be called *science* anymore. 

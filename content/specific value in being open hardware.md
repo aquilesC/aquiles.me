@@ -1,0 +1,9 @@
+[[Open Hardware]] is very closely related to the overarching idea of doing [[open science]]. Quite often [[open hardware projects focus on cutting costs]], while there is also the possibility that they can deliver *value* beyond their price. I am still forming an opinion about it, but it seems that one of the most important values (which in this context equates to *impact*) is the ability to reuse and repurpose:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">well, yes :)<br>the ender 3 is open hardware, and the open software is Marlin <a href="https://t.co/FzAzEW2x5q">https://t.co/FzAzEW2x5q</a></p>&mdash; Vittorio Saggiomo (@V_Saggiomo) <a href="https://twitter.com/V_Saggiomo/status/1451653427797299201?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+There may be some value in the oppeness as it increases the number of interaction points between scientists and citizens[@hohlbein2021a]. Although a bit idealistic when thinking about everyday citizens, it is very well possible that there's an increase in interaction between companies and researchers. 
+
+In my case, the most valuable aspect of [[open hardware]] is being able to learn and build upon tools even if I do not own them, and this same feeling is starting to publicly appear in others[@hohlbein2021a]. I can understand the decisions made and how would they impact my own designs and work. It is, however, a bit abstract, but I do spend time scrawling through projects just to see what they have done. 
+
+Moreover, there is more and more evidence that there is a path for an [[open hardware business model]] (or probably more than one), from the likes of [[Arduino]] or [[OpenTrons]]. 

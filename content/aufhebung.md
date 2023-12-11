@@ -1,0 +1,3 @@
+> In Hegel, il termine _Aufhebung proprio per la compresenza di significati opposti in un'unica parola, è assunto a designazione del principio base della dialettica, per indicare cioè una negazione che non sia però nullificazione od abolizione. La tensione tra questi significati contrari ben si adatta a ciò che Hegel vuole descrivere in un processo dialettico: un termine o concetto è al tempo stesso conservato e modificato attraverso l'interazione dialettica con un altro termine o concetto. "Qualcosa è tolto" - scrive Hegel - "solo in quanto è entrato nella unità col suo opposto. In questa più precisa determinazione di un che di riflesso, esso si può convenientemente chiamare momento.
+> - [Wikipedia](https://it.wikipedia.org/wiki/Aufheben)
+

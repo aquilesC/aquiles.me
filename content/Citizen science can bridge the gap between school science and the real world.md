@@ -1,0 +1,3 @@
+[[Citizen science]] refers to projects in which non-professional scientists generate or analyze data. If there would be a systematic implementation of those projects at a school-level, that would help avoid the problem of [[science in the classroom is separated from the real world outside]], and at the same time it would give students a purpose and has the potential of massively helping scientists. 
+
+The only project I am aware of that targets this specific niche is [Astroplant](https://www.astroplant.io/). Students can grow plants under different conditions and share the data with a central hub that collects them and serves scientists trying to understand how to grow plants in space and generate circular economies. 
