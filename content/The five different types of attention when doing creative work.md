@@ -1,4 +1,4 @@
-There are five different types of attention when people do creative work (may also be that these are *universal*the six steps to successful writing:[@ahrens2017 the six steps to successful writing]x
+There are five different types of attention when people do creative work (may also be that these are *universal* the six steps to successful writing:[@ahrens2017] 
 
 - Focused attention, which we can sustained for short periods of time
 - Sustained attention, used for learning, doing, understanding
