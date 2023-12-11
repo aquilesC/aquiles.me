@@ -1,9 +1,0 @@
-> An externality is a cost or benefit caused by a producer that is not financially incurred or received by that producer. An externality can be both positive or negative and can stem from either the production or consumption of a good or service. The costs and benefits can be both private—to an individual or an organization—or social, meaning it can affect society as a whole. 
-> - [Investopedia](https://www.investopedia.com/terms/e/externality.asp)
-
-> Externalities often occur when the production or consumption of a product or service's private price [equilibrium](https://en.wikipedia.org/wiki/Economic_equilibrium "Economic equilibrium") cannot reflect the true costs or benefits of that product or service for society as a whole.[\[7\]](https://en.wikipedia.org/wiki/Externality#cite_note-7)[\[8\]](https://en.wikipedia.org/wiki/Externality#cite_note-8) This causes the externality competitive equilibrium to not adhere to the condition of [Pareto optimality](https://en.wikipedia.org/wiki/Pareto_efficiency "Pareto efficiency"). Thus, since resources can be better allocated, externalities are an example of market failure. 
-> - [Wikipedia](https://en.wikipedia.org/wiki/Externality)
-
-If I buy a new lock, burglars will just rob the house next door. My lock generated a cost for someone else, which could be framed as a negative externality. I wonder if opportunity costs could also be framed as externalities, or missed revenue. 
-
-Then, we could wonder whether [[open hardware]] generates a negative externality on the funding that supported the design of it. By not agreeing on licenses, there is revenue loss from the university/funding body perspective, not necessarily from society as a whole. But what if choosing the wrong license blocks the business development at all?

@@ -1,7 +1,0 @@
-Splitting equity of a company can always give raise to eternal discussions. Science-based companies are a special case when they are the result of [[technology transfer]] out of a University. Most likely there'll be some senior person (a professor, PI, etc.) who is not transitioning out of their position, but who still will receive a stake on the company. How much stake is deserved, however, is not clear upfront. 
-
-[Matt Krisiloff](https://mattkrisiloff.com/) [@krisiloff2021] argues that a professor who will not switch to working on the company should receive less than 10% equity, and normally around 1 or 3%. I think this will depend on how much involvement the company required, and whether a low percentage is enough to create some incentives to keep engaged. 
-
-I have discussed with a company that was offering around 1% equity to early scientific advisors as a way of keeping them in a close feedback loop that it would make them create value to the company, but not sure how this worked out for them. 
-
-There is another important item regarding [[intellectual property]], since if a PI is the owner of a patent, for example, they'll receive some benefits even if they have no equity on the company. This is without even considering what happens if there is a [[maximum of shares of a company that a professor can have]].

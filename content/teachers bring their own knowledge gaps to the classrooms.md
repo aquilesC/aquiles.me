@@ -1,5 +1,0 @@
-Teachers study to become teachers. Part of their studies focuses on methods, but a big portion revolves around the *topics* they are meant to teach later on. If during the formative years there's a knowledge gap, it is extremely likely that it will manifest during a class. This can be seen, for example, when teachers neglect topics such as physics or chemistry in favor of humanistic subjects[@furman2020]. 
-
-The lack of sufficient knowledge and biases at the teacher level could be one of the explanations for the [[correlation between pedagogical approach and science education outputs]], mostly because of the [[correletion between time spent and competency in scientific literacy]]. However, knowledge gaps can also explain why [[teachers lack tools to design a science curriculum]]. 
-
-After all, teachers are people who went to the same education system than the kids they are educating. It is understandable that there is a self-replicating problem that needs some form of external intervention to change course. This may be exactly why [[incremental change leads to unsustainable educational paradigms]]. 

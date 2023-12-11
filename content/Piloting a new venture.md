@@ -1,3 +1,0 @@
-This idea of the [[effectuation theory for entrepreneurs]] is associated with the [[Entrepreneurial lemonade]], in the sense that entrepreneurs act based on *control instead of prediction*[@ianuzzi2017]. Instead of trying to predict what is going to happen, a successful entrepreneur controls the context in order to *make it happen*. Perhaps stretching some boundary conditions, un-leveling the playing field. 
-
-At least in [@ianuzzi2017] the ideas are poorly developed, checking out [@sarasvathy2001] can be a much better idea.

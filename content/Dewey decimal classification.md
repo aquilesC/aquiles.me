@@ -1,7 +1,0 @@
-> The Decimal Classification introduced the concepts of _relative location_ and _relative index_ which allow new books to be added to a library in their appropriate location based on subject. Libraries previously had given books permanent shelf locations that were related to the order of acquisition rather than topic. The classification's notation makes use of three-digit numbers for main classes, with fractional decimals allowing expansion for further detail. Numbers are flexible to the degree that they can be expanded in linear fashion to cover special aspects of general subjects.[\[2\]](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification#cite_note-2)
-
-The Dewey system is *proprietary*, meaning it must be licensed from, in this case, a non-profit. It is important to note that books are ordered relative to each other, this means that they are neither in alphabetical order nor in chronological order from the time of purchase (related, vaguely, to [[breaking the chronological order]]). 
-
-This is not the only system of classification. In the end, is a method for easy retrieval (see: [[retrieval and storage strength]]) of the required element, provided some contextual information (for instance, topic). Could this be extendable to other contexts of storage, such as data structures (or ideas?)
-
-Tags: #libraries #organization #systems 

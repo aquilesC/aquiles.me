@@ -1,3 +1,0 @@
-When there is a process of [[Technology Transfer]] out of academia, there'll be [[equity for scientists starting companies]]. The discussion that is not happening often enough is how much (if any) should be the cap percentage that a PI should have on a company. 
-
-Some universities in the Netherlands cap this at 5% regardless of the nature of the company. Having 5% of Shell or 5% of a startup is seen as equally negative. However, if a professor who is a full-time employee of a university, how can they justify working on the side for their own company? How can they prevent conflicts of interest between their research (what they are paid for) and their entrepreneurial activities?

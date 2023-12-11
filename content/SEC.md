@@ -1,1 +1,0 @@
-SEC: [[size exclusion chromatography]]

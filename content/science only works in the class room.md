@@ -1,2 +1,0 @@
-# Science only works in the Class Room
-When teaching physics in a high-school, another teacher told me a sentence that I could never forget: The way kids look at science in the classroom is just as an intellectual exercise that only works within those four walls. As soon as they leave the school, the real world behaves so differently, that most kids struggle extrapolating what they learn with what they see. 

@@ -1,5 +1,0 @@
-In Latin America, teaching curricula point to the importance of Science Education in primary education (see: [[primary education to establish the basis of scientific thinking]]), and they also tend to stress the importance of [[Curiosity-driven education]]. However, many of the study plans do not include guides on how to deliver lectures[@furman2020]. 
-
-> En la mayoría de los países de la región las capacidades que se espera que los alumnos desarrollen en el nivel no están asociadas a contenidos conceptuales específicos, ni secuenciadas de modos que orienten a los docentes acerca de cómo trabajarlas en el aula a lo largo de los distintos grados. 
-
-This piles to the fact that teaching curricula sometimes are hard to find, stressing the idea that they are useless pieces of information. Many teachers may not even be aware of their existence. This may be covered in [@bruns2014]. 

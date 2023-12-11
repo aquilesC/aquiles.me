@@ -1,1 +1,0 @@
-Advice is a noun, while [[advise]] is a verb.

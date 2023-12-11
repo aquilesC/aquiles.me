@@ -1,6 +1,0 @@
-In order to overcome the problems of skewing the incentives that [[measuring performance using single criteria]] generates, we could think about using many criteria at once. For example, we could see the number of products a factory makes, and the number of accidents in the plant. The problem here is that there'll need to be some normalization. 
-
-The biggest challenge is that the way in which we normalize and add together the metrics can change over time and from place to place[@ridgway1956]. This is exactly what happens when one thinks about the [[exchange rate of scientific output]], since they are many metrics normalized somehow, especially the case that [[citation-based metrics incentivize competition over collaboration]]. 
-
-> Without a single over-all composite measure of performance, the individual is forced to rely upon his judgment as to whether increased effort on one criterion improves over-all performance, or whether there may be a reduction in performance on some other criterion which will outweigh the increase in the first. 
-> [@ridgway1956]

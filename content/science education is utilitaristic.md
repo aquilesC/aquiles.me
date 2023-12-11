@@ -1,5 +1,0 @@
-It is possible to argue that we teach science in school so that people learn how to solve specific problems and join the workforce as early and as efficiently as possible. This is what is behind the discussion of [[replacing analysis with statistics]], for example. This is granted because [[education is content based]] and therefore most people simply argue about *content*. 
-
-However, the content keeps changing. Predicting future workplaces is risky and can lead to people possessing the absolute wrong skills. 
-
-> Even as a professional physicist, I barely use the math I learned in high-school. Once in a while it becomes handy, but is not a *tool* I use every single day. The same with the chemistry or biology I've learned. Therefore I think it is important to seriously ask why are we teaching science to kids in school. 
