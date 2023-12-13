@@ -1,0 +1,51 @@
+## Book Outline
+- Introduction to Entrepreneurship for Academics
+	- Entrepreneurial mindset
+		- Effectual reasoning
+		- Chances of failure are very real, what is the impact on your life?
+			- **My own example**
+	- Transitioning from academia to entrepreneurship
+		- What it means
+			- Risks and Uncertainty
+		- Impact on your personal life
+			- Time management is hard, no one else will do the work for you, and nothing will ever be complete. 
+	- Business vs academic motivations
+		- What is your motivation?
+		- Creating impact
+		- Avoiding conflicts of interest
+- Identifying opportunities
+	- Leverage the network you already have
+	- What problem do you solve
+	- Who do you solve it to
+	- Who else solves the same problems
+		- Can you think out of the box to see if other people have the same issues?
+	- Information will always be incomplete. One of the skills of an entrepreneur is to decide when it's enough to take the leap and move forward. 
+- Business Planning
+	- What is your mission
+	- What is your vision
+	- Define one (or more) value propositions
+- Legal context
+	- How can you setup a company
+	- Who are your partners? 
+		- Be aware of how you split shares with professors, etc.
+	- Licensing out of the university
+		- What TTO's can do for you, and what to be aware of
+- Thinking in milestones
+	- What can you do today?
+		- If you have time, how would you invest it?
+		- Can you talk to 10 people who may be interested in what you do?
+			- Open-ended questions!
+			- Think about what they have in common. 
+		- Can you put up a website?
+	- What is the minimum thing you need to achieve to sell?
+		- MVP (both as a tangible product or as a service)
+		- Can you convince someone to pay before you have it?
+	- How can you continuously learn: the market, the customers, the technology
+- Beyond
+	- This is only the beginning of the journey
+	- Assembling a team: becoming a leader
+		- Build trust:
+			- Benevolence
+			- Competence
+			- Honesty
+	- Developing a vision
