@@ -46,7 +46,7 @@ One thing lead to another, and I started organizing workshops to teach people th
 ## From freelancing to entrepreneur
 As much as I liked freelancing, there was a moment when I realized I wanted to grow in other directions. 
 
-Freelancing gives you a wealth of problems to solve and allows you to learn very useful skills, but it [[_Do things that can scale|does not really scale]]. 
+Freelancing gives you a wealth of problems to solve and allows you to learn very useful skills, but it [[essays/Do things that can scale|does not really scale]]. 
 
 At the moment in my life I was in a very unique position: I was outside of academia and I was not pursuing an academic career, I knew how to build things, and I had a bit of an exposure to *doing business*. 
 

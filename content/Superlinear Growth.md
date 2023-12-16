@@ -10,4 +10,4 @@ If two competitors have linear growth, they may en up splitting the market half/
 
 In the end, it all comes down to a mindset. What things can we do that put us in a superlinear trajectory. After all, whether we are in a superlinear path **depends on past actions**.
 
-Growing the user-base one by one, for example, "does not scale" (see: [[_Do things that can scale|_Do things that can scale]]), but it may generate a compounding effect. I add one user, but thanks to that, two users sign up without my intervention. I add one more user, two more users sign up plus the extra two each brought. But without that initial push, no one would have ever signed up. 
+Growing the user-base one by one, for example, "does not scale" (see: [[essays/Do things that can scale|Do things that can scale]]), but it may generate a compounding effect. I add one user, but thanks to that, two users sign up without my intervention. I add one more user, two more users sign up plus the extra two each brought. But without that initial push, no one would have ever signed up. 
