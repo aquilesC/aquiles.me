@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 15-12-23
 ---
 🗣️ Talking to people is the core activity for every founder who is getting started. But it can be insanely hard to overcome the fear of rejection, this is what I've learned:
 
