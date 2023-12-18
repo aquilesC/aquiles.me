@@ -9,3 +9,5 @@ And I think it is important to have a special distinction for science-based comp
 See also: [[Risks in starting a scientific company]]
 
 The confusion zone between business and technologies generates the **need** for research (founders keep doing what they were doing), pushing commercialization down to the future. The risk is that the amount of resources needed keep growing, which in turn means more investment is needed, diluting the founders shares or putting a temporary halt to a promising technology. 
+
+See: [[minimum viable product]]

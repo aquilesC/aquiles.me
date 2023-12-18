@@ -1,13 +1,11 @@
-# Risks and opportunities of open-source are (often) misjudged
-
 ## Risks
-When talking with people of different backgrounds, the common pattern is that they fear someone will steal their ideas if they [[open source]] their code. 
+When talking with people of different backgrounds, the common pattern is that they fear someone will steal their ideas if they [[open source]] their code or design. 
 
-I can partially understand this if, for example, you release the code to analyze data before you finish analyzing your dataset. Smart people could guess what you are trying to do and [[scoop your research]]. First, I don't know if this fear is justified, especially not for experimental scientists. **assumption**
+In many aspects, these fears are incompatible with [[open innovation]] principles. 
 
-If you are a scientific hardware company, I have heard people saying that by open-sourcing they enable competitors to build on what they developed and invested on. 
+The perceived risk of open-sourcing, therefore, is to be scooped, to get someone to leverage your effort and deliver something better than what you could do. 
 
-I can also partially understand this, but only in the cases where software is your core business, and not the hardware itself. Imagine you provide data analysis services as a subscription. However, the reality is completely different if you are really a hardware company. 
+The largest risk, however, is seldom discussed: [[prematurely open sourcing can block innovation]]. 
 
 ## Opportunities
 If you are a researcher, you can generate a larger impact through your software than through your papers. Software can be readily used, cited and speed up the development of science. It also helps addressing the reproducibility issues. If you are in a non-stable career, it helps to show your abilities to future potential employers, much more than a paper.

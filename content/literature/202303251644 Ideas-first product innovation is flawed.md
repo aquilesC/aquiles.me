@@ -7,4 +7,4 @@ Much effort has been put in validating ideas quickly (see: [[idea validation]] a
 
 There are many "big names" that propose the approach of "*fail fast*" in order to iterate as quickly as possible on your products. However, there must be a better approach. 
 
-See: [[nee]]
+See: [[jobs theory]]
