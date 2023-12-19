@@ -15,3 +15,4 @@ Topics that are relevant (this is an [[outline note]])
 	- [[The scientific risks of professors holding shares in companies]]
 	- [[maximum of shares of a company that a professor can have]]
 	- [[maximum of shares of a company that a professor can have]]
+	- [[Professors can lead to the first sale]]
