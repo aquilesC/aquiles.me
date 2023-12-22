@@ -1,15 +1,31 @@
 # Understanding and Accepting the Risk of Failure
+The entrepreneurial journey isn't all sunshine and rainbows. It's like embarking on a roller coaster ride, where ups and downs are part of the thrill. Hopefully the ups are large enough that help you propel yourself during the lows.
 
-Let's face it, the entrepreneurial journey isn't all sunshine and rainbows. It's like embarking on a roller coaster ride, where ups and downs are part of the thrill. Now, let's talk numbers – and I'm not going to sugarcoat it. Roughly 90% of startups bite the dust. That's right, 9 out of 10. These numbers aren't meant to scare you, but to prepare you for the reality of the startup world.
+What I find important is to acknowledge that the risk of failure is very real. We normally don't discuss it enough, but it's important to normalize it in order to make a quicker regroup. 
 
-In the early stages, the survival rate is even more daunting. About 20% of new businesses don't make it past the first year. Fast forward to five years, and only about half are still standing. It's a tough game, but understanding these stats is crucial in preparing yourself mentally and strategically.
+Common knowledge, perhaps poorly documented, states that roughly 90% of startups bite the dust. So called deep-tech companies have a slightly more favorable chance of success. 
 
-Now, why do so many startups fail? There's no one-size-fits-all answer, but common culprits include not pinpointing a real market need for the product or service, running out of cash (cash flow is king, after all), not having the right team on board (you need people who complement your skills and share your vision), getting outcompeted (hey, it's a jungle out there), issues with pricing and costs (you've got to hit that sweet spot where customers are willing to pay and you still make a profit), and last but not least, a product that just doesn't hit the mark.
+**Why do so many startups fail**? There's no one-size-fits-all answer, but common culprits include not pinpointing a real market need for the product or service, running out of cash, not having the right team on board, getting outcompeted, issues with pricing, partners, and costs, and last but not least, a product that just doesn't hit the mark. 
 
-These stats and reasons aren't here to discourage you. Quite the opposite, actually. They're here to give you a clear-eyed view of the entrepreneurial landscape. Forewarned is forearmed, as they say. Knowing what you're up against is the first step in beating the odds. So, let's roll up our sleeves, learn from the mistakes of others, and dive in with our eyes wide open. Remember, every successful entrepreneur you admire today has likely faced and overcome these very challenges. You're not alone in this. Let's tackle it head-on!
+In the previous chapter, we discussed about the **affordable loss** principle and how it is used by entrepreneurs. The risk of a startup not succeeding (in the sense of becoming an organization that generates enough money to keep performing its main activities) is large. Having a clear perspective on what can be lost is crucial to decide if its the path you want to take at this moment, in this life conditions. 
+
+These stats and reasons aren't here to discourage you. Quite the opposite, actually. They're here to give you a clear-eyed view of the entrepreneurial landscape. Forewarned is forearmed, as they say. So, let's roll up our sleeves, learn from the mistakes of others, and dive in with our eyes wide open. Remember, every successful entrepreneur you admire today has likely faced and overcome these very challenges. You're not alone in this. 
 ### Personal Reflection: Experiences with Failure and Lessons Learned
+Alright, let's get personal for a moment. I've had my fair share of faceplants on my entrepreneurial journey. There were projects I was sure would be a hit, but they fizzled out. 
 
-Alright, let's get personal for a moment. I've had my fair share of faceplants on this entrepreneurial journey. There were projects I was sure would be a hit, but they fizzled out. I've watched budgets evaporate faster than a puddle in the Sahara. And, oh boy, some of my strategic moves were more like strategic stumbles.
+Earlier I mentioned my experience with **Python for the Lab** and how I leveraged **who I was**, **what I knew**, and **whom I knew**. But that is only the bright side of the story. 
+
+At some point, I decided to focus on organizing workshops instead of developing software. I was tired of sitting behind a computer and troubleshooting bugs. I was convinced the workshops would address a common problem and people would rush to register for them. I went to find spaces in my city where I could organize them. Made a list of people that could be interested. 
+
+I started reaching out to professors, postdocs, and PhDs. I sent personalized message after personalized message. Started going international. But it flopped. I didn't manage to secure a single workshop outside of my existing network. It took years until someone reached out asking me to organize one. 
+
+I won't say I was devastated by the outcome, but I had a very clear deadline to refocus my life. While I enjoyed the freedom of working freelance the first year, if I couldn't secure at least one workshop per month by the end of the second year I would simply stop and look for opportunities elsewhere. 
+
+My entrepreneurial journey didn't end at Python for the Lab. I went on to creating **Dispertech**, but that's a different story. 
+
+It's also not that gloom either. The website I built, the book I published, they gave me (and still do), a lot of credibility in the space. It's been used (and copied without recognition) in university courses and in companies of all sizes (including Amazon). 
+
+It just didn't give me enough to keep focusing exclusively on it. 
 
 But here's the thing about failure – it's a heck of a teacher. One of my biggest 'aha' moments was realizing the absolute necessity of market validation. It's not enough to love your idea; your customers need to love it too. I learned to ask, listen, and adapt based on what the market was telling me, not just what I hoped it would say.
 
