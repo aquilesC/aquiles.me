@@ -1,4 +1,4 @@
-## 3. Understanding and Accepting the Risk of Failure
+# Understanding and Accepting the Risk of Failure
 
 Let's face it, the entrepreneurial journey isn't all sunshine and rainbows. It's like embarking on a roller coaster ride, where ups and downs are part of the thrill. Now, let's talk numbers – and I'm not going to sugarcoat it. Roughly 90% of startups bite the dust. That's right, 9 out of 10. These numbers aren't meant to scare you, but to prepare you for the reality of the startup world.
 

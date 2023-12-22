@@ -1,4 +1,4 @@
-## Entrepreneurial Mindset
+# Entrepreneurial Mindset
 
 When I started my first company, I brought with me my scientifically oriented way of thinking. I thought that objectivity and facts were enough to push forward. It took me a while to understand that entrepreneurship requires a much more holistic approach to problem solving and opportunity identification. 
 
