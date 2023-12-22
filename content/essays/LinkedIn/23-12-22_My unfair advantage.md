@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 22-12-2023
 ---
 🏇🏻 When I started my first entrepreneurial project I had an unfair advantage. I didn't realize I had one, and that's why I think it's so important to identify it early in your journey. 
 

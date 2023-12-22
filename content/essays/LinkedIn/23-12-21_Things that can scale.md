@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 21-12-2023
 ---
 🧫 "Doing things that don't scale" is repeated as a mantra, but it can have profound implications for different business models. 
 
