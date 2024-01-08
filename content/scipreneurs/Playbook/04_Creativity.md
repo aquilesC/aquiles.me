@@ -22,52 +22,90 @@ Bootstrapping in science startups is extremely uncommon but not impossible. Many
 
 Grants should be used to catalyze the path and commitment of two co-founders who will eventually focus full-time on the company. They should be used smartly to extract the most value for the future company. People sometimes get wrapped in trains of thought such as "de-risking", or "technology readiness levels", or "market research". 
 
-Entrepreneurs have only one task: understanding who their customers are and what jobs their product is going to do. **QWERTY**
+Entrepreneurs have only one task: understanding who their customers are and what jobs their product is going to do. 
 
 These examples underscore the essence of resourcefulness in entrepreneurship. It's not always about having abundant resources; it's about maximizing whatever you have at your disposal. This skill is indispensable, especially when you're navigating the uncertain waters of starting and growing a business.
 ## Creativity in Problem-Solving: How to Foster Innovative Thinking
 
-In my experience, fostering innovative thinking is like planting a garden – it requires nurturing different ideas and approaches to see what blooms. Let’s explore how we can cultivate this creativity in problem-solving.
+In my experience, fostering innovative thinking is like planting a garden – it requires nurturing different ideas and approaches to see what blooms. But, as any garden, it requires tendering. 
 
-**Encouraging Divergent Thinking**: One of the first steps I took to enhance my problem-solving was to embrace divergent thinking. This means deliberately stepping out of the conventional path and exploring multiple avenues and perspectives. I learned to ask myself, “What if?” and “Why not?” These questions opened up new possibilities and often led to innovative solutions that I wouldn’t have considered otherwise.
+Scientists are not exposed to the practices of designers, but there is a lot that can be learnt from how they tackle problems. 
 
-Holding regular brainstorming sessions has been another effective strategy. In these sessions, every idea, no matter how outlandish, is welcomed and valued. This inclusive approach often brings out hidden gems. I found that the key to successful brainstorming is creating an environment where everyone feels comfortable sharing their thoughts without fear of judgment.
+**Encouraging Divergent Thinking**: One of the first steps I took to enhance my problem-solving was to embrace divergent thinking. This means deliberately stepping out of the conventional path and exploring multiple perspectives. I learned the value of repetitively asking "Why?" to uncover hidden patterns and problems. I learned to ask myself, “What if?” and “Why not?” These questions opened up new possibilities and often led to innovative solutions that I wouldn’t have considered otherwise.
 
-**Cross-Disciplinary Approaches**: Another tactic I’ve employed is drawing insights from different fields. Sometimes, the solution to a problem in one area can be found in the techniques or principles of another. For instance, I once solved a marketing challenge by applying a concept from behavioral psychology. The integration of diverse perspectives and disciplines can spark unique ideas and solutions.
+I held several brainstorming sessions but a word of caution is in order. 
 
-Lastly, and perhaps most importantly, is embracing failure as part of the process. I’ve learned to view failure not as a setback but as a vital component of innovation. Each failed attempt is an opportunity to learn and refine my approach. Understanding that failure is a stepping stone rather than a roadblock has been crucial in my journey of creative problem-solving.
+Brainstorming sessions are an efficient way of getting an entire team on board. They can be fun and highly collaborative. But I am not completely sure of their intrinsic value. Some people swear by them, but the majority of the sessions I've witnessed tends to reinforce preconceptions and unconscious biases. 
 
-Innovative thinking in problem-solving is a skill that can be developed and honed. By encouraging divergent thinking, embracing diverse perspectives, and viewing failure as a learning opportunity, we can unlock our creative potential and find solutions that push the boundaries of what’s possible.
-## Drawing Parallels with Problem-Solving in Academic Research
+If you ask me, brainstorming is the best way to manipulating a team into your vision, letting them believe the ideas were theirs. 
+
+Of course, this is not exclusive. Some sessions have been very inspirational, especially when surrounded by people you truly admire and who are over-prepared for the discussions to be had. Whether they altered the course of what we were doing is a different story. 
+
+**Cross-Disciplinary Approaches**: Another tactic I’ve employed is drawing insights from different fields. Sometimes, the solution to a problem in one area can be found in the techniques or principles of another. 
+
+This pattern is incredibly frequent in science-based companies. A technique developed in a computer science lab is used in a biochemistry company. A physics tool becomes the default standard in biology. Results from behavioral psychology are used in marketing campaigns. 
+
+Lastly, and perhaps most importantly, embracing failure as part of the process is fundamental. We discussed about failure earlier, but it is worth repeating the ideas once more. Not all ideas, regardless of the time we spend, the resources we throw at them will be, in the end, worth pursuing. 
+
+I’ve learned to view **failure not as a setback but as a vital component of innovation**. Each failed attempt is an opportunity to learn and refine my approach. 
+
+**Innovative thinking in problem-solving is a skill that can be developed and honed**. By encouraging divergent thinking, embracing diverse perspectives, and viewing failure as a learning opportunity, we can unlock our creative potential and find solutions that push the boundaries of what’s possible.
+## Parallels with Problem-Solving in Academic Research
 
 In my transition from academia to entrepreneurship, I've noticed some fascinating parallels and contrasts in problem-solving approaches that I'd like to share.
 
 **Comparison with Academic Research**:
+Firstly, the structure versus dynamism. Academic research often follows a very structured methodology, which I was quite accustomed to. It's about following protocols and procedures to the letter. You are encouraged to keep hitting the same rock until it cracks and perhaps you learn something new. 
 
-Firstly, the structure versus dynamism. Academic research often follows a very structured methodology, which I was quite accustomed to. It's about following protocols and procedures to the letter. However, in the business world, I quickly learned that problem-solving is far more dynamic. You need to adapt quickly to changing markets and customer needs. This shift from a structured approach to a more fluid one was initially challenging but ultimately liberating.
+Persistence is a key skill that all academic researchers end up developing. 
 
-Then, there's the depth versus breadth aspect. In academia, the focus is often on delving deeply into specific topics. As an academic, I spent years focusing on narrow areas of study. In contrast, in business, I found that a broader view is often necessary. It's about understanding and integrating various aspects of the business, from marketing to finance, and everything in between. This broader approach has been an exciting expansion of my problem-solving skills.
+However, in the business world, I quickly learned that **problem-solving is far more dynamic**. You need to adapt quickly to what you learn. You have no resources nor time to keep trying over and over. The quicker you learn to say "stop" the faster you'll develop your products. 
 
-Lastly, the theory versus practical application. Academic problems often tend to be more theoretical, while business problems usually demand practical, actionable solutions. This shift from theoretical to practical problem-solving has been quite a journey, teaching me the importance of tangible results and direct application.
+This shift **from a structured approach to a more fluid one was challenging**. 
+
+Changing your mind frame is never easy, regardless of how much read about these topics. 
+
+Then, there's the depth versus breadth aspect. In academia, the focus is often on delving deeply into specific topics. As an academic, I spent years focusing on narrow areas of study. I would spend all 40 hours in a week to generate a couple of data points for a plot in my paper. 
+
+In contrast, when I started Dispertech, I found that a broader view is often necessary. It's about understanding and integrating various aspects of the business. It's not fixating about a single hard to crack problem but understanding what are the most important things to solve first. 
+
+For example, we could have focus on automating our instrument so it could be used with minimal training. But that was of very little value without first understanding what samples people would have wanted to use. 
+
+This broader approach has been an exciting **expansion of my problem-solving skills**.
 
 **Applying Academic Skills Creatively to Entrepreneurial Challenges**:
 
-One area where my academic background has been particularly valuable is in critical analysis. The ability to critically analyze data and research in academia is incredibly useful in evaluating market opportunities and business strategies. This skill has allowed me to make more informed decisions and identify the best strategies for my business.
+One area where my academic background has been particularly valuable is in critical analysis. The ability to critically analyze data and research in academia is incredibly useful in evaluating market opportunities and business strategies. 
 
-The systematic approach used in research has also been beneficial. It has helped me in creating detailed business plans and conducting thorough market analysis. This methodical approach ensures that no stone is left unturned when planning and executing business strategies.
+We are trained to ingest vasts amounts of information, synthesize it, and build on top of it. 
 
-Moreover, research skills from academia are invaluable in understanding customer needs and industry trends. In my business, I've applied these skills to conduct in-depth market research, leading to better-informed decisions and more targeted strategies.
+Starting a company feels the same in many regards. You dive head first into unknown topics, try to gather information, learn, and build. 
 
-Lastly, many technological and scientific startups, including my own, are direct applications of academic research. In academia, a discovery or invention in the lab can lead to a viable business idea. This process of turning academic research into practical, marketable products and services is incredibly rewarding and is a testament to the value of academic skills in entrepreneurship.
+The challenge is that the *information* is a loosely defined idea. While you may be used to reading papers, companies are built on human interactions. Understanding how to talk to people and parse what they are telling you is as important as reading papers outside your comfort zone. 
 
-In summary, while there are distinct differences between problem-solving in academia and business, there are also valuable parallels. Leveraging these parallels and adapting academic skills to business challenges can lead to innovative solutions and successful entrepreneurial ventures.
+**Ingesting information** has allowed me to make more informed decisions and identify the best strategies for my business.
+
+There is the flip side to that coin: **The systematic approach** used in research.
+
+It has helped me in creating detailed business plans and conducting thorough market analysis. Lab journals translated into business knowledge databases, with lists of suppliers, customers, and roadmaps.
+
+Lastly, and very importantly, many technological and scientific startups, including my own, are **direct applications of academic research**. 
+
+The technical skills I developed while a PhD (and for a short time a postdoc) where crucial to being able to build the initial products of Dispertech. At the beginning I was doing almost the same things I was doing in the lab, but in a constrained setting: buying components, aligning lasers, developing software for data analysis. 
 ## Examples of Academic Skills Applied to Entrepreneurial Challenges
 
 Throughout my entrepreneurial journey, I've discovered that many skills honed in academia can be incredibly valuable when applied to business challenges. Let me share a few key examples:
 
-1. **Data Analysis for Market Insights**: One of the most valuable skills I brought from academia to entrepreneurship is data analysis. In academia, analyzing data is critical for drawing conclusions and making discoveries. This skill is equally essential in business, especially for understanding market trends and customer behaviors. By applying academic data analysis techniques, I've been able to uncover valuable insights, leading to more informed and strategic business decisions. This approach has been instrumental in identifying new market opportunities and understanding the competitive landscape.
-2. **Research Methodologies for Customer Discovery**: Academic research is characterized by thoroughness and rigor, qualities that are extremely beneficial in the business world, particularly in customer discovery. I've adapted research methodologies from academia to conduct in-depth analyses of customer needs and preferences. This process involves engaging with potential customers, gathering feedback, and iterating on product or service offerings. By ensuring that these offerings closely align with market needs, I've been able to develop solutions that truly resonate with my target audience.
-3. **Adapting Academic Technologies**: In my experience, technologies or processes developed in academic settings often have untapped commercial potential. I've seen numerous examples, particularly in biotech and engineering startups, where academic inventions have been transformed into successful commercial products. This transition from lab to market requires not only technical know-how but also an understanding of market demands and commercialization strategies. Leveraging academic technologies has opened up new avenues for innovation and business growth.
-4. **Collaborative Projects**: The collaborative nature of academic projects has been a great model for building effective, interdisciplinary teams in a business context. In academia, working with diverse groups of people on research projects is common. I've applied this collaborative approach to my business ventures, bringing together individuals with varied skills and perspectives. This diversity fosters creativity and innovation, leading to more robust and well-rounded business solutions.
+1. **Experiment design for product validation**: One of the first pieces of information many entrepreneurs encounter is the *Lean Methodology*. It embraces different practices, but one of them is creating efficient experiments to validate your assumptions. Are you sure people *want* what you are building? Let's do an experiment to find out. Thinking about how to nullify your hypothesis is a skill that every scientist has developed. 
+2. **Data Analysis for Market Insights**: One of the most valuable skills I brought from academia to entrepreneurship is data analysis. For me, analyzing data is so engrained that didn't value it as a skill, but rather as a commodity. However, few people are used to analyzing the information they are presented with and take informed action. From marketing to market, analysis is fundamental. 
+3. **Research Methodologies for Customer Discovery**: Thinking about it as doing a literature review on a topic you are not familiar with. You will quickly understand what topics everyone works on, what devices they use. Who cites who. What you will never find explicitly stated on a paper is where have they failed on. What are the experiments people performed that went wrong and which you may have a solution for. Guessing that missing step, guessing where people would like to move forward is also called "Customer Discovery". In the end, it is doing research, but with a very soft definition of what it entails. 
+4. **Collaborative Projects**: The collaborative nature of academic projects has been a great model for building effective, interdisciplinary teams in a business context. If you were lucky, your project involved different groups perhaps even a company. Experiencing collaborative efforts first-hand are a great insight to plan them from a company's perspective. How do you keep efforts aligned, how do you entice researchers to work effectively towards your goals and not just theirs. 
 
-In conclusion, academic skills, when effectively adapted, can provide a strong foundation for addressing entrepreneurial challenges. Whether it's through rigorous data analysis, detailed research methodologies, the adaptation of academic technologies, or collaborative approaches, these skills can be a powerful asset in the business world. As an entrepreneur, leveraging your academic background can give you a unique edge in navigating the complexities of the business environment.
+## Creativity in a nutshell
+Many people tend to equate creativity to artistic jobs. Someone who creates an infographic is regarded as creative, while the one generating the data is seen as the opposite. Somehow, the 'graphic' becomes more relevant than the 'info' when it comes to praising people. 
+
+Creativity, for me, is nothing more than interest in solving problems and challenges, learning from the outcomes, and improving next time we face them again. 
+
+Not everyone is learning all the time, not everyone has the ability of self-reflection. That is OK for many contexts, but not for entrepreneurs. 
+
+Academia nurtures some types of creativity, especially technical. Entrepreneurs need to expand their action radius to other areas. After all, a good product is not one that solves just a problem, but one that addresses many at the same time. A good company is one that overcame many challenges, and creatively developed new solutions: new business models, new managerial styles, new team compositions. 
