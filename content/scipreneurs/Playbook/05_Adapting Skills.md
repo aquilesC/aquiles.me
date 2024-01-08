@@ -1,10 +1,21 @@
-## Adapting Academic Skills for Business Use
+# Adapting Academic Skills for Business Use
 
-### Identifying Transferable Skills from Academia to Entrepreneurship
+## Identifying Transferable Skills from Academia to Entrepreneurship
+In the previous chapter we discussed about creativity and some of the skills that scientists develop that can be used to overcome challenges. In this chapter, we are going to focus on the skills themselves, especially from the perspective of empowering **young scientists who are hesitant whether starting their own venture is for them or not**. 
 
-In transitioning from academia to entrepreneurship, I've found that several skills acquired in the academic world are not only relevant but also highly valuable in the business realm. Let me walk you through some of these transferable skills.
+In transitioning from academia to entrepreneurship, I've found that several skills acquired in the academic world are not only relevant but also highly valuable in the business realm. I point them out not only for those who want to start a company, but also for those who are thinking about joining one. Understanding your value is the first step to making the right career choices.
 
-**Analytical and Critical Thinking**: One of the most significant skills that I brought from academia to business is analytical and critical thinking. In academia, we're trained to dissect complex theories and data, which is incredibly useful in business, especially when it comes to market analysis and strategic decision-making. This skill helps in breaking down complex business problems, assessing different scenarios, and making informed decisions.
+Let me walk you through some of these transferable skills.
+
+**Analytical and Critical Thinking**: This is one of the most significant skills that I brought from academia to business. The words are often abused, to the point where they lost their value. Yet, it is important to be aware of this intrinsic characteristic that most scientists have. 
+
+If you were lucky, and your PhD advisor was also a good mentor, probably you didn't get all the answers in a silver platter. Instead, you were encourage to think by yourself and to question the information that was presented to you. You had to pull through difficult experiments, complex data, you had to **think by yourself**.
+
+After working with countless people over many years, and interviewing even more candidates for various roles, I can't stress how important it is to have people who can simply *think*. 
+
+A manager can encourage people to become confident, to develop their own solutions, but sometimes it is too late to change someone's attitude, or it's simply not who they are. Of course not all PhD's or postdocs are natural thinkers, but there is a high correlation. 
+
+Analytics and critical thinking helps in **breaking down complex business problems, assessing different scenarios, and making informed decisions**.
 
 **Research Abilities**: My academic background also equipped me with robust research abilities. In business, understanding market needs, competition, and industry trends is crucial, and this is where academic research skills come into play. Conducting thorough market research and competitor analysis has been pivotal in positioning my business effectively in the market.
 
