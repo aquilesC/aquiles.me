@@ -1,1 +1,0 @@
-It is a geological period that goes from 2.59MyBP to 12kyBP, precedes the [[holocene]] and it ends when the [[last glacial period]] ends, and also when the [[paleolithic]] ends. 

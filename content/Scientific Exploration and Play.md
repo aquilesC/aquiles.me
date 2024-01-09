@@ -1,5 +1,0 @@
-Scientists must be free to pursue their own ideas[@bush1945]. This in in stark contrast with the reality during WWII (see: [[Science after WWII has stagnated]]) when science could not afford anything different than to focus on very specific efforts. In principle, freeing researchers to pursue their own ideas should increase productivity, but it may have had the opposite effect ([[war or conflict fuel economic growth]]). 
-
-It can be useful then to see the [[lifecycle of a sicentific idea]] in order to understand how to fuel new and more efficient work. Only through scientific exploration and *play* new ideas can be tested and taken to the latest consequences[@bhattacharya2020]. This is directly related to [[how the scientific mind works]], and therefore the early stages must be strengthen. 
-
-However, known [[problems with citation-based metrics]] may skew the incentives of scientists in favor of work that already fits into a community and has a clear value instead of early idea exploration. 

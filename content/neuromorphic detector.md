@@ -1,5 +1,0 @@
-I saw the name "[[neuromorphic]]" in the context of a camera. The idea is that our eyes do not work on a frame-basis but rather a detection-basis. Every time the cones are excited a signal is sent to the brain. The idea of "fps" is therefore moot, since events happen at random intervals and they are later integrated when forming an image. 
-
-The idea of "event-based cameras" is that instead of exposing the sensitive area for a set time, each pixel has the ability to trigger independently, at any time, once a photon arrives. The only limitation is bandwidth (which translates nicely to number of events per second). 
-
-An interesting concept are sensors that trigger only when subject to changes in brightness. I'm not sure how noise is defined in this case, but they seem ideal for most practical applications regarding [[single-molecule]] microscopy. 

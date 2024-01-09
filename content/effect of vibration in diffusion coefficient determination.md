@@ -1,5 +1,0 @@
-In [@catipovic2013], the authors added a drift of 200nm/s and vibrational noise with a standard deviation of 100nm to estimate whether it has any effect on the quality of the measurement of the diffusion coefficient. When [[calculating diffusion coefficient from jump statistics]] it gives a $D$ 11% larger, while [[Calculating diffusion coefficient from mean squared displacement data]] gives a $D$ 18% larger. When the drift is increased to around $1\mu m/s$ then the result **can be off by a factor 10 or more!** 
-
-Therefore, the most important source of uncertainty that people must consider is the drift, which is hard to remove if there is evaporation, or any other kind of fluid flow. 
-
-Regarding vibration, in [@ernst2013], they observed that the residual vibration of their piezos was generating errors when calculating the [[mean squared displacement]] at the minimal time-delay, which forced them to disregard the data with the shortest time-delay. 

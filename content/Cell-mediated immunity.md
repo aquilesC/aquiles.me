@@ -1,2 +1,0 @@
-> Cell-mediated immunity is an immune response that does not involve antibodies. Rather, cell-mediated immunity is the activation of phagocytes, antigen-specific cytotoxic T-lymphocytes, and the release of various cytokines in response to an antigen.
-> [Wikipedia](https://en.wikipedia.org/wiki/Cell-mediated_immunity)

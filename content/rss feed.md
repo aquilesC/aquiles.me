@@ -1,2 +1,0 @@
-# RSS Feed
-Some [[notes]] started to evolve into [[articles]]. This makes me wonder if I should include a feed for them. It would be a bit cumbersome, since it would require to manually mark what I consider to be articles and what I don't. 

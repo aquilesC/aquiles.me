@@ -1,1 +1,0 @@
-Red blood cells (shortened to RBC).

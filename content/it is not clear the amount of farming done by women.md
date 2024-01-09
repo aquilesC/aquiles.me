@@ -1,5 +1,0 @@
-It is not clear the percentage of farming that is done by women (@criadoperez2020 chapter 8) mostly because women have more than one activity and data collection does not account for it properly. In any case, there is a problem with the design of tools, which are done keeping in mind the *average man* instead of the average *person*. There is a clear example of developing seeds that would increase the yield, but in exchange of a more laborious preparation of the ground. Since the latter is mostly the occupation of women, the seeds never picked up. 
-
-The fact that we evaluate problems and propose solutions with very limited data sets is already challenging, the fact that we design data collection with a biased approach brings us to a completely different level. And this data is biased from the root, including companies not even interviewing women before deciding what kind of seed (or tool) to develop. This is neglecting half the population’s opinion just because. 
-
-Tags: #gender-bias-in-data #gender-data-gap

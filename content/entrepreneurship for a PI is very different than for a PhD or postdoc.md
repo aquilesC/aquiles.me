@@ -1,7 +1,0 @@
-The incentives, and [[Motivation factors for scientific entrepreneurship]] are very different for senior and for junior scientists. A senior scientist, already in a permanent position or in track for a permanent position, can take a lot of time to make decisions, to explore the market, they have access to funds (both for basic research and for market exploration). They have access to human resources, and they still have good career prospects. 
-
-Patenting ideas can have a positive impact on the CV of a researcher[@ianuzzi2017] since it is the first insight into someone looking into [[technology transfer]], which is increasingly valued by funding bodies. See: [[patents and researcher]]. 
-
-For junior scientists, such as PhD and Postdocs, however, the flow is completely different. They are always running behind contracts ending, thinking about this dichotomy of pursuing a scientific career or an entrepreneurial one. Patenting, for example, delays publication, which leads to a lagging of scientific progress. This is easily accommodated by a PI, but not by a Postdoc. 
-
-[[Optics11]], for example, took more than 4 years to go from an idea to something marketable. This falls easily withing the timeline of a PI, but it goes beyond any postdoc contract duration in The Netherlands. Therefore, the entrepreneurial paths that a PI follows are different from those of a PhD candidate or a Postdoc. Access is different, monetary risks are different. 
