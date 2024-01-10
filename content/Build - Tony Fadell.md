@@ -64,4 +64,4 @@ What I am missing in the book are insights to the innovation process, which are 
 
 The book is a guide field guide in an abstract sense. It has some smart and clear insights into how technology is developed at the rhythm of Silicon Valley. 
 
-#reading-2024 #books #management-books 
+Tags: #reading-2024 #books #management-books 
