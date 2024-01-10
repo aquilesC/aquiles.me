@@ -6,4 +6,4 @@ The arguments on this chapter are similar to those on [[Become genuinely interes
 
 Literature note on: [[The Leader in You - Dale Carnegie]]
 
-Tags: #literature-note #reading #2021 #management-books #sales-books 
+Tags: #literature-note #reading-2021 #management-books #sales-books 

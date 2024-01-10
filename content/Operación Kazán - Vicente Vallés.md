@@ -18,4 +18,4 @@ La conclusión del libro deja mucho que desear. Se construye hacia un climax que
 
 Lo leí rápido (en una semana), porque es fácil de leer y dan ganas de ver cómo se desenvuelve y se desarrolla la historia (me gustan las historias de espías), pero no creo que sea un gran libro, es más que nada **un buen libro de verano.**
 
-Tags: #reading #reading-2023 #novelas #espías
+Tags: #reading-2023 #novelas #espías

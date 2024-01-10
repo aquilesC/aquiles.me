@@ -10,4 +10,4 @@ A bit of a cliché, but it still is a valid point. When we are encorsetted by a 
 
 Literature note on [[The Leader in You - Dale Carnegie]]
 
-Tags: #reading #literature-note #2021 #management-books 
+Tags: #reading-2021 #literature-note #management-books 

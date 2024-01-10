@@ -4,4 +4,4 @@ The examples range from someone mad because the author gave the wrong birth plac
 
 Literature note on [[The Leader in You - Dale Carnegie]]
 
-tags: #management-books #reading #2021
+tags: #management-books #reading-2021

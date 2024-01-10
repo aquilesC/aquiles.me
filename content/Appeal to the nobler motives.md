@@ -4,4 +4,4 @@ Instead of appealing to legal grounds when collecting overdue bills one can appe
 
 Literature note on [[The Leader in You - Dale Carnegie]]
 
-Tags: #management-books #sales-books  #literature-note #reading #2021 
+Tags: #management-books #sales-books  #literature-note #reading-2021 

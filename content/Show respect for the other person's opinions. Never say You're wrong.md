@@ -8,4 +8,4 @@ The interesting aspect of this chapter, compared to the previous one is that the
 
 Literature note on [[The Leader in You - Dale Carnegie]]
 
-Tags: #management-books #literature-note #reading #2021
+Tags: #management-books #literature-note #reading-2021

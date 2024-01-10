@@ -4,4 +4,4 @@ This is like finding a common set of believes. It may be obvious in some cases, 
 
 **Literature note** on [[The Leader in You - Dale Carnegie]]
 
-tags: #literature-note #reading #2021 #management-books 
+tags: #literature-note #reading-2021 #management-books 

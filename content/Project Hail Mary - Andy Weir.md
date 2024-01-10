@@ -22,4 +22,4 @@ As a whole is a fun read. There are many engineering details embedded. The sad p
 
 It would have been very interesting to see how this same story would have ended up if written by a linguist instead of an engineer. 
 
-Tags: #books #2021 #reading 
+Tags: #books #reading-2021 

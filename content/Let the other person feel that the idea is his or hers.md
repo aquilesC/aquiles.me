@@ -4,4 +4,4 @@ Of course, depending on the context, this will create lack of credit, which may 
 
 Sure, for sales it is great. But recognition in a lot of contexts is also very important. I am not sure of how to balance both. 
 
-Tags: #literature-note #reading #management-books #2021 
+Tags: #literature-note #reading-2021 #management-books 

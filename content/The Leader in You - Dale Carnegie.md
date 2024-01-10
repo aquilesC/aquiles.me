@@ -39,4 +39,4 @@
 
 Literature notes on [@carnegie2010]
 
-Tags: #literature-notes #2021 #reading
+Tags: #literature-notes #reading-2021

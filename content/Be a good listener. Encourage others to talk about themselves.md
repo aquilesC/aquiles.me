@@ -4,4 +4,4 @@ Similar to the chapter on [[Remember that a person's name is to that person the 
 
 It also uses examples from the sales world, in which he claims that it is important to first listen to what the other has to say before engaging in an argument (over a dispute, for example). Just by letting the other people vent and acknowledging their pain, we are doing them a service and that can win us over the other person.  
 
-Tags: #reading #management #management-books #2021 #literature-note #sales-books 
+Tags: #reading-2021  #management #management-books #literature-note #sales-books 

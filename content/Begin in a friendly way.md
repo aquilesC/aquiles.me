@@ -6,4 +6,4 @@ I understand that these chapters are framed in the perspective of persuading oth
 
 Literature Note: [[The Leader in You - Dale Carnegie]]
 
-Tags: #literature-note #management-books #reading #2021
+Tags: #literature-note #management-books #reading-2021

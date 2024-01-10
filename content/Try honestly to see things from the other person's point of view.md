@@ -1,3 +1,3 @@
 Seeing the world from the perspective of the person we want to convince is very powerful, but it is also very hard. [@carnegie2010] gives some examples, for example of convincing teenagers not to make a fire close to a tree. Instead of confronting them with the rules, we can acknowledge they want to have fun, and persuade them to move to a different spot, where the risk of burning a forest is lower. It is not dissimilar to [[Talk in terms of the other person's interests]]. We first make them like us, them we push our own agenda. 
 
-Tags: #literature-note #management-books #reading #2021
+Tags: #literature-note #management-books #reading-2021

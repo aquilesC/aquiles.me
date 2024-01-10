@@ -8,7 +8,7 @@ The book cites some examples of letters sent to and from companies and how they 
 
 Note on [[The Leader in You - Dale Carnegie]]
 
-Tags: #literature-note #2021 #reading #sales
+Tags: #literature-note #reading-2021 #sales
 
 
 

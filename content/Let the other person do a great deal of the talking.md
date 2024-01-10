@@ -2,4 +2,4 @@ When trying to convince someone, we can start by listening what they have to say
 
 **Literature note**: [[The Leader in You - Dale Carnegie]]
 
-Tags: #literature-note #management-books #reading #2021
+Tags: #literature-note #management-books #reading-2021

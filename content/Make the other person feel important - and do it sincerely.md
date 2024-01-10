@@ -6,4 +6,4 @@ Sometimes we are in positions of power (think a teacher in a class), in which ma
 
 Literature note on: [[The Leader in You - Dale Carnegie]]
 
-tags: #literature-note #reading #2021 #management-books #sales-books 
+tags: #literature-note #reading-2021 #management-books #sales-books 

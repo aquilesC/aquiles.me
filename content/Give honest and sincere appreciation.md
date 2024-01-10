@@ -16,4 +16,4 @@ He also mentions that we should try to start showing gratitude in our daily live
 
 Note on [[The Leader in You - Dale Carnegie]]
 
-Tags: #literature-note #2021 #reading
+Tags: #literature-note #reading-2021

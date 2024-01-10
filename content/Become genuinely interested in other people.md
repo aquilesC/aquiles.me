@@ -6,4 +6,4 @@ Examples of politicians that remembered people’s stories and backgrounds, and 
 
 > Interest must pay off not only for the person showing it, but for the person receiving the attention.
 
-Tags: #reading #management #2021 #literature-note #management-books #sales-books 
+Tags: #reading-2021 #management #literature-note #management-books #sales-books 

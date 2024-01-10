@@ -4,4 +4,4 @@ Es una novela rara. Cada capítulo está bastante desconectado de los anteriores
 
 Abarca muchos temas, intenta ganar profundidad en unas pocas páginas, pero no me da la sensación de que lo logre. Entiendo que sea un libro apto para un taller literario, pero no para el lector en general. 
 
-Tags: #reading #reading-2023
+Tags: #reading-2023

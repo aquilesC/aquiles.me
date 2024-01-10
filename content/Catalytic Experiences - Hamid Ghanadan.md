@@ -22,4 +22,4 @@ In the [[content centric model of marketing]], there are three types of content 
 
 - Literature notes on [@ghanadan2016]
 
-Tags: #scientific-marketing #books #2021 #reading 
+Tags: #scientific-marketing #books #reading-2021 #literature-note 

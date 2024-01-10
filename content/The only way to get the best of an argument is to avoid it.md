@@ -10,4 +10,4 @@ Sadly, this chapter focuses on binary topics, when one is right and the other is
 
 Literature note on [[The Leader in You - Dale Carnegie]]
 
-tags: #management-books #reading #2021 #literature-note 
+tags: #management-books #reading-2021 #literature-note 

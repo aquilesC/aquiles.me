@@ -6,4 +6,4 @@ He says that smiles can be transmitted also through the voice (for example over 
 
 Most of the examples of this sections seem a bit artificial. However, I think there is nothing wrong with sharing happiness with the rest of the people we encounter on our daily lives. 
 
-Tags: #reading #2021 #literature-note 
+Tags: #reading-2021 #literature-note 

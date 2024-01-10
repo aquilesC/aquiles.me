@@ -32,4 +32,4 @@ Vannevar Bush imagines a tool that is able to give the reader the ability to lin
 
 Related: [[Scientific publishing is the largest experiment on backlinking we have access to]]
 
-Keywords: #knowledge-management #essays #reading #2021
+Keywords: #knowledge-management #essays #reading-2021

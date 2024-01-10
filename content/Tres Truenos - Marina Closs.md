@@ -35,4 +35,4 @@ El libro Tres Truenos es corto, y cada una de las historias es fácil de leer de
 
 Por otro lado, el estilo de las primeras dos historias es demasiado similar y puede cansar un poco. El tercer cuento busca otro acercamiento, pero se queda un poco corto con respecto a los otros dos. Fue un libro interesante para descubrir y para agregar a la lista de escritoras argentinas contemporáneas. Pero los cuentos no me parecieron particularmente brillantes como para recomendarlo en general. 
 
-Tags: #reading #2020 #literature-argentina
+Tags: #reading-2020 #literature-argentina
