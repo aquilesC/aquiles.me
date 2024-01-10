@@ -1,0 +1,9 @@
+When someone *is* the problem, not even *part of*, there is no way that same person, or organization, can be the solution to the problem itself. This is manifested in big corporations, such as Facebook, which claim they can solve the problem they, themselves, generated. For example regarding the propagation of Fake news, abusive content, political polarization. Just hearing to Zuckerberg is enough to understand what being *the problem* means. 
+
+But this is not the only case. In academia, many male researchers keep exerting their power in detriment of women (see: [[The problem with people in positions of power in academia]]). And sometimes they are not even aware of it, they may even think they are doing something in favor of leveling the playing field. 
+
+After decades of being the problem, the same people can't be trusted to come up with any feasible solution. They have to be humble and recognize their own limitations. For companies, this is challenging, because they may risk losing money. For researchers this is even more complicated, because it goes directly against their own ego. 
+
+This means that there should be supra-structures that go beyond individuals and that can oversee the access to solutions. For companies, this can be directly regulated by the state, since it should represent what society identifies as a *problem*. For researchers, even though they are in their majority public employees, the reality is trickier, because they've built a self-healing apparatus designed to protect the interests of the power groups. 
+
+However, when it comes to researchers, it is possible to exert individual changes, for example, through [[the hidden power of individual reviewers]]. Bigger changes, however, must come from the top, from the state, the universities, funding agencies, etc. 

@@ -1,0 +1,7 @@
+Solar panels are going to become a major source of waste by 2050, with a total accumulated mass of over 10^8 tonnes. Recycling is needed in order to recover high valuable (and scarce) materials, and to prevent toxic components from reaching the environment. 
+
+The challenge has several aspects: first, the manufacturing process of solar panels has been tuned for specific compositions of silica. Current processes for removing silica (or other metals) lower the quality of the material, thus rendering unusable in current processing plants[@heath2020]. 
+
+Secondly, it is hard to know the environmental impact of recycling itself, considering release of gas, cost of transportation, etc. Moreover, reusing panels may not be an option, since they are designed to last around 30 years and technology keeps changing (for instance, wafers are getting thinner). 
+
+One of the [[10 actions regarding climate change]] is *investing in a circular economy*, therefore developing recyclable photovoltaic panels seems like a missing link. Moreover, the research in recycling procedures must be strengthen. This can be done by developing a clear research agenda to look into processes to improve the quality of the silicon extracted from old panels. 

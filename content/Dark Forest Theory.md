@@ -1,0 +1,7 @@
+The [[overload of information is pushing us to spaces with restricted access]] [@strickler2019],[@strickler2019a], such as Whatsapp groups, and Slack channels, instead of publishing publicly on Facebook and Twitter. The idea was developed amidst the discussion of the Russian meddling in the US election. 
+
+The dark forest is therefore the response to the increasing pressure put on people who get bombarded by unsolicit advertisement, by the feeling of infinite accountability that a photo posted on a wall can have. What the theory misses is that most 'dark forests' such as newsletters are built by companies that don't value individual privacy (see, for example [[Substack wants to scoop as much information as they can]]). 
+
+There is something, however, that seems to be true: the need to be extremely public has, perhaps changed. Older generations are retreating to less public spaces, and some social networks are building solutions for that. Youngsters, however, thrive with exposure, virality and whatnot. Therefore, talking about the dark forest theory as an absolute reality makes no sense, one must create some age stratification. 
+
+The other problem is about [[choosing technology based on their incentives]]. Whatsapp or private Facebook groups point to the same company. A company that is known for harvesting and profiting from user data. If we retreat towards those spaces, we'll just be granting a smaller group of corporations a monopolistic position. If we truly want to build a *darker* forest, we should embrace the [[plurality of online spaces]].

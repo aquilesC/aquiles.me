@@ -1,0 +1,1 @@
+Circulating tumor cells are disseminated cancer cells that may exist in the circulation as single cells or clusters of 2-50 cells[@ramirez-garrastacho2021]. 

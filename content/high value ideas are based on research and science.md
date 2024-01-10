@@ -1,0 +1,7 @@
+If [[correlating GDP to scientific productivity is a reasonable proxy for progress]], then there is an implicit correlation between the value of the ideas that spun out of research and basic science activities. Which, in turn, leads to [[innovation led policies]], which are they way of states to ensure continued growth. 
+
+I wonder if there is any insight into the *value* that is derived from basic-science research as opposed to normal industrial activity. There is a standard need for innovation at any company. That innovation cycle can be intrinsic to the activities carried on by the company. Or it can be fueled by uncertain (and risky) research programs sponsored by the state. (See: [[Difference between risk and uncertainty]]). 
+
+There is also a bit of a contradiction between growth ([[innovation leads to growth]]), and the notion that [[Science after WWII has stagnated]]. Not both ideas seem to go hand in hand. Especially considering that Moore's law is from the 70's. 
+
+However, if the economy is based on services, [[innovation does not necessarily come from basic research activities]]. For example, developing software is a highly valuable activity, but does not require lengthy and expensive research cycles. 

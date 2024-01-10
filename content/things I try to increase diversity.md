@@ -1,0 +1,7 @@
+[[Diversity in startups is challenging]], but still, these are few things that I try at [[Dispertech]] in order to foster diversity (not to much success, though):
+
+- I try to trigger the discussion around [[gender unbalance]] periodically, especially with people who come from a very male-dominated environment. One of the arguments I encounter periodically is "I don't care about gender, but about skills." (see: [[skills-gender hidden bias]]). 
+- Try to be mindful about extra-work activities. They don't happen outside of working hours, which means that if someone is the primary care-giver of someone else (see: [[unpaid work done by women]]). 
+- When reviewing CV's for a position, I only spend time giving feedback to women. Men receive a generic (but polite) rejection, unless, of course, they were invited for an interview. 
+- I try to create a [[learning environment]], for example by giving people the opportunity to present what they have learnt in the past few months. And perhaps, [[literature/202304141533 Learning environments foster diversity|learning environments foster diversity]]. 
+- Always try to wait until I have a number of CV's that allows me to invite the same amount of women and men for job interviews. 

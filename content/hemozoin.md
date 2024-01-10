@@ -1,0 +1,1 @@
+It is a by-product of the [[malaria]] parasite degradation of hemoglobin, and is commonly used to detect the parasites because its fluorescence can be excited at around 655nm

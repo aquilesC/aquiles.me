@@ -1,0 +1,3 @@
+Humans are competitive by nature and we can use that instinct to persuade them towards our way of thinking[@carnegie2010]. The example about factory workers competing against each other in order to make them more productive, however, does not resonate well with how things should be. I wonder if the idea of competition instead of collaboration is not anachronistic, or at least something we should seek to avoid instead of encourage. 
+
+Tags: #management-books 

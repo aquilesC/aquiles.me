@@ -1,0 +1,5 @@
+One of the challenges of the SWOT analysis is that there is little guidance on how to perform it. We may perform it on a company, on a value proposition, on a team, or even on a person. This leads to "SWOT-Fatigue" in the sense that managers get tired of doing a pointless exercise. 
+
+An alternative is to leverage the [[Business Model Canvas]] to inform the exercise of coming up with **strengths, weaknesses, opportunities, and threats**. For example, we can evaluate threats to our key resources, such as how easily they can be copied, or we can identify opportunities in our customer segments. 
+
+I still believe this analysis is valuable, because it allows founders to focus on discussing key aspects of their business. Once you identify an opportunity, how do you pursue it? Or how do you limit the effect of threats? 

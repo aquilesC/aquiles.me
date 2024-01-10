@@ -1,0 +1,2 @@
+[[Syntenin-1 is the most abundant protein in EVs]]
+ ([@kugeratski2021]), but it can be challenging to use it as marker since [[syntenin-1 is an intraluminal protein]] and not a membrane protein such as [[CD9]], [[CD63]], or [[CD81]].

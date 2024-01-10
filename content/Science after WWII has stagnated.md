@@ -1,0 +1,4 @@
+After WWII the GPD growth of both industrialized and emerging economies is slower than what it was at the beginning of the XX century. This can be attributed to lack of development of new technologies that can improve economic efficiency, and not necessarily because of [[depletion of the low-hanging fruit in science]] ([[@bhattacharya2020]]). 
+
+This assumption opens many questions: first whether [[GDP is a reliable metric of growth]] or welfare. The second is whether [[correlating GDP to scientific productivity is a reasonable proxy for progress]]. The third is whether [[war or conflict fuel economic growth]]. 
+

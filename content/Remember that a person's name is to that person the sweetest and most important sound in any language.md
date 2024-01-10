@@ -1,0 +1,3 @@
+In [[The Leader in You - Dale Carnegie]] (@carnegie2010), the author argues that there may be nothing more powerful to win someones good will than to remember their names. He cites several examples from history, such as Napoleon, Roosevelt, etc. Although interesting anecdotes, I think this chapter is quite hyperbolic. It does not add anything new. It does not give any insight on how to remember names, for example, nor it discusses how remembering a name would be different from [[become genuinely interested in other people]].
+
+Tags: #reading #management #2021 #literature-note #management-books #sales-books

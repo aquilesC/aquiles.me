@@ -1,0 +1,1 @@
+Technological companies (which mostly refer to software companies) have a tendency to be male-dominated. Just by taking a look at FAANG is clear who can start a high-tech in the US. 
