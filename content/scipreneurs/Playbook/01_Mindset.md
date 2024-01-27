@@ -1,3 +1,7 @@
+---
+canonical: https://www.aquiles.me/entrepreneurial-mindset-for-scientists/
+---
+
 # Entrepreneurial Mindset for Scientists
 
 When I started my first company, I brought with me my scientifically oriented way of thinking. I thought that objectivity and facts were enough to push forward. It took me a while to understand that **scipreneurship requires a much more holistic approach to problem solving** and opportunity identification.

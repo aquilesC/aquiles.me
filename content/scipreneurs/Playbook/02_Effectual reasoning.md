@@ -1,3 +1,7 @@
+---
+canonical: https://www.aquiles.me/effectual-reasoning-a-framework-for-aspiring-scipreneurs/
+---
+
 ![[effectual_reasoning_header.png]]
 # Effectual Reasoning
 Effectual reasoning, as opposed to causal reasoning, can be defined as the **ability to chase goals based on resources available**. It is about adapting to changing circumstances, and not focusing on trying to change the context in order to succeed. 
