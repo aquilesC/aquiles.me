@@ -1,0 +1,3 @@
+An [[open hardware business model]] can revolve around selling services, which in this context can take the form of selling expertise[@pearce2017]. However, comparing [[open hardware]] to Red Hat is not the right approach. Software has zero [[marginal cost]] and thus services' overhead can scale linearly while adoption scales exponentially. For hardware this is definitely not the case and it is not clear that revenue from services alone can be enough to keep the growth in open-hardware manufacturing and design. 
+
+[@pearce2017] suggest that firms can offer training and support, which is not exclusive to open-hardware initiatives, and it is not clear how much revenue it can actually generate. 

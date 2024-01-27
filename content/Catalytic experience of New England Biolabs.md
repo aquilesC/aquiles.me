@@ -1,0 +1,5 @@
+New England Biolabs is a company with strong values that aims at improving science. However, the image of the company started to be washed out through generations of scientists who get exposed to other brands and who stop actively thinking about the values of the companies from which they purchase equipment. 
+
+In [[Catalytic Experiences - Hamid Ghanadan]] they told the story of how they developed a strategy based on the [[content centric model of marketing]] to reposition the brand. Importantly, they developed a **value proposition** that could be used internally in order to align the efforts of different parts of the company. 
+
+The [[catalytic experiences]] was the introduction of an award to scientists who share the same values than the company. The awards would be filmed to make a documentary afterward to keep social interaction and engagement. 

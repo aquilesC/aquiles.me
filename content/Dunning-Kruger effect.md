@@ -1,0 +1,2 @@
+> The Dunning–Kruger effect is a cognitive bias[2] whereby people with low ability, expertise, or experience regarding a certain type of task or area of knowledge tend to overestimate their ability or knowledge. Some researchers also include in their definition the opposite effect for high performers: their tendency to underestimate their skills. 
+> - [Wikipedia](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)

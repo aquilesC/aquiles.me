@@ -1,0 +1,3 @@
+Accumulating knowledge such as in the Great Library of Alexandria requires developing a system to catalogue books and information. Someone had to come with the idea of organizing books by alphabetical order[@vallejomoreu2019] and there is a chance that languages that did not manage to create these systems were simply abandoned. 
+
+If you have a written language that does not allow you to retrieve information relatively easy, then there is little use for it. While books start piling up, there must be a way of finding it back. (Unrelated in this context, but see: [[retrieval and storage strength]]). 

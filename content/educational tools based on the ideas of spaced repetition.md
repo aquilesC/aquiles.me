@@ -1,0 +1,7 @@
+Using the idea of [[spaced repetition]], we can think about developing low-cost tools for students at different levels. Spaced repetition is based on the idea that information retention can be enhanced if we selectively focus on the things we don't remember. The examples I've seen require answering well designed questions, and this is how I've approached math when in school: skimming through the problems, and only focusing on the ones I thought were harder for me to solve. 
+
+We can build tools, either digital or physical, that use the idea of spaced repetition to enhance information acquisition from students at different stages. The biggest challenge is that teachers can't easily multiplex themselves, therefore they can't help simultaneously students who don't remember question *a* and students who remember question *a* but not *b*. 
+
+Therefore, we should develop tools that help the teacher offload the tasks, and rely on the meta-cognition of the students themselves. The questions used for learning must not be confused with exams and knowledge assessment. The biggest challenge I see is that not knowing the answer to a question may be due to lack of understanding. One easy way of multiplexing the teacher capacity is by using students effort themselves, for example by pairing students who know the answer and students who don't. 
+
+Tags: #education, #education-tools, #spaced-repetition, #meta-cognition

@@ -1,0 +1,5 @@
+If someone is developing [[gender-neutral infrastructure]], even if as simple as gender-neutral toilets, in the absence of data, the measure will favor men[^1]. Criado Perez argues that blanket measures without proper data to back up the decision (and enough willpower to interpret the available data) will inevitable favor men. The example of urinals is quite appropriate. Gender-neutral toilets will not help women, since they may feel a higher barrier to enter a toilet with other men (plenty of data about this point). Moreover, toilet design without taking into account that 1. women take longer, 2. they go more often, 3. they need more space, means that toilets with equal surface serve more men than women per unit of time. 
+
+What Criado Perez argues, therefore is that there is no such a thing as *gender-neutral* considering that society is [[male by default]]. If we want to achieve any kind of equality, we must design based on data and not on assuming both halves of society have the exact same needs.
+
+[^1]: [[Invisible Women - Caroline Criado Perez]], Chapter 2

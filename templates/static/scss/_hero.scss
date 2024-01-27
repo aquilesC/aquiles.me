@@ -1,0 +1,50 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    min-height: 35vh;
+    background: url('/dist/images/hero_bkg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    &__container{
+        padding-top: 1.75rem;
+        padding-left: 1.25rem;
+    }
+    &__supra{
+        font-weight: bold;
+        font-size: 0.875rem;
+        color: $gray;
+    }
+
+    &__main{
+        font-size: 1.25rem;
+        color: $darkgray;
+        padding-top: 1.125rem;
+        line-height: 1.3rem;
+        font-weight: 400;
+    }
+
+    &__cta{
+        font-size: 1rem;
+        font-weight: bold;
+        color: black;
+        padding-top: 1.625rem;
+        padding-bottom: 2.57rem;
+    }
+    &__links{
+        font-size: 1.45rem;
+        padding-top: 2.15rem;
+        padding-right: 1.25rem;
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+          }
+        li{
+            &:not(:last-child){
+            margin-bottom: 1.56rem;
+            }
+        }
+    }
+}

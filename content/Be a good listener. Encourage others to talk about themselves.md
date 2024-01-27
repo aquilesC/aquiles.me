@@ -1,0 +1,7 @@
+The easiest way to start a conversation is by being able to get the other person to talk. It can be as simple as asking the proper question on a topic that interests them. In @carnegie2010, the author argues that when you are good listener people will hold you as a good *conversationalist*. It does not matter if you contribute to the dialogue, what matters is that the other person is able to talk about themselves and their interest. 
+
+Similar to the chapter on [[Remember that a person's name is to that person the sweetest and most important sound in any language|remembering the name]] of a person, this is mostly related to [[become genuinely interested in other people]]. [[The Leader in You - Dale Carnegie|Carnegie]] argues that we must be engaging, we must ask the proper questions and be interested in what the other person has to say. He even uses Freud as an example of a good listener. 
+
+It also uses examples from the sales world, in which he claims that it is important to first listen to what the other has to say before engaging in an argument (over a dispute, for example). Just by letting the other people vent and acknowledging their pain, we are doing them a service and that can win us over the other person.  
+
+Tags: #reading-2021  #management #management-books #literature-note #sales-books 

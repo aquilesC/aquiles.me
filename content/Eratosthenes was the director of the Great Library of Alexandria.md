@@ -1,0 +1,1 @@
+[[Eratosthenes Measurement of the Circumference of the Earth]] is not the only reason why he is known. He was also director of Alexandria's library (appointed by Ptolemy III)[@vallejomoreu2019]. As such, he was aware of the different languages of the known world. He was the first to express the linguistic and ethnic diversity of the world. 

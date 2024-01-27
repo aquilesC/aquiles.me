@@ -1,0 +1,3 @@
+Variations in temperature should not be factored into the calculation of error[@catipovic2013] in the same way variations on bead radius should not. This is independent of whether we  [[calculating diffusion coefficient from jump statistics]] or [[Calculating diffusion coefficient from mean squared displacement data]]
+
+Assuming that beads are distributed around a mean value can be fair, but I don't think is fair to assume this for temperature. I do think that most likely temperature will be different from the measured temperature and not a distribution. It does not matter if we measure 1 or 100000 tracks, there'll be a constant offset. 

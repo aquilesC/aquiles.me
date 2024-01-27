@@ -1,0 +1,3 @@
+For many decades, there have been clear [[incentives to publish papers]] because they were used as a metric, regardless of knowing that [[quantitative performance measurements produce undesired outputs]]. 
+
+More and more concerns are raising, for example on [[How to make more published research true]]. Publishing is only part of the equation, the other part are the [[problems with citation-based metrics]]
