@@ -1,5 +1,0 @@
-There should be a distinction between practicing [[open science]] and running open projects. With [[open hardware]] this becomes very clear. The initial developers of a tool (such as a microscope, electronics, whatever) put a lot of effort aiming, eventually, to a publication that would guarantee them better positions or funding afterwards (see: [[incentives to publish papers]] and [[egoistic scientific incentives]]). 
-
-Many projects are abandoned after the initial developers move forward in their careers. Even in cases where the PI is still engaged, the reality is that the ones putting the hours are PhDs, postdocs, and technicians. If they are not part of the project anymore, it will just stall, to the point that it becomes part of the cycle in which [[scientific incentives push to build new not build on]]. 
-
-I do have the feeling that successful open projects are those that can continue for longer. They are not necessarily the most needed, nor the better designed, they are just those that managed to attract more funding (for example, because of geographic differences). 

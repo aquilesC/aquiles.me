@@ -1,3 +1,0 @@
-If we think that hyper-text means an evolution of text, then what the web has become is not even close to what it could have been. (see: [[the web does not resemble the memex]]). Websites display information in exactly the same way books do, but making it difficult to [[annotate the web|annotate]] and to link. 
-
-Some ideas, including those of [[transclusion]], are starting to emerge, but the tools are still very far from being useful. I have seen the idea of a [[federated wiki]] as an initial attempt at linking websites together, provided that they are built on the same technology. I do believe this is a case when [[incremental change can lead to undesired outcomes]]. 

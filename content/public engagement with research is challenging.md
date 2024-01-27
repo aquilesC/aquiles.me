@@ -1,3 +1,0 @@
-[[Public engagement with research activities]], although desirable, can be challenging to implement. One of the first obstacles of researchers to pursue this path is the lack of incentives (see: [[changing scientific incentives can help overcome stagnation]]). Mostly, early career researchers do not engage the public in their research because of the time-pressure[@burns2021]. 
-
-Another problem is the potential backslash from spread of misinformation, which puts a limit to how much researchers are willing to share ongoing projects. Words can be taken out of context, and increasing politization may put individuals at uncomfortable positions. 

@@ -1,3 +1,0 @@
-# I don't Click on Newsletter Links Because I Know they Track me
-
-I've realized that whenever I receive a newsletter, I am very wary of clicking on links just because I know they will be tracking me (see: [[how can a newsletter track you]]). It is a pity that we came down to such a shameful status, where I can't even click on an e-mail in peace. In my [[newsletter]], I send once in a while an epilog telling people that I go the extra mile, I [[self-host my newsletter]], and I respect [[user privacy online]] to the best of my abilities. 

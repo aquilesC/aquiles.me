@@ -1,2 +1,0 @@
-> Post hoc ergo propter hoc (Latin: 'after this, therefore because of this') is an informal fallacy that states: "Since event Y followed event X, event Y must have been caused by event X." 
-> - [Wikipedia](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)

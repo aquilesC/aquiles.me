@@ -1,7 +1,0 @@
-At least in Latin America there is a correlation between the total amount of time students spend on scientific subjects and their output in standardized tests[@furman2020]. This means that to improve the [[basic competences that define scientific literacy]] schools should increase the time students actually focus on specific subjects. 
-
-![Percentage of time dedicated to different activities in schools of Latin America](/images/Screenshot 2021-04-16 at 08.50.05.png)
-
-Moreover, a problem is that within the *Natural Sciences* the amount of time spent on different topics varies according to the teacher. There is evidence that physics and chemistry are overlooked by teachers[@furman2020] in favor of biology, the body, etc. It may be due to [[teachers lack tools to design a science curriculum]]. 
-
-The correlation between time spent is not the only factor that determines the output, though. It must be remembered that [[standardized educational tests]] may be very different from the tests teachers take, and therefore lack to [[tools to foster scientific curiosity at an early age]], poor pedagogical planing, overall lack of infrastructure also play a role. Without neglecting that [[science education outputs correlate with socioeconomic level]].

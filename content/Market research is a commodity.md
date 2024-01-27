@@ -1,3 +1,0 @@
-When thinking about [[business model]] and [[business planning]] (see: [[Business Model Canvas]]), people resort to [[market research]] to justify their decisions. However, **market research is a commodity** available to anyone. If there is an opportunity for innovation (in the business model sense) will come from what the market research has left out. 
-
-I am not sure how this can be framed, but the idea is similar to what happens in free market economies. One assumes everyone has access to the same information, that is how a balance is achieved. However, those with differential inputs will have an advantage. Information is not freely available (or not at the same pace for everyone). 

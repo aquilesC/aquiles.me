@@ -1,5 +1,0 @@
-One of the problems with the current state of affairs online is that few corporations (probably all based in the US) hold the majority of our online attention. From Facebook to Google, from Netflix to Apple. The only way to break the vicious circle is by creating niche spaces for different activities. 
-
-For example, I am a tango dancer, I would use a social network just for dancers. I am a physicist, I would use a social network just for scientists. Some of these solutions exist, but most don't. Social networks with a dominant position managed to reach those levels by blocking interoperability and by generating (or buying) alternatives. 
-
-If there is no single corporation holding the data of all the activities a person does, there's a much more democratic distribution of personal data and therefore less accumulated power. 

@@ -1,2 +1,0 @@
-# Ephemeral Notes
-Some notes stop making sense if you re-read them after some time. In that case, they are ephemeral. A typical example would be a note on a piece of text saying: "this does not make sense." Only the context and built knowledge provide the information necessary for interpreting it. In many cases the [[notes to collect information]] fall into this category. 

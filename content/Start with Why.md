@@ -1,1 +1,0 @@
-One of the most crucial aspects of [[storytelling]] is creating sufficient engagement early on. A trick to achieve it is to start with why, with the purpose of the story. This is discussed at length on [[Start with Why - Simon Sinek]], and also on the storytelling chapter of [[Build - Tony Fadell]]. 

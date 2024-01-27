@@ -1,5 +1,0 @@
-For [[science-based startups]], one of the largest challenges is finding their first customer. Ideally a customer who is committed to buying even before seeing the product. 
-
-Startups inherently lack credibility because they haven't done what they are doing before ([[essays/LinkedIn/23-12-13_Trust for startups|23-12-13_Trust for startups]]). But the founders can have credibility because of their previous experience. That's why I believe the role of a professors who becomes co-founder ([[essays/Professors can enable scipreneurs|Professors can enable scipreneurs]]) can be to enable the first sale of an instrument ([[Product market fit for scientific instrumentation]]). 
-
-Leveraging their network, it is possible to create the opportunity that leads to a first customer interested in what the company is producing, even if it's via a more 'academic' partnership than a traditional purchase channel. 

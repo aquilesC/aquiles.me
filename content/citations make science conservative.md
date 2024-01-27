@@ -1,3 +1,0 @@
-When the only metric to judge a researcher is the impact of the papers they publish, the resulting effect may be one of the [[problems with citation-based metrics]]: i.e. that scientists become more conservative as they need to lower risk and maximize the impact of the research they work on. 
-
-This is a problem that funding agencies such as the NIH have already identified [@bhattacharya2020] but they still don't know how to tackle. Unless another metric is proposed (or no metric at all), the work done with public funds will be trapped in the same spiral. One possible new metric is to [[measure the exploration factor of research]]. 

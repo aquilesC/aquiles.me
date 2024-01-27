@@ -1,7 +1,0 @@
-logger.log
-.ztr-directory
-.DS_Store
-node_modules/
-output/
-.idea/
-.obsidian/

@@ -1,1 +1,0 @@
-Although not exclusively an [[open hardware business model]], there is potential for generating revenue through offering experiments-as-a-service[@pierce2017]. Although it is not clear in which way the [[open hardware]] would provide any kind of improvement compared to traditional closed-hardware-based services. 
