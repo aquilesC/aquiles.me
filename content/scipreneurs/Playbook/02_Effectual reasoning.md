@@ -1,3 +1,4 @@
+![[effectual_reasoning_header.png]]
 # Effectual Reasoning
 Effectual reasoning, as opposed to causal reasoning, can be defined as the **ability to chase goals based on resources available**. It is about adapting to changing circumstances, and not focusing on trying to change the context in order to succeed. 
 
@@ -54,6 +55,7 @@ In the end, both scientists will be fully occupied, and eventually they both wil
 So, while causal reasoning is about prediction and control, effectual reasoning is about **flexibility and creation**. 
 
 It's a shift from a world where problems have clear-cut solutions to one where you're writing the problem statement as you go along. In that gray area is where the magic happens! 
+![[who you are what you know.png]]
 ### Practical Examples of Effectual Thinking in Business Decisions
 
 Let's get real and see how effectual thinking plays out in the wild, unpredictable world of business. It's one thing to talk theory; it's another to see it in action.
