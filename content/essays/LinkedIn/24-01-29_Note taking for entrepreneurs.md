@@ -1,8 +1,8 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 29-01-2024
 ---
-📓 One of the most underrated habits for entrepreneurs is becoming good note takers. Notes shape our mental process, our worldview, and inform our future actions. It took me a while to develop a system I liked, and this is what I observed:
+📓 One of the most underrated habits for entrepreneurs is to be good note takers. Notes shape our mental process, our worldview, and inform our future actions. It took me a while to develop a system I liked, and this is what I observed:
 
 - Retrieval of notes (finding the correct one at the right time) is way harder than long-term storage
 - Digital notes are useful for some things, but paper notebooks add an impossible to match dimension
@@ -36,4 +36,11 @@ Paper is king because it forces me to slow down. The concrete area of a page for
 
 I have some good spatial reasoning, which means I have more chances to remember where a note is regarding it's physical location. But still, it's a very imperfect retrieval system. 
 
+For digital notes, I favor Obsidian, mostly because of its offline, I am still in control, type of approach. The interface is clean and it allows me to do what I want. 
+
+For paper, I have an A6 journal for doodling and writing "low fidelity" notes. I also use a Fancy Leuchtturm1917 A5 dotted notebook for my bullet journal, meeting notes, etc. 
+
+Still, the most difficult aspect of note taking is proper retrieval. I see many people writing and never looking back. I also fall into this trap more often than what I would like to admit. 
+
+What is your strategy for note taking? 
 
