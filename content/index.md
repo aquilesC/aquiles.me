@@ -8,7 +8,7 @@ This website is a [[digital garden]]. There are no "latest articles", nor algori
 
 For example, you can follow the links below as triggers to explore this website:
 
-- I am interested in [[entrepreneurship for scientists]]
+- I am interested in [[entrepreneurship for scientists]]. I am writing a short [[scipreneurs/Playbook/index|Playbook]].
 - I was heavily involved in studying [[extracellular vesicles]], mostly because that was the focus on [[Dispertech]], my first [[science-based startups]].
 - Perhaps a list of [[things I've done]] is interesting, or learn more [[about me]]. 
 - If you are more into software, [[how i built this website]] may serve as inspiration. 
