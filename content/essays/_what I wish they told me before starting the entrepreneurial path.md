@@ -16,7 +16,3 @@ When my path took me into the entrepreneurial world, there were many aspects to 
    
 - **Motivation can easily dwindle**. Without a support network, it's easy to find yourself trapped in days where you simply don't know what to do, or even worse, don't wanting to do anything. These days come and go. It's easy to see that the neighbour's lawn is greener and question what you are doing. In the best case, the feelings go away and you move on. 
 
-
-
-    
-    
