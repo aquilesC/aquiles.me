@@ -23,7 +23,7 @@ I don't fully understand what *Context* means in this architecture, it is stated
 
 > Context represents a configuration of the instrument itself
 
-The **FSM** is the Finite State Machine of the instrument, which should represent the current status of the device and the possible transitions. 
+The **FSM** is the [[Finite State Machine]] of the instrument, which should represent the current status of the device and the possible transitions. 
 
 The data exchange can be achieved through XML (ATOM) although the authors also mention JSON. 
 
