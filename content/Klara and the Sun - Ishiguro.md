@@ -1,3 +1,5 @@
+![[Pasted image 20240315190218.png]]
+
 **Klara and the Sun** is a "science-fiction" novel by Nobel-prize winner Kazuo Ishiguro. I think that pretty much summarizes how the book is. 
 
 The story is around a robot (Klara), or an AF (Artificial Friend) and the process of observing the world through her eyes. First in the shop, eventually in the house of the Mother/Daughter that purchase her. 
