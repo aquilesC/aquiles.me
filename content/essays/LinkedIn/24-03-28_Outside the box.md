@@ -1,12 +1,12 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 28-03-24
 ---
 📦 Many years ago I was asked a seemingly trivial question: how can you observe the 6 sides of a box at the same time? No mirrors, no moving the box around. 
 
 Every time I asked that same question, people struggle. I can see them moving, playing with their fingers. They always think there's a trick somewhere. There may be a mirror that is not called a mirror? A reflection somewhere? 
 
-When I heard the question for the first time, it came with a very specific caveat: most kids under 7 years old could answer it rather fast. Most adults could not answer it. 
+When I heard the question for the first time, it came with a very specific side note: most kids under 7 years old could answer it rather fast. Most adults could not. 
 
 We use the expression "thinking outside the box" too often, while in this case what we need is the opposite. 
 
