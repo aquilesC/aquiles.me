@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 published_on: None
 ---
 ![[03_Business_Experience.png]]
