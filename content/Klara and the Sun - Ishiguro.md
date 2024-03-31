@@ -1,3 +1,5 @@
+# Klara and the Sun - Ishiguro
+
 ![[Pasted image 20240315190218.png]]
 
 **Klara and the Sun** is a "science-fiction" novel by Nobel-prize winner Kazuo Ishiguro. I think that pretty much summarizes how the book is. 

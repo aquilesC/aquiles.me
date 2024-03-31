@@ -1,3 +1,4 @@
+# Operación Kazán - Vicente Vallés
 <img border="0" alt="Operación Kazan" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647983174l/60674172._SX98_.jpg" />
 
 La historia es francamente parecida a "The Americans": espías soviéticos/rusos encubiertos en Estados Unidos que se hacen pasar por ciudadanos del país. Sumado una necesidad obsesiva de explicar y repetir las mismas cosas una y otra vez (como repetir quiénes son los personajes que aparecen) lo hace un poco tedioso de leer. Hay pasajes enteros que parecen una lección de historia más que una novela.  

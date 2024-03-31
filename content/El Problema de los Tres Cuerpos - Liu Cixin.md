@@ -1,3 +1,5 @@
+# El Problema de los Tres Cuerpos - Liu Cixin
+
 ![[Pasted image 20240329102404.png]]
 
 Leí esta novela con mucha expectativa. La calificaron como uno de esos grandes libros de la literatura China, de la que poco (o nada) conozco. Además, Netflix iba a hacer una serie, así que parecía un buen momento de conocer algo de lo que viene de oriente. 

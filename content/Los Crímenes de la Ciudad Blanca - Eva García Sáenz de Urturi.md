@@ -1,3 +1,5 @@
+# Los Crímenes de la Ciudad Blanca
+
 Esta novela es parte de la serie **Kraken** (aunque no leí ninguno de los otros libros todavía). 
 
 La novela está escrita como si fuera un diario personal (con fechas al principio de cada capítulo) y transcurre en dos planos temporales: el presente y el pasado de hace 45 años. 

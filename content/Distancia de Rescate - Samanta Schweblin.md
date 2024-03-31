@@ -1,3 +1,4 @@
+# Distancia de Rescate - Samanta Schweblin
 - Autora: [[Samanta Schweblin]]
 ![[Pasted image 20240110135202.png]]
 
@@ -12,7 +13,5 @@ De alguna manera es una historia sobre el progreso, sobre la decadencia de las c
 Quizás sea una historia sobre cómo envejecemos, como vamos perdiendo acceso a la voz de nosotros mismos como niños. 
 
 La **distancia de rescate** es la distancia máxima a la que la hija de la protagonista se puede encontrar y que todavía puede ser salvada de cualquier desastre. En situaciones "tranquilas", la distancia de rescate es grande. En situaciones de peligro, la distancia de rescate se vuelve casi 0. 
-
-
 
 Tags: #novelas #reading-2023 

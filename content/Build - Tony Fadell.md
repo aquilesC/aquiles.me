@@ -1,5 +1,4 @@
-
-![[Pasted image 20240108151918.png]]
+# Build - Tony Fadell
  This book is an absolute reference for anyone who is building products, either in a [[startup]] or within a larger organization. What I liked about the book is that it is written partly as a biography, partly as what a mentor would say to a mentee. 
 
 [[Tony Fadell]] is one of the creators of the iPod, later the iPhone, and finally the Nest company. He started his career at a startup that failed, then joined Philips and it didn't work out, and finally he joined Apple, where his career took off. 

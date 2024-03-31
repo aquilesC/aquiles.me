@@ -1,3 +1,5 @@
+# Nieve de primavera - Mishima
+
 **Nieve de primavera** es una novela de [[Mishima]], que transcurre en Japón a inicios del siglo 20. El personaje principal es Kiyoaki, un estudiante de secundario que tiene una personalidad complicada. Grandes pasiones, confunde sus sentimientos. Es de una familia acomodada pero de riqueza reciente, los Matsugae. Tiene muy poca relación con su padre y madre. La abuela, sin embargo, parece enterarse mucho más de lo que sucede. 
 
 La historia gira, sin dudas, alrededor de la historia de amor entre Kiyoaki y Satoyo, una vecina y además la hija de un conde (Ayakura) que en el pasado crió y educó a Kiyoaki para que se convirtiera en una persona que pertenezca a determinado rango social. El conflicto surge a partir de desencuentros amorosos entre ambos, que empujan a Satoyo a aceptar un matrimonio con un príncipe. Sin embargo, en la espera hasta las nupcias, se enciende el amor. Satoyo termina embarazada, la fuerzan a practicar un aborto y finalmente se encierra en un monasterio, anulando los esponsales. De más está decir que también anula cualquier oportunidad romántica de Kiyoaki. 

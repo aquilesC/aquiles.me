@@ -1,3 +1,4 @@
+# Como Agua para Chocolate - Laura Esquivel
 Es una linda novela de [[Laura Esquivel]], en 12 "entregas", donde cada una gira alrededor de una receta de cocina. La protagonista, Tita, nace en una casona rural de México y recibe el mandato familiar: la hija menor deberá permanecer soltera para cuidar de la madre (Mamá Elena) hasta el final de sus días. 
 
 El conflicto surge cuando Tita se enamora de Pedro, pero la madre le prohíbe casarse y le ordena a otra de sus hijas que lo haga. Pedro acepta sólo como un pretexto para seguir cerca de Tita. 
@@ -24,9 +25,5 @@ El hecho de que todos los personajes terminen muertos lo hace parecer un libro m
 Al final hay un detalle que parece auto-referencial (cambia la persona del relato y se vuelve a una primera persona que encontró el recetario de su tía abuela), que tampoco me parece que fuera necesario, sobre todo porque no hay ningún indicio de que se trata de una meta-historia hasta ese momento. 
 
 Entiendo el valor creativo de la novela. Me pregunto si realmente fue escrita por entregas (por ejemplo para aparecer en una revista) o si se trató sólo de un recurso literario. 
-
-
-
-
 
 #reading-2023 #novelas #mexico
