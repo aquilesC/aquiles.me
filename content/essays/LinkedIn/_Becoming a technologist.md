@@ -4,31 +4,31 @@ published_on: None
 ---
 ![[illustration_technologist.webp]]
 
-☎️📲 Venturing out of science and into entrepreneurship, required me to become a technologist: always in the lookout for what is new and could give me an edge. 
+☎️📲 Venturing out of science and into entrepreneurship, required me to become a technologist: always in the lookout for what is new that could create an edge. Trying to make disparate connections to be at the forefront. 
 
-The first thing I did during my PhD was to automate the setup I was working on. Python for instrumentation was a new thing back then, I knew barely enough to automate a few tasks. 
+The first thing I did during my PhD was to automate the setup I was working on. @Python for the Lab was a new thing back then, there were very few projects to learn from. 
 
-It gave me an edge: the first paper I published was possible only due to automation. 
+But it gave me an edge: automation was a rare ability, and I could exploit it to generate new data. My first PhD paper was possible exclusively because of having an automated setup (even with real-time data processing!) 
 
-And I brought that into my first venture after-PhD, which led to the creation of my first company, Dispertech. 
+I brought that unfair advantage into my first venture post-PhD and later to the creation of my first company: Dispertech. 
 
-I managed to build a hardware MVP completely from scratch in around 9 months partly because I was always looking out for what was new: cameras, lasers, stages, electronics (thanks Arduino!)
+New technologies open (thanks Arduino!) opportunities in many fronts. From lowering costs, to easier integration. Or specific features such as lower noise or higher framerates which open new lines for product R&D. 
 
-But then there's also the shiny object syndrome. 
+But then, there's also the shiny object syndrome. 
 
-There is always something new, something else that may be worth doing. Instead of Arduino's we could use the Raspberry Pi Pico. Other brands of cameras offered advantages that could help us get better results. A different laser could give us more resolution. 
+There is always something new, something else that may be fun doing. Instead of Arduino's we could use the Raspberry Pi Pico. Other brands of cameras offered advantages that could help us get better results. A different laser could give us more resolution. 
 
-But that was all "for us" (mostly for me, for my curiosity). Putting limits, acknowledging what we had was enough "for others", "for that application", is not trivial. 
+But that was all "for us" (mostly for me, for my curiosity). Putting limits, acknowledging that we had enough "for others", "for that application", is not trivial. 
 
-Took me a very long time to develop a more structured approach: first fixing expectations, and then moving towards a set of goals. I'm not even sure I am very good at it, but it's what I try. 
+It took me a very long time to develop a more structured approach: first fixing expectations, and then moving towards a set of goals. I'm not even sure I am very good at it, but it's what I try. 
 
-But I kept the attitude of being in the lookout for new tech. 
-
-I'm always thinking what else could be done with a new tool. 
+However, I kept the attitude of being in the lookout for new tech. 
+I'm always thinking what else can be done with a new tool. 
 
 From event-based cameras, to microfluidics. SPAD arrays, or microarrays. New light sources, and new microscopy objectives. 
 
-Sometimes things just click. Sometimes they end up in a repository at the back of my mind. 
+Sometimes things just click. 
+Sometimes they end up in a repository at the back of my mind. 
 
 --
 👋 Hi! I'm @Aquiles. 
