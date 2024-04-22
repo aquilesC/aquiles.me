@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 22-04-2024
 ---
 ![[illustration_technologist.webp]]
 
@@ -12,7 +12,7 @@ But it gave me an edge: automation was a rare ability, and I could exploit it to
 
 I brought that unfair advantage into my first venture post-PhD and later to the creation of my first company: Dispertech. 
 
-New technologies open (thanks Arduino!) opportunities in many fronts. From lowering costs, to easier integration. Or specific features such as lower noise or higher framerates which open new lines for product R&D. 
+New technologies (thanks Arduino!) open opportunities in many fronts. From lowering costs, to easier integration. Or specific features such as lower noise or higher framerates which open new lines for product R&D. 
 
 But then, there's also the shiny object syndrome. 
 
@@ -28,7 +28,7 @@ I'm always thinking what else can be done with a new tool.
 From event-based cameras, to microfluidics. SPAD arrays, or microarrays. New light sources, and new microscopy objectives. 
 
 Sometimes things just click. 
-Sometimes they end up in a repository at the back of my mind. 
+Many times, however, they end up in a repository at the back of my mind. 
 
 --
 👋 Hi! I'm @Aquiles. 
