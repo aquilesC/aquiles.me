@@ -1,7 +1,6 @@
 ---
 status: draft
 ---
-
 When my path took me into the entrepreneurial world, there were many aspects to it that I wish people would have discussed more openly. 
 
 - **It is a lonely path**. I thought a PhD was lonely enough, but nothing compares to starting your own business. If you are lucky you may start with a partner, but the overall experience is the same. 
