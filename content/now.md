@@ -4,8 +4,9 @@ description: These are the things that are taking my focus right now. Mostly job
 keywords: now, working, projects
 ---
 # NOW!
-- I am working on a [[scipreneurs/Playbook/index|Playbook]] for Scipreneurs. 
-- I have moved to Paris since October 2023, and I am currently exploring opportunities
-- I am helping [[science-based startups]] with different problems they encounter, such as [[business development]], or [[pitching a startup]]. 
-- I am studying about [[corrosion]], because it seems like a field with interesting opportunities
-- I have redeveloped [[Python for the Lab]], and I am thinking what content to add to it and how to restructure the articles to make them easier to parse. 
+- I'm going through a [[Six Sigma]] course on EdX. 
+- I'm following a [[quantum optics]] course on Coursera. 
+- Working on a [[scipreneurs/Playbook/index|Playbook]] for Scipreneurs. 
+- Re-writing [[Python for the Lab]]. The biggest change I'm introducing is the idea of an alternative to the [[model view controller]] pattern, temporary title the [[device experiment view]].
+- I am consulting [[Envue]] on a range of topics, including pitch deck, business development, and product development. 
+- I am slowly catching up with [[free flow electrophoresis]]. I have some ideas I want to understand how can be useful in different settings. 
