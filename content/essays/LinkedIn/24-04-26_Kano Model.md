@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 26-04-2024
 ---
 ![[Pasted image 20240426090042.png]]
 
