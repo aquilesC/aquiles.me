@@ -1,21 +1,21 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 03-05-2024
 ---
-Last few months I became very active on LinkedIn and people started asking me why. Do I want to become an influencer? Nothing further from my motives, which are deeply personal. 
+✍🏼 Last few months I became very active on LinkedIn and people started asking me why. Do I want to become an influencer? Nothing further from my motives, which are deeply personal. 
 
 First, I started writing more because I have the time. 
 I left my startup in mid 2023 and I also moved from Amsterdam to Paris. 
 Deep changes come with new (many) challenges, which lead me to having free time (perhaps too much) to think. 
 
-I'm not only dealing with the change in culture. As an entrepreneur, it's quite tough to understand what your next step could be. I've done so many things without specializing on any. But no standard job defined in an A4 paper really fits that description. 
+I'm not only dealing with the change in culture. As an entrepreneur, it's quite tough to understand what your next step could be. I've done so many things without specializing on any. But no standard job defined on an A4 paper really fits that description. 
 
 I thought I could gain some clarity on my own skills and the value I can bring by discussing publicly. 
 
 I started writing about my experience as a #scipreneur, because I believe in the value of sharing and, more importantly, the value of learning in public. 
 
-I am very reflective, I like thinking on how to improve, and I like learning from what others' have done and how they've done it. 
-I thought that, by increasing my online visibility, dialogs would naturally flow. Now I can conclude that's not the case. It may be a gloom conclusion, but after a while I can tell that people don't seek any meaningful interaction on social networks. In real life is a different story. 
+I am very reflective, I like thinking on how to improve, and I like learning from what others have done and how they've done it. 
+I thought that, by increasing my online visibility, dialogs would naturally flow. Now I can conclude that's not the case. It may be a gloom conclusion, but after a while I can tell that people don't seek any meaningful interaction on social networks. In real life it's a different story. 
 
 I've had chats that started with "as you've posted last week." So I know they trigger some thoughts, just that the discussion will not happen in the comment section. 
 
