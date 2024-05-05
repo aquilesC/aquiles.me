@@ -1,0 +1,3 @@
+Since knowledge creation is a cumulative effect, we can see knowledge creation as a [[positive externality]]. This is tightly coupled to the idea of [[knowledge spill-over]], where the investments of one party in knowledge creation can have benefits for other parties. 
+
+In this context, we could argue that [[open hardware]] can be a vehicle to create such externalities (see: [[Externality in economics]]). 

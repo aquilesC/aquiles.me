@@ -1,0 +1,7 @@
+- title: Research Use of Patented Knowledge -
+- authors: Chris Dent, Paul Jensen, Sophie Waller, Beth Webster
+- year: 
+- 
+- 
+
+This Working Paper reviews issues related to research access to patented inventions, with a particular focus on the role of research exemptions (or experimental use exemptions) in protecting such access. It outlines factors that may affect the ability of researchers to access patented inventions for legitimate research purposes, it reviews evidence of current and anticipated limitations on access, and explores different options for the formulation of research exemptions that balance research use and patent holder’s rights.

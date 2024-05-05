@@ -11,3 +11,5 @@ A nice example is that of Hollywood ([[literature/@chesbrough|@chesbrough]]), wh
 Perhaps this is what happens in [[biotech]] when different companies possess platforms that may end up helping each other. 
 
 What I am surprised about, is that there is, in principle, no correlation between open innovation and [[open hardware]]. The purpose is not to make [[intellectual property]] publicly accessible, but just finding alternative [[business model]]s. 
+
+Open Innovation, as far as its strict definition goes, does not really focus on [[knowledge spill-over]] and [[positive externalities]] but rather in finding ways of adopting the established role of [[patents]] and its intended purpose: [[Patents can be used to block third parties]], but without becoming blocks for innovation (see: [[patents should not be an obstacle for innovation]])
