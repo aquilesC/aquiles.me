@@ -1,8 +1,8 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 06-05-2024
 ---
-💯 Just completed my first course on Lean Six Sigma. I was surprised by the intersection of statistics and insights useful for entrepreneurs, with quality management at larger scales. 
+💯 Just completed my first course on Lean Six Sigma. I was surprised by the intersection of statistics, useful insights for entrepreneurs, and quality management at larger scales.
 
 I was curious about Six Sigma because I wanted to learn the language that process engineers speak. Smaller companies occupy specific places in the value chain, and being able to understand the concerns arising both upstream and downstream is crucial to designing successful projects. 
 
@@ -12,7 +12,7 @@ Quality is closely related to the Voice of Customer (even if it's the internal c
 
 Even if not implementing a six-sigma method yet, it's interesting to see that customer input has a central location in business processes. 
 
-The Voice of Customer has such a deep impact on startups, even if it's very hard to properly collect. Many entrepreneurs forget how to keep this voice integrated into their development strategies. 
+The Voice of Customer has such a deep impact on startups, even if it's very hard to properly collect it. Many entrepreneurs forget how to keep this voice integrated into their development strategies. 
 
 Surprisingly, even if the course kept the VoC at a central place, forgot about it when discussing how to identify critical-to-quality attributes. It all came down to a brainstorming exercise performed exclusively internally. The VoC becomes just a validation platform for predefined ideas that were sourced internally. 
 
