@@ -1,3 +1,3 @@
 The interaction of [[patents and research]] is complex and perhaps under-studied. Under the premise that [[Knowledge is a positive externality]], it can be argued that [[patents]] limit the extent of that externality (only to those who can sign a licensing deal, for example). 
 
-The report on [[research exceptions for patents]] in different OECD countries ([[@dent]]) sheds some light on how these challenges are tackled, both from an economic perspective as well as from a legal framework. 
+The report on [[research exceptions for patents]] in different OECD countries ([[literature/@dent2006]]) sheds some light on how these challenges are tackled, both from an economic perspective as well as from a legal framework. 
