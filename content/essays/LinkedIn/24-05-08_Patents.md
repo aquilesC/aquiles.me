@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 08-05-2024
 ---
 📝 A patent gives you the right to stop others from making, using, selling, or importing your invention. But why have they become a pinnacle requirement for #scipreneurs ?
 

@@ -2,7 +2,7 @@
 status: draft
 published_on: None
 ---
-🔬 I have seen countless hardware-based university spin outs struggling defining and then building an MVP off the ground. And we all face the same question: outsource or build in-house.
+🔬 I have seen countless hardware-based university spin outs struggling with defining and building an MVP off the ground. And we all face the same question: outsource or build in-house.
 
 The decision is a tricky one, and it will always depend on what your business strengths and weaknesses are. 
 
@@ -10,9 +10,10 @@ Hardware minimum viable products are challenging because of their multi-dimensio
 
 What works extremely well for software, where delivery to customers is instantaneous, marginal costs are zero, and iteration cycles happen in days, may be much more challenging for hardware. 
 
-I strongly believe that one of the bottlenecks is lack of interactions across disciplines. Most engineering and design students are not exposed to scientific instruments or labs. On the other hand, most scientists are never exposed to engineering and design principles. 
+I believe that one of the bottlenecks is lack of interactions across disciplines. Most engineering and design students are not exposed to scientific instruments or labs. On the other hand, most scientists are never exposed to engineering and design principles. 
 
 To add to the complexity, #scipreneurs must do all this in the highly uncertain context of what validating a business case means. 
+
 
 👀 I have seen startups face a decision that can put their very survival at risk: outsource the product development to a company and deplete their funding, or focus on validating the idea to justify a larger round of investment. 
 
