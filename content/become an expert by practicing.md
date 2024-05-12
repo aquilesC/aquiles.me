@@ -4,7 +4,7 @@ Ahrens[^1] argues that the best way to become an expert is by practicing. He bas
 
 However, there is no way of become an expert if it is not through practice (see: [[spaced repetition]]). Ahrens argues that strict rules do not help in a creative process (such as writing), but being exposed to feedback loops does. Therefore, one may seek feedback from peers or mentors in order to create a virtuous cycle. 
 
-The idea is that [[The Luhmann method]] does not impose rules on the practicioners, but it is flexible enough that empowers people to follow their own paths. The method requires plenty of writing, which is the first step in deliberate practice of the skill (according to the book) everyone should master. 
+The idea is that [[Luhmann method]] does not impose rules on the practicioners, but it is flexible enough that empowers people to follow their own paths. The method requires plenty of writing, which is the first step in deliberate practice of the skill (according to the book) everyone should master. 
 
 [^1]: [[How to Take Smart Notes - Sönke Ahrens]] (chapter 9.4)
 

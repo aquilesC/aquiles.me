@@ -2,7 +2,7 @@ The idea of [[note taking]] is to either create knowledge (see: [[taking notes f
 
 There are some problems with the traditional approach to writing products being thought in universities (see: [[literature/202011092209 Writing projects should flow associatevely and not with a top-down approach]]), while associative, networked methods may be much better suited for innovative writing. 
 
-Either if we think about [[The Luhmann method]] in light of academic writing or of the [[digital garden]], the basic unit of value generation are the [[notes should be concept-based|concept-oriented notes]], in which case:
+Either if we think about [[Luhmann method]] in light of academic writing or of the [[digital garden]], the basic unit of value generation are the [[notes should be concept-based|concept-oriented notes]], in which case:
 
 > if you’ve already written lots of concept-oriented evergreen notes around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative. 
 > [AM notes](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)

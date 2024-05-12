@@ -1,4 +1,4 @@
-[[The Luhmann method]] suggests using tags for categorizing entries. I am not sure how I feel about it, but for sure it can help re-discover new notes based on a topic, following an apparently random jumping process. Therefore, to be able to include tags into notes without a fixed structure, I wanted to parse the markdown file and identify strings that start with a ``#``. The regex was inspired by the parses of [sublimeless](https://github.com/renerocksai/sublimeless_zk/blob/master/src/libzk2setevi/zkutils.py):
+[[Luhmann method]] suggests using tags for categorizing entries. I am not sure how I feel about it, but for sure it can help re-discover new notes based on a topic, following an apparently random jumping process. Therefore, to be able to include tags into notes without a fixed structure, I wanted to parse the markdown file and identify strings that start with a ``#``. The regex was inspired by the parses of [sublimeless](https://github.com/renerocksai/sublimeless_zk/blob/master/src/libzk2setevi/zkutils.py):
 
 ```python
 RE_TAGS = r"(#+([^#\s.,\/!$%\^&\*;{}\[\]'\"=`~()<>”\\]|:[a-zA-Z0-9])+)"

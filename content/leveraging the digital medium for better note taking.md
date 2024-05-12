@@ -1,4 +1,4 @@
-The digital medium allows to create work flows very different from what [[The Luhmann method]] proposes, but without neglecting its teachings. 
+The digital medium allows to create work flows very different from what [[Luhmann method]] proposes, but without neglecting its teachings. 
 
 The original idea of the Zettelkasten was that notes should be *placed*, physically, in relation to one another. Links between notes neglect the idea of *placing*, and may be that mindlessly we create links to notes without seeing what is at the other end. 
 

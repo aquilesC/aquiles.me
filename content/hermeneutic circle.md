@@ -8,7 +8,7 @@ The reciprocity between text and context is part of what Heidegger called the <a
 
 [[Anne-Laure le Cunff]] suggests reading the same text several times[^1], but this is not what the idea of having a circle suggests. The idea is that we can't fully separate a text from the context in which it was written, or the other way around. In other words, the text and the author are part of this circle, or text and reader. 
 
-Reading the same text several times does not increase our understanding of it, we can even subject ourselves to the [[exposure effect]] (see: [[writing down as a mean to understanding what we read]]). Even within [[The Luhmann method]], the context in which we read is always present (enforced even), he himself claimed that he was taking notes with an eye on the slip-box (his own context). 
+Reading the same text several times does not increase our understanding of it, we can even subject ourselves to the [[exposure effect]] (see: [[writing down as a mean to understanding what we read]]). Even within [[Luhmann method]], the context in which we read is always present (enforced even), he himself claimed that he was taking notes with an eye on the slip-box (his own context). 
 
 <blockquote class="quoteback" darkmode="" data-title="L.%20Sieve%20-%20Il%20senso%20e%20la%20comprensione%20intepretante" data-author="" cite="https://www.filosofico.net/inattuale/senso_comprensione.htm">
 il movimento del ritorno a sé della circolarità

@@ -7,4 +7,4 @@ Several universities have guidelines on how to write *papers* following a top-do
 1. It lacks to acknowledge that students have pre-existing ideas that they are carrying with them (things they already studied or experienced)
 2. It creates a linearity in the process that does not represent how people normally think
 
-[[The Luhmann method]] of storing (and fundamentally retrieving) notes can help overcome these difficulties because of its non-linearity. 
+[[Luhmann method]] of storing (and fundamentally retrieving) notes can help overcome these difficulties because of its non-linearity. 

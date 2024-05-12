@@ -30,7 +30,7 @@ Newer articles are not more predominant than older ones. It is also easy to revi
 Without indexing, the only way to find threads to follow is if you happened to land on one through a search engine or if I shared one with you. There are some starting points elsewhere, like on what am I doing [[now]]. 
 
 ## Free flow of thoughts to see what happens
-The promise of this way of taking notes is that in the connections that appear lies the strength. This is based on [[The Luhmann method]], but with a digital twist and a personal touch. 
+The promise of this way of taking notes is that in the connections that appear lies the strength. This is based on [[Luhmann method]], but with a digital twist and a personal touch. 
 
 So far I can't say that it has changed the way I build knowledge, but it has definitely helped onboarding colleagues. I gave them few links to start following threads and they managed to pull the interesting papers and my personal opinions on some matters. 
 

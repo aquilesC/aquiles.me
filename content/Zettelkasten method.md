@@ -1,0 +1,1 @@
+I prefer to call it the [[Luhmann method]], since besides the original creator, I am not aware of anyone making use of this system of note-taking that has been a prolific intellectual. 

@@ -8,6 +8,6 @@ Most advice for [[note taking]] and maintaining a [[digital garden]] focuses on 
 
 But approaches on taking notes without content creation in mind are mostly missing. A big part of the notes I take are driven by my need to understand the field in which the customers of [[Dispertech]] operate, even if I don't intend to write about these topics. Some other notes I take are about books I read, but again, I don't plan to write about these topics, at best I'll publish a lengthier summary of the book, as I did for [[/essays/Notes on Working in Public - Nadia Eghbal]] or [[/essays/Notes on How to Take Smart Notes]], for example. 
 
-Therefore I still wonder what is the best approach to maintain a [[knowledge management]] system focused on increasing insight and not on producing a material output. Are the lessons of [[the Luhmann method]] valid, or should we redefine the structure in order to increase insight even though the eventual writing would be more inconvenient? 
+Therefore I still wonder what is the best approach to maintain a [[knowledge management]] system focused on increasing insight and not on producing a material output. Are the lessons of [[Luhmann method]] valid, or should we redefine the structure in order to increase insight even though the eventual writing would be more inconvenient? 
 
 Tags: #note-taking #knowledge-management #knowledge-generation 
