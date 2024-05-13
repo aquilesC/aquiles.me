@@ -1,12 +1,12 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 13-05-2024
 ---
 🎙️ What about a startup studio for valorizing research output from universities and knowledge institutes? 
 
 I have only a hunch, no hard numbers, that a bottleneck for valorizing research output is the lack of human resources to push through. 
 
-What I mean is that most incubators, tech transfer, funding opportunities, etc. focus on traditional value creation paths, but they often forget you need **someone** to execute on those plans. And 'someone' most likely is a junior researcher. 
+What I mean is that most incubators, tech transfer, funding opportunities, etc. focus on traditional value creation paths, but they often forget you need **someone** to execute on those plans. And this 'someone' is, most likely, a junior researcher. 
 
 However, PhD's and Postdocs are in a frenzy from one position to the next. Very few even have the mental space to consider #scipreneurship as a potential next step, and even fewer will get the support from their institutions to actually do it.
 
@@ -27,10 +27,13 @@ What would such a deep-tech venture studio need?
 A carefully defined application focus (sci-tech, photonics, quantum, chemistry, etc.)
 An initial committed capital of around 5M€. 
 An initial team of 2 people with relevant tech domain and business insights to filter through projects. 
-A support team of 2~3 people with specific skills (mechanical design, marketing, legal/accountant). 
-An initial selection of 2~5 projects with a go-to-market path of no longer than 2 years, but ideally 1 year. 
+A support team of 2~3 people with specific skills (mechanical design, marketing, software). 
+An initial selection of 2~5 projects with a go-to-market path of no longer than 2 years, but ideally closer to 1 year. 
 
-I think such an approach can lead to a virtuous cycle in the knowledge-transfer cycle. It would also generate enough information to inform policies and incentives at many levels. 
+I think such an approach can lead to a virtuous cycle in the knowledge-transfer cycle. 
+It would also generate enough information to inform policies and incentives at many levels. 
+
+![[deep_tech_startup_studio.webp]]
 
 ---
-Heavily inspired by @Max Poeg discussions on Startup studios. 
+Heavily inspired by @Max Pog discussions on Startup studios. 
