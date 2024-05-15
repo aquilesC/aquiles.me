@@ -1,8 +1,8 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 15-05-24
 ---
-📢 Marketing for #scipreneurs must be one of the hardest skills to master. There's too much conflicting information and very little time for execution. But it doesn't need to be that hard. 
+📢 Marketing for #scipreneurs must be one of the hardest skills to master. There's too much conflicting information and very little time for execution. 
 
 Sci-tech products (those targeting other scientists) follow a path different from almost anything else. They are in between B2C and B2B. Scientists make decisions thinking about their immediate context, not necessarily the entire ecosystem (with exceptions, of course.) 
 
@@ -20,7 +20,7 @@ Social media can also be a great tool to get the word out. But the rate of growt
 
 Social media is a great tool to discover communities, it can help with literature and conference discovery. But it can also drain a lot of energy and frustration when the analytics don't explode exponentially. 
 
-Bottom line, marketing has to be consistent. Materials should not contradict each other. And they can slowly be optimized as the company evolves and understand better the context in which it is operating. 
+Bottom line, marketing has to be consistent. Materials should not contradict each other. And they can slowly be optimized as the company evolves and understands better the context in which it is operating. But it should be created in an unobtrusive way for the people in the company. 
 
 --
 👋 Hi! I'm @Aquiles. 
