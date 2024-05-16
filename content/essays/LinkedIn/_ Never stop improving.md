@@ -2,7 +2,7 @@
 status: draft
 published_on: None
 ---
-📚 I like learning new things all the time. And the best source are each iteration of what I'm trying to achieve, or past mistakes. 
+📚 I like learning. I hate exams, though. And the best source are each iteration of what I'm trying to achieve, or past mistakes. 
 
 It took me a while to realize that many people don't try to become better, don't try to learn from one iteration to the next. They somehow lack a degree of self-awareness of their daily achievements. 
 
