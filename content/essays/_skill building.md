@@ -1,3 +1,6 @@
+---
+status: draft
+---
 
 ## Skill building in Academia or a Company
 I think there is a somewhat common misconception that skills can be transmitted in a closed environment. Some think that by putting people in a classroom and teach them about management, everyone will become good at it. 

@@ -1,6 +1,5 @@
 ---
 status: draft
-published_on: None
 ---
 🔬 I have seen countless hardware-based university spin outs struggling with defining and building an MVP off the ground. And we all face the same question: outsource or build in-house.
 
