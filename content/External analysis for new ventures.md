@@ -11,6 +11,6 @@ Entrepreneurs, however, focus on control over prediction, and therefore are will
 
 
 
-The next step in the process is to study the [[competitor landscape for new ventures]]. 
+The next step in the process is to study the [[Categories of competitors]]. 
 
 See: [[Internal analysis for new ventures]]

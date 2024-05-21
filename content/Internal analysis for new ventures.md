@@ -5,4 +5,4 @@ This is another of the columns of the [[Business Model Canvas]], and it aims at 
 
 The internal analysis is only regarding people being part of the firm, and therefore the ideas of the [[crazy quilt around a product]] do not intersect the internal analysis. 
 
-See: [[External analysis for new ventures]], [[Competitor landscape for new ventures]]
+See: [[External analysis for new ventures]], [[Categories of competitors]]

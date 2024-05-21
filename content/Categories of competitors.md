@@ -1,3 +1,5 @@
+[[Competitor analysis]] is crucial for new ventures, and it can hide some benefits. 
+
 There are four categories of competitors that new ventures must evaluate[@ianuzzi2017]
 
 - **Business Killer**: companies operating in the same space with the resources and capabilities to develop a competing product
