@@ -1,0 +1,1 @@
+When starting a new company, [[entrepreneurs]] need a breadth of knowledge and resources. One of the challenges of founding later in one's career is that people can get too specialized, develop specific knowledge, but lack the breadth required to pursue a new venture. 

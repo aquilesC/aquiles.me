@@ -11,7 +11,7 @@ A scientist can have incentives for starting a company (see: [[changing scientif
 
 For young scientists, one strong motivation to start an entrepreneurial path is the **lack of career alternatives**. Again, pointing to an often poorly discussed topic of [[entrepreneurship for a PI is very different than for a PhD or postdoc]]. 
 
-The motivations can be divided into 3 categories[@lam2011]
+The motivations can be divided into 3 categories [[literature/@lam2011|@lam2011]]
 
 - Ribbon
     - Reputation/career rewards, which are in any case always pursued by researchers
