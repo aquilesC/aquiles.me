@@ -1,10 +1,10 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 22-05-24
 ---
-📆 Two simple rules before accepting yet another meeting or speaking commitment: ask yourself why you are doing it and what will you get from it. 
+📆 Two simple rules before accepting yet another meeting or speaking commitment: ask yourself WHY you are doing it and WHAT you will get from it. 
 
-Founders get invited to an endless stream of events. From speaking at events, to showcasing their companies to students in a university. 
+Founders get invited to an endless stream of events. From speaking at meetings, to showcasing their companies to university students. 
 
 Getting all this exposure can be exhilarating, but it can also start damaging your business and your team before you even realize it. 
 
