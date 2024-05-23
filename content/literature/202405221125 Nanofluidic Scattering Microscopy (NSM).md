@@ -19,3 +19,5 @@ The setup is a [[dark-field microscope]] (also see: [[literature/202310101212 St
 I wonder why the choice of going for the "TIR" ([[total internal reflection]]) type of approach and not a classical dark-field with a stop in the center. 
 
 Also, is it possible to replace the lens for a cylindrical lens to increase the intensity at the channel? 
+
+The technology is commercialized by [[Envue]]. 

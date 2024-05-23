@@ -6,4 +6,6 @@ Although it is valuable at the beginning (labs are expensive, setting up things 
 
 A prototype is the first materialization of how a solution will look like. You can only get feedback once people see what you are doing, they interact with it. If you have doubts on whether a prototype is worth building, then it may be too early to consider spinning out. 
 
+The secret for a successful prototype, perhaps lies in two factors: [[efficient iteration]] and [[effective feedback gathering]]. 
+
 This is discussed also in [[Build - Tony Fadell]] with the idea of **Make the Intangible Tangible**. Once you materialize what you want to do (be it a website, the iPod, or a microscope) you'll allow people to visualize it in its proper context and decide if it fits with their expectations. 
