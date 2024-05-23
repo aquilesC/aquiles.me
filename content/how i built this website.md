@@ -44,9 +44,14 @@ Since the output of the program is a collection of HTML files, I thought about g
 **Some things to note about the process**: Some dependencies of my static website generator can't be installed via the ``setup.py`` file, so I had to add a ``requirements.txt`` file to ensure that dependencies are installed first, and then the package itself. I also had to add a ``runtime.txt`` file to specify the Python version, or it would default to Python 2. 
 
 ## Comments
-I thought for a while whether I should [[add comments to a digital garden]] or not. I opted for using a library called **utterances**, that allow using Github issues as a commenting platform. I still liked the approach of **staticman** better, because comments become files in a repository, with all the added benefits of portability. 
+I thought for a while whether I should [[add comments to a digital garden]] or not. On the one hand it would allow to quickly gather feedback and collectively build knowledge. However, that's the role of [[webmentions]]. Anybody is free to ping me from their own spaces. 
 
-The only problem with staticman was the amount of spam I was receiving, and didn't particularly fancy the idea of having a Recaptcha sniffing information on my users. I may try to implement a custom solution.
+Also, comments may relate to content that changes, moves, and is lost. 
 
+In the end, I opted to add a contact form at the bottom of every note. 
+
+If anybody reaches out, I know from which note the comment was triggered, and we can establish a 1-to-1 dialog, without making it public. 
+
+After much consideration, I believe comments belong to few spaces. Websites I follow, like [Microsiervos](https://www.microsiervos.com/) or [Seth Godin](https://seths.blog/)'s blog don't have comments. 
 ## Microformats
 The last feature I want to point out of this website is that I tried to implement [Microformats](https://microformats.org) in order to make the content more parseable by engines. I accept [[webmentions]] although they are not displayed on the pages, yet. I am still experimenting with the different options, but I do like the idea of having [[backlinks across domains]]. If I may be allowed to continue with the garden metaphor, Webmentions are a way of pollinating species in different gardens.  
