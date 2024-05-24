@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 24-05-2024
 ---
 🗒️ The pitch deck is not the company. The pitch deck is one of the marketing materials a company uses to sell a product: itself. 
 
@@ -8,7 +8,7 @@ In many cases, pitch decks have come to replace written business plans. They are
 
 But a deck is a summary of many different aspects that make a business. From the team, to the idea, to the financial projections. 
 
-Putting together a pitch deck is a great way of reflecting on the past, present, and future. Things that sometimes flow without giving the time for us to stop and thing. Especially at early stages, developing a pitch deck will trigger discussions with the entire team. Now it's the moment to move on to the next milestones. 
+Putting together a pitch deck is a great way of reflecting on the past, present, and future. Things that sometimes flow without giving the time for us to stop and think. Especially at early stages, developing a pitch deck will trigger discussions with the entire team. Now it's the moment to move on to the next milestones. 
 
 The pitch is not the company. 
 The company is made by people. 

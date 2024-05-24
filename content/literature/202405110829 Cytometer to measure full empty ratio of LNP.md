@@ -2,7 +2,7 @@
 - Source: [[@li2022a]]
 - Tags: #lipid-nano-particle #full-empty-ratio
 
-This paper implements a flow cytometer inside a capillary. I am not completely sure about the advantages of their approach compared to any other tool, such as [[nanoFCM]]. 
+This paper implements a [[flow cytometer]] inside a capillary. I am not completely sure about the advantages of their approach compared to any other tool, such as [[nanoFCM]]. 
 
 The capillary is a **Molex** glass capillary with a $10\mu m$ inner diameter. They create a [[light sheet]] to illuminate the entire cross section but, presumably, to keep intensity relatively high. They use 3 colors ($488nm$, $532nm$ and $640nm$). As far as I can tell there is no scattering, just fluorescence. The cameras are used for alignment, not for acquisition. 
 
@@ -26,5 +26,11 @@ The data in the paper looks exactly like it would look like in a flow-cytometer 
 
 The important conclusion of the paper is that **80%** of the LNP's are empty, even if they were using "the gold standard" of mRNA in LNP's. 
 
+## Tech Specs (at least some)
+
+- Throughput: 3000~5000 events/minute
+- Excitation: $488\,nm$, $552\,nm$, $647\,nm$
+- Molex Capillary (Polymicro, I assume), $10\mu m$ in diameter, $50\,cm$ in length. 
+- No mention to index-matching the capillary to a flat substrate (but they mention a coverslip supporting it)
 ### Note
 The paper goes as far as describing a fitting procedure that minimizes $\chi^2$ in the distribution of intensities.  

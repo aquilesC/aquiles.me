@@ -10,7 +10,7 @@ Shifting the attention means also that [[scientist are changing how they consume
 ## How marketing works in the digital era
 Marketing traditionally focused on capturing a person's interest and being on top of the journey of the potential customer since the beginning all the way to the *upsell*. This is regarded as [[the traditional marketing funnel]]. The most important aspect is that customers get exposed to content once they are already *leads*. 
 
-In the *digital era* the idea of a funnel is completely mistaken. All the traditional means to do outbound reach (trade shows, spam e-mail, advertising) can be achieved by using [[social media for scientific marketing]]. [[The role of search engines for scientific marketing]] must also be considered, making companie's websites the entry point of a self-driven customer seeking answers. 
+In the *digital era* the idea of a funnel is completely mistaken. All the traditional means to do outbound reach (trade shows, spam e-mail, advertising) can be achieved by using [[social media for scientific marketing]]. [[The role of search engines for scientific marketing]] must also be considered, making companies' websites the entry point of a self-driven customer seeking answers. 
 
 Appropriately, the title of the book [[catalytic experiences]] reflects what a customer should experience through their decision journey and must be fueled by a company's generated content. The catalysis of the customer's journey is better explored in the follow section. 
 

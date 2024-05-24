@@ -12,5 +12,7 @@
 
 The system uses $100\,\mu\textrm{m}$ capillaries, based on the concentration it would be possible to calculate the flow rate. 
 
-I am still puzzled by the total photons/min, since it is fundamentally the same for the blank sample up to 0.24ng/L, however, the number of events is vastly different. It may be there there is some coincidence-type of measurement that allows to overcome the noise of the detector? 
+I am still puzzled by the total photons/min, since it is fundamentally the same for the blank sample up to $0.24\,ng/L$, however, the number of events is vastly different. It may be there there is some coincidence-type of measurement that allows to overcome the noise of the detector? 
+
+This systems looks like a [[flow cytometer]], and is somewhat very similar to what is described in this paper: [[literature/202405110829 Cytometer to measure full empty ratio of LNP|202405110829 Cytometer to measure full empty ratio of LNP]] 
 

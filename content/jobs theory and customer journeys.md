@@ -1,4 +1,4 @@
-When creating new products and companies, a common practice is to build a [[customer journey]]. Based on a persona, we develop the entire timeline of the person: the see an add on Facebook, enter to the store, check the marketing video, purchase the product, receive it 3 days later, end. 
+When creating new products and companies, a common practice is to build a [[customer journey]]. Based on a persona, we develop the entire timeline of the person: they see an ad on Facebook, click on a link and enter to the store, check the marketing video, purchase the product, receive it 3 days later, end. 
 
 First, I made it too simplistic assuming it was a linear process, as [[the traditional marketing funnel]] makes us believe. Secondly it neglects the fact that the customer will face different parts of the funnel at different stages and for different reasons. 
 
