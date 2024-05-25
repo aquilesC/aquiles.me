@@ -7,3 +7,5 @@ On the other hand, a website is always there and accretes. Over time, the websit
 Stressing over SEO, keyword optimization, and whatnot, has very little value compared to honesty and transparency. 
 
 For [[scipreneurs]], published papers work as evergreen marketing. As time passes, they accumulate cites, and if they raise awareness, the tools used will raise awareness themselves. 
+
+And, definitely, a device installed somewhere is evergreen marketing (if it's used.) Everyone will see the instrument somewhere. Make it memorable, like what [[iZon]] did with the [[Exoid]]. 
