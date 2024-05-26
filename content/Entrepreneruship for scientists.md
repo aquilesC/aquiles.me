@@ -4,5 +4,5 @@ However, it is worth discussing, broadly, several topics, such as:
 
 - [[Motivation factors for scientific entrepreneurship]]
 - [[Risks in starting a scientific company]]
-- [[Technology not adressing a problem]]
+- [[Technology not addressing a problem]]
 - [[Market requests for a technology]]
