@@ -1,6 +1,6 @@
 ---
-status: draft
-published_on: None
+status: published
+published_on: 10-05-24
 ---
 🧪 Have we overlooked autofluorescence for bacterial or cellular identification? I'm very skeptical, even in the perspective of an AI that will solve everything. 
 
