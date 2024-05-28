@@ -1,0 +1,3 @@
+The purpose of [[marketing]] is not to *create* the desire on someone, but rather to help them uncover their latent need for something, and to *convince* them that your offering can address the need. 
+
+Marketing (or sales) that focus on creating the desire, normally lead to discomfort. This is what [[SPIN Sales]] preaches as well. Don't focus on your solution, but on the problems your customer has and how your offer can help them. 
