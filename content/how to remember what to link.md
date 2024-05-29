@@ -16,7 +16,7 @@ An extra feature, is that since I am using [[Obsidian]] to write the notes, ever
 
 Sometimes links are single-worded, in which case it is easy to do it right. For example, I can link to the name of a program, or a very specific concept. But for general ideas, or longer sentences, then it can become slightly more complicated. 
 
-I have seen what [[Andy Matuschack]] does in his [notes](https://notes.andymatuschak.org/About_these_notes), and I can tell that a lot happens because of him remembering that he already wrote something down and forces the link to those notes. 
+I have seen what [[Andy Matuschak]] does in his [notes](https://notes.andymatuschak.org/About_these_notes), and I can tell that a lot happens because of him remembering that he already wrote something down and forces the link to those notes. 
 
 ## This Is Work In Progress
 [[How to build links between notes]] is still [[working in progress]]. At this stage I was focusing more on creating a base set of knowledge notes and an emergent [[taxonomy]], and can revisit the status later. 

@@ -25,7 +25,7 @@ First, we must identify different categories of notes:
 - **Literature Notes** are based on what we read. They are an abstraction of the knowledge we can extract from a book or a paper. They are meant to hold information based on a single source, and they should be written with our own words, not a plain copy/pasting
 - **Permanent Notes** hold our ideas. They are the evolution of the transient notes. Ideally, They should link to other permanent notes or literature notes to build a web of knowledge. 
 
-There is also a lot of thought put into defining how each note should look like. The core idea is that each note should express a single concept. Therefore, when we refer to one of them, we refer to a concrete concept and not to a sub-set within a longer note. Andy Matuschack puts it as "notes should be single units of knowledge." 
+There is also a lot of thought put into defining how each note should look like. The core idea is that each note should express a single concept. Therefore, when we refer to one of them, we refer to a concrete concept and not to a sub-set within a longer note.[[ Andy Matuschak]] puts it as "notes should be single units of knowledge." 
 
 The second step of the note-taking process relates to the **archiving**. The Luhmann method is efficient as long as the archival and retrieval process is efficient. Therefore, instead of keeping notes in chronological order, Ahrens proposes to keep notes based on the links to each other. With paper notes, every time we store a note, we must decide where to put it. Ideally, we will place it right behind the note to which it relates the most. 
 

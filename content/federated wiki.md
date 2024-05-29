@@ -1,4 +1,4 @@
-Listening to [[Mike Caulfield]]'s talk[^1], he evolves the ideas of [[the garden or the stream]], into those of a federated wiki. The idea is working with [[transclusion]] between different domains, controlled by different people. The [website](http://fed.wiki.org/view/federated-wiki) has a look super similar to [Andy Matuschack's notes](https://notes.andymatuschak.org) which probably justifies the latter choice. 
+Listening to [[Mike Caulfield]]'s talk[^1], he evolves the ideas of [[the garden or the stream]], into those of a federated wiki. The idea is working with [[transclusion]] between different domains, controlled by different people. The [website](http://fed.wiki.org/view/federated-wiki) has a look super similar to [Andy Matuschak's notes](https://notes.andymatuschak.org) which probably justifies the latter choice. 
 
 Even though the idea seems good in principle, federating a website comes at risks that I believe where not completely explored. Maggie Appleton[^2] describes the situation quite eloquently:
 

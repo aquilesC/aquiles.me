@@ -18,7 +18,7 @@ Another approach would be to combine existing methods, specifically:
 Is a method in which the liquid flows through a capillary, and the parabolic shape of the fluid speed separates particles’s sizes in time (not unlike [[size exclusion chromatography]]). The method is meant to be *gentle on the particles* meaning that they can preserve the biological conditions and should not induce severe biases downstream. 
 
 ## Coupling the methods
-By coupling a fractionation step with dynamic light scattering, it is possible to enhance the resolution of the latter, since it won’t be biased towards larger particles or aggregates anymore. This means that the DLS average value for the hydrodynamic radius (\\(R_h\\)) does indeed yield important information even if samples are non monodispersed. Adding MALS allows to measure the radius of giration (\\(R_g\\)) of the sample, and since the size is known
+By coupling a fractionation step with dynamic light scattering, it is possible to enhance the resolution of the latter, since it won’t be biased towards larger particles or aggregates anymore. This means that the DLS average value for the hydrodynamic radius $\textrm{R}_h$ does indeed yield important information even if samples are non monodispersed. Adding MALS allows to measure the radius of gyration $\textrm{R}_g$ of the sample, and since the size is known
 
 $$\rho=\frac{\textrm{R}_g}{\textrm{R}_h}$$
 

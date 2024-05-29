@@ -1,0 +1,6 @@
+> The triple helix model of innovation refers to a set of interactions between academia (the university), industry and government, to foster economic and social development, as described in concepts such as the knowledge economy and knowledge society.
+> In innovation helical framework theory, each sector is represented by a circle (helix), with overlapping showing interactions. The initial modelling has advanced from two dimensions to show more complex interactions, for example over time. The framework was first theorized by Henry Etzkowitz and Loet Leydesdorff in the 1990s, with the publication of "The Triple Helix, University-Industry-Government Relations: A laboratory for Knowledge-Based Economic Development". 
+> Interactions between universities, industries and governments have given rise to new intermediary institutions, such as technology transfer offices and science parks, and Etzkowitz and Ledersdorff theorized the relationship between the three sectors and explained the emergence of these new hybrid organizations. The triple helix innovation framework has been widely adopted and as applied by policy makers has participated in the transformation of each sector.
+> - [Wikipedia](https://en.wikipedia.org/wiki/Triple_helix_model_of_innovation) 
+
+Related: [[Quadruple Helix model of innovation]]
