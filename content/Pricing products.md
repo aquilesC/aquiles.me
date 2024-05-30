@@ -1,0 +1,8 @@
+[[Pricing]] is one of the topics on which is hard to find clear and transparent discussions. Something I have noticed with [[scipreneurs]] is that they are normally shy to ask for money. They don't think others will value their work, or they under estimate how much people will benefit from their products. 
+
+Pricing is hard. You are free to set whatever price you want for whatever thing you produce. That is call the **pricing uncertainty principle**. However, you need to remember there's a business behind the making of a product ([[five elements that make a business]]), and there may be some guidelines on how to put a price: 
+
+- [[COGS]]-based pricing. Calculate how much it costs to build and add a margin that satisfies you. Now, be careful, that this is beyond the "[[bill of materials]]". You factor in the labor associated with building and delivering. 
+- **Comparing** to other market offering, check what your competition charges and price it somewhat similarly. If not done carefully, this can lead to a race to the bottom, a situation in which you don't want to find yourself with bigger players. 
+- **Discounted cash flow**, meaning the total value it brings over time. This is handy  for services, for example, but also to [[pricing a startup]] (assuming it has revenue). 
+- [[Value-based selling]], meaning checking what is the value *to the customer*. Sometimes it can be a hard metric, like how much money they'll save, sometimes it is emotional (this is a unique piece of art). This closely relates to [[jobs theory]], since the purpose is to identify aspects that are under-served or highly valuable to the customer. 

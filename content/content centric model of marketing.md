@@ -1,7 +1,7 @@
 Modeling on top of [[how the scientific mind works]], it is possible to think about how to structure content so that it fits into the different stages of the scientific method. 
 
 - **Leadership content** is the type of content that positions a company as an innovator. This is the type of content that would trigger the *recognition* of a scientist needs. 
-- **Education Content** is requires when the scientist is in the *exploration* phase. By presenting balanced evidence it is possible to persuade a scientist to formulate a hypothesis around a given technology. 
+- **Education Content** is requires when the scientist is in the *exploration* phase. By presenting balanced evidence it is possible to persuade a scientist to formulate a hypothesis around a given technology. (See: [[Education content for sales]]). 
 - **Persuassion Content** is meant to provide evidence of the value proposition. Is the technology going to address the problems the scientist recognized. This is the *validation* of the commercially available solution. 
 
 ![The Golden Circle for Content Centric Model](/images/the_golden_circle.png)
