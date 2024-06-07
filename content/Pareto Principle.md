@@ -2,8 +2,6 @@
 title: Pareto Principle
 description: The 20/80 rule that shapes a lot of different disciplines and how to leverage it
 ---
-
-# Pareto Principle
 [[Pareto]] was an economist who found that 80% of the land in [[Italy]] was owned by the [[20%]] of the population. Years later, people started finding this trend in other areas, and someone decided to call this phenomenon the **Pareto Principle**. 
 
 A simple example: 

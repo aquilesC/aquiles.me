@@ -1,8 +1,0 @@
-- [[Qt]] Note taking apps:
-    - [ ] [ZNotes](http://github.com/proton/zNotes) \- Lightweight application for notes managment with simple interface
-    - [ ] [Basqet](http://code.google.com/p/basqet/) \- A note-taking application similar to Basket
-    - [ ] [LoNote](https://bitbucket.org/civalin/lonote) \- A simple and fast note-taking application using Webkit engine and is written by PyQt.
-    - [ ] [QtNote](https://ri0n.github.io/QtNote/) \- Note-taking application written with Qt in mind and able to read tomboy notes
-    - [ ] [qtodotxt](https://github.com/mNantern/QTodoTxt) \- A cross-platform UI client for todo.txt files (see todotxt.com).
-    - [ ] [to-do-list-manager](https://github.com/computerfr33k/To-Do-List-Manager) \- A Simple To Do List Manager Written In Qt5
-    - [ ] [QOwnNotes](http://www.qownnotes.org/) \- a notepad that works together with the notes app of ownCloud.

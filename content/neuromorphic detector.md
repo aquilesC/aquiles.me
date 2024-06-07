@@ -2,4 +2,4 @@ I saw the name "[[neuromorphic]]" in the context of a camera. The idea is that o
 
 The idea of "event-based cameras" is that instead of exposing the sensitive area for a set time, each pixel has the ability to trigger independently, at any time, once a photon arrives. The only limitation is bandwidth (which translates nicely to number of events per second). 
 
-An interesting concept are sensors that trigger only when subject to changes in brightness. I'm not sure how noise is defined in this case, but they seem ideal for most practical applications regarding [[single-molecule]] microscopy. 
+An interesting concept are sensors that trigger only when subject to changes in brightness. I'm not sure how noise is defined in this case, but they seem ideal for most practical applications regarding [[single-molecule]] microscopy. (For example: https://www.nature.com/articles/s41566-023-01308-8)

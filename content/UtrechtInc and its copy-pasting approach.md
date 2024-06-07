@@ -1,6 +1,6 @@
-# UtrechtInc and its copy-pasting approach
+I followed a program at [[UtrechtInc]], an incubator that is linked both to the [[University of Utrecht]] and the city. They advertise themselves as one of the top incubators in The Netherlands based on some metrics. 
 
-I followed a program at [[UtrechtInc]], an incubator that is linked both to the [[University of Utrecht]] and the city. They advertise themselves as one of the top incubators in The Netherlands based on some metrics. Their biggest success is, without doubts, Gitlab. Screening content on other websites, found [Strategyzer](strategyzer.com), that developed the [[Business Model Canvas]]. The first thing I note is that they work on the example of Nespresso, exactly the same approach they have on the videos online. 
+Their biggest success is, without doubts, Gitlab. Screening content on other websites, found [Strategyzer](strategyzer.com), that developed the [[Business Model Canvas]]. The first thing I note is that they work on the example of Nespresso, exactly the same approach they have on the videos online. 
 
 I always struggled to understand how much value can a teaching program transmit, if they just copy content without increasing its value. During the workshops, more than once I struggled to understand what ideas they were trying to convey because there was little will to generating mindful discussions. Developing a business model needs someone who understands much more than just what is supposed to go on each block. You need someone who embeds into your current situation and can guide your thinking process. 
 
