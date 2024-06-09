@@ -1,0 +1,3 @@
+[[build trust in a team|Trust]] is a fundamental aspect of [[sales]]. If there is no trust between the parties involved in the negotiation, there is no way to move forward. For example, when we buy something online, we pay up front, and we expect the delivery few days after. That is a large act of trust. 
+
+In the same way, when we purchase something, we expect it to work when delivered. Trust is built and earned. It can also be lost. That is why [[building reputation]] is so important. 

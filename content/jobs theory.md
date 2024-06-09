@@ -10,4 +10,4 @@ For [[science-based startups]], it is crucial to identify all the actors involve
 
 Using jobs theory is a great approach to mapping users when doing feature selection for a [[minimum viable product]]. There is something that is missing often, which is the emotional jobs component, as can be seen in the case of [[Catalytic Experience of GE Healthcare Life Sciences|automated western blots]]. 
 
-[[Jobs theory around scientific instruments]] is not always done, but it can hold great potential at identifying opportunities. 
+[[Jobs theory around scientific products]] is not always done, but it can hold great potential at identifying opportunities. 

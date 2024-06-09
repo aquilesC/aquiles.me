@@ -1,6 +1,6 @@
 [[jobs theory]] and the [[literature/202303251644 Jobs to be done framework|Jobs to be done framework]] are great tools to identify opportunities and define features for a [[minimum viable product]]. I believe [[science-based startups]] can greatly benefit from their use but almost no one is using it.
 
-Assuming we focus on a product that can be purchased by a single PI (not infrastructure-type of investment). 
+Assuming we focus on [[scientific products]] that can be purchased by a single PI (not infrastructure-type of investment). 
 
 The **Job Executor** will have the hands on the product. They are probably a PhD, Postdoc, or *technician*. 
 

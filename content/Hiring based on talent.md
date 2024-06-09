@@ -7,4 +7,6 @@ Most people default to checking these 4 dimensions of a candidate to make a deci
 - **Brainpower**, thinking that raw intelligence will make candidates adapt (and judged based on educational pedigree)
 - **Willpower**, in which the technical part can be taught and the shear desire to success must be inherent. 
 
+But those are not related to the *talent* of a person to carry out the tasks that are expected. 
+
 Tags: #scipreneurs #management 
