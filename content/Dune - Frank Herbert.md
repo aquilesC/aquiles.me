@@ -1,6 +1,6 @@
 Leí el libro porque quería ver qué tan diferente de la película era. 
 
-El primer libro, desde que Atreides se muda a Arrakhis hasta que Harkonnen invade, transcurre en el lapso de sólo algunas semanas. 
+El **primer libro**, desde que Atreides se muda a Arrakhis hasta que Harkonnen invade, transcurre en el lapso de sólo algunas semanas. 
 
 Es muy difícil de leer, casi como si fuera a propósito (lo leí en Inglés). La forma en la que se arman las frases, las palabras que se eligen. Casi como si fuera un poco tortuoso hacerlo. Eso le agrega un desafío extraordinario. 
 
@@ -30,7 +30,21 @@ Paul aprende los métodos de los mentats (estaba genéticamente condicionado par
 
 Dentro de todo, Dune es un ícono. Tiene drogas (el *spice* azul), política, la *Jihad*. Está ambientado en un mundo bastante medio-oriental, que me parece tomó un significado diferente en las últimas décadas. 
 
-Todavía me faltan leer dos libros más. 
+---
+
+El **segundo libro** se centra mucho más en la relación que Paul construye con los fremen. Es interesante que las películas tomen tanta distancia. Este libro es *muy* lento. Esencialmente es la historia de dos o tres días. Algunos elementos aparecen en la primera película, y algunos en la segunda. 
+
+Se hace mucho hincapié en qué es lo que sucede una vez que los Atreides son derrotados. El mentat, por ejemplo, es engañado para que empiece a ayudar a los Harkonnen. La escena del sobrino luchando en un coliseo contra los atreides es fundamental para entender la rivalidad entre los Harkonnens mismos. 
+
+Duncan muere dandole tiempo a Paul a escapar, y Heynes, el planetólogo también es capturado y asesinado (lo dejan en el desierto, para que sea tragado por una burbuja de gas). 
+
+Por el otro lado, Paul y su madre son rescatados por los fremen y son llevados a su refugio en el desierto. En el libro se dan muchos detalles sobre la cultura y, sobre todo, el uso del agua. El objetivo de los fremen es transformar Arrakhis, y eso lo hacen a lo largo de los siglos, creando pequeñas fuentes de agua que dan vida a plantas. 
+
+También entendemos que los fremen no son ajenos a las políticas del contexto estelar. De hecho le pagan (con la *spice*) a *The Guild* para que no instale satélites de observación en el planeta y así poder hacer sus cosas sin observadores. 
+
+Se empieza a gestar la relación de Paul con Chani, y aprendemos el trabajo que las Bene Gesserit vienen haciendo desde hace milenios: manipulando las lineas genéticas de las grandes casas para crear un descendiente hombre que pueda combinar el poder de las mujeres, y sembrando mitos para hacer el trabajo de esta persona más simple. 
+
+En este libro hay mucha intriga política y religiosa, pero muy poca acción. Sin dudas es el preludio para el tercer libro (y sospecho que la película ya avanzó un poco sobre esa parte de la historia, ya que no hay referencias al emperador yendo a Arrakhis en el libro)
 
 
-#reading-2024 #science-fiction 
+#reading-2024 #science-fiction #reading 
