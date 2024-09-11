@@ -4,7 +4,7 @@ description: Nanoparticle characterization.
 ---
 [Dispertech](https://www.dispertech.com) is the company I co-founded together with [[Sanli Faez]]. He developed the original technique of [[nanoparticle tracking]] in a [[hollow optical fiber]]. I joined Sanli's lab in Utrecht University as a part-time postdoc in order to develop the business plan while also participating in [[UtrechtInc]], an incubator associated with the University. 
 
-We were joined by [[[Nascent Ventures]]](https://nascentventures.nl) in early 2019. **Steven Tan** and **Hans Brouwer** brought in capital and management, an took the majority of the ownership. At the same time we got a small grant from NWO (Take-OFF phase 1), and a year later a follow-up loan (take-off Phase 2). 
+We were joined by [[Nascent Ventures]]](https://nascentventures.nl) in early 2019. **Steven Tan** and **Hans Brouwer** brought in capital and management, an took the majority of the ownership. At the same time we got a small grant from NWO (Take-OFF phase 1), and a year later a follow-up loan (take-off Phase 2). 
 
 With the capital in place, we set to develop the [[NanoCET]], our first product to characterize the size of nano-particles in a fluid. In 2022 we started developing our second product, the [[NanoQNT]], with the intention to release it to market during 2023. 
 
