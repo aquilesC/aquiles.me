@@ -17,4 +17,4 @@ It's important to remember that, in this context, the information that is presen
 
 If you keep talking about the *problem* for someone who is already aware of the solutions around, you probably will lose them. 
 
-In complex products (like [[deep tech]], and those that [[scipreneurs]] bring to market), [[jobs theory and customer journeys]] my add the necessary context to fine tune the approach at different stages and for different people. 
+In complex products (like [[deep tech]], and those that [[scipreneurs]] bring to market), [[jobs theory and customer journeys]] my add the necessary context to fine tune the approach at different stages and for different people. It also combines with the idea of [[customer journey and touchpoints]]. 

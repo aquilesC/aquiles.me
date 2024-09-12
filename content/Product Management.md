@@ -1,0 +1,3 @@
+Product Management is a role more than a job description. It can happen that product managers within an organization have a different job description. For example, an Application Scientist may also be a product manager. 
+
+However, in some companies the role is emerging as a full-time job. Some people see the product manager as "The CEO of the Product", therefore the person who takes care of the entire [[product lifecycle]]. 
