@@ -8,7 +8,7 @@ It goes through different phases, such as:
 	- Is it a new product or a new feature?
 - **Designing**
 	- How would a solution to the problem look like? 
-	- Not just UI, also what the user does not see. How is data stored?
+	- Not just UI, also what the user does not see. How is data stored? ([[User Experience]])
 - **Building**
 	- Iterative releases (easier with software than hardware)
 	- Prioritization is important
