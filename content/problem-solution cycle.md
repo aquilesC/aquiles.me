@@ -1,10 +1,14 @@
-In many entrepreneurial resources, there is a lot of pressure to *solving problems*. It is tightly associated with the idea off [[love the problem and not the solution]]. 
+In many entrepreneurial resources, there is a lot of pressure to *solving problems*. It is tightly associated with the idea of [[love the problem and not the solution]]. 
 
-This framework, which in many cases it works well, it also falls short when thinking about [[science-based startups]], because how can you [[Love the problem if you don't know what it is]]? And once you know it and you perform a [[Competitor analysis]], you'll find out [[there is always a solution to the problem]]. People already do what they need to do. 
+Entrepreneurs are faced with a challenge, since the [[problem recognition]] goes through phases, and there's a high chance customers can't even express they have a problem yet. 
 
-[[technology push]] companies (like many science-based ones) are pushing new tools to the market because they can do novel things. It is the classic example of [[technologies in search of a problem]]. Doing something better than the *status-quo* does not mean it will become a successful business, but that does not negate that it may be worth exploring. 
+[[science-based startups]] are a particular group, because they start with some technological development they want to push. There's a high chance they don't have the freedom to explore potential problems and settle for the most relevant one. They will focus on [[technology push]] to reach the market. 
 
-The framework I started using in recent years is: [[literature/202303251644 Jobs to be done framework|Jobs to be done framework]]. It addresses opportunities in their context. 
+Said in another way, how can you [[love the problem if you don't know what it is]]?
+
+In B2B settings, you must remember that [[there is always a solution to the problem]]. When you talk to customers and try to perform a [[competitor analysis]], you will see that people is already doing something about it. 
+
+Recently, I started using the [[literature/202303251644 Jobs to be done framework|Jobs to be done framework]]. I find it more natural to gauge opportunities in their contexts, especially when there are many people involve, each one with a different goal in mind. 
 
 
 

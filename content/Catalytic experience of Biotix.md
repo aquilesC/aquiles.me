@@ -1,6 +1,6 @@
 Biotix sells pipettes and tips. In [[Catalytic Experiences - Hamid Ghanadan]] they tell the story of the marketing strategy to increase sales and visibility in an overly crowded market. 
 
-In order to use the [[content centric model of marketing]], they studied the context using the [[Four Ps of Marketing]] from the company perspective, the market perspective and the customer perspective. 
+In order to use the [[content centric model of marketing]], they studied the context using the [[4 P's of Marketing]] from the company perspective, the market perspective and the customer perspective. 
 
 Although pipetting is user-dependent, they didn't go to the full extreme of calling it an *art* as they did in the [[Catalytic Experience of GE Healthcare Life Sciences]]. 
 

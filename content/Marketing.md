@@ -2,4 +2,4 @@ Marketing is the process by which you raise awareness on your offering (see: [[l
 
 Some people see it as a *funnel*, but for [[scipreneurs]], [[the traditional marketing funnel]] may not be applicable, and it may be better to focus on [[catalytic experiences]]. 
 
-See also: [[Four Ps of Marketing]]
+See also: [[4 P's of Marketing]]

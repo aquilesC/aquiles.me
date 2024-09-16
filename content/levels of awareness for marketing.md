@@ -1,6 +1,6 @@
 They are tightly related to the [[Four stages of competence]], but adapted to the [[Marketing]] context. 
 
-(Perhaps developed by Eugene Schwartz)
+(Perhaps developed by Eugene Schwartz), it closely resembles what's mentioned in [[literature/@beal1956|@beal1956]] when discussing the adoption of new ideas by farmers. 
 
 These are the four stages that prospects experience 
 
