@@ -1,39 +1,34 @@
 ---
 title: Aquiles Carattino Open Notes
-description: A digital garden is a place where thoughts are continuously updated. I write about science, business, and entrepreneurship. 
+description: A digital garden is a place where thoughts are continuously updated. I write about science, business, and entrepreneurship.
+keywords: aquiles, carattino, digital garden, public thinking
 ---
-## My corner on the Internet
+# These are my Open Notes
+This website is the public face of the notes I take while reading, thinking, and writing. It means this notes are written for me, not you. There's a chance some will be confusing, incomplete, or maybe incorrect. But it's part of experimenting online and seeing what happens.
 
-This website is a [[digital garden]]. There are no "latest articles", nor algorithmically generated suggestions. The only way to explore the content is by following links between notes. 
+Overall, you'll find three types of notes:
 
-For example, you can follow the links below as triggers to explore this website:
+- [[Literature Notes]], like the ones I am taking on [[literature/@mazzucato2018|The Entrepreneurial State by Mazzucato]] [[|@mazzucato2018]]
+- Notes as part of my [[taking notes for knowledge creation|knowledge creation]] strategy, such as when I think about [[Product Management]]. 
+- Finally, sometimes I make a longer dive and it [[What happens when notes become long|becomes an essay]], like [[essays/My Story as a Founder|My Story as a Founder]]. 
 
-- I am interested in [[entrepreneurship for scientists]]. I am writing a short [[scipreneurs/Playbook/index|Playbook]].
-- I was heavily involved in studying [[extracellular vesicles]], mostly because that was the focus on [[Dispertech]], my first [[science-based startups]].
-- Perhaps a list of [[things I've done]] is interesting, or learn more [[about me]]. 
-- If you are more into software, [[how i built this website]] may serve as inspiration. 
+Many like calling this type of websites a [[digital garden]]. This is my attempt at [[better thinking]], while [[learning in public]]. 
 
 ## Essays 
+Some of the essays I've written lately:
+
+- [[essays/Do things that can scale|Do things that can scale]]
 - [[essays/My Story as a Founder|My Story as a Founder]]
 - [[essays/How it feels quitting your own startup|How it feels quitting your own startup]]
 - [[essays/Professors can enable scipreneurs|Professors can enable scipreneurs]]
 - [[essays/Words in books are like the DNA that describes our ancient history|Words in books are like the DNA that describes our ancient history]]
-- [[essays/Notes on How to Take Smart Notes|Notes on How to Take Smart Notes]] by Sönke Ahrens
-- [[essays/After a Failure Revert to the Last Known Working State|After a Failure Revert to the Last Known Working State]]
-- [[essays/choosing between zettlr and obsidian|Choosing between Zetllr and Obsidian]]
-- [[essays/personal data collection, what is it and where it starts|Personal data collection, what is it and where it starts]]
-- [[essays/Notes on Working in Public - Nadia Eghbal|Notes on Working in Public]] by Nadia Eghbal
-- [[essays/Simple explanation of an optimization algorithm|Simple explanation of an optimization algorithm]]
 
-## Talk to me
-If you are a scientist interested about entrepreneurship, you can [[Talk to Me]]. Just send me some information about your challenges and how do you think I can help you. I am available for 30-minute talks, and we can see how to move forward. 
+## No Index
+This website has no ordered index. The way of navigating it is by following links (and backlinks at the bottom of the page). 
 
-If you want to chat about [[technolgy transfer]], setting your own company, what it takes and how the road looks like, you are more than welcome to [[contact me]]. 
+Sometimes checking what I'm working on right [[now]] can be a good starting point. 
 
-I am also available as a consultant and mentor for [[science-based startups]]. I can help you with [[business development]], [[product validation]], [[pitching a startup]], or [[business planning]]. 
+Or these are some of the topics that have occupied a lot of my mind in the past and present: 
 
-### Work in Progress
-These are some of the things I am working on [[now]], feel free to comment on them to expand my knowledge:
-
-- I am thinking about [[technology transfer]] and [[entrepreneurship for scientists]]. Perhaps it'll become a book, a workshop?
-- I am spending a lot of time trying to understand [[extracellular vesicles]] and how they can be used to improve the quality of life. 
+- [[extracellular vesicles]]: there's plenty of new biology to be discovered, but it'll required a systems-biology type of approach. It's a field full of potential. 
+- [[Entrepreneruship for scientists]] which relates very closely to [[technolgy transfer]]. I'm deeply reflecting how to increase the value and impact of research results. 
