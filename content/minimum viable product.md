@@ -1,6 +1,6 @@
 When a company starts, it must define its initial offering. The idea of an MVP is to come up with the minimum list of features that would allow the company to explore and validate the market potential of their idea. 
 
-In the book **Inspired** ([@cagan2018]), Marty Cagan argues that the "P" should stand for *prototype* instead of *product*. The argument is that if one tries to build a product at the discovery phase, it will lead to all sorts of contradictions (if it's a product, we should be able to sell it, but it may not be as high-quality as expected, which means engineering teams will take longer to build it, etc.)
+In the book **Inspired** ([[@cagan2018]]), Marty Cagan argues that the "P" should stand for *prototype* instead of *product*. The argument is that if one tries to build a product at the discovery phase, it will lead to all sorts of contradictions (if it's a product, we should be able to sell it, but it may not be as high-quality as expected, which means engineering teams will take longer to build it, etc.)
 
 Developing an MVP for [[science-based startups]] is hard, because there's already a specific insight that is going to be commercialized ([[solutions in search of a market]]). 
 
