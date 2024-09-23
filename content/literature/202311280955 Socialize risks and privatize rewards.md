@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #risk #entrepreneurial-state 
 
 States finance high-risk research, in the sense that they do it without knowing *a priori* whether there'll be any kind of societal impact. States also finance infrastructure on which ventures are built (like roads and highways). 

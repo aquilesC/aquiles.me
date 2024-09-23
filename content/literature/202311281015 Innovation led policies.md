@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #entrepreneurial-state #innovation 
 
 Solow modelled growth as a *production* function, where the output ($Y$) depends on the physical capital ($K$) and human labor ($L$):

@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #investment #research-incentives #entrepreneurial-state 
 
 Assuming the tenant of a company is profit maximizing, then there would be little incentives for them to invest in basic research, when applied research will yield returns on investment much quicker, and hence more valuable. 

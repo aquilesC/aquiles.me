@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #entrepreneurial-state 
 
 Given that venture capital joins projects once the risk is between their tolerable levels, governments have been taking the role of investing in risk reduction until the private sector can take over. 

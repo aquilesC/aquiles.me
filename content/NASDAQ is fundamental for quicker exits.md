@@ -4,5 +4,5 @@ In that context, venture capital got a strong foothold in Silicon Valley, and th
 
 In recent years I've even seen faster ways to reach the stock market, like WeWork tried to do, by piggy bagging on already initiated processes or already traded companies. 
 
-There is some discussion about this in [[@mazzucato2018]]. 
+There is some discussion about this in [[literature/@mazzucato2018|@mazzucato2018]]. 
 

@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #entrepreneurial-state #apple #innovation 
 
 The book pin points Apple (the most valuable company in the world) as an example of how innovation is fueled by the state, even if we only perceive the final products as the real champions, sometimes embodied in a single person, like Steve Jobs. 

@@ -1,5 +1,5 @@
 
-- Source: [[@mazzucato2018]]
+- Source: [[literature/@mazzucato2018|@mazzucato2018]]
 - Tags: #entrepreneurial-state #free-market
 
 The idea of the **Entrepreneurial State** is that there is a dichotomy between speech and facts. Many corporates and politicians claim that the best the state can do is to leave free market to excerpt its wisdom, and the state should only focus on fixing "[[market failures]]". However, there is ample evidence that without the state, many of the innovations from which we benefit wouldn't exist today. 
