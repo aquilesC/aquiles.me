@@ -1,6 +1,7 @@
 In modern companies, this is often under the umbrella of the [[Product Management]] division (PMO, for example). 
 
 It goes through different phases, such as:
+
 - **Finding** problems worth solving. (See also [[problem-solution cycle]]).
 	- In this case, the [[jobs theory]] is an appropriate tool to identify opportunities.
 	- Creating competitive landscapes
