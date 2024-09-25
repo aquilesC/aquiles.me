@@ -4,7 +4,11 @@ keywords: problem, value proposition, framing
 description: While people focus on solving problems, those who remove them will always win
 title: Solving or Removing problems
 status: draft
+header_image: multiracial-group-of-creative-workers-2023-11-27-05-28-18-utc.jpg
 ---
+![[multiracial-group-of-creative-workers-2023-11-27-05-28-18-utc.jpg]]
+
+
 Last week I was traveling by train and the man in front of me had his legs stretched towards the corridor. The first time someone comes walking, they step on him. He complains and asks them to watch it. After a while, an old lady comes balancing herself, grabbing the seats as she moves forward. The man sees her, and braces to complain about being stepped on. 
 
 There are many ways of solving this problem. Still, it's much simpler to remove it altogether: sit straight, like a normal human being. 
