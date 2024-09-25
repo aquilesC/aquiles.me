@@ -1,0 +1,5 @@
+One of the challenges when defining [[Roadmaps for product development]] is that they are normally output-based instead of outcome-based([[literature/@cagan2018|@cagan2018]]). This means that [[product development]] teams have no way of understanding how to prioritize tasks and will often do it based on internal preferences instead of aligning with the overall business. 
+
+Implementing [[OKR]] for [[Product Management]] is a way of overcoming some of the problems. It is the role of leadership (and management overall) to define what are the business objectives that must be tackled, and let the product people decide what is the best course of action in that context. 
+
+Sometimes there are layers of strategy that are hard to convey across the organization. For example, sales can't ramp up if onboarding is too long. A clear objective is to lower the onboarding time, but its implementation is left to the product team to iron out. 

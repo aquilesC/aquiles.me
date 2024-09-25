@@ -1,0 +1,3 @@
+One of the challenges of creating a roadmap for [[product development]] is that often they are not followed. And the largest reason is that roadmaps are built way too early, before the problem that the engineering teams are addressing is understood [[literature/@cagan2018|@cagan2018]]. 
+
+A possible way to overcome the limitations of roadmaps is to delay its creation just a bit. First, the overall objectives are laid out, and the product team is given enough time to sort out some ideas and understand the risks associated. Only at that stage is possible to define an approximate roadmap, with the understanding of the level of uncertainty associated. 
