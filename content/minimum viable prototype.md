@@ -1,0 +1,3 @@
+Since the acronym MVP is the same, it would be wise to consider that the definition of [[minimum viable product]] may be closer to that of a prototype than to a *product*. 
+
+The problem (according to [@cagan2018]) arose with The Lean Startup ([@ries2014]), in which the definition is a bit ambiguous. Do you want to build something that people can *buy* or something that you can use to *test* assumptions, features, and benefits to your users? 
