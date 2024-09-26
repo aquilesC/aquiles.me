@@ -12,4 +12,4 @@ In the end, it all ends well. The conspiracy of the director is uncovered and sh
 
 The novel has to be read for what it is: a light story with spies, intrigue, Russians, and assassins. Good summer read, not too much high literature looking at the human condition. 
 
-#reading-2024 #novel #spies #reading
+#reading #reading-2024 #novel #spies #reading #spy-novel 
