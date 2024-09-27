@@ -1,5 +1,7 @@
 ![[Pasted image 20240926150011.png]]
 
+# Slow Horses - Mick Herron
+
 I'm not really into the spy type of literature (yet), so I can't really relate to other comments that offered perhaps a bit more of perspective on why this novel is relevant. 
 
 It starts very slowly, with a group of spies that fell into disgrace are are moved into "Slough House", a boring assignment designed to force them to quit. Each section takes a slightly different perspective. 
@@ -23,6 +25,5 @@ Everything wraps in a consistent story: River had evidence (even if he didn't kn
 The kidnapped boy manages to escape by himself (another nice touch, no heroes). And Lamb uses what he learned about Taverner to keep her in his debt. 
 
 Overall, the second hand of the book was much quicker and a page turner. The first half was a bit slow and boring, harder to digest.
-
 
 #reading #reading-2024 #spies #spy-novel

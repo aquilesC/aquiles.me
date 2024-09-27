@@ -1,5 +1,7 @@
 ![[Pasted image 20240926143239.png]]
 
+# Sleeping Giants - Sylvain Neuvel
+
 This science fiction book has a narrative style similar to [[Project Hail Mary - Andy Weir]]: in the sense that instead of having a normal narrator type of approach, each chapter is supposed to be a log entry (and that provided a bit of context on time/location/characters). 
 
 The story is triggered by the finding of a giant hand that was buried underground but somehow "called" to one of the main characters when she was still a child. 
