@@ -1,6 +1,6 @@
 # Definition of OKRs
 - Source: [@doerr2018]
-- Tags: #management-books #effective-management #organization-change 
+- Tags: #management-books #effective-management #organization-change [[OKR]]
 
 **OKR** means: Objective and Key Results. The idea was developed by Andy Grove, a manager of Intel in the 70s (or 80s). 
 
