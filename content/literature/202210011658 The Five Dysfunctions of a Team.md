@@ -11,7 +11,7 @@ Lencioni identifies 5 dysfunctions that can limit the effectiveness of a team. I
   There is the concept of 'mining for conflict' that can be used to shed light on hidden conflicts and guide a team through their resolution. It is important to be aware of when team members get discomfortable, and work on the discomfort. 
   The **leader** must be aware of not protecting the team from conflict (which is a natural reaction). 
 - **Lack of commitment**
-  Main causes for this dysfunction are: need for **consensus**, which means people need to have everyone agreeing on what needs to be done. Need for **certainty**, sometimes decisions are taken with incomplete information. (See: [[Take decisions with incomplete information]], and [[indecision freeze]]). 
+  Main causes for this dysfunction are: need for **consensus**, which means people need to have everyone agreeing on what needs to be done. Need for **certainty**, sometimes decisions are taken with incomplete information. (See: [[Make decisions with incomplete information]], and [[indecision freeze]]). 
   To **overcome the lack of commitment**, there are simple measures to be put in place. After group meetings, it is important to clarify the decisions taken. It is also important to make it clear that not all may have agreed, but they will commit to the decisions. 
   Having **clear deadlines** on when a decision will be made is also important. Ambiguity is the worst for a team that is having a hard time committing. 
   **Worst case scenario analysis** can be a good first step for team with problems committing. Especially if it is discussed upfront. 
