@@ -2,7 +2,7 @@ The [[Blue Ocean strategy]] is vastly quoted as an example of how to reframe bus
 
 For example, it uses Novo Nordisk approach with the insuline pen as an example of a company refocusing from "influencer"-led markets (doctors prescribing medicines) to consumer-led decision making. 
 
-Essentially, what the book describes is Novo Nordisk better undestanding who was executing the job (the patient had to self-inject insuline), and all the additional jobs around, including emotional ones such as overcoming the social stigma of injections. 
+Essentially, what the book describes is Novo Nordisk better understanding who was executing the job (the patient had to self-inject insuline), and all the additional jobs around, including emotional ones such as overcoming the social stigma of injections. 
 
 The example of NABI building buses with a lower cost of ownership is of a supreme superficiality. The only argument here is that they looked at the overall cost of owning a bus, not just of buying one, and they out-competed the rest by having a more affordable alternative based on fiberglass (?)
 

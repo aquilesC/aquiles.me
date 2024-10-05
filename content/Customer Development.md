@@ -12,7 +12,8 @@ One of the roles of [[Product Management]] is to fully understand their customer
 - [[Company Building]]
 	- Scale organization
 
-**Steve Blank** seems to be the guy behind many of these ideas. He wrote a *manifesto*:
+
+**Steve Blank** ([[@blank2012]]) seems to be the guy behind many of these ideas. He wrote a *manifesto*:
 
 1. There are no answers in your building
 2. Pair customer development with agile product development ([[agile development]])
