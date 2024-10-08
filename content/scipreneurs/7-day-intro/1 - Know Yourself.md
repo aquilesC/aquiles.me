@@ -24,8 +24,6 @@ Some examples:
 6. **Working in a team**: Many PhDs and Postdocs suffer from a great degree of isolation in their projects. Startups offer a quick way out, having a tight-nit group of people working on the same problem. 
 7. **What is your reason?** I am very curious to know what is your reason to consider starting a company. 
 
-
-
 This is a laudable reason to start a company, but I always ask: that does not mean *you* have to take care of creating impact. You could have just enabled others to transform your research into a product.
 
 There are examples of sci-based companies that made their founders rich. They are, however, a clear example of survivorship bias. Most founders, in their first startup, will at most compensate the income lost by not joining a larger company. 
