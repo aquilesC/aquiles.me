@@ -1,0 +1,3 @@
+When performing [[Customer Validation]], startups need to understand how to move from the [[earlyvangelist]] or [[early adopters]] to a larger market of people. In the end, the idea is to generate a roadmap that can be followed, in which a repetitive process to find new customers can be applied. 
+
+Startups ([[Startups are not scaled down versions of companies]]) have one thing to keep in mind which is they are constantly searching. Until there's no roadmap, increasing the sales force will not yield linear returns. [[premature scaling can limit system iteration]], also in sales organizations. 

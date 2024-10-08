@@ -1,4 +1,4 @@
-In other contexts part of the quilt is referred to as the *early adopters* of a technology. In the [[effectuation theory for entrepreneurs]], however, the *quilt* is the entire network of people that can be called to step in (not just customers) to help a new venture succeed. 
+In other contexts part of the quilt is referred to as the *early adopters* of a technology, or more precisely [[earlyvangelist]]. In the [[effectuation theory for entrepreneurs]], however, the *quilt* is the entire network of people that can be called to step in (not just customers) to help a new venture succeed. 
 
 In principle, when launching new products, entrepreneurs can turn into their own network to leverage the connections[@ianuzzi2017]. This sounds like the next step from the [[Effectual bird in the hand]], after realizing ones own means, and acknowledging the limitations, the next step is to look out for help. If you are missing means such as know-how, or money, the best place to look for those resources is in your network. 
 
