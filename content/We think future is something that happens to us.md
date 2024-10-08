@@ -1,4 +1,4 @@
-> Stephenson points out that the Cybertruck shows the bad kind of futurism, the kind that believes the future is something that _happens_ to us, rather than that we dream and then create ourselves—meaning that a “futuristic” design is one that looks like “what we think the future is going to be” rather than what we _want_ the future to be.
+> Stephenson points out that the Cybertruck shows the bad kind of futurism, the kind that believes the future is something that *happens* to us, rather than that we dream and then create ourselves—meaning that a “futuristic” design is one that looks like “what we think the future is going to be” rather than what we *want* the future to be.
 > [Current Affairs](https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk/)
 
 The same ideas can be applied to the challenges of [[climate change]], and how to build a future of [[mitigation of climate change]]. The quote above is referring to the cyber-truck of Musk, which could simply be a self-fulfilling prophecy of a future in which we need to travel on armored cars or risk being killed. 
