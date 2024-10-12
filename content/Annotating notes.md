@@ -9,4 +9,4 @@ I haven't used much hypothesis because it lacks good support on Firefox, and bec
 
 I try to annotate through [[Zotero]], because it increases the chances of discovery and interlinking, but I may try again Hypothesis, especially because the number of web content I started consuming increased a lot, compared to old-style paper formats. 
 
-#TODO Review the results of adding annotations. Proposed date: 01/05/2025
+Tags: #TODO Review the results of adding annotations. Proposed date: 01/05/2025
