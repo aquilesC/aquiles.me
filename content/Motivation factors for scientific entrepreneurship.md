@@ -18,7 +18,7 @@ The motivations can be divided into 3 categories [[literature/@lam2011|@lam2011]
 - Puzzle
     - Intrinsic satisfaction in solving complex problems, which is the most powerful.
 - Gold
-    - Financial reward, which is not prioritized by most scientists, and relates to [[equity for scientists starting companies]]. 
+    - Financial reward, which is not prioritized by most scientists, and relates to [[equity for scientists starting companies]] .
 
 There is no single-type of scientist. Most combine different types of motivations. 
 
