@@ -21,4 +21,4 @@ The story is not one that hasn't been explored in the past, a future with some l
 It's a heavy read, sometimes slow. It picks up by the end, when we finally understand what is going on. I wouldn't recommend it. 
 
 
-#reading-2024
+Tags: #reading #reading-2024 #science-fiction 

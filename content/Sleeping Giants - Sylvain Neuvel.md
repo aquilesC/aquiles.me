@@ -24,4 +24,4 @@ The introduction of this character to explain a background story that is not at 
 
 Interesting approach to narration, interesting story, too bad the execution was so poor. 
 
-#reading #reading-2024 #science-fiction 
+Tags: #reading #reading-2024 #science-fiction 

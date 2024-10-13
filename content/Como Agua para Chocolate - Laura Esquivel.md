@@ -26,4 +26,4 @@ Al final hay un detalle que parece auto-referencial (cambia la persona del relat
 
 Entiendo el valor creativo de la novela. Me pregunto si realmente fue escrita por entregas (por ejemplo para aparecer en una revista) o si se trató sólo de un recurso literario. 
 
-#reading-2023 #novelas #mexico
+Tags: #reading-2023 #novelas #mexico

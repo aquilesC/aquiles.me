@@ -14,4 +14,4 @@ Animal populations follow the same patterns. Simple mathematical models of popul
 
 Perhaps Chaos is not a quirk, but what dominates our world. We just live in time scales and act on distances where we can dominate nature in a way that chaos tends to sneak past. Or perhaps not, perhaps weather cycles, political patterns, evolution itself are dominated by equations that can't be modeled. Functions that have no average value. The average we see is destroyed when we zoom in or out. 
 
-#reading-2024 #science
+Tags: #reading-2024 #science

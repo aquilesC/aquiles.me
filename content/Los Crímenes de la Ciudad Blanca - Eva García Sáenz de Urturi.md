@@ -22,4 +22,4 @@ Sin arruinar la trama, lo que más me gustó del libro son los detalles localist
 
 No tengo mucha experiencia leyendo policiales, pero este sin dudas me mantuvo enganchado. Me alegra haberle dado una oportunidad a Eva García Sáenz de Urturi, porque el otro libro que leí de ella, Aquitania, no me había gustado tanto. Me pareció que se quedaba un poco corto narrativamente. 
 
-#reading-2024 #reading #policiales
+Tags: #reading-2024 #reading #policiales

@@ -10,4 +10,4 @@ En este caso se trata de un gobernador que tiene lazos con un cartel, dos hijos 
 
 La temática es parecida al libro anterior, y quizás refleja un poco cómo se maneja la política y los servicios de inteligencia en Argentina. Pero el libro a veces se hace muy lento. Da la sensación de que Fernández Díaz se esfuerza para llenar páginas, con descripciones que no vienen al caso y dan vueltas, en vez de ir al grano. 
 
-Tags: #Reading-2022
+Tags: #reading #Reading-2022

@@ -26,4 +26,4 @@ Creo que es un libro que intenta abarcar demasiado y todo lo hace a medias. Inte
 
 Sinceramente, no parece un libro que valga tanto la pena. Se queda bastante corto en casi cada dimensión en la que se lo juzgue. 
 
-#science-fiction #reading #reading-2024 
+Tags: #science-fiction #reading #reading-2024 

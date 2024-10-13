@@ -10,4 +10,4 @@ La historia de amor entre Max y Mecha está llena de contradicciones, que podrí
 
 Sin dudas hay un gran trabajo de investigación sobre los lugares y las costumbres. El hecho de que un disparador sea un compositor rival de Ravel (que quiere componer un tango, en contraposición con un bolero). O el robo de papeles en donde se vinculan los fascistas italianos con los franquistas españoles. Son buenos detalles de contexto, pero se exagera un poco en cuánto hay que explicar para justificar la historia misma. 
 
-#reading #reading-2024 #novelas 
+Tags: #reading #reading-2024 #novelas 

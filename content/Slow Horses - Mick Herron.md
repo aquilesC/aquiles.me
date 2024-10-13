@@ -26,4 +26,4 @@ The kidnapped boy manages to escape by himself (another nice touch, no heroes). 
 
 Overall, the second hand of the book was much quicker and a page turner. The first half was a bit slow and boring, harder to digest.
 
-#reading #reading-2024 #spies #spy-novel
+Tags: #reading #reading-2024 #spies #spy-novel

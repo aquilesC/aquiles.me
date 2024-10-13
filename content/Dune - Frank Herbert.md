@@ -47,4 +47,4 @@ Se empieza a gestar la relación de Paul con Chani, y aprendemos el trabajo que 
 En este libro hay mucha intriga política y religiosa, pero muy poca acción. Sin dudas es el preludio para el tercer libro (y sospecho que la película ya avanzó un poco sobre esa parte de la historia, ya que no hay referencias al emperador yendo a Arrakhis en el libro)
 
 
-#reading-2024 #science-fiction #reading 
+Tags: #reading-2024 #science-fiction #reading 
