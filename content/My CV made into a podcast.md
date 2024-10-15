@@ -4,3 +4,5 @@ Google's NotebookLM parsed my CV and translated it into a 7 minute podcast. Extr
 
 
 ![[My CV.wav]]
+
+[!embed](My CV.wav)
