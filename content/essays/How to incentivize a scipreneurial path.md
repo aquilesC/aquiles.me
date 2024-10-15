@@ -2,9 +2,9 @@
 status: published
 epistemic: This article is based on my observation of different ecosystems around entrepreneurial scientists
 canonical: https://www.aquiles.me/how-to-incentivize-scipreneurship/
+head_image: scientist_entrepreneur.png
+template: essay.html
 ---
-![[scientist_entrepreneur.png]]
-
 Many PhD's and Postdocs, sooner or later, will face some challenging career choices. The traditional "academia or industry" dichotomy has a third contestant: becoming an entrepreneur. 
 
 While many people focus on the *skills* that need to be transmitted, I argue that having a context of practice is immensely more powerful. 

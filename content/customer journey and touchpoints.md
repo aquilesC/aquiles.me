@@ -1,4 +1,4 @@
-![[IMG_3554.jpg]]
+![Customer Journey](IMG_3554.jpg)
 
 In the book [[Build - Tony Fadell]], there is a chapter discussing how to make the intangible tangible, and it discusses the value of prototyping. Specifically, it discusses about prototyping the entire customer journey and not just the shiny object, the product. 
 

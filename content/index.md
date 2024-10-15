@@ -8,7 +8,7 @@ This website is the public face of the notes I take while reading, thinking, and
 
 Overall, you'll find three types of notes:
 
-- [[Literature Notes]], like the ones I am taking on [[literature/@mazzucato2018|The Entrepreneurial State by Mazzucato]] 
+- [[Literature Notes]], like the ones I am taking on [@mazzucato2018] 
 - Notes as part of my [[taking notes for knowledge creation|knowledge creation]] strategy, such as when I think about [[Product Management]]. 
 - Finally, sometimes I make a longer dive and it [[What happens when notes become long|becomes an essay]], like [[essays/My Story as a Founder|My Story as a Founder]]. 
 

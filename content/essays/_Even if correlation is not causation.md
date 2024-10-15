@@ -1,6 +1,7 @@
 ---
 title: Even if correlation is not causation
 status: draft
+template: essay.html
 ---
 A very common fallacy exploited by people from all walks of life is to show a correlation between two variables and claim that one is the *consequence* of the other. For example, there may be a correlation between sunglasses sales and icecream sales. However, no one would believe that people are buying sunglasses *because* they got an icecream. 
 

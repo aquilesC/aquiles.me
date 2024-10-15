@@ -1,6 +1,7 @@
 ---
 title: Low friction working
 status: draft
+template: essay.html
 ---
 As humans, whatever we do during a day will be supported by tools. From the alarm clock that wakes us in the morning to the pen we use to take notes, to the computer or phone we use for hours on end. It is virtually impossible to achieve anything during a day without the use of tools. However, how often do we take a moment to judge the tools we use? 
 

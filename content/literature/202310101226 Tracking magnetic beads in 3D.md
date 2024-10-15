@@ -1,5 +1,5 @@
 
-- Source: [[[@rieu2021a]]]
+- Source: [@rieu2021]
 - Tags: #magnetic-beads #nanoparticle-tracking-analysis 
 
 Using [[Stereo Darkfield Interferometry]] (see paper: [[literature/202310101212 Stereo Darkfield Interferometry|Stereo Darkfield Interferometry]]) it is possible to perform force-extension measurements by using [[magnetic nanoparticles]] under a [[magnetic tweezer]]. 

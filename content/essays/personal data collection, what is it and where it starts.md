@@ -5,7 +5,6 @@ epistemic: I have been studying the subject for years. I have implemented my own
 template: essay.html
 head_image: personal_data_collection.jpg
 ---
-# Personal data collection, what is it and where it starts
 It is easy to believe that if personal data is used to show us advertisements, it is not that bad. However, advertisements are the visible aspect of the massive accumulation of data of end consumers. Hiring decisions, credit scores, surveillance can be based on the same personal data. The only difference between them is their visibility during our daily activities.  
 
 One of the biggest challenges to creating awareness is that data analysis and statistics are poorly covered in general education. Massive data accumulators like Facebook, Google, or Amazon, hide their operations between linguistic complexity curtains. Today, programmers have an aura of *smart people* just because digital literacy is lagging behind. The reality is that some problems are complex. Still, many of them are not, and personal data can be exploited by anyone who shows a bit of creativity. 

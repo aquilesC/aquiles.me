@@ -3,8 +3,8 @@ status: published
 epistemic: I have reviewed many business plans and company failures when they were entering the scale-up phase.
 canonical: https://www.aquiles.me/do-things-that-can-scale/
 header_image: things_that_scale.png
+template: essay.html
 ---
-![[things_that_scale.png]]
 One of the biggest hurdles for entrepreneurs is that they need to juggle short and long term planning at the same time. On the one hand, it makes no sense to worry about long-term if the short-term can't be successful. On the other, if there is no long-term vision, we can better do something else. 
 
 In this continuous struggle between the vision and the day to day execution is when things can easily derail. Premature optimization can set a product in the path to failure. On the other hand, no long-term thinking can place the product roadmap in a dead end. 
@@ -38,7 +38,7 @@ That's the story we would have been told if **things would have scaled**.
 
 The fundamental flaw of Theranos was getting started from an idea that in itself wouldn't have scaled. They had no evidence that what they claimed was possible at all. There's a very large qualitative difference between software and hardware, and even more so between hardware and hard-tech. 
 
-![[scaling_business_model.png]]
+![](scaling_business_model.png)
 ### Scaling the business model
 Doing things that don't scale has a different meaning when you focus on the core activities of your business. If you focus on **things that can't scale** then you are in the path of failure. 
 
@@ -93,5 +93,3 @@ If you are starting a new business, you should always **be mindful of where do y
 If you start with some unscalable approach, you need to develop a clear perspective on what it means in the long term. Keeping a long-term perspective is also important for your team. If the things that don't scale become too ingrained in your products and processes, you may face show-stopper challenges later on. 
 
 Founders have to perform a balancing act between premature optimization and unscalable decisions. The trick is to find the sweet-spot somewhere in between where the path to success starts. 
-
-

@@ -1,4 +1,4 @@
-![[device_experiment_view.png]]
+![](device_experiment_view.png)
 
 When working with [[instrumentation software]], it is important to identify patterns that repeat in order to abstract them and ease the introduction of new people to the world of [[Hardware Control]]. For a very long time, I have been proposing the use of the [[model view controller]] as a pattern for the programs I was designing. 
 

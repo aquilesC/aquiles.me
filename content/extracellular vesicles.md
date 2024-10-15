@@ -1,6 +1,7 @@
 Extracellular Vesicles (shortened as [[EV]]'s) are sub-micron sized particles which have an enclosing membrane. They are one mechanism for inter-cellular communication. They are composed of lipids and proteins, and there may be nucleic acid inside (the *cargo*)[@libregts2018]. 
 
-Extracellular vesicles were initially called nanovesicles, and they belong to one of three different categories based on their biogenesis [[literature/@pedrioli2021|@pedrioli2021]] [[literature/@elsharkasy2020|@elsharkasy2020]]
+Extracellular vesicles were initially called nanovesicles, and they belong to one of three different categories based on their biogenesis [@pedrioli2021], [@elsharkasy2020]
+
 
 - [[Apoptotic Bodies]] (ApoBDs)
 - [[Microvesicles]] (MV)

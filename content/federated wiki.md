@@ -6,7 +6,7 @@ Even though the idea seems good in principle, federating a website comes at risk
     
 > This system opens up all the gnarly philosophical questions around control, censorship, community moderation, and "_free speech_" that the web constantly makes tangible and visceral.
 
-Therefore, there should be a moderation mechanism and a validation mechanism that has yet to be developed. Transclusion works nice withing one's own content, but they will have the same caveats of [[Web Mentions and Comments]]. I guess the most important thing is to learn from the past experiences, but I am not sure in which capacity. 
+Therefore, there should be a moderation mechanism and a validation mechanism that has yet to be developed. Transclusion works nice withing one's own content, but they will have the same caveats of [[essays/_Web Mentions and Comments]]. I guess the most important thing is to learn from the past experiences, but I am not sure in which capacity. 
 
 [^1]: https://www.youtube.com/watch?v=ckv_CjyKyZY&feature=emb_logo
 [^2]: https://maggieappleton.com/transcopyright-dreams

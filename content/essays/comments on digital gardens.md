@@ -2,8 +2,8 @@
 title: Comments on Digital Gardens
 description: Discussion regarding whether digital gardens must include or not comments, and if so, how can they be implemented
 epistemic: I couldn't find external sources discussing the role of comments on digital gardens, and whether they have any kind of impact
+template: essay.html
 ---
-# Comments on Digital Gardens
 I believe that having the possibility of adding comments on a [[digital garden]] is the quickest way of collecting feedback from visitors and increasing the value of the notes collectively. If someone wants to interact with me regarding anything I've written, it should be a few key-strokes away and not based on an external platform. 
 
 However, comments on a garden are attached to a given status of the note. I wonder what would be the impact of this dialog that may end up being disconnected between text and comments. Perhaps if contents would fade away with time, it could be a good compromise. Or fade away (slowly) with the edits of the notes. 

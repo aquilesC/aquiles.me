@@ -1,8 +1,8 @@
 ---
 status: published
 canonical: https://www.aquiles.me/the-things-i-miss-the-most-from-my-time-as-a-phd/
+template: essay.html
 ---
-
 Many people, when faced with the struggle of stepping out of academia, ask themselves what are they going to miss after the transition. Sometimes, when it is an active choice, it is fair to ask if what we'll get compensates what we leave behind. 
 
 In my case, there is one thing that made all the difference: **access to people with interesting problems**. 
@@ -21,4 +21,4 @@ So, if you ask me today, I think one of the most valuable skills someone can hav
 
 And the only way we have to develop the skills of being and interstitial person is by exposing ourselves to different realities: listening to people telling their stories.
 
-![[images/The_things_I_miss_the_most_from_my_time_as_a_PhD._Illust_3a6dcb44-538c-42fb-8b6f-38095ea91a3c.png]]
+![](images/The_things_I_miss_the_most_from_my_time_as_a_PhD._Illust_3a6dcb44-538c-42fb-8b6f-38095ea91a3c.png)

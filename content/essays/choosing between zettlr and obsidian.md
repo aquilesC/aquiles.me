@@ -3,7 +3,6 @@ title: Choosing between Zettlr and Obsidian
 description: Zettlr and Obsidian are great tools. With some key differences. I've settled for using both depending on the task at hand.
 keywords: Zettlr, Obsidian, Note Taking, Apps
 ---
-# Choosing Between Zettlr and Obsidian
 When I decided to start my [[digital garden]], I had to look around for tools I felt confident using in the long run. After experimenting for some time, I narrowed down the list of requirements for the software I use to take notes:
 
 - Files are stored locally

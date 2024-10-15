@@ -4,11 +4,9 @@ epistemic: published on my blog and linkedin as articles
 published_on: 13-11-2023
 header_image: Mentor consultant coach partner.png
 title: "Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?"
+template: essay.html
+head_image: images/Mentor consultant coach partner.png
 ---
-# Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?
-
-![[images/Mentor consultant coach partner.png]]
-
 I always struggled to understand what a mentor, consultant, coach, or partner could do for me at different moments of my career. 
 
 Now that I have transitioned to all of them, I think I have a clearer picture of what to expect. 

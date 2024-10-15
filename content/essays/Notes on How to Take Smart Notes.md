@@ -4,8 +4,6 @@ description: The book introduces Luhmann's note-taking method and opens many fro
 keywords: Notes, thinking, book review, zettelkasten
 header_image: og_how_smart_notes.png
 ---
-# Notes on "How to Take Smart Notes"
-
 How to Take Smart Notes became the *de-facto* source of truth to understand and practice [[Luhmann method]] of note-taking. The book focuses on the academic writing done by students, not by professionals. The main difference is that students have shorter-term goals, such as writing a paper by the end of the semester. This focus explains why the book diverges and discusses studying techniques or brainstorming sessions. 
 
 Overall, I think the book is a good starting point for anyone interested in learning a specific way of storing knowledge. It essentially builds on the model of taking brief notes and building relationships between them. In the past, notes were archived in physical proximity to one another. With digital means, the process is much more flexible, and it requires linking content together. 

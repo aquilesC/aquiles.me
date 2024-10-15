@@ -1,11 +1,12 @@
 ---
 title: Digital Garden
-description: Digital gardens are the intersection between note-taking and linked thoughts.  
+description: Digital gardens are the intersection between note-taking and linked thoughts.
 keywords: Digital Gardening, writing, blogging
-epistemic: I have been taking notes and maintaining this form of note-taking for more than 3 years. 
+epistemic: I have been taking notes and maintaining this form of note-taking for more than 3 years.
+template: essay.html
 ---
-# Digital Garden
 In its most fundamental definition, a digital garden is a collection of notes taken on an electronic medium. 
+
 In the past few years there has been a movement towards different degrees of openness online. In her book, [[/essays/Notes on Working in Public - Nadia Eghbal|Working in Public]], Nadia Eghbal explores how people decide to build software tools in the open. In the same line, [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) decided to make public his *thinking* process by publishing his notes, even if not in a final form. 
 
 There are two aspects of digital gardening: the creation of knowledge and the dissemination of that knowledge. N.B.: I am talking about knowledge and not *content*. A *digital garden* can be private, which means that it only becomes a way of structuring notes in the long run. On the other hand, a garden can be made public, or partially public, and then it becomes a way of [[learning in public]], but it can also become [[a new way of blogging]].

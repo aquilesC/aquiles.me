@@ -1,4 +1,4 @@
-![[MVCs.png]]
+![MVC for science](MVCs.png)
 
 I was exposed to the MVC [[software design pattern]] through [[Django]]. In that context, the relationship with instrument control is quite evident: controllers take care of data accessing, either databases, cache, etc. For [[instrumentation software]], that means the driver that controls the device. 
 

@@ -7,7 +7,7 @@ Transclusion in the digital domain is the possibility of embedding and linking c
 
 In my mind, I can't think about transclusion without thinking about Cortázar's book: [Último Round](https://es.wikipedia.org/wiki/%C3%9Altimo_round).
 
-Maggie Appleton[^1] [@zotero-374] discusses transclusions in a way it reminded me of how [[Web Mentions and Comments|webmentions]] work, and what the [IndieWeb](https://indieweb.org/Webmention) proposes (see [the microformats specification](https://microformats.org/wiki/Main_Page)). She quickly identifies the caveats associated with embedding content of others, mainly of link rot, but also of moderation nightmares (I briefly discuss this on [[Web Mentions and Comments]]). 
+Maggie Appleton[^1] [@zotero-374] discusses transclusions in a way it reminded me of how [[essays/_Web Mentions and Comments|webmentions]] work, and what the [IndieWeb](https://indieweb.org/Webmention) proposes (see [the microformats specification](https://microformats.org/wiki/Main_Page)). She quickly identifies the caveats associated with embedding content of others, mainly of link rot, but also of moderation nightmares (I briefly discuss this on [[essays/_Web Mentions and Comments]]). 
 
 Should transclusion  work both ways, embedding content and letting the source know that I did so? I find that [Hypotes.is](https://hypothes.is/) is building in that direction, adding notes and highlights (public, private, or shareable) directly on the website. It is missing, however, the version-control aspect of it. If the source changes, the notes become meaningless. Zotero stores a copy of the website. See also what [Gwern does](https://www.gwern.net/About#development) to guarantee long-term retrievability of the content they link to. 
 

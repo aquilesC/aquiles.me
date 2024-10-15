@@ -3,9 +3,8 @@ canonical: https://www.aquiles.me/my-story-as-a-founder-from-scientist-to-entrep
 published_on: 15-11-2023
 epistemic: This is my personal story, I tried to be as honest as possible, but recollections of facts and feelings from the past may be altered.
 header_image: from_phd_to_entrepreneur.png
+template: essay.html
 ---
-![[images/from_phd_to_entrepreneur.png]]
-
 Being a founder was definitely not in my plans when I started my PhD. During my studies I had come across only one professor who was building tools as a small side project, but no one else. Most non-academics with whom I've been in contact were working for large, industrial, companies. 
 
 When I joined the lab of Michel Orrit in Leiden, I very distinctively remember that in one of the first weeks he put me in contact with a former PhD in chemistry who had started his own company and was selling instruments that could be interesting for my project. 

@@ -4,8 +4,8 @@ description: Companies rely on complex terms to hide their intents. Many of our 
 keywords: optimization algorithm, parameter space, explanation
 topics: algorithms, optimization
 epistemic: I have formal university and professional training regarding optimization problems. Attempting simplifying the topics is a new approach.
+template: essay.html
 ---
-# Simple explanation of an optimization algorithm
 Imagine you want to subscribe to a streaming service at your house. You have some options, such as Netflix, Amazon, Disney, and Youtube. How can you decide which one you want? You can start exploring the alternatives and see what they offer and what they ask in exchange. These are just examples, some things may overlap with reality but it is not the point: 
 
 - Amazon has a pay-per-view, low subscription but you pay every time you want to watch something. Doesn't have the Netflix hot shows

@@ -1,9 +1,9 @@
 ---
 status: draft
 epistemic: I have reviewed the stories of many spin outs and the relationships between founders, professors, and first employees
+template: essay.html
+header_image: professor in front of his students.png
 ---
-![[professor in front of his students.png]]
-
 Many professors are slowly starting to wear a secondary hat as startup founders. Perhaps because of the pressure from funding agencies to justify the translation of research to society, perhaps because they understand the value it can bring to their careers. 
 
 However, I strongly believe **the best path for professors is to become enablers** instead of becoming entrepreneurs themselves. 
