@@ -12,4 +12,4 @@ These are some arguments **against** [[research exceptions for patents]]:
 
 - Patents do not *prohibit* researchers from using patented knowledge. It merely requires them to secure a license, and pay monopoly prices. Therefore it only increases the cost of research. 
 - Researchers would start paying for the knowledge created by other researchers, paying for the fix costs of discovery as well as the ongoing marginal costs. 
-- In this cases, researchers will have to attract higher levels of funding, and part of that will be funneled upstream. Licensing without exceptions provides an efficient way to balance investment incentives with appropriate spill-overs. 
+- In these cases, researchers will have to attract higher levels of funding, and part of that will be funneled upstream. Licensing without exceptions provides an efficient way to balance investment incentives with appropriate spill-overs. 

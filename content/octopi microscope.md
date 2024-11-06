@@ -6,7 +6,7 @@ description: From the creators of foldscope, the Octopi shows great promise but 
 When researching about [[open hardware]] projects to get inspiration for the [[Small Scope]], found an interesting one called Octopi[^1], by [[Prakash Lab]], the same guy behind the [[foldscope]][^2]. Something they did very nicely is the press release. If you just Google around, you'll find a lot of coverage. 
 
 ## Objectives of Octopi
-They identify a great need for tools to do malaria diagnosis, which currently rely on microscopy imaging and manual analysis. This creates a great bottleneck, since technicians able to do the study and hardware is not easy to find in some countries. 
+They identify a great need for tools to do [[malaria]] diagnosis, which currently rely on microscopy imaging and manual analysis. This creates a great bottleneck, since technicians able to do the study and hardware is not easy to find in some countries. 
 
 Octopi can overcome these limitations by automating the image analysis, and by lowering the costs of the microscope itself. [[Malaria]] is one of those diseases that affect under developed countries and get relatively little attention from central economies (we are talking hundreds of thousands of deaths per year). 
 
