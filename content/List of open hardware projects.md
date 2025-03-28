@@ -3,6 +3,7 @@ I am trying to compile a list of the [[Open Hardware]] projects I come across. S
 - [Open Lab Starter Kit](https://github.com/Open-Lab-Starter-Kit?ref=openscienceshop.org)
 
 ## Microscopy
+- [OpenUC2](https://github.com/openUC2/UC2-GIT)
 - [[OpenSPIM]]
 - [MesoSPIM](https://github.com/mesoSPIM)
 - [[octopi microscope]]
