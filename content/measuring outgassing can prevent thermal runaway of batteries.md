@@ -1,0 +1,3 @@
+A battery, before undergoing [[Thermal Runaway]], may release specific gases to the environment. There is a chance that by doing proper [[gas sensing]] in the vicinity of a battery, it would be possible to detect a thermal runaway before it happens and act on it. 
+
+As far as I know, the runaway happens very fast (in the range of the milliseconds) and that is why monitoring the temperature is not a good enough approach to preventing it (once the temperature raises, the runaway is in progress). 

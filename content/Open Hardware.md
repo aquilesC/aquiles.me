@@ -7,7 +7,7 @@ Open hardware is the counter-part to the [[Open Source]]  software movement, and
 	- [[Is OpenSPIM a good example of open hardware]]?
 - Open-Hardware practices
 	- [[Sharing reproducible models]]
-- Some examples of (scientific) open projects:
+- [[List of open hardware projects]]:
 	- [[Single-molecule detection with a 3D printed microscope]]
 	- [[literature/Open-Source Miniature Spectrophotometer (OSMS)|Open-Source Miniature Spectrophotometer (OSMS)]]
 	- [[Astroplant]]
