@@ -1,0 +1,9 @@
+> Metal–organic frameworks (MOFs) are a class of porous polymers consisting of metal clusters (also known as Secondary Building Units - SBUs) coordinated to organic ligands to form one-, two- or three-dimensional structures. The organic ligands included are sometimes referred to as "struts" or "linkers", one example being 1,4-benzenedicarboxylic acid (BDC). MOFs are classified as reticular materials.
+>
+> More formally, a metal–organic framework is a potentially porous extended structure made from metal ions and organic linkers.[1][2][3] An extended structure is a structure whose sub-units occur in a constant ratio and are arranged in a repeating pattern. MOFs are a subclass of coordination networks, which is a coordination compound extending, through repeating coordination entities, in one dimension, but with cross-links between two or more individual chains, loops, or spiro-links, or a coordination compound extending through repeating coordination entities in two or three dimensions. Coordination networks including MOFs further belong to coordination polymers, which is a coordination compound with repeating coordination entities extending in one, two, or three dimensions.[4] Most of the MOFs reported in the literature are crystalline compounds, but there are also amorphous MOFs,[5] and other disordered phases.[6]
+> 
+>In most cases for MOFs, the pores are stable during the elimination of the guest molecules (often solvents) and could be refilled with other compounds. Because of this property, MOFs are of interest for the storage of gases such as hydrogen and carbon dioxide. Other possible applications of MOFs are in gas purification, in gas separation, in water remediation,[7] in catalysis, as conducting solids and as supercapacitors.[8] 
+>- [Wikipedia](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework)
+
+
+These is a very promising technology for creating [[nanoporous]] materials. 
