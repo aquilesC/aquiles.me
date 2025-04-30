@@ -4,9 +4,9 @@
 
 ![[Pasted image 20250428111806.png]]
 
-The main difference between an [[SDL]] and [[High-throughput]] experimentation (as already defined) is "the judicious selection of experiments, the adaptation of experimental methods, and the development of workflows that can integrate the operation of multiple tools."
+The main difference between an [[SDL (self-driving labs)]] and [[High-throughput]] experimentation (as already defined) is "the judicious selection of experiments, the adaptation of experimental methods, and the development of workflows that can integrate the operation of multiple tools."
 
-The core idea of this paper is that there is a dual approach towards [[SDL]]: **centralized** or **decentralized** labs. The objective is to **accelerate discovery** of new materials and (perhaps) democratize the access to scientific results. 
+The core idea of this paper is that there is a dual approach towards [[SDL (self-driving labs)]]: **centralized** or **decentralized** labs. The objective is to **accelerate discovery** of new materials and (perhaps) democratize the access to scientific results. 
 
 ## Centralized vs Decentralized
 The effort of maintaining an SDL is large, therefore dividing the paradigm in centralized vs decentralized can help understanding how many resources should be allocated and what to expect. In this context, the authors divide between "shared facilities" and individual researchers' labs. 

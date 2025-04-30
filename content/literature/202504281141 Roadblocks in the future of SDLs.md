@@ -10,6 +10,6 @@ Looking further ahead, there are severe limitations in the **workforce**. Most a
 
 Today, the lack of specialized people means that there is a large involvement of users as developers and technicians. This limits the development of properly designed systems, since the "quick-fix" approach is still an option. On the other hand, the know-how is in the hand of individuals subject to poor working conditions. 
 
-An interesting discussion is [[IP regulations for ML discoveries]], which is not a given. If a new compound is discovered using a ML-based [[SDL]], who will own the patent over it (if it's even possible to patent it?)
+An interesting discussion is [[IP regulations for ML discoveries]], which is not a given. If a new compound is discovered using a ML-based [[SDL (self-driving labs)]], who will own the patent over it (if it's even possible to patent it?)
 
 This may yield a low value proposition for industrial partners to actively engage in the development of SDL's as a distributed source of new knowledge creation. (See: [[202504281112 SDL approach to distributed discovery]]). 

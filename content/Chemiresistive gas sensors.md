@@ -1,0 +1,1 @@
+Most of these sensors rely on [[metal oxide semiconductors]] 

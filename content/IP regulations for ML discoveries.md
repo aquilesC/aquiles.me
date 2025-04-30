@@ -1,0 +1,5 @@
+[[SDL (self-driving labs)]] are tools able to make discoveries of new materials and processes that are not explicitly defined. Thanks to developments in [[machine learning]] and [[artificial intelligence]], there's a relatively high likelihood that a system can "discover" something useful. But that would trigger concerns regarding the intellectual property ownership. (See: [[202504281141 Roadblocks in the future of SDLs]]). 
+
+In the development of [[intellectual property]], there's normally a creative step. There was this discussion regarding the photo taken by a monkey: was the copyright in the hands of the animal or of the photographer. Is the triggering of the shutter "creative enough?" compared to setting up the parameters? 
+
+And the same discussion will happen with [[SDL (self-driving labs)]]. Who will own the IP of a discovery made by an algorithm? The owner of the lab, the "user" who prepared it and triggered it? So far, there's little certainty about how [[patents]] will interact with algorithmic discoveries. 

@@ -1,0 +1,7 @@
+[[HPC (High Performance Computing)]] is a well established field that has adopted many best practices for scientific discovery, including sharing of results, resources and source code. 
+
+I believe the field of [[SDL (self-driving labs)]] can learn from the meta-approaches followed by HPC. In essence, most people develop code in their own computers and quickly test results. They scale up to small clusters which are locally available. Finally, the compiled code is sent to a queue in some super computer. 
+
+I have the strong feeling that an SDL can benefit from following the same approach just that with processes which are not defined yet. More importantly, the step of compiling code to run on an cluster has no equivalent for performing experiments. This step is a translation layer between the expectation (the code that can be read, the experimental strategy) and the code the machine can execute (the executable, which in the case of an SDL that would be a set of instructions for the machine to follow). 
+
+Moreover, the way resources are allocated to HPC through public money financing part of the infrastructure, and opening the resources to external (private) parties can also be leveraged in a lab. Today there are calls for HPC time that are awarded to researchers (through some more or less obscure allocation process) which can also be used to give time in an SDL.  

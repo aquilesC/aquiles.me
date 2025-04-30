@@ -1,0 +1,5 @@
+Something I particularly like about [[SDL (self-driving labs)]] is that they are moving fast, and they are trying to pull learnings from different experiences in the past. [[biotech]] has a lot to show when it comes to automation, but so does [[Open Hardware]] initiatives, which have shown a specific focus on lowering price ([[open hardware projects focus on cutting costs]]). 
+
+Having a low-cost experimentation framework is part of the overarching approach to how to distribute knowledge and resources around SDL's (see [[202504281112 SDL approach to distributed discovery]]). It is, to some extent, the same relationship between a personal computer and an HPC platform ([[overlap between HPC and SDL]]). 
+
+Low-cost experimentation may become crucial to train human resources (see: [[202305251750 Open Hardware can transform access to lab equipment]]). Importantly, the skills required to be successful are transversal to disciplines, and will require a new way of tackling them at an educational level (universities, technical schools, etc.) (see: [[202504281141 Roadblocks in the future of SDLs]]). 
