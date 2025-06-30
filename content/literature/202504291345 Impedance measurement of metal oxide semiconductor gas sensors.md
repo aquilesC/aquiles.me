@@ -16,7 +16,7 @@ Where $K_{\textrm{gas}}$ is the sensitivity to a specific gas, while $\beta$ dep
 3. The geometry and material of the electrodes of the sensing element. 
 
 Using the following circuit diagram for the sensing measurement (IC: intergranular contacts, EC: electrode/particle contacts)
-![[Pasted image 20250429135129.png]]
+![[images/Pasted image 20250429135129.png]]
 
 We can define (not sure where this is coming from):
 
@@ -28,9 +28,9 @@ Z'' = \frac{-R^2C2\pi f}{1+(2\pi fCR)^2}
 $$
 The entire observation of the paper is that while resistance alone has a non-linear behaviour and saturates at relatively low concentrations of gas, $Z''$ shows a linear behavior in a wide range of parameters. 
 
-![[Pasted image 20250429135655.png]]
+![[images/Pasted image 20250429135655.png]]
 
-![[Pasted image 20250429140333.png]]
+![[images/Pasted image 20250429140333.png]]
 
 Interesting to remember: 
 - The **sensor used** was TGS 2611
