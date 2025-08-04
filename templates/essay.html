@@ -75,8 +75,8 @@
               {%- if 'epistemic' in note.meta %}
                 <div
                     class="flex mt-4 md:mt-8 p-2 min-w-0 border-solid border-l-2 border-orange-200 text-base shadow-md">
-                  <div class="font-strong"><a class="wikilink" href="/epistemic_status">Epistemic
-                    status:</a></div>
+                                  <div class="font-strong"><a class="shadow-wikilink hover:shadow-wikihover transition-all duration-300" href="/epistemic_status">Epistemic
+                  status:</a></div>
                   <div class="ml-4 font-extrabold">{{ note.meta.epistemic }}</div>
                 </div>
               {% endif %}
@@ -106,7 +106,7 @@
                     {% for link in note.backlinks %}
                       <div class="h-entry col m-4 bg-gray-200">
                         <a href="{{ link.url }}"
-                           class="wikilink text-sm shadow-none block py-1 md:py-1 pl-1 align-middle">{{ link.title }}
+                           class="shadow-wikilink hover:shadow-wikihover transition-all duration-300 text-sm shadow-none block py-1 md:py-1 pl-1 align-middle">{{ link.title }}
                         </a>
                       </div>
                     {% endfor %}
@@ -154,9 +154,9 @@
                 <div class="p-name md:pl-8 mt-4">
                   <div class="font-sans font-semibold text-2xl">Aquiles Carattino</div>
                   <div class="font-sans text-base leading-4">This note you are reading is part
-                    of my <a class="wikilink" href="/digital_garden">digital garden</a>. Follow the
+                    of my <a class="shadow-wikilink hover:shadow-wikihover transition-all duration-300" href="/digital_garden">digital garden</a>. Follow the
                     links to learn more, and remember that these notes evolve over time. After all,
-                    <a class="wikilink" href="/this_website_is_not_a_blog/">this website is not a
+                    <a class="shadow-wikilink hover:shadow-wikihover transition-all duration-300" href="/this_website_is_not_a_blog/">this website is not a
                       blog</a>.
 
                   </div>
@@ -259,12 +259,12 @@
             <h1>{{ note.title }}</h1>
             <p>This element has no content, which means it was automatically created because something else
               links here. If you want to learn more about how this website works, head to
-              the <a class="wikilink" href="{{ base_url }}/about">about page</a>.
+              the <a class="shadow-wikilink hover:shadow-wikihover transition-all duration-300" href="{{ base_url }}/about">about page</a>.
             </p>
             <p class="font-strong mb-4">These other pages link here:</p>
             <ul class="h-feed">
               {% for link in note.backlinks %}
-                <li class="h-entry"><a class="wikilink" href="{{ link.url }}">{{ link.title }}</a></li>
+                <li class="h-entry"><a class="shadow-wikilink hover:shadow-wikihover transition-all duration-300" href="{{ link.url }}">{{ link.title }}</a></li>
               {% endfor %}
             </ul>
           </div>

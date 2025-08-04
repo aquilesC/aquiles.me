@@ -2,7 +2,7 @@
 status: published
 published_on: 30-01-2024
 ---
-🗽Misconception #1: A #scipreneur can juggle an academic job and a startup role. 
+🗽Misconception 1: A #scipreneur can juggle an academic job and a startup role. 
 
 At some point in the journey, the startup role will ask for full-time commitment. It'll become impossible to sustain academic goals with business objectives. 
 

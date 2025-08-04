@@ -32,6 +32,8 @@ module.exports = {
                 linkhover: '0 -6px 0 0 rgba(178, 245, 234, .7) inset',
                 wikilink: '0 -2px 0 0 rgba(255, 208, 0, .9) inset',
                 wikihover: '0 -12px 0 0 rgba(255, 208, 0, .6) inset',
+                'wikilink-missing': '0 -2px 0 0 rgba(255, 165, 0, .9) inset',
+                'wikilink-missing-hover': '0 -12px 0 0 rgba(255, 140, 0, .8) inset',
             },
             backgroundImage: theme => ({
                 'hero-image': "url('/static/Aquiles.jpg')",
@@ -63,7 +65,7 @@ module.exports = {
     },
     variants: {
         extend: {
-            boxShadow: ['active'],
+            boxShadow: ['active', 'hover'],
         },
     },
     plugins: [

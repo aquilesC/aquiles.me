@@ -1,9 +1,9 @@
 The concept is incredibly powerful and yet almost impossible to determine with a metric. Perhaps the easiest way of defining it is through the negative[@feld2015]:
 
--   Myth #1: Product market fit is always a discrete, big bang event
--   Myth #2: It’s patently obvious when you have product market fit
--   Myth #3: Once you achieve product market fit, you can’t lose it.
--   Myth #4: Once you have product-market fit, you don’t have to sweat the competition.
+-   Myth 1: Product market fit is always a discrete, big bang event
+-   Myth 2: It’s patently obvious when you have product market fit
+-   Myth 3: Once you achieve product market fit, you can’t lose it.
+-   Myth 4: Once you have product-market fit, you don’t have to sweat the competition.
 
 Perhaps the problem is that we try to abstract the issue to a single concept, something we need to thrive for, but that does not necessarily make sense to use if it is so hard to grasp and yet so simple. 
 
