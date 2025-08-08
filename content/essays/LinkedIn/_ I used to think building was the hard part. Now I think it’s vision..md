@@ -1,5 +1,0 @@
-⚙️ As an engineer, I believed the hardest part was building. Precision optics, intricate software – that was my comfort zone. Then I became a founder.
-
-I realised building is easy compared to deciding **what** to build. Vision means making choices without complete information, saying no to cool features, and staying focused when shiny objects appear[notes.aquiles.me](https://notes.aquiles.me/customer_development/#:~:text=development%20%29,process%20is%20about%20trying%20and). Vision isn’t a one‑time epiphany; it’s a muscle you train by listening to your market, iterating and learning[notes.aquiles.me](https://notes.aquiles.me/customer_development/#:~:text=1,out%20and%20talking%20to%20people).
-
-When you think the hard part is execution, you risk building beautiful products that nobody needs. When you focus on vision, execution becomes the easy part. What shifted your perspective from building to vision?
