@@ -238,4 +238,46 @@ class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded fo
 
 {% block footer_scripts %}
 	<script src="https://hypothes.is/embed.js" async></script>
+
+	{# Schema.org JSON-LD for Article note pages #}
+	<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ base_url }}{{ note.url }}"
+  },
+  "headline": "{{ note.title | replace('"','\\"') }}",
+  "url": "{{ base_url }}{{ note.url }}",
+  {% if note.content %}
+  "articleBody": "{{ note.content | striptags | replace('\n', ' ') | replace('\r', ' ') | replace('"','\\"') }}",
+  {% endif %}
+  {% if note.meta and note.meta.description %}
+  "description": "{{ note.meta.description | replace('"','\\"') }}",
+  {% endif %}
+  "datePublished": "{{ note.creation_date|datetime('%Y-%m-%d') }}",
+  "dateModified": "{{ (note.last_mod or note.creation_date)|datetime('%Y-%m-%d') }}",
+  "author": {
+    "@type": "Person",
+    "name": "Aquiles Carattino",
+    "url": "https://aquiles.me/",
+    "sameAs": [
+      "https://github.com/aquilesC",
+      "https://mastodon.social/@aquic",
+      "https://www.twitter.com/aquicarattino",
+      "https://www.linkedin.com/in/aquic/"
+    ]
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Aquiles Carattino",
+    "url": "https://aquiles.me/"
+  }{% if note.tags and note.tags|length %},
+  "keywords": [{% for tag in note.tags %}"{{ tag | replace('"','\\"') }}"{% if not loop.last %}, {% endif %}{% endfor %}]
+  {% endif %}{% if note.content %},
+  "wordCount": {{ (note.content | striptags | replace('\n',' ') | replace('\r',' ') | split(' ') | length) }}
+  {% endif %}
+}
+	</script>
 {% endblock %}
