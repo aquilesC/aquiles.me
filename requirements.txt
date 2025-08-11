@@ -1,4 +1,4 @@
--e git+ssh://git@github.com/aquilesC/static_website_builder.git@5c00244d54027c84a28569cd1d34bde2e759e3c3#egg=aqui_brain_dump
+-e git://git@github.com/aquilesC/static_website_builder.git#egg=aqui_brain_dump
 beautifulsoup4==4.13.4
 Jinja2==3.1.6
 Markdown==3.8.2
