@@ -4,7 +4,10 @@ description: These are the things that are taking my focus right now. Mostly job
 keywords: now, working, projects
 ---
 # NOW!
-- I'm looking into [[Product Management]] roles. 
-- I'm working on the [[scipreneurs]] website
-- Re-writing [[Python for the Lab]]. The biggest change I'm introducing is the idea of an alternative to the [[model view controller]] pattern, temporary title the [[device experiment view]] (which has a lame acronym: DEV).
-- I'm looking into the idea of a [[Startup Studio]] for [[deep tech]]. 
+
+- I am working as a [[product manager]] at [[VSParticle]]
+- In my free time, I keep engaging with [[scipreneurs]] to see how to help them. 
+- Some of my latest readings:
+	- [[Chip War - Chris Miller]]
+	- [[Reset - Dan Heath]]
+	- [[202503032118 The Music of Life|The Music of Life]]
