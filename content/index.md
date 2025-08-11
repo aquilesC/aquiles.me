@@ -3,19 +3,24 @@ title: Aquiles Carattino Open Notes
 description: A digital garden is a place where thoughts are continuously updated. I write about science, business, and entrepreneurship.
 keywords: aquiles, carattino, digital garden, public thinking
 ---
-# These are my Open Notes
-This website is the public face of the notes I take while reading, thinking, and writing. It means this notes are written for me, not you. There's a chance some will be confusing, incomplete, or maybe incorrect. But it's part of experimenting online and seeing what happens.
+## Welcome to my Digital Garden 
 
-Overall, you'll find three types of notes:
+This is the place where my notes become public. Some people like calling this type of knowledge building a [[digital garden]]. I went one step further and made it [[Gardening in Public|public]]. 
 
-- [[Literature Notes]], like the ones I am taking on [@mazzucato2018] 
-- Notes as part of my [[taking notes for knowledge creation|knowledge creation]] strategy, such as when I think about [[Product Management]]. 
-- Finally, sometimes I make a longer dive and it [[What happens when notes become long|becomes an essay]], like [[essays/My Story as a Founder|My Story as a Founder]]. 
+A small **warning**: 
+> Not everything published here are complete thoughts. They are prone to changes, updates, or removals. If you want to engage in a discussion, use the right-hand sided bar that will allow you to address specific paragraphs on the page. 
 
-Many like calling this type of websites a [[digital garden]]. This is my attempt at [[better thinking]], while [[learning in public]]. 
+### No Index
+A crucial aspect of this website is that it has [[breaking the chronological order|no chronological index]] as a normal blog would have. Which means the only way to find information is by following links and backlinks. 
+
+For example, you can check some of my interests and check what other notes link into them: 
+
+- [[Entrepreneurship for scientists]]
+- [[Open Hardware]]
+- [[Digital garden]]
 
 ## Essays 
-Some of the essays I've written lately:
+Some of the [[essays]] I've written lately:
 
 - [[essays/Do things that can scale|Do things that can scale]]
 - [[essays/My Story as a Founder|My Story as a Founder]]
@@ -31,4 +36,4 @@ Sometimes checking what I'm working on right [[now]] can be a good starting poin
 Or these are some of the topics that have occupied a lot of my mind in the past and present: 
 
 - [[extracellular vesicles]]: there's plenty of new biology to be discovered, but it'll required a systems-biology type of approach. It's a field full of potential. 
-- [[Entrepreneruship for scientists]] which relates very closely to [[technolgy transfer]]. I'm deeply reflecting how to increase the value and impact of research results. 
+- [[Entrepreneurship for scientists]] which relates very closely to [[technolgy transfer]]. I'm deeply reflecting how to increase the value and impact of research results. 
