@@ -1,0 +1,7 @@
+The semiconductor industry is a true fully globalized industry. Chips can be design in one part of the world, lithography happens in Taiwan, packaging in Malaysia. Assembly is likely going to be done in China, together with testing, and then finally it will be sold somewhere else. 
+
+Along the way, there are many choke points. Some companies are critical suppliers in the supply chain. For example, ASML is the only company that can provide lithographic machines. However, those machines are dependent on a myriad of different suppliers. Therefore, it's not just The Netherlands who has power on who can manufacture advanced chips. Germany has Zeiss, which provides the optics, the US has a company that makes lasers, etc. 
+
+Those choke points can be used to extort behaviors out of competitors, or enemy countries. This happened with Huawei ([[Chip War - Chris Miller]]) when lost access to critical tools made in the US. And they can even be just the software to design circuits. Just a handful of companies make the programs that are required for CAD. 
+
+The earlier you are in the supply chain, the more power you may exert. Also, the more vulnerable you are to being replaced. Is the Netherlands in a better position than Taiwan, for example? TSMC depends on ASML, but the world depends on TSMC. 
