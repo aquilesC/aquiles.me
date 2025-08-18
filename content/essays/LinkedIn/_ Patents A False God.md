@@ -1,3 +1,5 @@
+# Patents: A False God?
+
 Startups chase patents like they’re lottery tickets. They’re not.
 
 Patents are important tools. They prove novelty and protect investments… but they’re not a business model. The hard truth: most early‑stage startups never litigate their patents; they build a moat through speed, partnerships, and customer love.
