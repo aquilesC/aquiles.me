@@ -276,7 +276,7 @@ class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded fo
   }{% if note.tags and note.tags|length %},
   "keywords": [{% for tag in note.tags %}"{{ tag | replace('"','\\"') }}"{% if not loop.last %}, {% endif %}{% endfor %}]
   {% endif %}{% if note.content %},
-  "wordCount": {{ (note.content | striptags | replace('\n',' ') | replace('\r',' ') | split(' ') | length) }}
+  "wordCount": {{ (note.content | striptags | replace('\n',' ') | replace('\r',' ') | length) }}
   {% endif %}
 }
 	</script>
