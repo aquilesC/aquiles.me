@@ -5,7 +5,9 @@ keywords: now, working, projects
 ---
 # NOW!
 
-- I am working as a [[product manager]] at [[VSParticle]]
+- I am engaging in discussions with [[InspectT]] to help develop next-generation [[Raman Spectroscopy]] solutions. 
+- I am working as a [[product manager]] at [[VSParticle]]. 
+	- Focusing on [[gas sensing]], and [[semiconductor industry]]
 - In my free time, I keep engaging with [[scipreneurs]] to see how to help them. 
 - Some of my latest readings:
 	- [[Chip War - Chris Miller]]
