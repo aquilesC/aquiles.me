@@ -1,11 +1,14 @@
+# The Five Dysfunctions of a Team
+
+
 - Source: [@lencioni2002]
 - Tags: #Team-Building, #Leadership
 
 Lencioni identifies 5 dysfunctions that can limit the effectiveness of a team. In his words: "How come that even if we have a superior product, a more capable marketing team, and the best sales people, we are lagging behind the competition."
 
 - **Absence of Trust**
-  Although very superficial regarding the definition of trust (see: [[build trust in a team]]), it is easy to understand that absence of trust can very easily get in the way. Teams without trust will hide weaknesses and problems. An indication of thus dysfunction is how often people see value in meetings. 
-  The **leader** can show vulnerability in order to open up the behaviour in others. However, there is always the risk of *losing face*. An exercise to increase trust is to share personal stories.
+  Although very superficial regarding the definition of trust (see: [[build trust in a team]]), it is easy to understand that absence of trust can very easily get in the way. Teams without trust will hide weaknesses and problems. An indication of this dysfunction is how often people see value in meetings. 
+  The **leader** can show vulnerability in order to open up the behaviour in others. However, there is always the risk of *losing face*. An exercise to increase trust is to share personal stories. 
 - **Fear of Conflict**
   In a team without trust, there will not be *productive* conflict. In this case, conflict is intended as a discussion of ideas, and not personal attacks. There is also a false idea that avoiding conflict saves time and therefore it is more efficient that way. 
   There is the concept of 'mining for conflict' that can be used to shed light on hidden conflicts and guide a team through their resolution. It is important to be aware of when team members get discomfortable, and work on the discomfort. 
