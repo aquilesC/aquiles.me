@@ -1,10 +1,12 @@
 ---
-title: 
+title: The Five Dysfunctions of a Team
 date: 2025-10-23
-status: idea  # idea, drafting, scheduled, posted
-pillar: 
-format:  # story, framework, prompt, opinion
-tags: [linkedin, deeptech]
+status: idea
+pillar:
+format:
+tags:
+  - linkedin
+  - deeptech
 ---
 - Source: [@lencioni2002]
 - Tags: #Team-Building, #Leadership
