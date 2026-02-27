@@ -1,0 +1,1 @@
+In [[semiconductor industry]], there are innovations in different fronts
