@@ -25,7 +25,7 @@ Two of the examples I mentioned above are of people who decided to [[learning in
 
 I agree that this approach is not for everyone, the consequences are still poorly understood, since there is not enough data. This level of openness could not have been achieved until relatively recently. An intermediate option is to follow what I define as [[a new way of blogging]], that does not require to make public the intermediate steps of our thinking, but can help increase the quality of our content and [[lower the barrier to writing]]. (See: [[What happens when notes become long]])
 
-The biggest challenge is to find a system that satisfies everybody. I, for instance, like taking notes offline, in plain markdown. However, I was able to develop the programs needed to compile the notes as a public website (see: [[how i built this website]]). I think there is still room for improving the available tools (see: [[digital learning tools based on the luhman method]] and [[leveraging the digital medium for better note taking]]). 
+The biggest challenge is to find a system that satisfies everybody. I, for instance, like taking notes offline, in plain markdown. However, I was able to develop the programs needed to compile the notes as a public website (see: [[how I built this website]]). I think there is still room for improving the available tools (see: [[digital learning tools based on the luhman method]] and [[leveraging the digital medium for better note taking]]). 
 
 ## Gardening is not just collecting
 Something very important to point out is that to properly grow a garden, we must not become collectors. Gardening requires [[actively creating knowledge]] on every note. 

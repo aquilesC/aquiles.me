@@ -61,6 +61,6 @@ The books is built into parts addressing different professional phases.
 
 What I am missing in the book are insights to the innovation process, which are not discussed at all. When Steve Jobs appears and says: the iPhone should have a glass (and not plastic) screen, how do they validate whether it can be built? How did they source technology, how come they could deliver on the iPod in just 7 months if they were starting from scratch? 
 
-The book is a guide field guide in an abstract sense. It has some smart and clear insights into how technology is developed at the rhythm of Silicon Valley. 
+The book is a field guide in an abstract sense. It has some smart and clear insights into how technology is developed at the rhythm of Silicon Valley. 
 
 Tags: #reading-2024 #books #management-books 

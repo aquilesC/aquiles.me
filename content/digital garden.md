@@ -1,19 +1,18 @@
-In its most fundamental definition, a **digital garden** is a collection of notes taken on an electronic medium. 
+A **digital garden** is a collection of notes taken on an electronic medium. What sets it apart from a [[This website is not a blog|blog]], is that writing in a garden is [[performative blogging|not performative]]. It's not meant to optimize for viewership or a reader, in most cases **it is not meant to be made public at all**. 
 
-Gardening became very entangled with the [[Zettelkasten method]], which was popularized, perhaps, with the book [[essays/Notes on How to Take Smart Notes|How to Take Smart Notes]]. Although [[Luhmann method]] was born around a static medium such as paper, today we have available other support media, that lead to [[evergreen notes]], i.e. infinitely editable, improvable, and linkable notes. 
+Most digital gardens are meant to sit in a computer (or a private cloud). They are a source of inspiration for better thinking. Some people like to talk about "the second brain" which I believe it is too much of a stretch for an imperfect system of note-taking. 
 
-Editing notes, finding new links and checking the merging structure became known as [[Tendering a digital garden]]. Perhaps it's from here that the nickname evolved. See also: [[leveraging the digital medium for better note taking]]. 
+There are some people, like myself, who decided [[gardening in public]] is a good idea. Some popular ones include [Notes](https://notes.andymatuschak.org/About_these_notes) by [[Andy Matuschak]], [Tom Critchlow](https://tomcritchlow.com/), or perhaps the best known [Gwern](https://gwern.net/). 
 
-Following the guidelines of the [[Zettelkasten method]], it is worth making it clear that [[Gardening is not just collecting]], but actively finding links between different pieces of knowledge. 
+In the end, it all comes down to writing down notes with some system behind it. In the quest for the ultimate set of rules, people rediscovered the [[Zettelkasten method]], popularized by the book [[essays/Notes on How to Take Smart Notes|How to Take Smart Notes]]. 
 
-[[This website is not a blog|This website]] brings things one step further by [[Gardening in Public]]. 
+Although the [[Luhmann method]] was born around a static medium such as paper, today we have available alternatives. On paper, searching is not possible, which means that storing has to be intentional to ensure proper retrieval. 
 
-## Gardens for Inspiration
-Some gardens that acted as inspiration while building this website. It is worth mentioning that over time, I simply stopped checking them. 
+Today, we can talk about [[evergreen notes]], i.e. infinitely editable, improvable, and linkable notes and [[backlinks]]. The digital medium removed a lot of the friction around maintaining an organized thought space, but also removed a lot of the intentionality around writing and storing a note. 
 
-- [Notes](https://notes.andymatuschak.org/About_these_notes) by [[Andy Matuschak]]
-- (Abandoned) [Mental Nodes](https://www.mentalnodes.com/) by [[Anne-Laure le Cunff]]
-- [Tom Critchlow](https://tomcritchlow.com/)
-- [Joel Hooks](https://joelhooks.com/)
+Piling on the idea of "**gardening**", we can also think about what it means [[Tendering a digital garden]]. 
+
+I am still ambivalent with the value that this garden has brought me when it comes to finding insightful knowledge. Nonetheless is one of the very few digital activities that I've managed to keep alive after many years.  
+
 
 Tags: #digital-garden, #writing, #knowledge-management #knowledge-generation

@@ -63,7 +63,7 @@ Choosing a style of blogging will come down to deciding why we do what we do. We
 
 The most important thing to remember is that a blog is a personal space, and we are free to do whatever we want with them. We can have a home page with the latest posts. We can link to what we find more interesting. We may want to review articles periodically to ensure that the entire website is consistent. We may just produce new pieces in a continuous stream because that gives us joy (or more exposure). 
 
-In any case, being aware of the choices is what gives us freedom. And if you have a bit of coding knowledge, that freedom is fundamentally limitless (see [[how i built this website]]). 
+In any case, being aware of the choices is what gives us freedom. And if you have a bit of coding knowledge, that freedom is fundamentally limitless (see [[how I built this website]]). 
 
 ## Where to next
 Blogs are evolving because the needs of the people are changing. If you ever applied for a job, chances are the recruiter searched you on Google. What if that person first finds your own crafted space, with your thoughts, showing your true personality instead of your Instagram holidays pictures. 

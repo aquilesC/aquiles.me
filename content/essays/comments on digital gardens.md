@@ -21,7 +21,7 @@ I have implemented [utterances](https://www.utteranc.es) as a commenting system.
 1. Whoever is writing must be a Github user
 2. I'm platform-locked with Github
 
-While being a Github user is a reasonable requirement for purely developers' spaces, I believe a general garden should not impose such a restriction. One of the decisions of the architecture of this garden is to be platform agnostic (see: [[how i built this website]]), and being locked with Github is a contradiction.
+While being a Github user is a reasonable requirement for purely developers' spaces, I believe a general garden should not impose such a restriction. One of the decisions of the architecture of this garden is to be platform agnostic (see: [[how I built this website]]), and being locked with Github is a contradiction.
 
 ## Plain-text comments
 However, leveraging [[git as a commenting platform]] may not be a bad idea. With an intermediate service (such as utterances or [staticman](https://staticman.net/)), I could build a pure plain-text commenting system based on a repository external to the garden itself. 

@@ -22,7 +22,7 @@ We must bear in mind that the ideas behind WebMentions are mostly of decentraliz
   
 However, the networked approach to content is very tough to get right beyond a simple 'comment-type' implementation. I played with the idea of using [[transclusion]] for webmentions, but it quickly becomes a nightmare because of the points above. This approach is similar to what a [[federated wiki]] would look like, but an HTML specification instead of pure shear will. 
 
-Right now, I have implemented webmentions for this website (see: [[how i built this website]]) but I don't display them, I consume them with an [[RSS feed]] so I can keep an eye on who is building and discussing what I write. I must stress, however, that not a lot of websites implement webmentions. I believe not even Wordpress does so out of the box.
+Right now, I have implemented webmentions for this website (see: [[how I built this website]]) but I don't display them, I consume them with an [[RSS feed]] so I can keep an eye on who is building and discussing what I write. I must stress, however, that not a lot of websites implement webmentions. I believe not even Wordpress does so out of the box.
   
 Regarding comments (see: [[comments on digital gardens]]), I do like them as a way of quickly communicating with me, based on the way I use comments on other websites. For example, if I spot an error I am much more likely to drop a comment than to track down the author and send an e-mail. And this has been the case for my other websites as well. However, regarding the idea of adding value to the articles themselves, I am hesitant.  
 

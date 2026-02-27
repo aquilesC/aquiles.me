@@ -8,7 +8,7 @@ I received this question more than once already. When building a [[digital garde
 
 Each note is a file. Its name is more or less descriptive. For example, the name of the file for this note is ``how to remember what to link.md``. For [[linking]] between notes I use the double bracket notation: ``[[`` ``]]``. Therefore, if I want to link to a file called ``how I built this website.md`` I just type down ``[[how i built this website]]``. It translates to:
 
-[[how i built this website]].
+[[how I built this website]].
 
 An extra feature, is that since I am using [[Obsidian]] to write the notes, every time I start a link, it will show me some suggestions based on what I type. This helps me avoid creating a link like: 
 

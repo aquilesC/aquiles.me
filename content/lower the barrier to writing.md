@@ -1,5 +1,5 @@
 # Lower the Barrier to Writing
-One of my [[2020 goals]] is to write and create more. That is one of the reasons I decided to create a [[digital garden]], developed [[how i built this website|my own program]] to build the website, and tuned them over time with one goal in mind: **lower to barrier to writing (and publishing)** as much as I could. 
+One of my [[2020 goals]] is to write and create more. That is one of the reasons I decided to create a [[digital garden]], developed [[how I built this website|my own program]] to build the website, and tuned them over time with one goal in mind: **lower to barrier to writing (and publishing)** as much as I could. 
 
 ## Why
 At this stage, writing is a channel that I can use to build up knowledge. To find back my reflections and build upon them. Writing in this space is not about [[performative blogging]], but about exploration. I want to re-learn how I think and link ideas and I do believe that there are no better means to do it but to sit down and write. For me, writing is also partly a way of documenting, it's not only about creation.
@@ -16,7 +16,7 @@ The approach I took started, first, by forcing myself to write every day, in ord
 The advantage of having an offline tool is that I can write without distractions. I can start even before opening the browser and its infinite tabs of unfinished things to read, reply, or catch up with. 
 
 ### Publishing Second
-Once I started having a small body of work, of interlinked notes, it was time to make them publicly available. There are many different ways of achieving the same. One is to use Github pages, which will automatically compile the notes with Jekyll. Gatsby seems to be what most people use these days. I went for building my own (see: [[how i built this website]]). 
+Once I started having a small body of work, of interlinked notes, it was time to make them publicly available. There are many different ways of achieving the same. One is to use Github pages, which will automatically compile the notes with Jekyll. Gatsby seems to be what most people use these days. I went for building my own (see: [[how I built this website]]). 
 
 I make no distinction between notes and articles. Some notes are just longer (see [[What happens when notes become long]]). I know some people read them because they have commented about them, but I do not keep stats. [[I don't track the visitors]] of this website, not only for [[user privacy online]], but also to be completely free to write whatever I want, without self-biasing me to pursue a bigger viewership. 
 

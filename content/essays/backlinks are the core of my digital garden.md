@@ -4,7 +4,7 @@ description: Normal links impose a hierarchy that does not represent how we thin
 epistemic: I built my own system. Every decision is my own. However, it is a topic with which I am familiarizing myself.
 ---
 # Backlinks are the Core of my Digital Garden
-When I [[how i built this website|built this website]], I knew I wanted to have backlinks, which are also known as *bidirectional* links. There was all this rave around Roam and how it helped connect ideas, that I had to give it a try. I didn't want to go to the lengths of linking to specific paragraphs, but to entire notes. When I started, it was just an experiment to see what would happen and now they became a core asset on how a write.  
+When I [[how I built this website|built this website]], I knew I wanted to have backlinks, which are also known as *bidirectional* links. There was all this rave around Roam and how it helped connect ideas, that I had to give it a try. I didn't want to go to the lengths of linking to specific paragraphs, but to entire notes. When I started, it was just an experiment to see what would happen and now they became a core asset on how a write.  
 
 The first thing that was apparent is that I didn't need to specify a taxonomy since the beginning. If every time a write about Python, for example, I make a link to it I know that I could see all the related articles by simply going to that page. In a way, the first effect I was expecting was the emergence of a taxonomic tree without explicitly declaring categories, tags, labels, etc. This was a great approach to [[lower the barrier to writing]] because I only cared about writing, not about organizing. 
 

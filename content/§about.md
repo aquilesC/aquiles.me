@@ -16,7 +16,7 @@ I realised that maintaining a blog requires a lot of effort, mostly because the 
 However, sometimes, I would like to write about how I achieved something that may be useful for myself or others. Still, it does not quite fit the content of my websites. I end up documenting scattered notes that never become public. Fortunately, I crossed [this article](https://nesslabs.com/digital-garden-tiddlywiki) on how to build a [[digital garden]], which lead to a series of surprising discoveries. 
 
 ## This website is a digital garden
-This website is meant to be a forever growing *work in progress*, meaning that it is meant to explore designs, structures, and ideas. I have control of the program used to render the online version ([[how i built this website]]), and the notes are plain markdown available on [github](https://github.com/aquilesC/aquiles.me).
+This website is meant to be a forever growing *work in progress*, meaning that it is meant to explore designs, structures, and ideas. I have control of the program used to render the online version ([[how I built this website]]), and the notes are plain markdown available on [github](https://github.com/aquilesC/aquiles.me).
 
  Some of the notes you'll find here are incomplete or have mistakes. I am not ashamed of them. They are a way of learning. If you think you spotted something you don't agree with, or that is simply wrong, you can [[contact me]], [reach out to me on Twitter](https://www.twitter.com/aquicarattino) or through [[my e-mail]]. 
 

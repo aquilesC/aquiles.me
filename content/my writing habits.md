@@ -10,7 +10,7 @@ This all changed when I started [[Dispertech]]. Writing is not my main focus any
 We all know how to write, but not everyone knows how to write well. And there is no deeper secret but to exercise it. I have seen people forcing (or claiming to) themselves to sit down to write 1 or 2 hours a day, while they still have plenty of other activities in their lives. Therefore, I would distrust any [[advice]] coming from them. For most of us, writing is something that happens next to all the important things of the day. 
 
 ## Sense of Purpose
-What really helped me to develop writing habits is to have a [[sense of purpose]]. That is why the idea of a [[digital garden]] was instantaneously attractive to me. The things I write will be published and available to anyone. The things I think about, the books I read, podcasts I listen to, everything can be discovered by anyone. These were the guiding principles for [[how i built this website]]. 
+What really helped me to develop writing habits is to have a [[sense of purpose]]. That is why the idea of a [[digital garden]] was instantaneously attractive to me. The things I write will be published and available to anyone. The things I think about, the books I read, podcasts I listen to, everything can be discovered by anyone. These were the guiding principles for [[how I built this website]]. 
 
 ## Daily Commitment
 The crucial part of the writing exercise is to have a [[commitment]]. In my case, I chose to have a daily commitment. Every morning I write something down, even if small. I write down what podcast I've listened to, or if I thought about something the previous day. It does not really matter. 
