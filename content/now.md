@@ -5,11 +5,10 @@ keywords: now, working, projects
 ---
 # NOW!
 
-- I am engaging in discussions with [[InspectT]] to help develop next-generation [[Raman Spectroscopy]] solutions. 
-- I am working as a [[product manager]] at [[VSParticle]]. 
-	- Focusing on [[gas sensing]], and [[semiconductor industry]]
+- I am working as a [[business development|business developer]] at [[VSParticle]]. 
+	- Focusing on the [[semiconductor industry]]
 - In my free time, I keep engaging with [[scipreneurs]] to see how to help them. 
 - Some of my latest readings:
+	- [[essays/Contact - Carl Sagan|Contact - Carl Sagan]]
+	- [[Poeta Chileno - Alejandro Zambra]]
 	- [[Chip War - Chris Miller]]
-	- [[Reset - Dan Heath]]
-	- [[202503032118 The Music of Life|The Music of Life]]
