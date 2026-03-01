@@ -1,4 +1,4 @@
-- Devide customer universe
+- Divide customer universe
 - Characterize each *segment*
 - Define a list of *finalists*
 - Target the optimum segment

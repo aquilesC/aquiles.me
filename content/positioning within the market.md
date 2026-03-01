@@ -1,0 +1,3 @@
+In order to achieve (or at least explore) [[product-market fit]], it is important [[segmenting a market]], and defining how and where a given product or offer sits. 
+
+Positioning refers to [[Competitor analysis]], but not exclusively. See: [[literature/202603010905 Defining positioning|202603010905 Defining positioning]] and [[literature/202603011129 Testing the positioning|202603011129 Testing the positioning]]. 

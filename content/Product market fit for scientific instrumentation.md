@@ -9,3 +9,5 @@ It is hard to tell when this fit happens. A useful metric is '*traction*', defin
 This, however, does not necessarily adapt well for scientific-based instruments, in which the product development cycle is very long (thus hindering the possibilities of quick pivots before running out of cash), and the sales cycle is slow. After all, there's a chance instruments are expensive and therefore require demonstrations, visits, perhaps a customer asking for a subsidy to purchase equipment, etc. 
 
 One of the stages to understand whether[[product-market fit]] has been achieved is when customers talk about your product. For scientists this is very well defined: conferences and papers. Papers take time both to write and then to publish.
+
+One important aspect is [[segmenting a market]] and a clear [[positioning within the market]]. 

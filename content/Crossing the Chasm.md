@@ -16,3 +16,5 @@ I believe there is a relationship between the adoption curve and the [[technolog
 
 If you focus on a niche (see: [[market type]]), a [[minimum viable product]] can be enough to target innovators and early adopters. Word-of-mouth will lead the communication efforts. 
 
+[[segmenting a market]] is crucial to identify at which stage you are, how big the chasm is, and where you think you should be going. 
+
