@@ -15,4 +15,4 @@ Interesting topics:
 - [[literature/202603010905 Defining positioning|202603010905 Defining positioning]]
 - [[literature/202603011129 Testing the positioning|202603011129 Testing the positioning]]
 - [[literature/202603010908 Aligning customer journey and strategy|202603010908 Aligning customer journey and strategy]]
-	- 
+
