@@ -1,0 +1,291 @@
+{% extends "base.html" %}
+
+{% block extra_head %}
+<style>
+    .node {
+        stroke: #fff;
+        stroke-width: 1.5px;
+    }
+    
+    .link {
+        stroke: #999;
+        stroke-opacity: 0.6;
+    }
+
+    #graph-container {
+        width: 100%;
+        height: 600px;
+        background-color: #f9f9f9;
+        border: 1px solid #e2e8f0;
+        border-radius: 0.5rem;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .modern-dark #graph-container {
+        background-color: #1a202c;
+        border-color: #2d3748;
+    }
+
+    .tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 8px;
+        font: 12px sans-serif;
+        background: #333;
+        color: #fff;
+        border: 0px;
+        border-radius: 4px;
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 0.2s;
+        z-index: 10;
+    }
+
+    .stats-card {
+        background: #fff;
+        border-radius: 0.5rem;
+        padding: 1.5rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        border: 1px solid #e2e8f0;
+    }
+    
+    .modern-dark .stats-card {
+        background: #2d3748;
+        border-color: #4a5568;
+        color: #e2e8f0;
+    }
+    
+    .stats-value {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #2b6cb0;
+        margin-bottom: 0.5rem;
+    }
+    
+    .modern-dark .stats-value {
+        color: #63b3ed;
+    }
+    
+    .stats-label {
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #718096;
+    }
+    
+    .modern-dark .stats-label {
+        color: #a0aec0;
+    }
+</style>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+{% endblock extra_head %}
+
+{% block main %}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="mb-10 text-center">
+        <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-5xl md:text-6xl mb-4">
+            Garden Statistics
+        </h1>
+        <p class="max-w-2xl mx-auto text-xl text-gray-500 dark:text-gray-400">
+            A visual overview of the digital garden's growth and connections.
+        </p>
+    </div>
+
+    <!-- Stats Overview -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12" id="stats-grid">
+        <!-- Populated by JS -->
+        <div class="flex justify-center items-center py-10 w-full col-span-full">
+            <svg class="animate-spin -ml-1 mr-3 h-8 w-8 text-blue-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            <span class="text-gray-500">Loading statistics...</span>
+        </div>
+    </div>
+
+    <!-- Graph Visualization -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 overflow-hidden mb-12">
+        <div class="px-6 py-5 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 flex justify-between items-center">
+            <h3 class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100">
+                Network Graph
+            </h3>
+            <span class="text-xs text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded-full px-3">
+                Drag nodes to explore
+            </span>
+        </div>
+        <div class="p-6">
+            <div id="graph-container">
+                <div id="tooltip" class="tooltip"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Load Stats
+    fetch('/stats/garden_stats.json')
+        .then(response => response.json())
+        .then(data => {
+            const statsGrid = document.getElementById('stats-grid');
+            
+            const createStatCard = (value, label) => `
+                <div class="stats-card">
+                    <div class="stats-value">${value}</div>
+                    <div class="stats-label">${label}</div>
+                </div>
+            `;
+            
+            statsGrid.innerHTML = `
+                ${createStatCard(data.total_notes, 'Total Notes')}
+                ${createStatCard(data.total_links + data.total_backlinks, 'Total Connections')}
+                ${createStatCard(data.total_words.toLocaleString(), 'Total Words')}
+                ${createStatCard(data.total_tags, 'Total Tags')}
+            `;
+        })
+        .catch(error => {
+            console.error('Error loading stats:', error);
+            document.getElementById('stats-grid').innerHTML = `
+                <div class="col-span-full text-center text-red-500 py-4">
+                    Failed to load statistics.
+                </div>
+            `;
+        });
+
+    // Load Graph
+    fetch('/stats/garden_graph.json')
+        .then(response => response.json())
+        .then(data => {
+            const container = document.getElementById('graph-container');
+            const width = container.clientWidth;
+            const height = container.clientHeight;
+            
+            // Color scale
+            const color = d3.scaleOrdinal(d3.schemeCategory10);
+            
+            // Calculate node radius based on word count/connections
+            const getRadius = d => Math.max(5, Math.min(20, 3 + Math.sqrt(d.word_count || 100) / 5 + (d.connections || 0)));
+            
+            // Explicitly define colors based on status per user request
+            const getNodeColor = d => {
+                if (d.is_tag) return '#38a169'; // Green-based for tags
+                if (d.exists) return '#3182ce'; // Blue-based for existing notes
+                return '#e53e3e'; // Red-based for non-existing referenced notes
+            };
+
+            const svg = d3.select("#graph-container")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .call(d3.zoom().on("zoom", (event) => {
+                    g.attr("transform", event.transform);
+                }));
+
+            const g = svg.append("g");
+            
+            const tooltip = d3.select("#tooltip");
+
+            const simulation = d3.forceSimulation(data.nodes)
+                .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
+                .force("charge", d3.forceManyBody().strength(-100))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(d => getRadius(d) + 2));
+
+            const link = g.append("g")
+                .selectAll("line")
+                .data(data.links)
+                .enter().append("line")
+                .attr("class", "link")
+                .style("stroke-width", 1);
+
+            const node = g.append("g")
+                .selectAll("circle")
+                .data(data.nodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", getRadius)
+                .attr("fill", getNodeColor)
+                .on("mouseover", function(event, d) {
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9);
+                    tooltip.html(`<strong>${d.title}</strong><br/>Words: ${d.word_count || 0}<br/>Connections: ${d.connections || 0}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                        
+                    // Highlight connected
+                    const connectedNodeIds = new Set();
+                    data.links.forEach(l => {
+                        if (l.source.id === d.id) connectedNodeIds.add(l.target.id);
+                        if (l.target.id === d.id) connectedNodeIds.add(l.source.id);
+                    });
+                    connectedNodeIds.add(d.id);
+                    
+                    node.style("opacity", n => connectedNodeIds.has(n.id) ? 1 : 0.1);
+                    link.style("opacity", l => (l.source.id === d.id || l.target.id === d.id) ? 1 : 0.05);
+                })
+                .on("mouseout", function(d) {
+                    tooltip.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                    node.style("opacity", 1);
+                    link.style("opacity", 0.6);
+                })
+                .on("click", function(event, d) {
+                    if (d.id) window.location.href = d.id;
+                })
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+            });
+
+            function dragstarted(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+                d.fx = event.x;
+                d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }
+            
+            // Handle window resize
+            window.addEventListener('resize', () => {
+                const newWidth = container.clientWidth;
+                const newHeight = container.clientHeight;
+                svg.attr("width", newWidth).attr("height", newHeight);
+                simulation.force("center", d3.forceCenter(newWidth / 2, newHeight / 2));
+                simulation.alpha(0.3).restart();
+            });
+        })
+        .catch(error => {
+            console.error('Error loading graph:', error);
+            document.getElementById('graph-container').innerHTML = `
+                <div class="flex items-center justify-center h-full text-red-500">
+                    Failed to load graph data. Please try again later.
+                </div>
+            `;
+        });
+});
+</script>
+{% endblock main %}
