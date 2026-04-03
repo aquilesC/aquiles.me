@@ -3,3 +3,5 @@ Many people focus on defining and trying to achieve [[product-market fit]]. Some
 In many cases it becomes an iterative process, but also an interesting one. Especially when talking about [[Product market fit for scientific instrumentation]], where it's not easy (and more often not possible) to change the product. New technologies are slow to be developed, and in many cases are the product of serendipity. 
 
 However, the same technology used for a different purpose but on the same market can lead to a successful company. 
+
+Another interesting topic to follow up is [[positioning within the market]] (or [[new market positioning]]). 
