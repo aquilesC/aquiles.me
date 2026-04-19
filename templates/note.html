@@ -6,7 +6,21 @@
         {% if note.content %}
           <div class="md:flex">
             <article class="h-entry px-4">
-              <h1 class="p-name font-head leading-tight break-tight mb-2">{{ note.title }}</h1>
+              <div class="flex justify-between items-start mb-2 group">
+                <h1 class="p-name font-head leading-tight break-tight">{{ note.title }}</h1>
+                <div class="relative ml-4 mt-2">
+                  <button id="noteMenuButton" class="text-gray-500 hover:text-gray-700 bg-white shadow-sm p-1 rounded focus:outline-none transition-colors">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                    </svg>
+                  </button>
+                  <div id="noteMenuDrop" class="absolute right-0 mt-2 w-48 bg-white border border-gray-200 rounded shadow-lg hidden z-10">
+                    <button id="openConnections" class="w-full text-left font-sans block px-4 py-2 text-gray-700 hover:bg-gray-100 hover:text-gray-900 focus:outline-none">
+                      Show Connections
+                    </button>
+                  </div>
+                </div>
+              </div>
               <div class="flex text-xs">
                 <div class="mx-2">
                   <svg class="h-4 w-4 inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
@@ -234,11 +248,32 @@ class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded fo
       {% endblock content %}
     </div>
   </div>
+
+  <!-- Connections Modal -->
+  <div id="connectionsModal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-gray-900 bg-opacity-75 transition-opacity" style="backdrop-filter: blur(4px);">
+    <div class="bg-white rounded-lg shadow-2xl w-11/12 max-w-6xl flex flex-col relative overflow-hidden" style="height: 85vh;">
+      <div class="p-4 border-b flex justify-between items-center bg-gray-50">
+        <h2 class="text-2xl font-head font-bold text-gray-800">Connections</h2>
+        <div class="flex items-center space-x-4">
+          <div class="text-sm font-sans flex items-center space-x-3">
+            <span class="flex items-center"><span class="block w-3 h-3 rounded-full mr-1" style="background-color: #F56565;"></span> Incoming</span>
+            <span class="flex items-center"><span class="block w-3 h-3 rounded-full mr-1" style="background-color: #4299E1;"></span> Outgoing</span>
+            <span class="flex items-center">
+              <span class="block w-3 h-3 rounded-full mr-1" style="background: linear-gradient(90deg, #F56565 50%, #4299E1 50%);"></span> Both
+            </span>
+          </div>
+          <button id="closeConnections" class="text-gray-500 hover:text-red-500 focus:outline-none w-8 h-8 flex justify-center items-center rounded-full bg-gray-200 hover:bg-red-100 transition-colors">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+          </button>
+        </div>
+      </div>
+      <div id="d3Canvas" class="flex-grow w-full relative bg-gray-100 cursor-move"></div>
+    </div>
+  </div>
+
 {% endblock main %}
 
 {% block footer_scripts %}
-	<script src="https://hypothes.is/embed.js" async></script>
-
 	{# Schema.org JSON-LD for Article note pages #}
 	<script type="application/ld+json">
 {
@@ -280,4 +315,224 @@ class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded fo
   {% endif %}
 }
 	</script>
+
+  <!-- D3.js and Connections Script -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const menuBtn = document.getElementById("noteMenuButton");
+      const menuDrop = document.getElementById("noteMenuDrop");
+      const openModalBtn = document.getElementById("openConnections");
+      const closeModalBtn = document.getElementById("closeConnections");
+      const modal = document.getElementById("connectionsModal");
+      const canvas = document.getElementById("d3Canvas");
+      let graphRendered = false;
+
+      // Toggle Menu
+      if (menuBtn) {
+        menuBtn.addEventListener("click", () => {
+          menuDrop.classList.toggle("hidden");
+        });
+      }
+
+      // Close menu when clicking outside
+      document.addEventListener("click", (e) => {
+        if (menuBtn && !menuBtn.contains(e.target) && !menuDrop.contains(e.target)) {
+          menuDrop.classList.add("hidden");
+        }
+      });
+
+      // Open Modal
+      if (openModalBtn) {
+        openModalBtn.addEventListener("click", () => {
+          menuDrop.classList.add("hidden");
+          modal.classList.remove("hidden");
+          if (!graphRendered) {
+            drawConnections();
+            graphRendered = true;
+          }
+        });
+      }
+
+      // Close Modal
+      if (closeModalBtn) {
+        closeModalBtn.addEventListener("click", () => {
+          modal.classList.add("hidden");
+        });
+      }
+
+      function drawConnections() {
+        const rootUrl = "{{ note.url }}";
+        const fetchUrl = `{{ base_url }}${rootUrl}connections.json`.replace("///", "/").replace("//", "/").replace("http:/", "http://").replace("https:/", "https://");
+        
+        fetch(fetchUrl)
+          .then(res => res.json())
+          .then(data => {
+            const width = canvas.clientWidth;
+            const height = canvas.clientHeight;
+            
+            // Prepare SVG
+            const svg = d3.select("#d3Canvas").append("svg")
+              .attr("width", "100%")
+              .attr("height", "100%")
+              .attr("viewBox", [0, 0, width, height]);
+
+            // Add Gradient for "Both" nodes
+            const defs = svg.append("defs");
+            const gradient = defs.append("linearGradient")
+              .attr("id", "splitColor")
+              .attr("x1", "0%").attr("y1", "0%")
+              .attr("x2", "100%").attr("y2", "0%");
+            gradient.append("stop").attr("offset", "50%").attr("stop-color", "#F56565");
+            gradient.append("stop").attr("offset", "50%").attr("stop-color", "#4299E1");
+
+            // Add Arrow Markers for vectors
+            defs.append("marker")
+              .attr("id", "arrowhead")
+              .attr("viewBox", "-0 -5 10 10")
+              .attr("refX", 20)
+              .attr("refY", 0)
+              .attr("orient", "auto")
+              .attr("markerWidth", 6)
+              .attr("markerHeight", 6)
+              .attr("xoverflow", "visible")
+              .append("svg:path")
+              .attr("d", "M 0,-5 L 10 ,0 L 0,5")
+              .attr("fill", "#999")
+              .style("stroke","none");
+
+            let nodesMap = new Map();
+            let links = [];
+
+            // Center Node
+            let centerNode = {
+              id: rootUrl,
+              title: data.note ? data.note.title : "Current Note",
+              url: rootUrl,
+              group: "center",
+              radius: 12
+            };
+            nodesMap.set(centerNode.id, centerNode);
+
+            // Process Incoming
+            if (data.incoming) {
+              data.incoming.forEach(n => {
+                nodesMap.set(n.url, { id: n.url, title: n.title, url: n.url, group: "incoming", radius: 8 });
+                links.push({ source: n.url, target: centerNode.id, type: "incoming" });
+              });
+            }
+
+            // Process Outgoing
+            if (data.outgoing) {
+              data.outgoing.forEach(n => {
+                if (nodesMap.has(n.url) && nodesMap.get(n.url).group === "incoming") {
+                  nodesMap.get(n.url).group = "both";
+                } else if (!nodesMap.has(n.url)) {
+                  nodesMap.set(n.url, { id: n.url, title: n.title, url: n.url, group: "outgoing", radius: 8 });
+                }
+                links.push({ source: centerNode.id, target: n.url, type: "outgoing" });
+              });
+            }
+
+            let nodes = Array.from(nodesMap.values());
+
+            const simulation = d3.forceSimulation(nodes)
+              .force("link", d3.forceLink(links).id(d => d.id).distance(120))
+              .force("charge", d3.forceManyBody().strength(-300))
+              .force("center", d3.forceCenter(width / 2, height / 2))
+              .force("collide", d3.forceCollide().radius(d => d.radius + 30).iterations(2));
+
+            const link = svg.append("g")
+              .attr("stroke", "#999")
+              .attr("stroke-opacity", 0.6)
+              .selectAll("line")
+              .data(links)
+              .join("line")
+              .attr("stroke-width", 2)
+              .attr("marker-end", "url(#arrowhead)");
+
+            const nodeGroup = svg.append("g")
+              .selectAll("g")
+              .data(nodes)
+              .join("g")
+              .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended))
+              .on("click", (event, d) => {
+                if (event.defaultPrevented) return; // ignore drag
+                if (d.url) window.location.href = d.url;
+              });
+
+            nodeGroup.append("circle")
+              .attr("r", d => d.radius)
+              .attr("fill", d => {
+                if (d.group === "center") return "#4a5568";
+                if (d.group === "incoming") return "#F56565";
+                if (d.group === "outgoing") return "#4299E1";
+                if (d.group === "both") return "url(#splitColor)";
+                return "#a0aec0";
+              })
+              .attr("stroke", "#fff")
+              .attr("stroke-width", 1.5)
+              .style("cursor", "pointer");
+
+            nodeGroup.append("text")
+              .text(d => d.title)
+              .attr("x", 12)
+              .attr("y", 4)
+              .style("font-family", "sans-serif")
+              .style("font-size", "12px")
+              .style("user-select", "none")
+              .style("pointer-events", "none")
+              .attr("fill", "#2d3748");
+
+            simulation.on("tick", () => {
+              link
+                .attr("x1", d => Math.max(10, Math.min(width - 10, d.source.x)))
+                .attr("y1", d => Math.max(10, Math.min(height - 10, d.source.y)))
+                .attr("x2", d => Math.max(10, Math.min(width - 10, d.target.x)))
+                .attr("y2", d => Math.max(10, Math.min(height - 10, d.target.y)));
+
+              nodeGroup
+                .attr("transform", d => {
+                  d.x = Math.max(d.radius, Math.min(width - d.radius, d.x));
+                  d.y = Math.max(d.radius, Math.min(height - d.radius, d.y));
+                  return `translate(${d.x},${d.y})`;
+                });
+            });
+
+            function dragstarted(event, d) {
+              if (!event.active) simulation.alphaTarget(0.3).restart();
+              d.fx = d.x;
+              d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+              d.fx = event.x;
+              d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+              if (!event.active) simulation.alphaTarget(0);
+              d.fx = null;
+              d.fy = null;
+            }
+            
+            // Handle window resize dynamically inside the modal
+            window.addEventListener('resize', () => {
+                const w = canvas.clientWidth;
+                const h = canvas.clientHeight;
+                svg.attr("viewBox", [0, 0, w, h]);
+                simulation.force("center", d3.forceCenter(w / 2, h / 2));
+                simulation.alpha(0.3).restart();
+            });
+
+          }).catch(err => {
+            console.error("Error drawing connections graph:", err);
+            canvas.innerHTML = '<div class="absolute inset-0 flex items-center justify-center text-red-500">Failed to load connections JSON. Ensure ' + fetchUrl + ' exists.</div>';
+          });
+      }
+    });
+  </script>
 {% endblock %}
