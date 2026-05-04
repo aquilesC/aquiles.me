@@ -1,6 +1,7 @@
 The most important experiment happens outside the lab.  
   
 As scientists, we are masters of the peer-review process. We know how to defend a thesis and present at a conference.  
+
 But when it comes to spinning out a company, our biggest strength quickly becomes our biggest liability.  
   
 We can call it the "Seminar Trap."  

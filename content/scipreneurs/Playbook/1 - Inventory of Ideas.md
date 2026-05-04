@@ -3,7 +3,6 @@ Starting the scipreneurial journey is not an easy decision. For many of us, it's
 However, nothing prevents us from taking the process and make it on the one hand more rational, on the other hand better directed towards avoiding pitfalls. There's no single playbook that defines a path towards success. Each process will be subject to specific conditions, contexts, teams, and opportunities. Acknowledging these differences and leveraging them is crucial to increase the odds of delivering something meaningful. 
 
 Before you embark into the spinout journey, you can start by identifying the resources you already have and may not be aware of. 
-
 ## Founders at different stages
 If you are thinking about spinning out, probably you fall into one of two categories. Either you have already accumulated resources but haven’t realized it yet, or you believe spinning out requires “just one more experiment” to show how useful your science is. 
 
@@ -24,7 +23,6 @@ I will stress a lot the importance of access to people through each section, bec
 After 20 years, a PI may have graduated more than 20 PhD's. That means the average work experience of those people is 10 years. Some may have continue pursuing professorships, some may have gone to companies, the government, etc. If you add 5 more PI's that may be closely related to you, that is more than 100 people you can reach out to by simply asking someone for an introduction. 
 
 The importance of access to people at this stage is crucial to understand what challenges people are facing, how they are solving it today, and how do they work. We will discuss later about how to ask questions, at this stage it is important that you start compiling a list of people you would like to talk to, even if you don't know the names, you may know what companies are you targeting, or fields within research, or industries. 
-
 
 Secondly is the IP. So much more than the patent that may or may not have been filed. From protocols, to know how and data. There’s so much value in data nowadays.  
   
