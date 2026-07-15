@@ -1,4 +1,4 @@
-When trying to decide features for a product ([[product development]]), there will be some attributes that are more important than others in the face of the customers. However, it is up to the developers to find out which ones should be implemented, and in which order. 
+When trying to decide features for a product ([[product development cycle]]), there will be some attributes that are more important than others in the face of the customers. However, it is up to the developers to find out which ones should be implemented, and in which order. 
 
 While studying it, I was constantly thinking about the close relationship with [[jobs theory]] and the [[literature/202303251644 Jobs to be done framework|202303251644 Jobs to be done framework]]. What is interesting is that the Kano model does not discuss how to find the attributes customers may care about. That's left for the product designer to blindly guess (or some magic [[brainstorming]]). 
 

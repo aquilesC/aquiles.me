@@ -8,7 +8,7 @@ I believe to compensate for miscommunication, calling it [[Minimally Valuable Pr
 
 Developing an MVP for [[science-based startups]] is hard, because there's already a specific insight that is going to be commercialized ([[solutions in search of a market]]). 
 
-The crucial task of [[product development]] for an MVP is limiting the number of features. That means, defining **what not to build**. (Which is specified in the [[Product Requirements Document]].)
+The crucial task of [[product development cycle]] for an MVP is limiting the number of features. That means, defining **what not to build**. (Which is specified in the [[Product Requirements Document]].)
 
 The objective of the MVP is manyfold. On the one hand it should allow to test the [[market thesis]], meaning that there's someone willing to pay for the solution. On the other, it should demonstrate which core features are relevant for different users. 
 

@@ -4,4 +4,4 @@ However, assigning titles has a heavy burden for [[startups]] which are still tr
 
 [[Customer Discovery]] is a process that takes a lot of time and energy, and must be done collectively by the founders and early employees. Once you start assigning different titles, people will fall into different *roles*. If you are the "Head of Engineering", you'll not discuss with a customer, and if you do *marketing* you will not argue that the product is faulty. 
 
-Especially when it comes to [[product development]], especially for [[scipreneurs]] and deep-tech companies, which is a lengthy and expensive road, small companies need to stay [[lean]] and [[agile development|agile]], in whatever way those two words can be interpreted. 
+Especially when it comes to [[product development cycle]], especially for [[scipreneurs]] and deep-tech companies, which is a lengthy and expensive road, small companies need to stay [[lean]] and [[agile development|agile]], in whatever way those two words can be interpreted. 
