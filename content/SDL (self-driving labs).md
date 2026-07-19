@@ -1,4 +1,4 @@
-"[[Self Driving Laboratory]]" is an upcoming trend in new material discovery. Although [[High-throughput]] experimentation has been around for a while, [[biotech]] being a prime example of it, we can move one step forward by closing the loop if we can integrate decision-making to the algorithms driving the experimentation. 
+"[[Self Driving Laboratory]]" is an upcoming trend in new material discovery. Although [[High-throughput experimentation]] has been around for a while, [[biotech]] being a prime example of it, we can move one step forward by closing the loop if we can integrate decision-making to the algorithms driving the experimentation. 
 
 An SDL opens interesting doors when it comes to [[democratizing access to scientific results]]. In principle, a distributed (and interconnected) network of laboratories can be leveraged to perform complex experiments from anywhere in the world (see: [[202504281112 SDL approach to distributed discovery]]). 
 
@@ -12,3 +12,5 @@ The continuous drop in costs for experimentation may help revisit the approach t
 
 I think there's a great [[overlap between HPC and SDL]], and only when there's true knowledge sharing across disciplines (beyond the purely user-centric one), there'll be a speedup in the deployment of SDL at scale for the next wave of discoveries. 
 
+## See next
+[[Business Models for SDL]]
