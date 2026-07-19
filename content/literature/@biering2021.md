@@ -10,8 +10,10 @@ authors:
 year: 2021
 journal: Nature
 doi: https://doi.org/10.1038/d41586-021-02638-9
-zotero: zotero://select/items/@biering2021
+zotero: zotero://select/library/items/CQ7MU9FT
+pdf: /Users/aquiles/Zotero/storage/SGV8SIAQ/d41586-021-02638-9(1).pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

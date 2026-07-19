@@ -14,8 +14,10 @@ authors:
 year: 2015
 journal: Biomedical Optics Express
 doi: https://doi.org/10.1364/BOE.6.004447
-zotero: zotero://select/items/@gualda2015
+zotero: zotero://select/library/items/TZ5L5C3T
+pdf: /Users/aquiles/Zotero/storage/VT7W6UL8/Gualda et al. - 2015 - SPIM-fluid open source light-sheet based platform.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Light sheet fluorescence microscopy has recently emerged as the technique of choice for obtaining high quality 3D images of whole organisms/embryos with low photodamage and fast acquisition rates. Here we present an open source unified implementation based on Arduino and Micromanager, which is capable of operating Light Sheet Microscopes for automatized 3D high-throughput imaging on three-dimensional cell cultures and model organisms like zebrafish, oriented to massive drug screening.
 <!-- END_ABSTRACT -->

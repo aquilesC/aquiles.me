@@ -6,8 +6,9 @@ title: Rewriting the European spinout playbook
 authors:
   - Air Street Capital
 doi: ""
-zotero: zotero://select/items/@capital
+zotero: zotero://select/library/items/ZHIIJ85R
 ---
+
 <!-- START_ABSTRACT -->
 Instead of encouraging innovation, institutions treat would-be founders as ‘problem children’
 <!-- END_ABSTRACT -->

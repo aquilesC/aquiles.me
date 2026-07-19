@@ -11,8 +11,10 @@ authors:
 year: 2021
 journal: Science
 doi: https://doi.org/10.1126/science.abb7481
-zotero: zotero://select/items/@barsbai2021
+zotero: zotero://select/library/items/U3L4U24B
+pdf: /Users/aquiles/Zotero/storage/9IGCZMTE/Barsbai et al. - 2021 - Local convergence of behavior across species.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Not so different
 Humans often focus on how different we are from other animals. Certainly, there are some important differences, but more and more we are learning that we differ by degree rather than kind. We see these similarities most clearly when we look at human populations that live a more traditional, foraging lifestyle. Barsbai et al. compared more than 300 such foraging human populations with mammal and bird species living in the same environment across a wide array of environmental conditions (see the Perspective by Hill and Boyd). They found that all three groups converged with regard to foraging, social, and reproductive behaviors. Thus, adaptation to environmental selection shapes similar responses across a wide diversity of life forms.

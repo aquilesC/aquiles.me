@@ -9,8 +9,10 @@ authors:
 year: 1992
 journal: J. Chem. Phys.
 doi: ""
-zotero: zotero://select/items/@bradyjohnf1992
+zotero: zotero://select/library/items/M42EPX7P
+pdf: /Users/aquiles/Zotero/storage/JZUCD4NP/brady1993.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

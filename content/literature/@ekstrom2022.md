@@ -14,8 +14,10 @@ authors:
 year: 2022
 journal: BMC Cancer
 doi: https://doi.org/10.1186/s12885-021-08870-w
-zotero: zotero://select/items/@ekstrom2022
+zotero: zotero://select/library/items/JMV5TXHX
+pdf: /Users/aquiles/Zotero/storage/8XZK6GVL/Ekström et al. - 2022 - Characterization of surface markers on extracellular vesicles isolated from lymphatic exudate from p.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

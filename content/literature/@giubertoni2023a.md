@@ -1,25 +1,23 @@
 ---
 aliases:
-  - Giulia Giubertoni. Angewandte Chemie International Edition. 2023
-  - Infrared Diffusion-Ordered Spectroscopy Reveals Molecular Size and Structure**
+  - Giulia Giubertoni. The Journal of Chemical Physics. 2023
+  - Multidimensional infrared diffusion-ordered spectroscopy in depletion mode distinguishes protein amyloids and monomers
 tags: []
-title: Infrared Diffusion-Ordered Spectroscopy Reveals Molecular Size and Structure**
+title: Multidimensional infrared diffusion-ordered spectroscopy in depletion mode distinguishes protein amyloids and monomers
 authors:
   - Giulia Giubertoni
-  - Gijs Rombouts
   - Federico Caporaletti
-  - Antoine Deblais
-  - Rianne Diest
-  - Joost N. H. Reek
-  - Daniel Bonn
+  - Rianne van Diest
   - Sander Woutersen
 year: 2023
-journal: Angewandte Chemie International Edition
-doi: https://doi.org/10.1002/anie.202213424
-zotero: zotero://select/items/@giubertoni2023
+journal: The Journal of Chemical Physics
+doi: https://doi.org/10.1063/5.0140132
+zotero: zotero://select/library/items/XFZTDKXA
+pdf: /Users/aquiles/Zotero/storage/U54MBY33/Giubertoni et al. - 2023 - Multidimensional infrared diffusion-ordered spectroscopy in depletion mode distinguishes protein amy.pdf
 ---
+
 <!-- START_ABSTRACT -->
-Inspired by ideas from NMR, we have developed Infrared Diffusion-Ordered Spectroscopy (IR-DOSY), which simultaneously characterizes molecular structure and size. We rely on the fact that the diffusion coefficient of a molecule is determined by its size through the Stokes–Einstein relation, and achieve sensitivity to the diffusion coefficient by creating a concentration gradient and tracking its equilibration in an IR-frequency resolved manner. Analogous to NMR-DOSY, a two-dimensional IR-DOSY spectrum has IR frequency along one axis and diffusion coefficient (or equivalently, size) along the other, so the chemical structure and the size of a compound are characterized simultaneously. In an IR-DOSY spectrum of a mixture, molecules with different sizes are nicely separated into distinct sets of IR peaks. Extending this idea to higher dimensions, we also perform 3D-IR-DOSY, in which we combine the conformation sensitivity of femtosecond multi-dimensional IR spectroscopy with size sensitivity.
+Conventional and two-dimensional infrared (2D-IR) spectroscopy are well suited to study amyloid aggregates, because the amide I mode is a sensitive probe of the aggregate structure. However, these methods are not so useful to study mixtures of aggregates and monomers, which generally have overlapping amide I spectra. Here, we show that IR-Diffusion-Ordered Spectroscopy can disentangle the contributions of protein monomers and aggregates (amyloids) in FTIR and 2D-IR spectra by separating the spectral contributions based on molecular size. We rely on the fact that the diffusion coefficient of a molecule is determined by its size through the Stokes–Einstein relation, and achieve sensitivity to the diffusion coefficient by creating a concentration gradient inside an IR sample cell and tracking its equilibration in an IR-frequency-resolved manner. The amyloid diffusion is too slow to be experimentally observable, so instead of tracking the arrival of molecular species diffusing into the initially empty region of the sample cell, we track the depletion of the more rapidly diffusing species as they leave the sample-filled region. This way, we can still obtain the spectrum of very slowly diffusing species, although we cannot determine their diffusion coefficient. We first demonstrate this depletion method on a mixture of two small organic molecules and then show how it can be used to separate the spectrum of a mixture of bovine-serum-albumin amyloids and monomers into its component spectra, both in the FTIR and 2D-IR case.
 <!-- END_ABSTRACT -->
 
 <!-- START_TEMPLATE -->

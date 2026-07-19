@@ -15,8 +15,10 @@ authors:
 year: 2021
 journal: HardwareX
 doi: https://doi.org/10.1016/j.ohx.2021.e00202
-zotero: zotero://select/items/@ching2021
+zotero: zotero://select/library/items/XRDQVNUK
+pdf: /Users/aquiles/Zotero/storage/9TSH2666/Ching et al. - 2021 - Highly-customizable 3D-printed peristaltic pump ki.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

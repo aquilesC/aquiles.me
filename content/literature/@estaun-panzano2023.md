@@ -11,8 +11,9 @@ authors:
 year: 2023
 journal: Neurobiology of Disease
 doi: https://doi.org/10.1016/j.nbd.2022.105966
-zotero: zotero://select/items/@estaun-panzano2023
+zotero: zotero://select/library/items/ISBYNB58
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

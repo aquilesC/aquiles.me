@@ -14,8 +14,10 @@ authors:
 year: 2016
 journal: Biomedical Optics Express
 doi: https://doi.org/10.1364/BOE.7.003736
-zotero: zotero://select/items/@boccara2016
+zotero: zotero://select/library/items/R4AKFYE3
+pdf: /Users/aquiles/Zotero/storage/54L784Q3/Boccara et al. - 2016 - Full-field interferometry for counting and differe.pdf
 ---
+
 <!-- START_ABSTRACT -->
 There is a huge abundance of viruses and membrane vesicles in seawater. We describe a new full-field, incoherently illuminated, shot-noise limited, common-path interferometric detection method that we couple with the analysis of Brownian motion to detect, quantify, and differentiate biotic nanoparticles. We validated the method with calibrated nanoparticles and homogeneous DNA or RNA viruses. The smallest virus size that we characterized with a suitable signal-to-noise ratio was around 30 nm in diameter. Analysis of Brownian motions revealed anisotropic trajectories for myoviruses.We further applied the method for vesicles detection and for analysis of coastal and oligotrophic samples from Tara Oceans circumnavigation.
 <!-- END_ABSTRACT -->

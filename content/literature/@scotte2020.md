@@ -12,8 +12,10 @@ authors:
 year: 2020
 journal: Optics Letters
 doi: https://doi.org/10.1364/OL.400151
-zotero: zotero://select/items/@scotte2020
+zotero: zotero://select/library/items/HJ443CJE
+pdf: /Users/aquiles/Zotero/storage/4CY33TQQ/Scotté et al. - 2020 - Line-scan compressive Raman imaging with spatiospe.pdf
 ---
+
 <!-- START_ABSTRACT -->
 We report a line-scanning imaging modality of compressive Raman technology with a single-pixel detector. The spatial information along the illumination line is encoded onto one axis of a digital micromirror device, while spectral coding masks are applied along the orthogonal direction. We demonstrate imaging and classification of three different chemical species.
 <!-- END_ABSTRACT -->

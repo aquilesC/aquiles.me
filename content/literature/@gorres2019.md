@@ -10,8 +10,10 @@ authors:
 year: 2019
 journal: Scientific Reports
 doi: https://doi.org/10.1038/s41598-019-46121-y
-zotero: zotero://select/items/@gorres2019
+zotero: zotero://select/library/items/LTQQNIF6
+pdf: /Users/aquiles/Zotero/storage/F4YKGKQI/Görres and Chesmore - 2019 - Active sound production of scarab beetle larvae op.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

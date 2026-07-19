@@ -14,8 +14,12 @@ authors:
 year: 2010
 journal: Nano Letters
 doi: https://doi.org/10.1021/nl103210p
-zotero: zotero://select/items/@daaboul2010
+zotero: zotero://select/library/items/YU3EZPKB
+pdf:
+  - /Users/aquiles/Zotero/storage/AL2XVMRE/Daaboul et al. - 2010 - High-Throughput Detection and Sizing of Individual.pdf
+  - /Users/aquiles/Zotero/storage/EWRC5QRD/Daaboul et al. - 2010 - High-Throughput Detection and Sizing of Individual.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Rapid, chip-scale, and cost-effective single particle detection of biological agents is of great importance to human health and national security. We report real-time, high-throughput detection and sizing of individual, low-index polystyrene nanoparticles and H1N1 virus. Our widefield, common path interferometer detects nanoparticles and viruses over a very large sensing area, orders of magnitude larger than competing techniques. We demonstrate nanoparticle detection and sizing down to 70 nm in diameter. We clearly size discriminate nanoparticles with diameters of 70, 100, 150, and 200 nm. We also demonstrate detection and size characterization of hundreds of individual H1N1 viruses in a single experiment.
 <!-- END_ABSTRACT -->

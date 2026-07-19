@@ -7,8 +7,9 @@ authors:
   - Andy Hertzfeld
 year: 1982
 doi: ""
-zotero: zotero://select/items/@hertzfeld1982
+zotero: zotero://select/library/items/SX2LRQAU
 ---
+
 <!-- START_ABSTRACT -->
 It's hard to measure progress by lines of code
 <!-- END_ABSTRACT -->

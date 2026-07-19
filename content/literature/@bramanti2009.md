@@ -24,8 +24,10 @@ authors:
 year: 2009
 journal: Science
 doi: https://doi.org/10.1126/science.1176869
-zotero: zotero://select/items/@bramanti2009
+zotero: zotero://select/library/items/X3E7ABD9
+pdf: /Users/aquiles/Zotero/storage/QJRISAGN/Bramanti et al. - 2009 - Genetic Discontinuity Between Local Hunter-Gathere.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Cultivating Farmers
 Were the ancestors of modern Europeans the local hunter-gatherers who assimilated farming practices from neighboring cultures, or were they farmers who migrated from the Near East in the early Neolithic? By analyzing ancient hunter-gatherer skeletal DNA from 2300 to 13,400 B.C.E. Bramanti et al. (p. 137, published online 3 September) investigated the genetic relationship of European Ice Age hunter-gatherers, the first farmers of Europe, and modern Europeans. The results reject the hypothesis of direct continuity between hunter-gatherers and early farmers and between hunter-gatherers and modern Europeans. Major parts of central and northern Europe were colonized by incoming farmers 7500 years ago, who were not descended from the resident hunter-gatherers. Thus, migration rather than cultural diffusion was the driver of farming communities in Europe.

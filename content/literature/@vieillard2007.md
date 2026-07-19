@@ -15,8 +15,12 @@ authors:
 year: 2007
 journal: Journal of Chromatography B
 doi: https://doi.org/10.1016/j.jchromb.2006.08.009
-zotero: zotero://select/items/@vieillard2007
+zotero: zotero://select/library/items/ETUVVSVZ
+pdf:
+  - /Users/aquiles/Zotero/storage/YBV4LJJF/Vieillard et al. - 2007 - Application of microfluidic chip with integrated o.pdf
+  - /Users/aquiles/Zotero/storage/WDZPCTC7/Vieillard et al. - 2007 - Application of microfluidic chip with integrated o.pdf
 ---
+
 <!-- START_ABSTRACT -->
 This paper describes the fabrication, the characterization and the applications of a capillary electrophoresis microchip. This hybrid device (glass/PDMS) features channels and optical waveguides integrated in one common substrate. It can be used for electrophoretic separation and fluorimetric detection of molecules. The microfluidic performance of the device is demonstrated by capillary zone and gel electrophoresis of proteins.
 <!-- END_ABSTRACT -->

@@ -10,8 +10,10 @@ authors:
 year: 2000
 journal: Scientia Marina
 doi: https://doi.org/10.3989/scimar.2000.64n2197
-zotero: zotero://select/items/@gasol2000
+zotero: zotero://select/library/items/Z47EDYTN
+pdf: /Users/aquiles/Zotero/storage/W7467YB4/Gasol and Del Giorgio - 2000 - Using flow cytometry for counting natural plankton.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

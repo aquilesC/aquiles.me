@@ -7,8 +7,9 @@ authors:
   - Hamid Ghanadan
 year: 2016
 doi: ""
-zotero: zotero://select/items/@ghanadan2016
+zotero: zotero://select/library/items/VNH5LDD6
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

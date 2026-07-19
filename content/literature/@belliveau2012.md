@@ -20,8 +20,10 @@ authors:
 year: 2012
 journal: Molecular Therapy - Nucleic Acids
 doi: https://doi.org/10.1038/mtna.2012.28
-zotero: zotero://select/items/@belliveau2012
+zotero: zotero://select/library/items/239WD28T
+pdf: /Users/aquiles/Zotero/storage/LZS4W323/Belliveau et al. - 2012 - Microfluidic Synthesis of Highly Potent Limit-size.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

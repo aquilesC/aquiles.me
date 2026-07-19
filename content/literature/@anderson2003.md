@@ -8,8 +8,10 @@ authors:
   - Orville R. Butler
 year: 2003
 doi: ""
-zotero: zotero://select/items/@anderson2003
+zotero: zotero://select/library/items/Q7ZXTTN8
+pdf: /Users/aquiles/Zotero/storage/QIWFVZKP/HoPE-Report-2013-web.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Final report of the History of Physics in Entrepreneurship project.
 <!-- END_ABSTRACT -->

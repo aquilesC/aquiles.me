@@ -18,8 +18,10 @@ authors:
 year: 2022
 journal: Theranostics
 doi: https://doi.org/10.7150/thno.73436
-zotero: zotero://select/items/@al-masawa2022
+zotero: zotero://select/library/items/9I5ASYRA
+pdf: /Users/aquiles/Zotero/storage/JF826ZJE/Al-Masawa et al. - 2022 - Efficacy and safety of small extracellular vesicle interventions in wound healing and skin regenerat.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -7,8 +7,9 @@ authors:
   - Dale Carnegie
 year: 2010
 doi: ""
-zotero: zotero://select/items/@carnegie2010
+zotero: zotero://select/library/items/9XDTKRMJ
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

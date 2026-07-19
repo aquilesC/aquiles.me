@@ -14,8 +14,12 @@ authors:
 year: 2023
 journal: Journal of Extracellular Vesicles
 doi: https://doi.org/10.1002/jev2.12309
-zotero: zotero://select/items/@broad2023
+zotero: zotero://select/library/items/4HM4LT5Y
+pdf:
+  - /Users/aquiles/Zotero/storage/XBQDZ34Y/Broad et al. - 2023 - Unraveling multilayered extracellular vesicles Sp.pdf
+  - /Users/aquiles/Zotero/storage/4BWUEZQV/Broad et al. - 2023 - Unraveling multilayered extracellular vesicles Sp.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Extracellular vesicles (EVs) are cell-released, heterogenous nanoparticles that play important roles in (patho)physiological processes through intercellular communication. EVs are often depicted as having a single lipid bilayer, but many studies have demonstrated the existence of multilayered EVs. There has been minimal inquiry into differences between unilamellar and multilamellar EVs in terms of biogenesis mechanisms and functional effects. This commentary speculates on potential causes and roles of multilamellar EVs and serves as a call to action for the research community to unravel the complex layers of EVs.
 <!-- END_ABSTRACT -->

@@ -9,8 +9,9 @@ authors:
 year: 2018
 journal: Nature
 doi: https://doi.org/10.1038/d41586-018-02331-4
-zotero: zotero://select/items/@castelvecchi2018
+zotero: zotero://select/library/items/GZS92BP5
 ---
+
 <!-- START_ABSTRACT -->
 Images track shockwave of a stellar explosion as it emerges from the star’s surface.
 <!-- END_ABSTRACT -->

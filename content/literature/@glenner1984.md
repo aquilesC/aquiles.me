@@ -10,8 +10,10 @@ authors:
 year: 1984
 journal: Biochemical and Biophysical Research Communications
 doi: https://doi.org/10.1016/S0006-291X(84)80190-4
-zotero: zotero://select/items/@glenner1984
+zotero: zotero://select/library/items/BKD2XAUK
+pdf: /Users/aquiles/Zotero/storage/N5LEAM8J/Glenner and Wong - 1984 - Alzheimer's disease Initial report of the purific.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

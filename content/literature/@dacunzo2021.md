@@ -23,8 +23,12 @@ authors:
 year: 2021
 journal: Science Advances
 doi: https://doi.org/10.1126/sciadv.abe5085
-zotero: zotero://select/items/@dacunzo2021
+zotero: zotero://select/library/items/IITPR59Q
+pdf:
+  - /Users/aquiles/Zotero/storage/I5PZL4Q7/eabe5085.full.pdf
+  - /Users/aquiles/Zotero/storage/XMPRJATM/D’Acunzo et al. - 2021 - Mitovesicles are a novel population of extracellul.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Mitochondrial dysfunction is an established hallmark of aging and neurodegenerative disorders such as Down syndrome (DS) and Alzheimer’s disease (AD). Using a high-resolution density gradient separation of extracellular vesicles (EVs) isolated from murine and human DS and diploid control brains, we identify and characterize a previously unknown population of double-membraned EVs containing multiple mitochondrial proteins distinct from previously described EV subtypes, including microvesicles and exosomes. We term these newly identified mitochondria-derived EVs “mitovesicles.” We demonstrate that brain-derived mitovesicles contain a specific subset of mitochondrial constituents and that their levels and cargo are altered during pathophysiological processes where mitochondrial dysfunction occurs, including in DS. The development of a method for the selective isolation of mitovesicles paves the way for the characterization in vivo of biological processes connecting EV biology and mitochondria dynamics and for innovative therapeutic and diagnostic strategies.
 <!-- END_ABSTRACT -->

@@ -8,8 +8,9 @@ authors:
   - Robert Dorf
 year: 2012
 doi: ""
-zotero: zotero://select/items/@blank2012
+zotero: zotero://select/library/items/3L8QHY33
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

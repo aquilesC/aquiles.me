@@ -1,0 +1,255 @@
+---
+aliases:
+  - Vinicius Peripato. Science. 2023
+  - More than 10,000 pre-Columbian earthworks are still hidden throughout Amazonia
+tags: []
+title: More than 10,000 pre-Columbian earthworks are still hidden throughout Amazonia
+authors:
+  - Vinicius Peripato
+  - Carolina Levis
+  - Guido A. Moreira
+  - Dani Gamerman
+  - Hans ter Steege
+  - Nigel C. A. Pitman
+  - Jonas G. de Souza
+  - José Iriarte
+  - Mark Robinson
+  - André Braga Junqueira
+  - Thiago B. Trindade
+  - Fernando O. de Almeida
+  - Claide de Paula Moraes
+  - Umberto Lombardo
+  - Eduardo K. Tamanaha
+  - Shira Y. Maezumi
+  - Jean P. H. B. Ometto
+  - José R. G. Braga
+  - Wesley A. Campanharo
+  - Henrique L. G. Cassol
+  - Philipe R. Leal
+  - Mauro L. R. de Assis
+  - Adriana M. da Silva
+  - Oliver L. Phillips
+  - Flávia R. C. Costa
+  - Bernardo Monteiro Flores
+  - Bruce Hoffman
+  - Terry W. Henkel
+  - Maria Natalia Umaña
+  - William E. Magnusson
+  - Elvis H. Valderrama Sandoval
+  - Jos Barlow
+  - William Milliken
+  - Maria Aparecida Lopes
+  - Marcelo Fragomeni Simon
+  - Tinde R. van Andel
+  - Susan G. W. Laurance
+  - William F. Laurance
+  - Armando Torres-Lezama
+  - Rafael L. Assis
+  - Jean-François Molino
+  - Mickaël Mestre
+  - Michelle Hamblin
+  - Luiz de Souza Coelho
+  - Diogenes de Andrade Lima Filho
+  - Florian Wittmann
+  - Rafael P. Salomão
+  - Iêda Leão Amaral
+  - Juan Ernesto Guevara
+  - Francisca Dionízia de Almeida Matos
+  - Carolina V. Castilho
+  - Marcelo de Jesus Veiga Carim
+  - Dairon Cárdenas López
+  - Daniel Sabatier
+  - Mariana Victória Irume
+  - Maria Pires Martins
+  - José Renan da Silva Guimarães
+  - Olaf S. Bánki
+  - Maria Teresa Fernandez Piedade
+  - José Ferreira Ramos
+  - Bruno Garcia Luize
+  - Evlyn Márcia Moraes de Leão Novo
+  - Percy Núñez Vargas
+  - Thiago Sanna Freire Silva
+  - Eduardo Martins Venticinque
+  - Angelo Gilberto Manzatto
+  - Neidiane Farias Costa Reis
+  - John Terborgh
+  - Katia Regina Casula
+  - Layon O. Demarchi
+  - Euridice N. Honorio Coronado
+  - Abel Monteagudo Mendoza
+  - Juan Carlos Montero
+  - Jochen Schöngart
+  - Ted R. Feldpausch
+  - Adriano Costa Quaresma
+  - Gerardo A. Aymard C.
+  - Chris Baraloto
+  - Nicolás Castaño Arboleda
+  - Julien Engel
+  - Pascal Petronelli
+  - Charles Eugene Zartman
+  - Timothy J. Killeen
+  - Beatriz S. Marimon
+  - Ben Hur Marimon-Junior
+  - Juliana Schietti
+  - Thaiane R. Sousa
+  - Rodolfo Vasquez
+  - Lorena M. Rincón
+  - Erika Berenguer
+  - Joice Ferreira
+  - Bonifacio Mostacedo
+  - Dário Dantas do Amaral
+  - Hernán Castellanos
+  - Marcelo Brilhante de Medeiros
+  - Ana Andrade
+  - José Luís Camargo
+  - Emanuelle de Sousa Farias
+  - José Leonardo Lima Magalhães
+  - Henrique Eduardo Mendonça Nascimento
+  - Helder Lima de Queiroz
+  - Roel Brienen
+  - Juan David Cardenas Revilla
+  - Pablo R. Stevenson
+  - Alejandro Araujo-Murakami
+  - Bruno Barçante Ladvocat Cintra
+  - Yuri Oliveira Feitosa
+  - Flávia Rodrigues Barbosa
+  - Rainiellen de Sá Carpanedo
+  - Joost F. Duivenvoorden
+  - Janaína da Costa de Noronha
+  - Domingos de Jesus Rodrigues
+  - Hugo F. Mogollón
+  - Leandro Valle Ferreira
+  - John Ethan Householder
+  - José Rafael Lozada
+  - James A. Comiskey
+  - Freddie C. Draper
+  - José Julio de Toledo
+  - Gabriel Damasco
+  - Nállarett Dávila
+  - Roosevelt García-Villacorta
+  - Aline Lopes
+  - Fernando Cornejo Valverde
+  - Alfonso Alonso
+  - Francisco Dallmeier
+  - Vitor H. F. Gomes
+  - Eliana M. Jimenez
+  - David Neill
+  - Maria Cristina Peñuela Mora
+  - Daniel P. P. de Aguiar
+  - Luzmila Arroyo
+  - Fernanda Antunes Carvalho
+  - Fernanda Coelho de Souza
+  - Kenneth J. Feeley
+  - Rogerio Gribel
+  - Marcelo Petratti Pansonato
+  - Marcos Ríos Paredes
+  - Izaias Brasil da Silva
+  - Maria Julia Ferreira
+  - Paul V. A. Fine
+  - Émile Fonty
+  - Marcelino Carneiro Guedes
+  - Juan Carlos Licona
+  - Toby Pennington
+  - Carlos A. Peres
+  - Boris Eduardo Villa Zegarra
+  - Germaine Alexander Parada
+  - Guido Pardo Molina
+  - Vincent Antoine Vos
+  - Carlos Cerón
+  - Paul Maas
+  - Marcos Silveira
+  - Juliana Stropp
+  - Raquel Thomas
+  - Tim R. Baker
+  - Doug Daly
+  - Isau Huamantupa-Chuquimaco
+  - Ima Célia Guimarães Vieira
+  - Bianca Weiss Albuquerque
+  - Alfredo Fuentes
+  - Bente Klitgaard
+  - José Luis Marcelo-Peña
+  - Miles R. Silman
+  - J. Sebastián Tello
+  - Corine Vriesendorp
+  - Jerome Chave
+  - Anthony Di Fiore
+  - Renato Richard Hilário
+  - Juan Fernando Phillips
+  - Gonzalo Rivas-Torres
+  - Patricio von Hildebrand
+  - Luciana de Oliveira Pereira
+  - Edelcilio Marques Barbosa
+  - Luiz Carlos de Matos Bonates
+  - Hilda Paulette Dávila Doza
+  - Ricardo Zárate Gómez
+  - George Pepe Gallardo Gonzales
+  - Therany Gonzales
+  - Yadvinder Malhi
+  - Ires Paula de Andrade Miranda
+  - Linder Felipe Mozombite Pinto
+  - Adriana Prieto
+  - Agustín Rudas
+  - Ademir R. Ruschel
+  - Natalino Silva
+  - César I. A. Vela
+  - Egleé L. Zent
+  - Stanford Zent
+  - Angela Cano
+  - Yrma Andreina Carrero Márquez
+  - Diego F. Correa
+  - Janaina Barbosa Pedrosa Costa
+  - David Galbraith
+  - Milena Holmgren
+  - Michelle Kalamandeen
+  - Guilherme Lobo
+  - Marcelo Trindade Nascimento
+  - Alexandre A. Oliveira
+  - Hirma Ramirez-Angulo
+  - Maira Rocha
+  - Veridiana Vizoni Scudeller
+  - Rodrigo Sierra
+  - Milton Tirado
+  - Geertje van der Heijden
+  - Emilio Vilanova Torre
+  - Manuel Augusto Ahuite Reategui
+  - Cláudia Baider
+  - Henrik Balslev
+  - Sasha Cárdenas
+  - Luisa Fernanda Casas
+  - William Farfan-Rios
+  - Cid Ferreira
+  - Reynaldo Linares-Palomino
+  - Casimiro Mendoza
+  - Italo Mesones
+  - Ligia Estela Urrego Giraldo
+  - Daniel Villarroel
+  - Roderick Zagt
+  - Miguel N. Alexiades
+  - Edmar Almeida de Oliveira
+  - Karina Garcia-Cabrera
+  - Lionel Hernandez
+  - Walter Palacios Cuenca
+  - Susamar Pansini
+  - Daniela Pauletto
+  - Fredy Ramirez Arevalo
+  - Adeilza Felipe Sampaio
+  - Luis Valenzuela Gamarra
+  - Luiz E. O. C. Aragão
+year: 2023
+journal: Science
+doi: https://doi.org/10.1126/science.ade2541
+zotero: zotero://select/library/items/K3Q7VYLM
+pdf: /Users/aquiles/Zotero/storage/8F4USD8E/Peripato et al. - 2023 - More than 10,000 pre-Columbian earthworks are stil.pdf
+---
+
+<!-- START_ABSTRACT -->
+Indigenous societies are known to have occupied the Amazon basin for more than 12,000 years, but the scale of their influence on Amazonian forests remains uncertain. We report the discovery, using LIDAR (light detection and ranging) information from across the basin, of 24 previously undetected pre-Columbian earthworks beneath the forest canopy. Modeled distribution and abundance of large-scale archaeological sites across Amazonia suggest that between 10,272 and 23,648 sites remain to be discovered and that most will be found in the southwest. We also identified 53 domesticated tree species significantly associated with earthwork occurrence probability, likely suggesting past management practices. Closed-canopy forests across Amazonia are likely to contain thousands of undiscovered archaeological sites around which pre-Columbian societies actively modified forests, a discovery that opens opportunities for better understanding the magnitude of ancient human influence on Amazonia and its current state.
+<!-- END_ABSTRACT -->
+
+
+<!-- START_TEMPLATE -->
+# {{title}}
+
+- Source:
+- Tags: 
+<!-- END_TEMPLATE -->

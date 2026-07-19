@@ -13,8 +13,12 @@ authors:
 year: 2018
 journal: Journal of Thrombosis and Haemostasis
 doi: https://doi.org/10.1111/jth.14154
-zotero: zotero://select/items/@libregts2018
+zotero: zotero://select/library/items/8WGKXMRR
+pdf:
+  - /Users/aquiles/Zotero/storage/RXU9PU8S/Libregts et al. - 2018 - Flow cytometric analysis of extracellular vesicle .pdf
+  - /Users/aquiles/Zotero/storage/GW3XXJEJ/Libregts_et_al_2018_Journal_of_Thrombosis_and_Haemostasis.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

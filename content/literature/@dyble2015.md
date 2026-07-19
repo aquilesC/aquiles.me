@@ -17,8 +17,10 @@ authors:
 year: 2015
 journal: Science
 doi: https://doi.org/10.1126/science.aaa5139
-zotero: zotero://select/items/@dyble2015
+zotero: zotero://select/library/items/FVVMY2KX
+pdf: /Users/aquiles/Zotero/storage/BVW54KX8/Dyble et al. - 2015 - Sex equality can explain the unique social structu.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Friends and family?
 Evolutionary theory stresses the importance of living with kin, not least because they share some of our genes. Nevertheless, a large-scale assessment of contemporary hunter-gatherer societies has established a consistent pattern of unrelated individuals living together. Dyble et al. used a modeling approach to suggest that a possible answer to this conundrum is that cohabitation choices are being governed equally by men and women.

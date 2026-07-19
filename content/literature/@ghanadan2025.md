@@ -1,3 +1,23 @@
+---
+aliases:
+  - "Not Buying It: The Art of Selling to Scientists, Doctors, and Other Professional Skeptics"
+tags: []
+title: "Not Buying It: The Art of Selling to Scientists, Doctors, and Other Professional Skeptics"
+authors:
+  - Hamid Ghanadan
+year: 2025
+doi: ""
+zotero: zotero://select/library/items/AS3DXFMT
+---
+
+<!-- START_TEMPLATE -->
+# {{title}}
+
+- Source:
+- Tags: 
+<!-- END_TEMPLATE -->
+
+
 - title: Not Buying It: The Art of Selling to Scientists, Doctors, and Other Professional Skeptics
 - authors: Hamid Ghanadan
 - year: 2025
@@ -15,4 +35,3 @@ Interesting topics:
 - [[literature/202603010905 Defining positioning|202603010905 Defining positioning]]
 - [[literature/202603011129 Testing the positioning|202603011129 Testing the positioning]]
 - [[literature/202603010908 Aligning customer journey and strategy|202603010908 Aligning customer journey and strategy]]
-

@@ -6,8 +6,9 @@ title: The Era of Open Innovation
 authors:
   - Henry W. Chesbrough
 doi: ""
-zotero: zotero://select/items/@chesbrough
+zotero: zotero://select/library/items/Z9IWDM33
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

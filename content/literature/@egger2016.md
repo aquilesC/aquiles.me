@@ -7,8 +7,10 @@ authors:
   - Christopher Egger
 year: 2016
 doi: ""
-zotero: zotero://select/items/@egger2016
+zotero: zotero://select/library/items/5NXFRHU9
+pdf: /Users/aquiles/Zotero/storage/ZCNWY475/Egger - 2016 - Identifying Key Opinion Leaders in Social Networks.pdf
 ---
+
 <!-- START_ABSTRACT -->
 This thesis focuses on the identification of influential users, also known as key opinion leaders, within the social network Instagram. Instagram is a very popular platform to share images with the option to categorise the images by certain tags. It is possible to collect public data from Instagram via the open API of the platform.
 This thesis presents a concept to create an automated crawler for this API and col- lect data into a database in order to apply algorithms from graph theory to identify opinion leaders afterwards. The sample topic for this thesis has been veganfood and all associated posts from Instagram have been crawled.

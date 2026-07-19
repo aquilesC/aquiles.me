@@ -19,8 +19,10 @@ authors:
 year: 2022
 journal: Journal of Nanobiotechnology
 doi: https://doi.org/10.1186/s12951-022-01256-5
-zotero: zotero://select/items/@campos-silva2022
+zotero: zotero://select/library/items/KZFKXCGX
+pdf: /Users/aquiles/Zotero/storage/V98J532D/Campos-Silva et al. - 2022 - A simple immunoassay for extracellular vesicle liq.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Extracellular vesicles (EVs), released by most cell types, provide an excellent source of biomarkers in biological fluids. However, in order to perform validation studies and screenings of patient samples, it is still necessary to develop general techniques permitting rapid handling of small amounts of biological samples from large numbers of donors.
 <!-- END_ABSTRACT -->

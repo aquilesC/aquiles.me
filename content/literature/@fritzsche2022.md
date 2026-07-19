@@ -9,8 +9,10 @@ authors:
 year: 2022
 journal: Communications Biology
 doi: https://doi.org/10.1038/s42003-022-03601-8
-zotero: zotero://select/items/@fritzsche2022
+zotero: zotero://select/library/items/LSAMA5AU
+pdf: /Users/aquiles/Zotero/storage/ZH7IFDZJ/Fritzsche - 2022 - Live microscopy cracking the challenge to image b.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Communications Biology is inviting submissions on the topic of live microscopy – from new tools to emerging techniques, from conventional to advanced light microscopy - with the aim of publishing high-quality research devoted to advance our understanding of biology.
 <!-- END_ABSTRACT -->

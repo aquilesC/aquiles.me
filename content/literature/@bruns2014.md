@@ -8,8 +8,10 @@ authors:
   - Javier Luque
 year: 2014
 doi: ""
-zotero: zotero://select/items/@bruns2014
+zotero: zotero://select/library/items/BLYRSRNB
+pdf: /Users/aquiles/Zotero/storage/MKSPYFJX/BM-excellent-teachers-report.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

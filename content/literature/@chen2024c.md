@@ -9,8 +9,9 @@ authors:
 year: 2024
 journal: Matter
 doi: https://doi.org/10.1016/j.matt.2024.11.012
-zotero: zotero://select/items/@chen2024c
+zotero: zotero://select/library/items/GW975QJJ
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

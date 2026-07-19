@@ -23,8 +23,10 @@ authors:
 year: 2020
 journal: Nature Energy
 doi: https://doi.org/10.1038/s41560-020-0645-2
-zotero: zotero://select/items/@heath2020
+zotero: zotero://select/library/items/YGQEW5EK
+pdf: /Users/aquiles/Zotero/storage/NTJTY2N3/Heath et al. - 2020 - Research and development priorities for silicon ph.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

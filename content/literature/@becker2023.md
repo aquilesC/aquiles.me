@@ -15,8 +15,10 @@ authors:
 year: 2023
 journal: ACS Photonics
 doi: https://doi.org/10.1021/acsphotonics.3c00422
-zotero: zotero://select/items/@becker2023
+zotero: zotero://select/library/items/6JWYAJRI
+pdf: /Users/aquiles/Zotero/storage/HKUE7QF5/Becker et al. - 2023 - A Quantitative Description for Optical Mass Measur.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

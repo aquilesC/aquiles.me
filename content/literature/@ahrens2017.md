@@ -7,8 +7,9 @@ authors:
   - Sönke Ahrens
 year: 2017
 doi: ""
-zotero: zotero://select/items/@ahrens2017
+zotero: zotero://select/library/items/V6NPRD7D
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

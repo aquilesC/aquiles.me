@@ -14,8 +14,10 @@ authors:
 year: 2021
 journal: Microbiology spectrum
 doi: https://doi.org/10.1128/spectrum.01273-21
-zotero: zotero://select/items/@bitto2021
+zotero: zotero://select/library/items/3PXVGDJC
+pdf: /Users/aquiles/Zotero/storage/FVI7EC48/Bitto et al. - 2021 - Considerations for the Analysis of Bacterial Membrane Vesicles Methods of Vesicle Production and Qu.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Recent years have seen a surge in interest in the roles of BMVs in host-microbe interactions and interbacterial communication. As a result of such rapid growth in the field, there is a lack of uniformity in BMV enumeration.
 <!-- END_ABSTRACT -->

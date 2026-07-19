@@ -1,0 +1,23 @@
+---
+aliases:
+  - Valentina La Verde. BIO-PROTOCOL. 2017
+  - Determination of Hydrodynamic Radius of Proteins by Size Exclusion Chromatography
+tags: []
+title: Determination of Hydrodynamic Radius of Proteins by Size Exclusion Chromatography
+authors:
+  - Valentina La Verde
+  - Paola Dominici
+  - Alessandra Astegno
+year: 2017
+journal: BIO-PROTOCOL
+doi: https://doi.org/10.21769/BioProtoc.2230
+zotero: zotero://select/library/items/RSI52QRJ
+pdf: /Users/aquiles/Zotero/storage/Z968P87A/La Verde et al. - 2017 - Determination of Hydrodynamic Radius of Proteins b.pdf
+---
+
+<!-- START_TEMPLATE -->
+# {{title}}
+
+- Source:
+- Tags: 
+<!-- END_TEMPLATE -->

@@ -7,8 +7,9 @@ authors:
   - Yuval Noaḥ Harari
 year: 2015
 doi: ""
-zotero: zotero://select/items/@harari2015
+zotero: zotero://select/library/items/TBV7382P
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

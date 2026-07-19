@@ -21,8 +21,10 @@ authors:
 year: 2025
 journal: Nature Communications
 doi: https://doi.org/10.1038/s41467-025-59231-1
-zotero: zotero://select/items/@canty2025
+zotero: zotero://select/library/items/LAQGRULY
+pdf: /Users/aquiles/Zotero/storage/HD24XZBV/Canty et al. - 2025 - Science acceleration and accessibility with self-driving labs.pdf
 ---
+
 <!-- START_ABSTRACT -->
 In the evolving landscape of scientific research, the complexity of global challenges demands innovative approaches to experimental planning and execution. Self-Driving Laboratories (SDLs) automate experimental tasks in chemical and materials sciences and the design and selection of experiments to optimize research processes and reduce material usage. This perspective explores improving access to SDLs via centralized facilities and distributed networks. We discuss the technical and collaborative challenges in realizing SDLs’ potential to enhance human–machine and human–human collaboration, ultimately fostering a more inclusive research community and facilitating previously untenable research projects.
 <!-- END_ABSTRACT -->

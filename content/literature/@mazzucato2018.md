@@ -7,8 +7,10 @@ authors:
   - Mariana Mazzucato
 year: 2018
 doi: ""
-zotero: zotero://select/items/@mazzucato2018
+zotero: zotero://select/library/items/QATVAZLS
+pdf: /Users/aquiles/Zotero/storage/NJ4IIFXT/Mazzucato - 2018 - The entrepreneurial state debunking public vs. pr.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -22,7 +22,7 @@ authors:
   - Esther N. M. Nolte-‘t-Hoen
   - Katarzyna Bloch
   - Johannes V. Swinnen
-  - Edwin Pol
+  - Edwin van der Pol
   - Rienk Nieuwland
   - Geert Braems
   - Nico Callewaert
@@ -35,8 +35,12 @@ authors:
 year: 2019
 journal: Nature Communications
 doi: https://doi.org/10.1038/s41467-019-11182-0
-zotero: zotero://select/items/@geeurickx2019
+zotero: zotero://select/library/items/UR6U79FQ
+pdf:
+  - /Users/aquiles/Zotero/storage/8522398U/Geeurickx et al. - 2019 - The generation and use of recombinant extracellula.pdf
+  - /Users/aquiles/Zotero/storage/C3P58CNU/Geeurickx et al. - 2019 - The generation and use of recombinant extracellula.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

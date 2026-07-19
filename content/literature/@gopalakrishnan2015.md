@@ -10,8 +10,12 @@ authors:
 year: 2015
 journal: American Journal of Physics
 doi: https://doi.org/10.1119/1.4895343
-zotero: zotero://select/items/@gopalakrishnan2015
+zotero: zotero://select/library/items/MBVJYUR8
+pdf:
+  - /Users/aquiles/Zotero/storage/RD8CHD2E/Gopalakrishnan and Gühr - 2015 - A low-cost mirror mount control system for optics .pdf
+  - /Users/aquiles/Zotero/storage/7P8IEHXE/Gopalakrishnan and Gühr - 2015 - A low-cost mirror mount control system for optics .pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

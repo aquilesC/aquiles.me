@@ -15,8 +15,10 @@ authors:
 year: 2021
 journal: The Journal of Immunology
 doi: https://doi.org/10.4049/jimmunol.2100637
-zotero: zotero://select/items/@bansal2021
+zotero: zotero://select/library/items/HB847V89
+pdf: /Users/aquiles/Zotero/storage/WKGA9LYV/Bansal et al. - 2021 - Cutting Edge Circulating Exosomes with COVID Spik.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

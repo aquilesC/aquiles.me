@@ -12,8 +12,10 @@ authors:
 year: 2019
 journal: Management Science
 doi: https://doi.org/10.1287/mnsc.2018.3249
-zotero: zotero://select/items/@camuffo2019
+zotero: zotero://select/library/items/5YP76YFP
+pdf: /Users/aquiles/Zotero/storage/7UDD4TZA/Camuffo et al. - 2019 - A Scientific Approach to Entrepreneurial Decision .pdf
 ---
+
 <!-- START_ABSTRACT -->
 A classical approach to collecting and elaborating information to make entrepreneurial decisions combines search heuristics, such as trial and error, effectuation, and confirmatory search. This pap...
 <!-- END_ABSTRACT -->

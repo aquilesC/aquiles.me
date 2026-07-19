@@ -14,7 +14,7 @@ authors:
   - Sébastien Jiguet
   - An Hendrix
   - Marc Bracke
-  - Rudy Van Broecke
+  - Rudy Van den Broecke
   - Magnus Röding
   - Mats Rudemo
   - Jo Demeester
@@ -25,8 +25,12 @@ authors:
 year: 2014
 journal: Nanoscale
 doi: https://doi.org/10.1039/C3NR04432G
-zotero: zotero://select/items/@deschout2014
+zotero: zotero://select/library/items/NG7B8M8B
+pdf:
+  - /Users/aquiles/Zotero/storage/53K2TC2V/Deschout et al. - 2014 - On-chip light sheet illumination enables diagnosti.pdf
+  - /Users/aquiles/Zotero/storage/PIN23QU6/Deschout et al. - 2014 - On-chip light sheet illumination enables diagnosti.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Cell-derived membrane vesicles that are released in biofluids, like blood or saliva, are emerging as potential non-invasive biomarkers for diseases, such as cancer. Techniques capable of measuring the size and concentration of membrane vesicles directly in biofluids are urgently needed. Fluorescence single particle tracking microscopy has the potential of doing exactly that by labelling the membrane vesicles with a fluorescent label and analysing their Brownian motion in the biofluid. However, an unbound dye in the biofluid can cause high background intensity that strongly biases the fluorescence single particle tracking size and concentration measurements. While such background intensity can be avoided with light sheet illumination, current set-ups require specialty sample holders that are not compatible with high-throughput diagnostics. Here, a microfluidic chip with integrated light sheet illumination is reported, and accurate fluorescence single particle tracking size and concentration measurements of membrane vesicles in cell culture medium and in interstitial fluid collected from primary human breast tumours are demonstrated.
 <!-- END_ABSTRACT -->

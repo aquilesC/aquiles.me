@@ -4,10 +4,11 @@ aliases:
 tags: []
 title: The Future We Choose. Surviving the Climate Crisis
 authors:
-  - Rivett-Carnac Figueres, Christiana
+  - Rivett-Carnac, Tom Figueres, Christiana
 doi: ""
-zotero: zotero://select/items/@figuereschristiana
+zotero: zotero://select/library/items/VCGZLSHL
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -11,8 +11,10 @@ authors:
 year: 1971
 journal: Biochemistry
 doi: https://doi.org/10.1021/bi00789a030
-zotero: zotero://select/items/@fairbanks1971
+zotero: zotero://select/library/items/3WKSFY2N
+pdf: /Users/aquiles/Zotero/storage/QPSSIV5H/Fairbanks et al. - 1971 - Electrophoretic analysis of the major polypeptides.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

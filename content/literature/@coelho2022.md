@@ -14,8 +14,10 @@ authors:
 year: 2022
 journal: npj Materials Degradation
 doi: https://doi.org/10.1038/s41529-022-00218-4
-zotero: zotero://select/items/@coelho2022
+zotero: zotero://select/library/items/VXRXBDSF
+pdf: /Users/aquiles/Zotero/storage/2TMU8YVW/Coelho et al. - 2022 - Reviewing machine learning of corrosion prediction.pdf
 ---
+
 <!-- START_ABSTRACT -->
 This work provides a data-oriented overview of the rapidly growing research field covering machine learning (ML) applied to predicting electrochemical corrosion. Our main aim was to determine which ML models have been applied and how well they performed depending on the corrosion topic considered. From an extensive review of corrosion articles presenting comparable performance metrics, a ‘Machine learning for corrosion database’ was created, guiding corrosion experts and model developers in their applications of ML to corrosion. Potential research gaps and recommendations are discussed, and a broad perspective for future research paths is provided.
 <!-- END_ABSTRACT -->

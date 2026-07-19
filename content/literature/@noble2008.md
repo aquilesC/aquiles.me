@@ -7,8 +7,9 @@ authors:
   - Denis Noble
 year: 2008
 doi: ""
-zotero: zotero://select/items/@noble2008
+zotero: zotero://select/library/items/4XEZDQQ7
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

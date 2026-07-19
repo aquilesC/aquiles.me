@@ -16,8 +16,10 @@ authors:
 year: 2019
 journal: Biophysical Journal
 doi: https://doi.org/10.1016/j.bpj.2019.06.015
-zotero: zotero://select/items/@granik2019
+zotero: zotero://select/library/items/TBMS6PPN
+pdf: /Users/aquiles/Zotero/storage/WAAZ7D9F/Granik et al. - 2019 - Single-Particle Diffusion Characterization by Deep.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -7,8 +7,9 @@ authors:
   - Richard Dawkins
 year: 2016
 doi: ""
-zotero: zotero://select/items/@dawkins2016
+zotero: zotero://select/library/items/ZDSZVD8H
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

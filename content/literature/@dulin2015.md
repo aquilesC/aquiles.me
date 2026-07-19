@@ -14,8 +14,10 @@ authors:
 year: 2015
 journal: Biophysical Journal
 doi: https://doi.org/10.1016/j.bpj.2015.10.018
-zotero: zotero://select/items/@dulin2015
+zotero: zotero://select/library/items/PSGEFK9Z
+pdf: /Users/aquiles/Zotero/storage/AHLJC74X/Dulin et al. - 2015 - High Spatiotemporal-Resolution Magnetic Tweezers .pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

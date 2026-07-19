@@ -11,8 +11,10 @@ authors:
 year: 2006
 journal: Physical Review Letters
 doi: https://doi.org/10.1103/physrevlett.96.013901
-zotero: zotero://select/items/@filippv.ignatovich2006
+zotero: zotero://select/library/items/5T8KNV4M
+pdf: /Users/aquiles/Zotero/storage/UCVZGTJ3/Filipp V. Ignatovich et al. - 2006 - Real-time and background-free detection of nanosca.pdf
 ---
+
 <!-- START_ABSTRACT -->
 0031-9007= We introduce a background-free real-time detection scheme capable of recognizing low-index nanoparticles such as single viruses in water. The method is based on interferometrically measuring the electromagnetic field amplitude of the scattered light. A split detector is used to generate a backgroundfree signal that renders unprecedented sensitivity for small particles. In its current configuration the sensor is capable of detecting low-index particles in water down to 10 nm in radius or single gold particles as small as 5 nm. We demonstrate the detection of such small particles in a microfluidic system with a time resolution of 1 ms and we discuss the theoretical limits of this novel detection scheme.
 <!-- END_ABSTRACT -->

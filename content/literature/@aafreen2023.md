@@ -12,8 +12,10 @@ authors:
 year: 2023
 journal: Extracellular Vesicles and Circulating Nucleic Acids
 doi: https://doi.org/10.20517/evcna.2023.01
-zotero: zotero://select/items/@aafreen2023
+zotero: zotero://select/library/items/HVUTQZ6C
+pdf: /Users/aquiles/Zotero/storage/RCECMFSA/Aafreen et al. - 2023 - Theranostic extracellular vesicles a concise revi.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Theranostic extracellular vesicles: a concise review of current imaging technologies and labeling strategies
 <!-- END_ABSTRACT -->

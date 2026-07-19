@@ -13,8 +13,10 @@ authors:
 year: 2020
 journal: Science Translational Medicine
 doi: https://doi.org/10.1126/scitranslmed.aax4144
-zotero: zotero://select/items/@cattarino2020
+zotero: zotero://select/library/items/SMEHWRCR
+pdf: /Users/aquiles/Zotero/storage/MJQ3R5WK/Cattarino et al. - 2020 - Mapping global variation in dengue transmission in.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

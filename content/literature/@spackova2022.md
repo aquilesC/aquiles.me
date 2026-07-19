@@ -13,7 +13,7 @@ authors:
   - Hana Šípová-Jungová
   - David Albinsson
   - Quentin Lubart
-  - Daniel Leeuwen
+  - Daniel van Leeuwen
   - Fredrik Westerlund
   - Daniel Midtvedt
   - Elin K. Esbjörner
@@ -23,8 +23,12 @@ authors:
 year: 2022
 journal: Nature Methods
 doi: https://doi.org/10.1038/s41592-022-01491-6
-zotero: zotero://select/items/@spackova2022
+zotero: zotero://select/library/items/FKRG9UA8
+pdf:
+  - /Users/aquiles/Zotero/storage/E37NWTNK/Barbora Špačková et al. - 2022 - Label-free nanofluidic scattering microscopy of si.pdf
+  - /Users/aquiles/Zotero/storage/EHL3LQ9K/Špačková et al. - 2022 - Label-free nanofluidic scattering microscopy of si.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Label-free characterization of single biomolecules aims to complement fluorescence microscopy in situations where labeling compromises data interpretation, is technically challenging or even impossible. However, existing methods require the investigated species to bind to a surface to be visible, thereby leaving a large fraction of analytes undetected. Here, we present nanofluidic scattering microscopy (NSM), which overcomes these limitations by enabling label-free, real-time imaging of single biomolecules diffusing inside a nanofluidic channel. NSM facilitates accurate determination of molecular weight from the measured optical contrast and of the hydrodynamic radius from the measured diffusivity, from which information about the conformational state can be inferred. Furthermore, we demonstrate its applicability to the analysis of a complex biofluid, using conditioned cell culture medium containing extracellular vesicles as an example. We foresee the application of NSM to monitor conformational changes, aggregation and interactions of single biomolecules, and to analyze single-cell secretomes.
 <!-- END_ABSTRACT -->

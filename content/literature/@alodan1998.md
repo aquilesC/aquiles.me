@@ -10,8 +10,10 @@ authors:
 year: 1998
 journal: Journal of The Electrochemical Society
 doi: https://doi.org/10.1149/1.1838520
-zotero: zotero://select/items/@alodan1998
+zotero: zotero://select/library/items/YS5H5TGI
+pdf: /Users/aquiles/Zotero/storage/MPI2VX3G/Alodan and Smyrl - 1998 - Detection of Localized Corrosion of Aluminum Alloy.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

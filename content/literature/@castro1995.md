@@ -10,8 +10,10 @@ authors:
 year: 1995
 journal: Analytical Chemistry
 doi: https://doi.org/10.1021/ac00114a013
-zotero: zotero://select/items/@castro1995
+zotero: zotero://select/library/items/7YA5L6VS
+pdf: /Users/aquiles/Zotero/storage/NPNNEEXU/Castro and Shera - 1995 - Single-Molecule electrophoresis.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

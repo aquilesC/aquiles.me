@@ -7,8 +7,9 @@ authors:
   - Bill Gates
 year: 2021
 doi: ""
-zotero: zotero://select/items/@gates2021
+zotero: zotero://select/library/items/29WSKDMR
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

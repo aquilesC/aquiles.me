@@ -7,8 +7,9 @@ authors:
   - Josh Kaufman
 year: 2020
 doi: ""
-zotero: zotero://select/items/@kaufman2020
+zotero: zotero://select/library/items/QZJ9FMUQ
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

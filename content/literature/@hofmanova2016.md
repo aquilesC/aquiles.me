@@ -11,7 +11,7 @@ authors:
   - Christian Sell
   - Yoan Diekmann
   - David Díez-del-Molino
-  - Lucy Dorp
+  - Lucy van Dorp
   - Saioa López
   - Athanasios Kousathanas
   - Vivian Link
@@ -47,8 +47,10 @@ authors:
 year: 2016
 journal: Proceedings of the National Academy of Sciences
 doi: https://doi.org/10.1073/pnas.1523951113
-zotero: zotero://select/items/@hofmanova2016
+zotero: zotero://select/library/items/IAFI8992
+pdf: /Users/aquiles/Zotero/storage/38JN5A66/Hofmanová et al. - 2016 - Early farmers from across Europe directly descende.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Farming and sedentism first appeared in southwestern Asia during the early Holocene and later spread to neighboring regions, including Europe, along multiple dispersal routes. Conspicuous uncertainties remain about the relative roles of migration, cultural diffusion, and admixture with local foragers in the early Neolithization of Europe. Here we present paleogenomic data for five Neolithic individuals from northern Greece and northwestern Turkey spanning the time and region of the earliest spread of farming into Europe. We use a novel approach to recalibrate raw reads and call genotypes from ancient DNA and observe striking genetic similarity both among Aegean early farmers and with those from across Europe. Our study demonstrates a direct genetic link between Mediterranean and Central European early farmers and those of Greece and Anatolia, extending the European Neolithic migratory chain all the way back to southwestern Asia.
 <!-- END_ABSTRACT -->

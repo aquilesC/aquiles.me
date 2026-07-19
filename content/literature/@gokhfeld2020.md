@@ -11,8 +11,10 @@ authors:
 year: 2020
 journal: Physics of Metals and Metallography
 doi: https://doi.org/10.1134/S0031918X20100051
-zotero: zotero://select/items/@gokhfeld2020
+zotero: zotero://select/library/items/X67DYD77
+pdf: /Users/aquiles/Zotero/storage/YEYRISFF/Gokhfeld et al. - 2020 - Highly Porous Superconductors Synthesis, Research, and Prospects.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -13,8 +13,10 @@ authors:
 year: 2018
 journal: Nature
 doi: https://doi.org/10.1038/s41586-018-0337-2
-zotero: zotero://select/items/@butler2018
+zotero: zotero://select/library/items/MXKQI4ZD
+pdf: /Users/aquiles/Zotero/storage/C6VA4Z74/Butler et al. - 2018 - Machine learning for molecular and materials science.pdf
 ---
+
 <!-- START_ABSTRACT -->
 Here we summarize recent progress in machine learning for the chemical sciences. We outline machine-learning techniques that are suitable for addressing research questions in this domain, as well as future directions for the field. We envisage a future in which the design, synthesis, characterization and application of molecules and materials is accelerated by artificial intelligence.
 <!-- END_ABSTRACT -->

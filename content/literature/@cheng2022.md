@@ -10,8 +10,10 @@ authors:
 year: 2022
 journal: Nature Reviews Drug Discovery
 doi: https://doi.org/10.1038/s41573-022-00410-w
-zotero: zotero://select/items/@cheng2022
+zotero: zotero://select/library/items/XNSQQL85
+pdf: /Users/aquiles/Zotero/storage/SG6MSMMC/Cheng and Hill - 2022 - Therapeutically harnessing extracellular vesicles.pdf
 ---
+
 <!-- START_ABSTRACT -->
 The field of extracellular vesicle (EV) research has developed rapidly over the last decade from the study of fundamental biology to a subject of significant clinical relevance. The potential of harnessing EVs in the diagnosis and treatment of diseases — including cancer and neurological and cardiovascular disorders — is now being recognized. Accordingly, the applications of EVs as therapeutic targets, biomarkers, novel drug delivery agents and standalone therapeutics are being actively explored. This Review provides a brief overview of the characteristics and physiological functions of the various classes of EV, focusing on their association with disease and emerging strategies for their therapeutic exploitation.
 <!-- END_ABSTRACT -->

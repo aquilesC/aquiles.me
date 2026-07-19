@@ -13,8 +13,10 @@ authors:
 year: 2022
 journal: ACS Sensors
 doi: https://doi.org/10.1021/acssensors.2c01086
-zotero: zotero://select/items/@barandun2022
+zotero: zotero://select/library/items/L3UCZ4PZ
+pdf: /Users/aquiles/Zotero/storage/LRTQL2SE/Barandun et al. - 2022 - Challenges and Opportunities for Printed Electrical Gas Sensors.pdf
 ---
+
 <!-- START_ABSTRACT -->
 , Printed electrical
 gas sensors are a low-cost, lightweight, low-power,

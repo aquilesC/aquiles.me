@@ -10,8 +10,10 @@ authors:
 year: 2002
 journal: Chemistry of Materials
 doi: https://doi.org/10.1021/cm025541x
-zotero: zotero://select/items/@franklin2002
+zotero: zotero://select/library/items/TSZC7A65
+pdf: /Users/aquiles/Zotero/storage/CABHYJTE/Franklin and Wang - 2002 - Refractive Index Matching A General Method for En.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

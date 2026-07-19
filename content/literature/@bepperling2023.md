@@ -10,8 +10,10 @@ authors:
 year: 2023
 journal: European Biophysics Journal
 doi: https://doi.org/10.1007/s00249-023-01663-y
-zotero: zotero://select/items/@bepperling2023
+zotero: zotero://select/library/items/HKDKESJ2
+pdf: /Users/aquiles/Zotero/storage/VC2NIBR5/Bepperling and Richter - 2023 - Determination of mRNA copy number in degradable li.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

@@ -19,7 +19,7 @@ authors:
   - W. Zheng
   - T. G. Brink
   - S. B. Cenko
-  - T. Jaeger
+  - T. de Jaeger
   - S. Kumar
   - T. J. Moriya
   - K. Nomoto
@@ -29,8 +29,10 @@ authors:
 year: 2018
 journal: Nature
 doi: https://doi.org/10.1038/nature25151
-zotero: zotero://select/items/@bersten2018
+zotero: zotero://select/library/items/46X3YW2T
+pdf: /Users/aquiles/Zotero/storage/ARFYP6W8/Bersten et al. - 2018 - A surge of light at the birth of a supernova.pdf
 ---
+
 <!-- START_ABSTRACT -->
 The discovery of a newly born type IIb supernova reveals a rapid brightening at optical wavelengths that corresponds to the shock-breakout phase of the explosion.
 <!-- END_ABSTRACT -->

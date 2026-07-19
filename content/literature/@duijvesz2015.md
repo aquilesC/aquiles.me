@@ -7,7 +7,7 @@ title: "Immuno-based detection of extracellular vesicles in urine as diagnostic 
 authors:
   - Diederick Duijvesz
   - C. Yin L. Versluis
-  - Christa A.M. Fels
+  - Christa A.M. van der Fels
   - Mirella S. Vredenbregt-van den Berg
   - Janne Leivo
   - Mari T. Peltola
@@ -17,8 +17,10 @@ authors:
 year: 2015
 journal: International Journal of Cancer
 doi: https://doi.org/10.1002/ijc.29664
-zotero: zotero://select/items/@duijvesz2015
+zotero: zotero://select/library/items/E4URRABZ
+pdf: /Users/aquiles/Zotero/storage/LBF8CE5S/Duijvesz et al. - 2015 - Immuno-based detection of extracellular vesicles i.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

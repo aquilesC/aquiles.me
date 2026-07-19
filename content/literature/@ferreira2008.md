@@ -9,8 +9,9 @@ authors:
 year: 2008
 journal: Open Source Business Resource
 doi: ""
-zotero: zotero://select/items/@ferreira2008
+zotero: zotero://select/library/items/3DMRVW69
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

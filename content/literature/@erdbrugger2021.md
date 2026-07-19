@@ -47,8 +47,10 @@ authors:
 year: 2021
 journal: Journal of Extracellular Vesicles
 doi: https://doi.org/10.1002/jev2.12093
-zotero: zotero://select/items/@erdbrugger2021
+zotero: zotero://select/library/items/296VLW3W
+pdf: /Users/aquiles/Zotero/storage/PA3BQSWY/Erdbrügger et al. - 2021 - Urinary extracellular vesicles A position paper b.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

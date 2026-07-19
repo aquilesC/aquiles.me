@@ -7,8 +7,9 @@ authors:
   - Marty Cagan
 year: 2018
 doi: ""
-zotero: zotero://select/items/@cagan2018
+zotero: zotero://select/library/items/GTTV2BCN
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

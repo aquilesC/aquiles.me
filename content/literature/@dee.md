@@ -7,8 +7,9 @@ authors:
   - Thomas S. Dee
 journal: Wired
 doi: ""
-zotero: zotero://select/items/@dee
+zotero: zotero://select/library/items/RJCPYFYH
 ---
+
 <!-- START_ABSTRACT -->
 The pandemic has proven the need for new technologies that can radically change online learning models. But investors are more interested in existing platforms.
 <!-- END_ABSTRACT -->

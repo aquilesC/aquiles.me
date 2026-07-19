@@ -10,8 +10,10 @@ authors:
 year: 2021
 journal: Nature
 doi: https://doi.org/10.1038/d41586-021-00592-0
-zotero: zotero://select/items/@meyvis2021
+zotero: zotero://select/library/items/V47VEW7C
+pdf: /Users/aquiles/Zotero/storage/SMELMWMS/Meyvis and Yoon - 2021 - Adding is favoured over subtracting in problem solving.pdf
 ---
+
 <!-- START_ABSTRACT -->
 People tend to solve problems by adding features.
 <!-- END_ABSTRACT -->

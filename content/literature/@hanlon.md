@@ -5,10 +5,10 @@ tags: []
 title: Are PhD Students Irrational?
 authors:
   - Aaron R. Hanlon
-journal: Los Angeles Review of Books
 doi: ""
-zotero: zotero://select/items/@hanlon
+zotero: zotero://select/library/items/FHZMVRSD
 ---
+
 <!-- START_ABSTRACT -->
 Debunking the widespread idea that humanities PhD students are irrational for entering into an “oversupplied” degree in a tight job market.
 <!-- END_ABSTRACT -->

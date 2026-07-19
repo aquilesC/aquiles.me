@@ -17,22 +17,24 @@ authors:
   - Andrew F. Hill
   - Romaric Lacroix
   - Yi Lee
-  - Ton G. Leeuwen
+  - Ton G. van Leeuwen
   - Nigel Mackman
   - Imre Mäger
   - John P. Nolan
-  - Edwin Pol
+  - Edwin van der Pol
   - D. Michiel Pegtel
   - Susmita Sahoo
   - Pia R.M. Siljander
   - Guus Sturk
-  - Olivier Wever
+  - Olivier de Wever
   - Rienk Nieuwland
 year: 2017
 journal: Circulation Research
 doi: https://doi.org/10.1161/CIRCRESAHA.117.309417
-zotero: zotero://select/items/@coumans2017
+zotero: zotero://select/library/items/69NCL8BN
+pdf: /Users/aquiles/Zotero/storage/7SIPRVAL/Coumans et al. - 2017 - Methodological Guidelines to Study Extracellular V.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 

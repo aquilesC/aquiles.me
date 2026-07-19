@@ -12,13 +12,15 @@ authors:
   - Guillermo Mattei
   - Diego Mazzitelli
   - Silvina Ponce Dawson
-  - Constanza Sánchez Fernández Vega
+  - Constanza Sánchez Fernández de la Vega
   - Francisco Tamarit
 year: 2011
 journal: Astronomy Education Review
 doi: https://doi.org/10.3847/AER2011007
-zotero: zotero://select/items/@bekeris2011
+zotero: zotero://select/library/items/CN6ECZKT
+pdf: /Users/aquiles/Zotero/storage/YXKQH2K8/Bekeris et al. - 2011 - Eratosthenes 20092010 An Old Experiment in Modern Times.pdf
 ---
+
 <!-- START_TEMPLATE -->
 # {{title}}
 
