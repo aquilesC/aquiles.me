@@ -1,4 +1,4 @@
-In the discussions on the [[Zettelkasten method]], either [[How to Take Smart Notes - Sönke Ahrens]], or the discussions of [[Andy Matuschak]], and [Zettelkasten.de](https://zettelkasten.de), I miss an important contextual piece of information which is the link with reality and our own experience (see: [[note taking lacks internal discussions]]). 
+In the discussions on the [[Zettelkasten method]], either [[How to Take Smart Notes - Sönke Ahrens]], or the discussions of [[Andy Matuschak]], and [Zettelkasten.de](https://zettelkasten.de), I miss an important contextual piece of information which is the link with reality and our own experience (see: [[note taking lacks internal discussions]] and [[§ how i take notes of papers]]). 
 
 Literature notes are based on a single-source like a paper, or a book (could also be any other citable form of content, but I mostly consume those two). 
 

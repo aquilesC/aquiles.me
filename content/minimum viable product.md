@@ -12,6 +12,8 @@ The crucial task of [[product development cycle]] for an MVP is limiting the num
 
 The objective of the MVP is manyfold. On the one hand it should allow to test the [[market thesis]], meaning that there's someone willing to pay for the solution. On the other, it should demonstrate which core features are relevant for different users. 
 
+From the perspective of a [[product manager]], an MVP also allows to map out [[who are product stakeholders]] in a given context. 
+
 And the constraints are also important: the MVP should be developable with the resources already available. 
 
 At this point, I like to bring in [[jobs theory]] to the discussion, since it allows to map out the metrics the users will use to judge our offer. 

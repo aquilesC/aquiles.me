@@ -27,6 +27,8 @@ The discovery path, on the other hand, relies heavily on what algorithm is avail
 In the "Selling Discovery" approach, it is likely that the "best candidate" is the only result presented. While the entire exploration context is what the company keeps as trade secret. A second discovery campaign can reach better and more accurate results. 
 
 ## Selling Data
+(See: [[modeling data as a scarce resource]], which is a bit broader than what is intended in this discussion). 
+
 In the perspective of more and more companies trying to get their hands on data to train and refine their models, there's a high likelihood that data itself is a commodity that can be sold. Curated (and expanding) datasets including as much metadata as possible. 
 
 I foresee this to be a topic that could be financed by large consortia (publicly funded), and which could be made accessible to companies via licensing. 

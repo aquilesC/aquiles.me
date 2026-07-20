@@ -11,6 +11,9 @@ By focusing on value delivery, engineers and [[product manager|product managers]
 
 Depending on the stage of the company (and product), this may mean involving commercial, it may also mean doing more and better [[Customer Discovery]] (follow up with [[jobs theory]] to have a framework on which to run the discussions). 
 
+## Don't forget your stakeholders 
+It is also important to track the internal people who are responsible for decisions, in other words [[who are product stakeholders]]. This is not minor, since they will have veto power on the things we decide, and the potential exploration further. 
+
 ## Personal Notes
 I had a discussion with the software team who built an "[[MVP]]" and were frustrated because our internal users didn't want to adopt it. The crux of the issue is that they built something that works but brings no ==value==. 
 

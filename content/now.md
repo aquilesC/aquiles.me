@@ -14,4 +14,4 @@ keywords: now, working, projects
 	- I keep engaging with [[scipreneurs]] to see how to help them. 
 	- I think about [[Self Driving Laboratory]], and [[Business Models for SDL]]
 	- Think about accelerating [[technolgy transfer]] through [[innovative tech transfer business models]]
-- Some of my latest readings
+- [[Reading]]

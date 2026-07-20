@@ -2,12 +2,11 @@
 description: This is my strategy for taking notes of the papers I read. From underlining and marginalia to a permanent note in my digital garden. 
 epistemic: This is work in progress. I still don't have a clear process on how to take good notes on papers that can be used in the long term. 
 ---
-For over 2 years now, I have been using exclusively an iPad to read papers. I could never read from a computer screen, but an iPad and its pencil became perfect replacements. 
+Since I own an iPad, I have been using it exclusively to read papers. I don't print them anymore, and I don't read from a computer screen. The iPad with its pencil is ideal, since it allows me to highlight, and write in the margins. 
 
 I keep all the references on [[Zotero]] (even many I've collected over the years and probably will never read). I synchronize my computer with my iPad (and my phone) via my Nextloud instance on a Raspberry Pi at home. 
 
 However, the [[note taking]] approach is the same either for paper or for its digital counterpart. 
-
 
 - On the paper itself, I take a variety of notes:
     - **Underlining** allows me to quickly skim through the text to find the bits that were more interesting to remember. I may use different colors to draw different levels of attention. 

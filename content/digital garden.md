@@ -1,6 +1,6 @@
 A **digital garden** is a collection of notes taken on an electronic medium. What sets it apart from a [[This website is not a blog|blog]], is that writing in a garden is [[performative blogging|not performative]]. It's not meant to optimize for viewership or a reader, in most cases **it is not meant to be made public at all**. 
 
-Most digital gardens are meant to sit in a computer (or a private cloud). They are a source of inspiration for better thinking. Some people like to talk about "the second brain" which I believe it is too much of a stretch for an imperfect system of note-taking. 
+Most digital gardens are meant to sit in a computer (or a private cloud). They are a source of inspiration for better thinking. Some people like to talk about "the second brain" which I believe it is too much of a stretch for an imperfect system of note-taking (see: [[§ how i take notes of papers]])
 
 There are some people, like myself, who decided [[gardening in public]] is a good idea. Some popular ones include [Notes](https://notes.andymatuschak.org/About_these_notes) by [[Andy Matuschak]], [Tom Critchlow](https://tomcritchlow.com/), or perhaps the best known [Gwern](https://gwern.net/). 
 
