@@ -9,6 +9,15 @@ year: 2019
 doi: ""
 zotero: zotero://select/library/items/7YVVFMEY
 ---
+
+<!-- START_TEMPLATE -->
+# {{title}}
+
+- Source:
+- Tags: 
+<!-- END_TEMPLATE -->
+
+
 - title: Obv!ously awesome: how to nail product positioning so customers get it, buy it, love it
 - authors: April Dunford
 - year: 2019

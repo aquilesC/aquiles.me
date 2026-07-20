@@ -5,6 +5,10 @@ tags: []
 title: Platform Sealing Secrets Using Physically Unclonable Function (puf) with Trusted Computing Base (tcb) Recoverability
 doi: ""
 zotero: zotero://select/library/items/Y7ERDQWS
+authors:
+  - Siddhartha Chhabra
+  - Prashant Dewan
+year: 2022
 ---
 
 <!-- START_ABSTRACT -->

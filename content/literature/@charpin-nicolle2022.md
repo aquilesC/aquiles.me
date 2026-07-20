@@ -5,6 +5,10 @@ tags: []
 title: Method for manufacturing a microelectronic device integrating a physical unclonable function provided by resistive memories, and said device
 doi: ""
 zotero: zotero://select/library/items/JMM73CSJ
+authors:
+  - Christelle Charpin-Nicolle
+  - Florian Pebay-Peyroula
+year: 2022
 ---
 
 <!-- START_ABSTRACT -->

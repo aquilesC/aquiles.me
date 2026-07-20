@@ -5,6 +5,12 @@ tags: []
 title: Method for manufacturing a microelectronic device comprising a plurality of resistive memory points configured to form a physical unclonable function and said device
 doi: ""
 zotero: zotero://select/library/items/3S267249
+authors:
+  - Christelle Charpin-Nicolle
+  - Florian Pebay-Peyroula
+  - Rémy Gassilloud
+  - Nicolas Guillaume
+year: 2024
 ---
 
 <!-- START_ABSTRACT -->
