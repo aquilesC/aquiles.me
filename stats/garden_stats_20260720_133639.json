@@ -1,0 +1,4461 @@
+{
+  "timestamp": "2026-07-20T13:36:39.578655+00:00",
+  "total_notes": 2188,
+  "notes_with_content": 1278,
+  "total_words": 321765,
+  "total_links": 3839,
+  "total_backlinks": 2378,
+  "total_tags": 403,
+  "total_citations": 184,
+  "longest_note": {
+    "title": "Open Hardware Business Models",
+    "words": 3952,
+    "path": "essays/_Open Hardware Business Models.md",
+    "url": "/essays/_open_hardware_business_models/"
+  },
+  "shortest_note": {
+    "title": "Essays/linkedin/  startup team",
+    "words": 1,
+    "path": "essays/LinkedIn/_ startup team.md",
+    "url": "/essays/LinkedIn/__startup_team/"
+  },
+  "most_connected_note": {
+    "title": "Extracellular vesicles",
+    "connections": 62,
+    "links": 18,
+    "backlinks": 44,
+    "path": "extracellular vesicles.md",
+    "url": "/extracellular_vesicles/"
+  },
+  "most_linked_note": {
+    "title": "Extracellular vesicles",
+    "backlinks": 44,
+    "path": "extracellular vesicles.md",
+    "url": "/extracellular_vesicles/"
+  },
+  "orphaned_notes": [
+    {
+      "title": "Klara and the Sun - Ishiguro",
+      "path": "Klara and the Sun - Ishiguro.md",
+      "url": "/klara_and_the_sun_-_ishiguro/"
+    },
+    {
+      "title": "My cv made into a podcast",
+      "path": "My CV made into a podcast.md",
+      "url": "/my_cv_made_into_a_podcast/"
+    },
+    {
+      "title": "Poeta chileno - alejandro zambra",
+      "path": "Poeta Chileno - Alejandro Zambra.md",
+      "url": "/poeta_chileno_-_alejandro_zambra/"
+    },
+    {
+      "title": "§ how i take notes of papers",
+      "path": "§ how i take notes of papers.md",
+      "url": "/§_how_i_take_notes_of_papers/"
+    },
+    {
+      "title": "Modeling Data as a Scarce Resource",
+      "path": "modeling data as a scarce resource.md",
+      "url": "/modeling_data_as_a_scarce_resource/"
+    },
+    {
+      "title": "1999 - francisco bitar",
+      "path": "1999 - Francisco Bitar.md",
+      "url": "/1999_-_francisco_bitar/"
+    },
+    {
+      "title": "It's a pity that RSS feeds are fading away",
+      "path": "It's a pity that RSS feeds are fading away.md",
+      "url": "/it's_a_pity_that_rss_feeds_are_fading_away/"
+    },
+    {
+      "title": "Me-lead vc firms are biased towards favoring men-specific problems",
+      "path": "me-lead VC firms are biased towards favoring men-specific problems.md",
+      "url": "/me-lead_vc_firms_are_biased_towards_favoring_men-specific_problems/"
+    },
+    {
+      "title": "Who are product stakeholders",
+      "path": "who are product stakeholders.md",
+      "url": "/who_are_product_stakeholders/"
+    },
+    {
+      "title": "The Price of the Amazon Rainforest",
+      "path": "price of the amazon rainforest.md",
+      "url": "/price_of_the_amazon_rainforest/"
+    },
+    {
+      "title": "Washburn's Equation",
+      "path": "washburn equation.md",
+      "url": "/washburn_equation/"
+    },
+    {
+      "title": "Spying on people is extremely easy, still that does not make it morally correct",
+      "path": "how easy it is to spy on people online.md",
+      "url": "/how_easy_it_is_to_spy_on_people_online/"
+    },
+    {
+      "title": "12 dimensions of workplace strength",
+      "path": "12 dimensions of workplace strength.md",
+      "url": "/12_dimensions_of_workplace_strength/"
+    },
+    {
+      "title": "Preventing django from sending log emails",
+      "path": "Preventing Django from sending log emails.md",
+      "url": "/preventing_django_from_sending_log_emails/"
+    },
+    {
+      "title": "Motivations for entrepreneurs",
+      "path": "Motivations for entrepreneurs.md",
+      "url": "/motivations_for_entrepreneurs/"
+    },
+    {
+      "title": "To pay or not to pay reviewers of scientific papers",
+      "path": "To pay or not to pay reviewers of scientific papers.md",
+      "url": "/to_pay_or_not_to_pay_reviewers_of_scientific_papers/"
+    },
+    {
+      "title": "Revert to the Last Known Working State",
+      "path": "revert to the last known working state.md",
+      "url": "/revert_to_the_last_known_working_state/"
+    },
+    {
+      "title": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "path": "LICENSE.md",
+      "url": "/license/"
+    },
+    {
+      "title": "Startup studio",
+      "path": "Startup Studio.md",
+      "url": "/startup_studio/"
+    },
+    {
+      "title": "La herida - jorge fernández díaz",
+      "path": "La Herida - Jorge Fernández Díaz.md",
+      "url": "/la_herida_-_jorge_fernández_díaz/"
+    },
+    {
+      "title": "Why footnotes should be side notes on websites",
+      "path": "why footnotes should be side notes on websites.md",
+      "url": "/why_footnotes_should_be_side_notes_on_websites/"
+    },
+    {
+      "title": "Market research is a commodity",
+      "path": "Market research is a commodity.md",
+      "url": "/market_research_is_a_commodity/"
+    },
+    {
+      "title": "Git is a poorly designed tool",
+      "path": "git is a poorly designed tool.md",
+      "url": "/git_is_a_poorly_designed_tool/"
+    },
+    {
+      "title": "Hiring a copy editor for python for the lab",
+      "path": "Hiring a copy editor for python for the lab.md",
+      "url": "/hiring_a_copy_editor_for_python_for_the_lab/"
+    },
+    {
+      "title": "Nasdaq is fundamental for quicker exits",
+      "path": "NASDAQ is fundamental for quicker exits.md",
+      "url": "/nasdaq_is_fundamental_for_quicker_exits/"
+    },
+    {
+      "title": "Operación Kazán - Vicente Vallés",
+      "path": "Operación Kazán - Vicente Vallés.md",
+      "url": "/operación_kazán_-_vicente_vallés/"
+    },
+    {
+      "title": "Making Myself Available for a Talk",
+      "path": "making myself available for a talk.md",
+      "url": "/making_myself_available_for_a_talk/"
+    },
+    {
+      "title": "§-notes",
+      "path": "§-notes.md",
+      "url": "/§-notes/"
+    },
+    {
+      "title": "Molecular shot noise",
+      "path": "Molecular shot noise.md",
+      "url": "/molecular_shot_noise/"
+    },
+    {
+      "title": "Tres Truenos, de Marina Closs",
+      "path": "Tres Truenos - Marina Closs.md",
+      "url": "/tres_truenos_-_marina_closs/"
+    },
+    {
+      "title": "Everyone can Build a Twitter Audience",
+      "path": "Everyone can Build a Twitter Audience - Daniel Vassallo.md",
+      "url": "/everyone_can_build_a_twitter_audience_-_daniel_vassallo/"
+    },
+    {
+      "title": "Leukemia and lymphoma",
+      "path": "Leukemia and Lymphoma.md",
+      "url": "/leukemia_and_lymphoma/"
+    },
+    {
+      "title": "Hard to quantify decisions",
+      "path": "Hard to quantify decisions.md",
+      "url": "/hard_to_quantify_decisions/"
+    },
+    {
+      "title": "City planning with biased data",
+      "path": "city planning with biased data.md",
+      "url": "/city_planning_with_biased_data/"
+    },
+    {
+      "title": "El tango de la guardia vieja - arturo pérez-reverte",
+      "path": "El tango de la guardia vieja - Arturo Pérez-Reverte.md",
+      "url": "/el_tango_de_la_guardia_vieja_-_arturo_pérez-reverte/"
+    },
+    {
+      "title": "The fallacy of the carbon emitters",
+      "path": "the fallacy of the carbon emitters.md",
+      "url": "/the_fallacy_of_the_carbon_emitters/"
+    },
+    {
+      "title": "Review of PyAstroPol",
+      "path": "review of PyAstroPol.md",
+      "url": "/review_of_pyastropol/"
+    },
+    {
+      "title": "Digital Garden Terms of Service",
+      "path": "digital garden tos.md",
+      "url": "/digital_garden_tos/"
+    },
+    {
+      "title": "Learning Javascript",
+      "path": "learning Javascript.md",
+      "url": "/learning_javascript/"
+    },
+    {
+      "title": "Closing the hiring gender gap must be consequent to new performance metrics",
+      "path": "closing the hiring gender gap must be consequent to new performance metrics.md",
+      "url": "/closing_the_hiring_gender_gap_must_be_consequent_to_new_performance_metrics/"
+    },
+    {
+      "title": "Grant recipients are ageing",
+      "path": "grant recipients are ageing.md",
+      "url": "/grant_recipients_are_ageing/"
+    },
+    {
+      "title": "Mi Rincón en Internet",
+      "path": "index_es.md",
+      "url": "/index_es/"
+    },
+    {
+      "title": "El Problema de los Tres Cuerpos - Liu Cixin",
+      "path": "El Problema de los Tres Cuerpos - Liu Cixin.md",
+      "url": "/el_problema_de_los_tres_cuerpos_-_liu_cixin/"
+    },
+    {
+      "title": "Applications of electrophoretic mobility",
+      "path": "applications of electrophoretic mobility.md",
+      "url": "/applications_of_electrophoretic_mobility/"
+    },
+    {
+      "title": "Catalytic experience of new england biolabs",
+      "path": "Catalytic experience of New England Biolabs.md",
+      "url": "/catalytic_experience_of_new_england_biolabs/"
+    },
+    {
+      "title": "Hipster hacker hustler",
+      "path": "Hipster hacker hustler.md",
+      "url": "/hipster_hacker_hustler/"
+    },
+    {
+      "title": "Sobre Aquiles Carattino",
+      "path": "about me es.md",
+      "url": "/about_me_es/"
+    },
+    {
+      "title": "Dune - frank herbert",
+      "path": "Dune - Frank Herbert.md",
+      "url": "/dune_-_frank_herbert/"
+    },
+    {
+      "title": "La forma de leer cambió en el tiempo",
+      "path": "La forma de leer cambió en el tiempo.md",
+      "url": "/la_forma_de_leer_cambió_en_el_tiempo/"
+    },
+    {
+      "title": "Eggs in argentinian shores are from a snail",
+      "path": "eggs in argentinian shores are from a snail.md",
+      "url": "/eggs_in_argentinian_shores_are_from_a_snail/"
+    },
+    {
+      "title": "Differential schemes for particle detection",
+      "path": "differential schemes for particle detection.md",
+      "url": "/differential_schemes_for_particle_detection/"
+    },
+    {
+      "title": "About this Website",
+      "path": "§about.md",
+      "url": "/§about/"
+    },
+    {
+      "title": "Challenges of private education projects",
+      "path": "Challenges of private education projects.md",
+      "url": "/challenges_of_private_education_projects/"
+    },
+    {
+      "title": "Podcast I listened in Week 32",
+      "path": "week 32 podcasts.md",
+      "url": "/week_32_podcasts/"
+    },
+    {
+      "title": "Taking notes for writing products",
+      "path": "taking notes for writing products.md",
+      "url": "/taking_notes_for_writing_products/"
+    },
+    {
+      "title": "As we may think - vannevar bush",
+      "path": "As We May Think - Vannevar Bush.md",
+      "url": "/as_we_may_think_-_vannevar_bush/"
+    },
+    {
+      "title": "Chrome will phase out third party cookies",
+      "path": "chrome will phase out third party cookies.md",
+      "url": "/chrome_will_phase_out_third_party_cookies/"
+    },
+    {
+      "title": "Life cycle of the malaria parasite",
+      "path": "Life cycle of the malaria parasite.md",
+      "url": "/life_cycle_of_the_malaria_parasite/"
+    },
+    {
+      "title": "The biases each one of us carries",
+      "path": "the biases we carry.md",
+      "url": "/the_biases_we_carry/"
+    },
+    {
+      "title": "Consequences of wrong positioning",
+      "path": "Consequences of wrong positioning.md",
+      "url": "/consequences_of_wrong_positioning/"
+    },
+    {
+      "title": "Hollow core fibers can increase the throughput of analyzed particles",
+      "path": "hollow core fibers can increase the throughput of analyzed particles.md",
+      "url": "/hollow_core_fibers_can_increase_the_throughput_of_analyzed_particles/"
+    },
+    {
+      "title": "Reactivating past customers",
+      "path": "Reactivating past customers.md",
+      "url": "/reactivating_past_customers/"
+    },
+    {
+      "title": "Genetically modifying humans for space travel",
+      "path": "genetically modifying humans for space travel.md",
+      "url": "/genetically_modifying_humans_for_space_travel/"
+    },
+    {
+      "title": "A demonstration is the most powerful marketing tool",
+      "path": "A demonstration is the most powerful marketing tool.md",
+      "url": "/a_demonstration_is_the_most_powerful_marketing_tool/"
+    },
+    {
+      "title": "Tech Notes",
+      "path": "tech_notes.md",
+      "url": "/tech_notes/"
+    },
+    {
+      "title": "Chaos - james gleick",
+      "path": "Chaos - James Gleick.md",
+      "url": "/chaos_-_james_gleick/"
+    },
+    {
+      "title": "Freeing short term memory",
+      "path": "freeing short term memory.md",
+      "url": "/freeing_short_term_memory/"
+    },
+    {
+      "title": "Challenges with studying corrosion",
+      "path": "Challenges with studying corrosion.md",
+      "url": "/challenges_with_studying_corrosion/"
+    },
+    {
+      "title": "Error handling in python",
+      "path": "Error handling in python.md",
+      "url": "/error_handling_in_python/"
+    },
+    {
+      "title": "Honorable entrepreneur - philipp baaske",
+      "path": "Honorable Entrepreneur - Philipp Baaske.md",
+      "url": "/honorable_entrepreneur_-_philipp_baaske/"
+    },
+    {
+      "title": "Five stages of colloidal particle tracking",
+      "path": "five stages of colloidal particle tracking.md",
+      "url": "/five_stages_of_colloidal_particle_tracking/"
+    },
+    {
+      "title": "Venture capital is more short-termist than what research needs",
+      "path": "Venture Capital is more short-termist than what research needs.md",
+      "url": "/venture_capital_is_more_short-termist_than_what_research_needs/"
+    },
+    {
+      "title": "Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis",
+      "path": "Thane2019.md",
+      "url": "/thane2019/"
+    },
+    {
+      "title": "Private money in universities",
+      "path": "private money in universities.md",
+      "url": "/private_money_in_universities/"
+    },
+    {
+      "title": "Privacy Policy",
+      "path": "Privacy Policy.md",
+      "url": "/privacy_policy/"
+    },
+    {
+      "title": "Fundamental Attribution Error",
+      "path": "Fundamental Attribution Error.md",
+      "url": "/fundamental_attribution_error/"
+    },
+    {
+      "title": "Avoid unconnected warning in power poins with kicad",
+      "path": "Avoid unconnected warning in power poins with KiCAD.md",
+      "url": "/avoid_unconnected_warning_in_power_poins_with_kicad/"
+    },
+    {
+      "title": "Features are not benefits",
+      "path": "Features are not benefits.md",
+      "url": "/features_are_not_benefits/"
+    },
+    {
+      "title": "Effective interventions to make more published research true",
+      "path": "Effective interventions to make more published research true.md",
+      "url": "/effective_interventions_to_make_more_published_research_true/"
+    },
+    {
+      "title": "La muerte viene estilando - andrés montero",
+      "path": "La muerte viene estilando - Andrés Montero.md",
+      "url": "/la_muerte_viene_estilando_-_andrés_montero/"
+    },
+    {
+      "title": "We need new names - noviolet bulawayo",
+      "path": "We Need New Names - NoViolet Bulawayo.md",
+      "url": "/we_need_new_names_-_noviolet_bulawayo/"
+    },
+    {
+      "title": "We think future is something that happens to us",
+      "path": "We think future is something that happens to us.md",
+      "url": "/we_think_future_is_something_that_happens_to_us/"
+    },
+    {
+      "title": "Problem with single-objective lightsheet",
+      "path": "Problem with single-objective lightsheet.md",
+      "url": "/problem_with_single-objective_lightsheet/"
+    },
+    {
+      "title": "Measuring size of evs with confocal microscopy",
+      "path": "measuring size of EVs with confocal microscopy.md",
+      "url": "/measuring_size_of_evs_with_confocal_microscopy/"
+    },
+    {
+      "title": "Building complexity by linking articles",
+      "path": "building complexity by linking articles.md",
+      "url": "/building_complexity_by_linking_articles/"
+    },
+    {
+      "title": "Balliamo - Orquesta Típica Andariega",
+      "path": "Balliamo - Orquesta Típica Andariega.md",
+      "url": "/balliamo_-_orquesta_típica_andariega/"
+    },
+    {
+      "title": "To tweet",
+      "path": "to tweet.md",
+      "url": "/to_tweet/"
+    },
+    {
+      "title": "The sociology of lockdowns",
+      "path": "The Sociology of Lockdowns.md",
+      "url": "/the_sociology_of_lockdowns/"
+    },
+    {
+      "title": "Las máquinas no pueden soñar",
+      "path": "Las máquinas no pueden soñar.md",
+      "url": "/las_máquinas_no_pueden_soñar/"
+    },
+    {
+      "title": "Kano model",
+      "path": "Kano Model.md",
+      "url": "/kano_model/"
+    },
+    {
+      "title": "Sócrates estaba en contra de los libros",
+      "path": "Sócrates estaba en contra de los libros.md",
+      "url": "/sócrates_estaba_en_contra_de_los_libros/"
+    },
+    {
+      "title": "Evolution must be selfish",
+      "path": "Evolution must be selfish.md",
+      "url": "/evolution_must_be_selfish/"
+    },
+    {
+      "title": "Open source checklist before publishing a paper",
+      "path": "Open source checklist before publishing a paper.md",
+      "url": "/open_source_checklist_before_publishing_a_paper/"
+    },
+    {
+      "title": "Can algorithms be biased",
+      "path": "can algorithms be biased.md",
+      "url": "/can_algorithms_be_biased/"
+    },
+    {
+      "title": "Having sex-disaggregated data is the only way to build consistent tax policies",
+      "path": "Having sex-disaggregated data is the only way to build consistent tax policies.md",
+      "url": "/having_sex-disaggregated_data_is_the_only_way_to_build_consistent_tax_policies/"
+    },
+    {
+      "title": "Revisionismo de obras literarias",
+      "path": "Revisionismo de obras literarias.md",
+      "url": "/revisionismo_de_obras_literarias/"
+    },
+    {
+      "title": "The pole - coetzee",
+      "path": "The Pole - Coetzee.md",
+      "url": "/the_pole_-_coetzee/"
+    },
+    {
+      "title": "Weiwei - Agustina Luz López",
+      "path": "Weiwei - Agustina Luz López.md",
+      "url": "/weiwei_-_agustina_luz_lópez/"
+    },
+    {
+      "title": "Common problems with open source projects",
+      "path": "Common problems with open source projects.md",
+      "url": "/common_problems_with_open_source_projects/"
+    },
+    {
+      "title": "Stakeholders in the research publishing circle",
+      "path": "Stakeholders in the research publishing circle.md",
+      "url": "/stakeholders_in_the_research_publishing_circle/"
+    },
+    {
+      "title": "Get Time of First Commit of a File",
+      "path": "get time of first commit of a file.md",
+      "url": "/get_time_of_first_commit_of_a_file/"
+    },
+    {
+      "title": "Social infrastructure",
+      "path": "Social Infrastructure.md",
+      "url": "/social_infrastructure/"
+    },
+    {
+      "title": "26-03-18 problem solution framework",
+      "path": "26-03-18_Problem solution framework.md",
+      "url": "/26-03-18_problem_solution_framework/"
+    },
+    {
+      "title": "Limitations of fluorescence for particle tracking",
+      "path": "limitations of fluorescence for particle tracking.md",
+      "url": "/limitations_of_fluorescence_for_particle_tracking/"
+    },
+    {
+      "title": "Nieve de primavera - Mishima",
+      "path": "Nieve de primavera - Mishima.md",
+      "url": "/nieve_de_primavera_-_mishima/"
+    },
+    {
+      "title": "Innate immune system",
+      "path": "Innate immune system.md",
+      "url": "/innate_immune_system/"
+    },
+    {
+      "title": "What Is a Blogchain?",
+      "path": "what is a blogchain.md",
+      "url": "/what_is_a_blogchain/"
+    },
+    {
+      "title": "Eccentric scientist type",
+      "path": "eccentric scientist type.md",
+      "url": "/eccentric_scientist_type/"
+    },
+    {
+      "title": "Spark ablation for nanoparticle creation",
+      "path": "Spark ablation for nanoparticle creation.md",
+      "url": "/spark_ablation_for_nanoparticle_creation/"
+    },
+    {
+      "title": "Role of regulatory bodies in the gender data gap",
+      "path": "role of regulatory bodies in the gender data gap.md",
+      "url": "/role_of_regulatory_bodies_in_the_gender_data_gap/"
+    },
+    {
+      "title": "Fabrication in microgravity",
+      "path": "Fabrication in microgravity.md",
+      "url": "/fabrication_in_microgravity/"
+    },
+    {
+      "title": "The Eleventh Commandment - Jeffrey Archer",
+      "path": "The Eleventh Commandment - Jeffrey Archer.md",
+      "url": "/the_eleventh_commandment_-_jeffrey_archer/"
+    },
+    {
+      "title": "Getting started with FastAPI on a Raspberry Pi",
+      "path": "Getting started FastAPI on Raspberry Pi.md",
+      "url": "/getting_started_fastapi_on_raspberry_pi/"
+    },
+    {
+      "title": "Concept Summary",
+      "path": "concept summary.md",
+      "url": "/concept_summary/"
+    },
+    {
+      "title": "Metal organic framework",
+      "path": "Metal Organic Framework.md",
+      "url": "/metal_organic_framework/"
+    },
+    {
+      "title": "The 3-month scipreneurial path",
+      "path": "The 3-month scipreneurial path.md",
+      "url": "/the_3-month_scipreneurial_path/"
+    },
+    {
+      "title": "Multiparametric Optimization Problem",
+      "path": "multiparametric optimization problem.md",
+      "url": "/multiparametric_optimization_problem/"
+    },
+    {
+      "title": "Hydroelectric dams are not net-zero",
+      "path": "Hydroelectric dams are not net-zero.md",
+      "url": "/hydroelectric_dams_are_not_net-zero/"
+    },
+    {
+      "title": "Tango in Times of Corona",
+      "path": "tango in times of corona.md",
+      "url": "/tango_in_times_of_corona/"
+    },
+    {
+      "title": "Dewey decimal classification",
+      "path": "Dewey decimal classification.md",
+      "url": "/dewey_decimal_classification/"
+    },
+    {
+      "title": "Gardening is not just collecting",
+      "path": "Gardening is not just collecting.md",
+      "url": "/gardening_is_not_just_collecting/"
+    },
+    {
+      "title": "Distancia de Rescate - Samanta Schweblin",
+      "path": "Distancia de Rescate - Samanta Schweblin.md",
+      "url": "/distancia_de_rescate_-_samanta_schweblin/"
+    },
+    {
+      "title": "I don't Click on Newsletter Links Because I Know they Track me",
+      "path": "I don't click on newsletter links because I know they track me.md",
+      "url": "/i_don't_click_on_newsletter_links_because_i_know_they_track_me/"
+    },
+    {
+      "title": "5c analysis",
+      "path": "5C Analysis.md",
+      "url": "/5c_analysis/"
+    },
+    {
+      "title": "Applications of tracking colloids",
+      "path": "applications of tracking colloids.md",
+      "url": "/applications_of_tracking_colloids/"
+    },
+    {
+      "title": "Customer interviews",
+      "path": "Customer Interviews.md",
+      "url": "/customer_interviews/"
+    },
+    {
+      "title": "Gut feelings can be used to drive sales",
+      "path": "Gut feelings can be used to drive sales.md",
+      "url": "/gut_feelings_can_be_used_to_drive_sales/"
+    },
+    {
+      "title": "Los tres incendios de la bilbioteca de alejandría",
+      "path": "Los tres incendios de la bilbioteca de Alejandría.md",
+      "url": "/los_tres_incendios_de_la_bilbioteca_de_alejandría/"
+    },
+    {
+      "title": "Approximations to calculate absolute abundance of t rex",
+      "path": "approximations to calculate absolute abundance of T rex.md",
+      "url": "/approximations_to_calculate_absolute_abundance_of_t_rex/"
+    },
+    {
+      "title": "Security services buy commercially available private data",
+      "path": "Security services buy commercially available private data.md",
+      "url": "/security_services_buy_commercially_available_private_data/"
+    },
+    {
+      "title": "Victoria - paloma sánchez-garnica",
+      "path": "Victoria - Paloma Sánchez-Garnica.md",
+      "url": "/victoria_-_paloma_sánchez-garnica/"
+    },
+    {
+      "title": "Un crimen argentino - reynaldo sietecase",
+      "path": "Un Crimen Argentino - Reynaldo Sietecase.md",
+      "url": "/un_crimen_argentino_-_reynaldo_sietecase/"
+    },
+    {
+      "title": "How to Remember how to Link notes in a Digital Garden",
+      "path": "how to remember what to link.md",
+      "url": "/how_to_remember_what_to_link/"
+    },
+    {
+      "title": "Real emissions of electric cars",
+      "path": "Real emissions of electric cars.md",
+      "url": "/real_emissions_of_electric_cars/"
+    },
+    {
+      "title": "Recycling of photovoltaic modules is challenging",
+      "path": "recycling of photovoltaic modules is challenging.md",
+      "url": "/recycling_of_photovoltaic_modules_is_challenging/"
+    },
+    {
+      "title": "El jardín de los senderos que se bifucan - jl borges",
+      "path": "El jardín de los senderos que se bifucan - JL Borges.md",
+      "url": "/el_jardín_de_los_senderos_que_se_bifucan_-_jl_borges/"
+    },
+    {
+      "title": "Communication channels for citizen science projects",
+      "path": "communication channels for citizen science projects.md",
+      "url": "/communication_channels_for_citizen_science_projects/"
+    },
+    {
+      "title": "Dark, german TV Show",
+      "path": "Dark (Series).md",
+      "url": "/dark_(series)/"
+    },
+    {
+      "title": "Good design",
+      "path": "Good design.md",
+      "url": "/good_design/"
+    },
+    {
+      "title": "Como Agua para Chocolate - Laura Esquivel",
+      "path": "Como Agua para Chocolate - Laura Esquivel.md",
+      "url": "/como_agua_para_chocolate_-_laura_esquivel/"
+    },
+    {
+      "title": "Der Pass, German TV Show",
+      "path": "Der Pass.md",
+      "url": "/der_pass/"
+    },
+    {
+      "title": "Scientific instruments",
+      "path": "scientific instruments.md",
+      "url": "/scientific_instruments/"
+    },
+    {
+      "title": "The status quo of the research industry",
+      "path": "the status quo of the research industry.md",
+      "url": "/the_status_quo_of_the_research_industry/"
+    },
+    {
+      "title": "Aquiles Carattino Open Notes",
+      "path": "index.md",
+      "url": "/"
+    },
+    {
+      "title": "Catalytic experience of invitae",
+      "path": "Catalytic Experience of Invitae.md",
+      "url": "/catalytic_experience_of_invitae/"
+    },
+    {
+      "title": "Los romanos adoptaron la cultura griega",
+      "path": "Los romanos adoptaron la cultura griega.md",
+      "url": "/los_romanos_adoptaron_la_cultura_griega/"
+    },
+    {
+      "title": "Why improving the science teaching",
+      "path": "Why improving the science teaching.md",
+      "url": "/why_improving_the_science_teaching/"
+    },
+    {
+      "title": "Kanban development",
+      "path": "Kanban development.md",
+      "url": "/kanban_development/"
+    },
+    {
+      "title": "Superlinear growth",
+      "path": "Superlinear Growth.md",
+      "url": "/superlinear_growth/"
+    },
+    {
+      "title": "Choosing pycharm over vscode",
+      "path": "Choosing Pycharm over VSCode.md",
+      "url": "/choosing_pycharm_over_vscode/"
+    },
+    {
+      "title": "Parsing tags in markdown",
+      "path": "parsing tags in markdown.md",
+      "url": "/parsing_tags_in_markdown/"
+    },
+    {
+      "title": "Democracy and algorithms",
+      "path": "democracy and algorithms.md",
+      "url": "/democracy_and_algorithms/"
+    },
+    {
+      "title": "If a person is exposed to a figure for 500ms they'll be able to remember some features and draw conclusions",
+      "path": "if a person is exposed to a figure for 500ms they'll be able to remember some features and draw conclusions.md",
+      "url": "/if_a_person_is_exposed_to_a_figure_for_500ms_they'll_be_able_to_remember_some_features_and_draw_conclusions/"
+    },
+    {
+      "title": "Utrechtinc and its copy-pasting approach",
+      "path": "UtrechtInc and its copy-pasting approach.md",
+      "url": "/utrechtinc_and_its_copy-pasting_approach/"
+    },
+    {
+      "title": "Origin of the term digital garden",
+      "path": "Origin of the term digital garden.md",
+      "url": "/origin_of_the_term_digital_garden/"
+    },
+    {
+      "title": "Restrictions can help the creative process",
+      "path": "restrictions can help the creative process.md",
+      "url": "/restrictions_can_help_the_creative_process/"
+    },
+    {
+      "title": "Modern monetary theory",
+      "path": "Modern Monetary Theory.md",
+      "url": "/modern_monetary_theory/"
+    },
+    {
+      "title": "Annotating notes",
+      "path": "Annotating notes.md",
+      "url": "/annotating_notes/"
+    },
+    {
+      "title": "Genetic studies reveal relationship between different homo species",
+      "path": "Genetic studies reveal relationship between different homo species.md",
+      "url": "/genetic_studies_reveal_relationship_between_different_homo_species/"
+    },
+    {
+      "title": "Slow Horses - Mick Herron",
+      "path": "Slow Horses - Mick Herron.md",
+      "url": "/slow_horses_-_mick_herron/"
+    },
+    {
+      "title": "Paternity leave",
+      "path": "Paternity leave.md",
+      "url": "/paternity_leave/"
+    },
+    {
+      "title": "Quotes by Carl Sagan",
+      "path": "Quotes by Carl Sagan.md",
+      "url": "/quotes_by_carl_sagan/"
+    },
+    {
+      "title": "GAFA CEO's testify in front of the US Congress",
+      "path": "GAFA in front of the US Congress.md",
+      "url": "/gafa_in_front_of_the_us_congress/"
+    },
+    {
+      "title": "Python for the lab public key",
+      "path": "Python for the Lab Public Key.md",
+      "url": "/python_for_the_lab_public_key/"
+    },
+    {
+      "title": "Pricing products",
+      "path": "Pricing products.md",
+      "url": "/pricing_products/"
+    },
+    {
+      "title": "Medicine excludes women from their studies yielding biased results",
+      "path": "medicine excludes women from their studies yielding biased results.md",
+      "url": "/medicine_excludes_women_from_their_studies_yielding_biased_results/"
+    },
+    {
+      "title": "Using ccd as a multiplexed sensor for biomarkers",
+      "path": "using ccd as a multiplexed sensor for biomarkers.md",
+      "url": "/using_ccd_as_a_multiplexed_sensor_for_biomarkers/"
+    },
+    {
+      "title": "Become an expert by practicing",
+      "path": "become an expert by practicing.md",
+      "url": "/become_an_expert_by_practicing/"
+    },
+    {
+      "title": "Epigenetics",
+      "path": "epigenetics.md",
+      "url": "/epigenetics/"
+    },
+    {
+      "title": "Philips Monitors Make an Annoying Sound",
+      "path": "high pitch noise of philips monitors.md",
+      "url": "/high_pitch_noise_of_philips_monitors/"
+    },
+    {
+      "title": "Disadvantage of hollow optical fibers for exciting particles",
+      "path": "disadvantage of hollow optical fibers for exciting particles.md",
+      "url": "/disadvantage_of_hollow_optical_fibers_for_exciting_particles/"
+    },
+    {
+      "title": "404",
+      "path": "404.md",
+      "url": "/404/"
+    },
+    {
+      "title": "Bomboncito de Napalm",
+      "path": "bomboncito de napalm - sexteto fantasma.md",
+      "url": "/bomboncito_de_napalm_-_sexteto_fantasma/"
+    },
+    {
+      "title": "Podcast I listened in Week 36",
+      "path": "Week 36 podcasts.md",
+      "url": "/week_36_podcasts/"
+    },
+    {
+      "title": "Siga el Baile - Orquesta Romántica Milonguera",
+      "path": "Siga el baile - Orquesta Romántica Milonguera.md",
+      "url": "/siga_el_baile_-_orquesta_romántica_milonguera/"
+    },
+    {
+      "title": "Democratic systems do not guarantee gender equality",
+      "path": "democratic systems do not guarantee gender equality.md",
+      "url": "/democratic_systems_do_not_guarantee_gender_equality/"
+    },
+    {
+      "title": "Designing tools for work is traditionally done considering the average man and not woman",
+      "path": "Designing tools for work is traditionally done considering the average man and not woman.md",
+      "url": "/designing_tools_for_work_is_traditionally_done_considering_the_average_man_and_not_woman/"
+    },
+    {
+      "title": "Gender neutral infrastructure favors men",
+      "path": "gender neutral infrastructure favors men.md",
+      "url": "/gender_neutral_infrastructure_favors_men/"
+    },
+    {
+      "title": "Eratosthenes was the director of the great library of alexandria",
+      "path": "Eratosthenes was the director of the Great Library of Alexandria.md",
+      "url": "/eratosthenes_was_the_director_of_the_great_library_of_alexandria/"
+    },
+    {
+      "title": "Replacing copper by steel made humanity less resilient to bacteria",
+      "path": "Replacing copper by steel made humanity less resilient to bacteria.md",
+      "url": "/replacing_copper_by_steel_made_humanity_less_resilient_to_bacteria/"
+    },
+    {
+      "title": "Las aventuras de la china iron - gabriela cabezón cámara",
+      "path": "Las Aventuras de la China Iron - Gabriela Cabezón Cámara.md",
+      "url": "/las_aventuras_de_la_china_iron_-_gabriela_cabezón_cámara/"
+    },
+    {
+      "title": "La forma dell'acqua - andrea camilleri",
+      "path": "La forma dell'acqua - Andrea Camilleri.md",
+      "url": "/la_forma_dell'acqua_-_andrea_camilleri/"
+    },
+    {
+      "title": "Self-assessment for promotions at google",
+      "path": "self-assessment for promotions at google.md",
+      "url": "/self-assessment_for_promotions_at_google/"
+    },
+    {
+      "title": "Neuroscientific based hiring processes",
+      "path": "neuroscientific based hiring processes.md",
+      "url": "/neuroscientific_based_hiring_processes/"
+    },
+    {
+      "title": "Sleeping Giants - Sylvain Neuvel",
+      "path": "Sleeping Giants - Sylvain Neuvel.md",
+      "url": "/sleeping_giants_-_sylvain_neuvel/"
+    },
+    {
+      "title": "Design process",
+      "path": "Design process.md",
+      "url": "/design_process/"
+    },
+    {
+      "title": "Early progress is not a persistent indicator",
+      "path": "Early progress is not a persistent indicator.md",
+      "url": "/early_progress_is_not_a_persistent_indicator/"
+    },
+    {
+      "title": "Product vision and product strategy",
+      "path": "Product vision and product strategy.md",
+      "url": "/product_vision_and_product_strategy/"
+    },
+    {
+      "title": "This is only a test",
+      "path": "testing_latex_markdown.md",
+      "url": "/testing_latex_markdown/"
+    },
+    {
+      "title": "Los Crímenes de la Ciudad Blanca",
+      "path": "El Silencio de la Ciudad Blanca - Eva García Sáenz de Urturi.md",
+      "url": "/el_silencio_de_la_ciudad_blanca_-_eva_garcía_sáenz_de_urturi/"
+    },
+    {
+      "title": "Phases of customer discovery",
+      "path": "Phases of customer discovery.md",
+      "url": "/phases_of_customer_discovery/"
+    },
+    {
+      "title": "Responsibility assignment matrix - raci",
+      "path": "Responsibility Assignment Matrix - RACI.md",
+      "url": "/responsibility_assignment_matrix_-_raci/"
+    },
+    {
+      "title": "Bikepacking trip through Belgium",
+      "path": "2020 Bikepacking trip through Belgium.md",
+      "url": "/2020_bikepacking_trip_through_belgium/"
+    },
+    {
+      "title": "Phones were designed to spy on us",
+      "path": "phones were designed to spy on us.md",
+      "url": "/phones_were_designed_to_spy_on_us/"
+    },
+    {
+      "title": "Teachers bring their own knowledge gaps to the classrooms",
+      "path": "teachers bring their own knowledge gaps to the classrooms.md",
+      "url": "/teachers_bring_their_own_knowledge_gaps_to_the_classrooms/"
+    },
+    {
+      "title": "Classification systems are crucial for a language survival",
+      "path": "Classification systems are crucial for a language survival.md",
+      "url": "/classification_systems_are_crucial_for_a_language_survival/"
+    },
+    {
+      "title": "Split Writing from Editing",
+      "path": "split writing from editing.md",
+      "url": "/split_writing_from_editing/"
+    },
+    {
+      "title": "Expansion microscopy",
+      "path": "Expansion Microscopy.md",
+      "url": "/expansion_microscopy/"
+    },
+    {
+      "title": "Ephemeral Notes",
+      "path": "ephemeral notes.md",
+      "url": "/ephemeral_notes/"
+    },
+    {
+      "title": "Bayh-dole act to favor commercialization of university technology",
+      "path": "bayh-dole act to favor commercialization of university technology.md",
+      "url": "/bayh-dole_act_to_favor_commercialization_of_university_technology/"
+    },
+    {
+      "title": "Si sintieras bajo los pies las estructuras mayores - roberto chuit roganovich",
+      "path": "Si Sintieras Bajo los Pies las Estructuras Mayores - Roberto Chuit Roganovich.md",
+      "url": "/si_sintieras_bajo_los_pies_las_estructuras_mayores_-_roberto_chuit_roganovich/"
+    },
+    {
+      "title": "Super-silac",
+      "path": "super-SILAC.md",
+      "url": "/super-silac/"
+    },
+    {
+      "title": "Align sales incentives to company cycles",
+      "path": "Align sales incentives to company cycles.md",
+      "url": "/align_sales_incentives_to_company_cycles/"
+    },
+    {
+      "title": "Github Actions",
+      "path": "Github Actions.md",
+      "url": "/github_actions/"
+    },
+    {
+      "title": "How Does Online User Tracking Works",
+      "path": "how does online user tracking works.md",
+      "url": "/how_does_online_user_tracking_works/"
+    },
+    {
+      "title": "If you are in a position of power and don't do anything, nothing will change",
+      "path": "If you are in a position of power and don't do anything, nothing will change.md",
+      "url": "/if_you_are_in_a_position_of_power_and_don't_do_anything,_nothing_will_change/"
+    },
+    {
+      "title": "Why Don't we Drink Water from the Ocean?",
+      "path": "Why don't we drink water from the ocean.md",
+      "url": "/why_don't_we_drink_water_from_the_ocean/"
+    },
+    {
+      "title": "Uncertainty in scientific exploration",
+      "path": "Uncertainty in scientific exploration.md",
+      "url": "/uncertainty_in_scientific_exploration/"
+    },
+    {
+      "title": "What is a Machine Learning Algorithm",
+      "path": "what is a machine learning algorithm.md",
+      "url": "/what_is_a_machine_learning_algorithm/"
+    },
+    {
+      "title": "Gender bias in scientists can build the wrong knowledge over generations",
+      "path": "gender bias in scientists can build the wrong knowledge over generations.md",
+      "url": "/gender_bias_in_scientists_can_build_the_wrong_knowledge_over_generations/"
+    },
+    {
+      "title": "effective-writing",
+      "path": "Write to your shadow.md",
+      "url": "/write_to_your_shadow/"
+    },
+    {
+      "title": "Los cuarenta bramadores - vito dumas",
+      "path": "Los Cuarenta Bramadores - Vito Dumas.md",
+      "url": "/los_cuarenta_bramadores_-_vito_dumas/"
+    },
+    {
+      "title": "In spaced repetition not all tasks have the same weight",
+      "path": "in spaced repetition not all tasks have the same weight.md",
+      "url": "/in_spaced_repetition_not_all_tasks_have_the_same_weight/"
+    },
+    {
+      "title": "Uncover the desire",
+      "path": "Uncover the desire.md",
+      "url": "/uncover_the_desire/"
+    },
+    {
+      "title": "RSS Feeds in Digital Gardens",
+      "path": "RSS Feeds in Digital Gardens.md",
+      "url": "/rss_feeds_in_digital_gardens/"
+    },
+    {
+      "title": "Female hunters in hunter-gatherer societies",
+      "path": "female hunters in hunter-gatherer societies.md",
+      "url": "/female_hunters_in_hunter-gatherer_societies/"
+    },
+    {
+      "title": "We Missed the Opportunity to Make the Right Choice and Build a Better Internet",
+      "path": "we missed the opportunity to make the right choice.md",
+      "url": "/we_missed_the_opportunity_to_make_the_right_choice/"
+    },
+    {
+      "title": "Online version of Python for the Lab",
+      "path": "Online version of Python for the Lab.md",
+      "url": "/online_version_of_python_for_the_lab/"
+    },
+    {
+      "title": "Hype curve",
+      "path": "Hype Curve.md",
+      "url": "/hype_curve/"
+    },
+    {
+      "title": "Linux has a package manager, why avoid it",
+      "path": "linux has a package manager, why avoid it.md",
+      "url": "/linux_has_a_package_manager,_why_avoid_it/"
+    },
+    {
+      "title": "Reset - dan heath",
+      "path": "Reset - Dan Heath.md",
+      "url": "/reset_-_dan_heath/"
+    },
+    {
+      "title": "Bioenergy with Carbon Capture and Storage",
+      "path": "beccs.md",
+      "url": "/beccs/"
+    },
+    {
+      "title": "Pinephone",
+      "path": "pinephone.md",
+      "url": "/pinephone/"
+    },
+    {
+      "title": "Darksky",
+      "path": "DarkSky.md",
+      "url": "/darksky/"
+    },
+    {
+      "title": "The Power of Building Our Tools",
+      "path": "the power of building our tools.md",
+      "url": "/the_power_of_building_our_tools/"
+    },
+    {
+      "title": "There is a discrepancy in the reported concentration between nta and evquant",
+      "path": "There is a discrepancy in the reported concentration between NTA and EVQuant.md",
+      "url": "/there_is_a_discrepancy_in_the_reported_concentration_between_nta_and_evquant/"
+    },
+    {
+      "title": "Opportunity triangle",
+      "path": "Opportunity triangle.md",
+      "url": "/opportunity_triangle/"
+    },
+    {
+      "title": "Contact - carl sagan",
+      "path": "Contact - Carl Sagan.md",
+      "url": "/contact_-_carl_sagan/"
+    },
+    {
+      "title": "Compress a file or directory with tar",
+      "path": "compress a file or directory with tar.md",
+      "url": "/compress_a_file_or_directory_with_tar/"
+    },
+    {
+      "title": "Startups search for business models",
+      "path": "Startups search for business models.md",
+      "url": "/startups_search_for_business_models/"
+    },
+    {
+      "title": "Fast swing direct air carbon capture",
+      "path": "fast swing direct air carbon capture.md",
+      "url": "/fast_swing_direct_air_carbon_capture/"
+    },
+    {
+      "title": "Communicators fail at explaining what an algorithm is",
+      "path": "communicators fail at explaining what an algorithm is.md",
+      "url": "/communicators_fail_at_explaining_what_an_algorithm_is/"
+    },
+    {
+      "title": "Chirality and life",
+      "path": "chirality and life.md",
+      "url": "/chirality_and_life/"
+    },
+    {
+      "title": "Direct bonding",
+      "path": "Direct Bonding.md",
+      "url": "/direct_bonding/"
+    },
+    {
+      "title": "Personal data collection, what is it and where it starts",
+      "path": "essays/personal data collection, what is it and where it starts.md",
+      "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/"
+    },
+    {
+      "title": "Essays/how to incentivize a scipreneurial path",
+      "path": "essays/How to incentivize a scipreneurial path.md",
+      "url": "/essays/how_to_incentivize_a_scipreneurial_path/"
+    },
+    {
+      "title": "Essays/there and back again 13 years apart",
+      "path": "essays/There and back again 13 years apart.md",
+      "url": "/essays/there_and_back_again_13_years_apart/"
+    },
+    {
+      "title": "Low friction working",
+      "path": "essays/Low friction working.md",
+      "url": "/essays/low_friction_working/"
+    },
+    {
+      "title": "After a Failure, Revert to the Last Known Working State",
+      "path": "essays/After a Failure Revert to the Last Known Working State.md",
+      "url": "/essays/after_a_failure_revert_to_the_last_known_working_state/"
+    },
+    {
+      "title": "What is Blockchain",
+      "path": "essays/What is Blockchain.md",
+      "url": "/essays/what_is_blockchain/"
+    },
+    {
+      "title": "Essays/ splitting shares of a startup should reflect future work",
+      "path": "essays/_Splitting shares of a startup should reflect future work.md",
+      "url": "/essays/_splitting_shares_of_a_startup_should_reflect_future_work/"
+    },
+    {
+      "title": "Essays/exciting vesicles - the field where biology meets technology",
+      "path": "essays/Exciting Vesicles - The field where biology meets technology.md",
+      "url": "/essays/exciting_vesicles_-_the_field_where_biology_meets_technology/"
+    },
+    {
+      "title": "Open Hardware Business Models",
+      "path": "essays/_Open Hardware Business Models.md",
+      "url": "/essays/_open_hardware_business_models/"
+    },
+    {
+      "title": "Digital Garden",
+      "path": "essays/Digital Gardening.md",
+      "url": "/essays/digital_gardening/"
+    },
+    {
+      "title": "Why I stopped using Facebook",
+      "path": "essays/why i stopped using facebook.md",
+      "url": "/essays/why_i_stopped_using_facebook/"
+    },
+    {
+      "title": "Essays/ skill building",
+      "path": "essays/_skill building.md",
+      "url": "/essays/_skill_building/"
+    },
+    {
+      "title": "Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?",
+      "path": "essays/Mentor Consultant Coach or Partner.md",
+      "url": "/essays/mentor_consultant_coach_or_partner/"
+    },
+    {
+      "title": "The Neanderthal in Us",
+      "path": "essays/_The Neanderthal in Us.md",
+      "url": "/essays/_the_neanderthal_in_us/"
+    },
+    {
+      "title": "How to write a programming book",
+      "path": "essays/How to write a programming book.md",
+      "url": "/essays/how_to_write_a_programming_book/"
+    },
+    {
+      "title": "Even if correlation is not causation",
+      "path": "essays/_Even if correlation is not causation.md",
+      "url": "/essays/_even_if_correlation_is_not_causation/"
+    },
+    {
+      "title": "Solving or Removing problems",
+      "path": "essays/_Solve or remove a problem.md",
+      "url": "/essays/_solve_or_remove_a_problem/"
+    },
+    {
+      "title": "Simple explanation of an optimization algorithm",
+      "path": "essays/Simple explanation of an optimization algorithm.md",
+      "url": "/essays/simple_explanation_of_an_optimization_algorithm/"
+    },
+    {
+      "title": "Essays/the things i miss the most from my time as a phd",
+      "path": "essays/The things I miss the most from my time as a PhD.md",
+      "url": "/essays/the_things_i_miss_the_most_from_my_time_as_a_phd/"
+    },
+    {
+      "title": "Essays/contact - carl sagan",
+      "path": "essays/Contact - Carl Sagan.md",
+      "url": "/essays/contact_-_carl_sagan/"
+    },
+    {
+      "title": "Essays/ what i wish they told me before starting the entrepreneurial path",
+      "path": "essays/_what I wish they told me before starting the entrepreneurial path.md",
+      "url": "/essays/_what_i_wish_they_told_me_before_starting_the_entrepreneurial_path/"
+    },
+    {
+      "title": "Essays/linkedin/  overvalue gray hair",
+      "path": "essays/LinkedIn/_ Overvalue gray hair.md",
+      "url": "/essays/LinkedIn/__overvalue_gray_hair/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-29 open hardware",
+      "path": "essays/LinkedIn/24-04-29_Open Hardware.md",
+      "url": "/essays/LinkedIn/24-04-29_open_hardware/"
+    },
+    {
+      "title": "Essays/linkedin/ scientific python programming with ai agents",
+      "path": "essays/LinkedIn/_Scientific Python programming with AI Agents.md",
+      "url": "/essays/LinkedIn/_scientific_python_programming_with_ai_agents/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-16 value proposition",
+      "path": "essays/LinkedIn/26-03-16_Value Proposition.md",
+      "url": "/essays/LinkedIn/26-03-16_value_proposition/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-07 the pareto principle",
+      "path": "essays/LinkedIn/23-12-07_The Pareto principle.md",
+      "url": "/essays/LinkedIn/23-12-07_the_pareto_principle/"
+    },
+    {
+      "title": "Essays/linkedin/  reality",
+      "path": "essays/LinkedIn/_ Reality.md",
+      "url": "/essays/LinkedIn/__reality/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-28 outside the box",
+      "path": "essays/LinkedIn/24-03-28_Outside the box.md",
+      "url": "/essays/LinkedIn/24-03-28_outside_the_box/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-31 writing more",
+      "path": "essays/LinkedIn/24-01-31_writing more.md",
+      "url": "/essays/LinkedIn/24-01-31_writing_more/"
+    },
+    {
+      "title": "Essays/linkedin/  what founders secretly want in their first product manager",
+      "path": "essays/LinkedIn/_ What founders secretly want in their first product manager.md",
+      "url": "/essays/LinkedIn/__what_founders_secretly_want_in_their_first_product_manager/"
+    },
+    {
+      "title": "Essays/linkedin/   signature",
+      "path": "essays/LinkedIn/__ Signature.md",
+      "url": "/essays/LinkedIn/___signature/"
+    },
+    {
+      "title": "Market? What Market?",
+      "path": "essays/LinkedIn/_ Market What Market.md",
+      "url": "/essays/LinkedIn/__market_what_market/"
+    },
+    {
+      "title": "Essays/linkedin/24-09-17 mvp",
+      "path": "essays/LinkedIn/24-09-17_MVP.md",
+      "url": "/essays/LinkedIn/24-09-17_mvp/"
+    },
+    {
+      "title": "Essays/linkedin/  the difference between a feature and a result lessons from microscopy",
+      "path": "essays/LinkedIn/_ The difference between a feature and a result lessons from microscopy.md",
+      "url": "/essays/LinkedIn/__the_difference_between_a_feature_and_a_result_lessons_from_microscopy/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-21 things that can scale",
+      "path": "essays/LinkedIn/23-12-21_Things that can scale.md",
+      "url": "/essays/LinkedIn/23-12-21_things_that_can_scale/"
+    },
+    {
+      "title": "Mentorship is an invaluable asset for starting entrepreneurs.",
+      "path": "essays/LinkedIn/24-02-15_Decision Freeze.md",
+      "url": "/essays/LinkedIn/24-02-15_decision_freeze/"
+    },
+    {
+      "title": "Essays/linkedin/23-11-16 male deep tech",
+      "path": "essays/LinkedIn/23-11-16_Male Deep Tech.md",
+      "url": "/essays/LinkedIn/23-11-16_male_deep_tech/"
+    },
+    {
+      "title": "Essays/linkedin/24-02-14 starting is hard",
+      "path": "essays/LinkedIn/24-02-14_Starting is hard.md",
+      "url": "/essays/LinkedIn/24-02-14_starting_is_hard/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-03  why i write online",
+      "path": "essays/LinkedIn/24-05-03_ Why I write online.md",
+      "url": "/essays/LinkedIn/24-05-03__why_i_write_online/"
+    },
+    {
+      "title": "scipreneurs #productmarketfit #customeroriented",
+      "path": "essays/LinkedIn/23-11-28_Focus on customers.md",
+      "url": "/essays/LinkedIn/23-11-28_focus_on_customers/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-23 feedback",
+      "path": "essays/LinkedIn/24-05-23_Feedback.md",
+      "url": "/essays/LinkedIn/24-05-23_feedback/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-08 onboarding early employees",
+      "path": "essays/LinkedIn/23-12-08_Onboarding early employees.md",
+      "url": "/essays/LinkedIn/23-12-08_onboarding_early_employees/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-12 business readiness",
+      "path": "essays/LinkedIn/23-12-12_Business readiness.md",
+      "url": "/essays/LinkedIn/23-12-12_business_readiness/"
+    },
+    {
+      "title": "Essays/linkedin/  crossing boundaries",
+      "path": "essays/LinkedIn/_ Crossing boundaries.md",
+      "url": "/essays/LinkedIn/__crossing_boundaries/"
+    },
+    {
+      "title": "Essays/linkedin/  open innovation",
+      "path": "essays/LinkedIn/_ Open Innovation.md",
+      "url": "/essays/LinkedIn/__open_innovation/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-30 misconception 1 two jobs",
+      "path": "essays/LinkedIn/24-01-30_misconception 1 two jobs.md",
+      "url": "/essays/LinkedIn/24-01-30_misconception_1_two_jobs/"
+    },
+    {
+      "title": "Essays/linkedin/  why mvps in deep-tech are a myth—and how we should build instead",
+      "path": "essays/LinkedIn/_ Why MVPs in deep-tech are a myth—and how we should build instead.md",
+      "url": "/essays/LinkedIn/__why_mvps_in_deep-tech_are_a_myth—and_how_we_should_build_instead/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-23 competition",
+      "path": "essays/LinkedIn/24-04-23_competition.md",
+      "url": "/essays/LinkedIn/24-04-23_competition/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-11 build tony fadell",
+      "path": "essays/LinkedIn/24-01-11_Build Tony Fadell.md",
+      "url": "/essays/LinkedIn/24-01-11_build_tony_fadell/"
+    },
+    {
+      "title": "An MVP can be used to teach AND to learn",
+      "path": "essays/LinkedIn/25-07-31_MVP to Teach and Learn.md",
+      "url": "/essays/LinkedIn/25-07-31_mvp_to_teach_and_learn/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-10 autofluorescence",
+      "path": "essays/LinkedIn/24-05-10_Autofluorescence.md",
+      "url": "/essays/LinkedIn/24-05-10_autofluorescence/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-13 trust for startups",
+      "path": "essays/LinkedIn/23-12-13_Trust for startups.md",
+      "url": "/essays/LinkedIn/23-12-13_trust_for_startups/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-10 ai for everything",
+      "path": "essays/LinkedIn/24-01-10_AI for everything.md",
+      "url": "/essays/LinkedIn/24-01-10_ai_for_everything/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 5 you need money",
+      "path": "essays/LinkedIn/_ misconception 5 you need money.md",
+      "url": "/essays/LinkedIn/__misconception_5_you_need_money/"
+    },
+    {
+      "title": "🧭 LinkedIn Content Dashboard",
+      "path": "essays/LinkedIn/00_Index.md",
+      "url": "/essays/LinkedIn/00_index/"
+    },
+    {
+      "title": "Essays/linkedin/24-02-06 misconception 2 equity split",
+      "path": "essays/LinkedIn/24-02-06_misconception 2 equity split.md",
+      "url": "/essays/LinkedIn/24-02-06_misconception_2_equity_split/"
+    },
+    {
+      "title": "Essays/linkedin/  the first hire that matters",
+      "path": "essays/LinkedIn/_ The First Hire That Matters.md",
+      "url": "/essays/LinkedIn/__the_first_hire_that_matters/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-29 note taking for entrepreneurs",
+      "path": "essays/LinkedIn/24-01-29_Note taking for entrepreneurs.md",
+      "url": "/essays/LinkedIn/24-01-29_note_taking_for_entrepreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/26-02-25 wet chemistry",
+      "path": "essays/LinkedIn/26-02-25_Wet chemistry.md",
+      "url": "/essays/LinkedIn/26-02-25_wet_chemistry/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-02 python for the lab book",
+      "path": "essays/LinkedIn/24-03-02_Python for the Lab Book.md",
+      "url": "/essays/LinkedIn/24-03-02_python_for_the_lab_book/"
+    },
+    {
+      "title": "Essays/linkedin/  what i learned from pitching vcs with a deep‑tech product they couldn’t demo",
+      "path": "essays/LinkedIn/_ What I learned from pitching VCs with a deep‑tech product they couldn’t demo.md",
+      "url": "/essays/LinkedIn/__what_i_learned_from_pitching_vcs_with_a_deep‑tech_product_they_couldn’t_demo/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-22 my unfair advantage",
+      "path": "essays/LinkedIn/23-12-22_My unfair advantage.md",
+      "url": "/essays/LinkedIn/23-12-22_my_unfair_advantage/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-02 resource inventory",
+      "path": "essays/LinkedIn/26-03-02_Resource Inventory.md",
+      "url": "/essays/LinkedIn/26-03-02_resource_inventory/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-24 capital costs deep tech",
+      "path": "essays/LinkedIn/24-04-24_Capital costs deep tech.md",
+      "url": "/essays/LinkedIn/24-04-24_capital_costs_deep_tech/"
+    },
+    {
+      "title": "pitching #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-27_Pitching.md",
+      "url": "/essays/LinkedIn/23-11-27_pitching/"
+    },
+    {
+      "title": "self-driving-lab #exploration #experiments #discovery #opportunities",
+      "path": "essays/LinkedIn/25-10-21 _ Automate the wrong workflow.md",
+      "url": "/essays/LinkedIn/25-10-21___automate_the_wrong_workflow/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-22 before accepting",
+      "path": "essays/LinkedIn/24-05-22_Before accepting.md",
+      "url": "/essays/LinkedIn/24-05-22_before_accepting/"
+    },
+    {
+      "title": "Essays/linkedin/  from phd to founder to product leader my non‑linear path",
+      "path": "essays/LinkedIn/_ From PhD to founder to product leader my non‑linear path.md",
+      "url": "/essays/LinkedIn/__from_phd_to_founder_to_product_leader_my_non‑linear_path/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-21 the founder's dilemmas",
+      "path": "essays/LinkedIn/24-05-21_The Founder's dilemmas.md",
+      "url": "/essays/LinkedIn/24-05-21_the_founder's_dilemmas/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-24 pitch deck is not the company",
+      "path": "essays/LinkedIn/24-05-24_Pitch deck is not the company.md",
+      "url": "/essays/LinkedIn/24-05-24_pitch_deck_is_not_the_company/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-09  who wants it",
+      "path": "essays/LinkedIn/26-03-09_ Who wants it.md",
+      "url": "/essays/LinkedIn/26-03-09__who_wants_it/"
+    },
+    {
+      "title": "Essays/linkedin/  never stop improving",
+      "path": "essays/LinkedIn/_ Never stop improving.md",
+      "url": "/essays/LinkedIn/__never_stop_improving/"
+    },
+    {
+      "title": "DeepTech #StartupMetrics #VentureCapital #Scipreneurs #InnovationLeadership #TechnicalDueDiligence",
+      "path": "essays/LinkedIn/25-08-14 _ Deep Tech KPIs.md",
+      "url": "/essays/LinkedIn/25-08-14___deep_tech_kpis/"
+    },
+    {
+      "title": "incubators #equity #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-29_Incubators.md",
+      "url": "/essays/LinkedIn/23-11-29_incubators/"
+    },
+    {
+      "title": "scipreneurs #scientists-entrepreneurs #equity",
+      "path": "essays/LinkedIn/24-01-12_Professors co-founders.md",
+      "url": "/essays/LinkedIn/24-01-12_professors_co-founders/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-01 getting started",
+      "path": "essays/LinkedIn/24-05-01_Getting Started.md",
+      "url": "/essays/LinkedIn/24-05-01_getting_started/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-14 to conference or not to conference",
+      "path": "essays/LinkedIn/24-05-14_To conference or not to conference.md",
+      "url": "/essays/LinkedIn/24-05-14_to_conference_or_not_to_conference/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-14 think like a designer",
+      "path": "essays/LinkedIn/23-12-14_Think like a designer.md",
+      "url": "/essays/LinkedIn/23-12-14_think_like_a_designer/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-15 marketing for scipreneurs",
+      "path": "essays/LinkedIn/24-05-15_Marketing for scipreneurs.md",
+      "url": "/essays/LinkedIn/24-05-15_marketing_for_scipreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-07 sales are never short",
+      "path": "essays/LinkedIn/24-05-07_Sales are never short.md",
+      "url": "/essays/LinkedIn/24-05-07_sales_are_never_short/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-06 working hard",
+      "path": "essays/LinkedIn/23-12-06_Working Hard.md",
+      "url": "/essays/LinkedIn/23-12-06_working_hard/"
+    },
+    {
+      "title": "Essays/linkedin/26-02-28 premature scaling",
+      "path": "essays/LinkedIn/26-02-28_Premature Scaling.md",
+      "url": "/essays/LinkedIn/26-02-28_premature_scaling/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-11 science needs entrepreneurship",
+      "path": "essays/LinkedIn/23-12-11_Science needs entrepreneurship.md",
+      "url": "/essays/LinkedIn/23-12-11_science_needs_entrepreneurship/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-00 misconception 3 business experience",
+      "path": "essays/LinkedIn/24-01-00_misconception 3 business experience.md",
+      "url": "/essays/LinkedIn/24-01-00_misconception_3_business_experience/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-04 incomplete ideas",
+      "path": "essays/LinkedIn/24-01-04_incomplete ideas.md",
+      "url": "/essays/LinkedIn/24-01-04_incomplete_ideas/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-19 skills for entrepreneurs",
+      "path": "essays/LinkedIn/23-12-19_Skills for entrepreneurs.md",
+      "url": "/essays/LinkedIn/23-12-19_skills_for_entrepreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-09 who wants it",
+      "path": "essays/LinkedIn/26-03-09_Who wants it.md",
+      "url": "/essays/LinkedIn/26-03-09_who_wants_it/"
+    },
+    {
+      "title": "Essays/linkedin/23-11-30 bill gates book",
+      "path": "essays/LinkedIn/23-11-30_Bill Gates Book.md",
+      "url": "/essays/LinkedIn/23-11-30_bill_gates_book/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 6 de risking",
+      "path": "essays/LinkedIn/_ misconception 6 de risking.md",
+      "url": "/essays/LinkedIn/__misconception_6_de_risking/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-16 misconception 4 you need a lab",
+      "path": "essays/LinkedIn/24-05-16_misconception 4 you need a lab.md",
+      "url": "/essays/LinkedIn/24-05-16_misconception_4_you_need_a_lab/"
+    },
+    {
+      "title": "Essays/linkedin/  scipreneurs the word i wish existed when i started",
+      "path": "essays/LinkedIn/_ Scipreneurs The Word I Wish Existed When I Started.md",
+      "url": "/essays/LinkedIn/__scipreneurs_the_word_i_wish_existed_when_i_started/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-01 uncertainty and risk",
+      "path": "essays/LinkedIn/23-12-01_Uncertainty and risk.md",
+      "url": "/essays/LinkedIn/23-12-01_uncertainty_and_risk/"
+    },
+    {
+      "title": "Essays/linkedin/26-01-23 semicon",
+      "path": "essays/LinkedIn/26-01-23_Semicon.md",
+      "url": "/essays/LinkedIn/26-01-23_semicon/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-20 from science to technology",
+      "path": "essays/LinkedIn/24-05-20_From science to technology.md",
+      "url": "/essays/LinkedIn/24-05-20_from_science_to_technology/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-25 never stop learning",
+      "path": "essays/LinkedIn/24-04-25_never stop learning.md",
+      "url": "/essays/LinkedIn/24-04-25_never_stop_learning/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-09 hardware mvp",
+      "path": "essays/LinkedIn/24-05-09_Hardware MVP.md",
+      "url": "/essays/LinkedIn/24-05-09_hardware_mvp/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-21  product leadership isn’t project management. here’s why.",
+      "path": "essays/LinkedIn/25-08-21_ Product leadership isn’t project management. Here’s why..md",
+      "url": "/essays/LinkedIn/25-08-21__product_leadership_isn’t_project_management._here’s_why./"
+    },
+    {
+      "title": "Essays/linkedin/  what nobody tells you about tech transfer",
+      "path": "essays/LinkedIn/_ What Nobody Tells You About Tech Transfer.md",
+      "url": "/essays/LinkedIn/__what_nobody_tells_you_about_tech_transfer/"
+    },
+    {
+      "title": "writing #sunday-reflections",
+      "path": "essays/LinkedIn/23-11-19_Blogger.md",
+      "url": "/essays/LinkedIn/23-11-19_blogger/"
+    },
+    {
+      "title": "Essays/linkedin/  what problem do you solve",
+      "path": "essays/LinkedIn/_ What problem do you solve.md",
+      "url": "/essays/LinkedIn/__what_problem_do_you_solve/"
+    },
+    {
+      "title": "Essays/linkedin/  the hardest decision i made as a founder, and what it taught me about team",
+      "path": "essays/LinkedIn/_ The hardest decision I made as a founder, and what it taught me about team.md",
+      "url": "/essays/LinkedIn/__the_hardest_decision_i_made_as_a_founder,_and_what_it_taught_me_about_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-09 making it cheaper",
+      "path": "essays/LinkedIn/24-01-09_Making it cheaper.md",
+      "url": "/essays/LinkedIn/24-01-09_making_it_cheaper/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-03 my first entrepreneurial gig",
+      "path": "essays/LinkedIn/24-01-03_My first entrepreneurial gig.md",
+      "url": "/essays/LinkedIn/24-01-03_my_first_entrepreneurial_gig/"
+    },
+    {
+      "title": "scipreneurs #startups #innovation #scientists-entrepreneurs",
+      "path": "essays/LinkedIn/23-11-17_PhD starting company.md",
+      "url": "/essays/LinkedIn/23-11-17_phd_starting_company/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-05 co founders",
+      "path": "essays/LinkedIn/23-12-05_Co Founders.md",
+      "url": "/essays/LinkedIn/23-12-05_co_founders/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-25 kings or rich",
+      "path": "essays/LinkedIn/24-01-25_kings or rich.md",
+      "url": "/essays/LinkedIn/24-01-25_kings_or_rich/"
+    },
+    {
+      "title": "Essays/linkedin/  we thought patents were our moat. we were wrong.",
+      "path": "essays/LinkedIn/_ We thought patents were our moat. We were wrong..md",
+      "url": "/essays/LinkedIn/__we_thought_patents_were_our_moat._we_were_wrong./"
+    },
+    {
+      "title": "Essays/linkedin/  from lab bench to landing page",
+      "path": "essays/LinkedIn/_ From Lab Bench to Landing Page.md",
+      "url": "/essays/LinkedIn/__from_lab_bench_to_landing_page/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-20 there are no 10 rules",
+      "path": "essays/LinkedIn/23-12-20_There are no 10 rules.md",
+      "url": "/essays/LinkedIn/23-12-20_there_are_no_10_rules/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-15 fear of rejection",
+      "path": "essays/LinkedIn/23-12-15_Fear of Rejection.md",
+      "url": "/essays/LinkedIn/23-12-15_fear_of_rejection/"
+    },
+    {
+      "title": "Essays/linkedin/  startup team",
+      "path": "essays/LinkedIn/_ startup team.md",
+      "url": "/essays/LinkedIn/__startup_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-23 we are better at adding",
+      "path": "essays/LinkedIn/24-01-23_We are better at adding.md",
+      "url": "/essays/LinkedIn/24-01-23_we_are_better_at_adding/"
+    },
+    {
+      "title": "scipreneurs #scientists-entrepreneurs #market-size",
+      "path": "essays/LinkedIn/23-11-20_TAM, SOM, SAM.md",
+      "url": "/essays/LinkedIn/23-11-20_tam,_som,_sam/"
+    },
+    {
+      "title": "Essays/linkedin/  scientists ingest vast amounts of information",
+      "path": "essays/LinkedIn/_ Scientists ingest vast amounts of information.md",
+      "url": "/essays/LinkedIn/__scientists_ingest_vast_amounts_of_information/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-22 becoming a technologist",
+      "path": "essays/LinkedIn/24-04-22_Becoming a technologist.md",
+      "url": "/essays/LinkedIn/24-04-22_becoming_a_technologist/"
+    },
+    {
+      "title": "Essays/linkedin/  grants won’t save you",
+      "path": "essays/LinkedIn/_ Grants Won’t Save You.md",
+      "url": "/essays/LinkedIn/__grants_won’t_save_you/"
+    },
+    {
+      "title": "failing #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-22_Failure.md",
+      "url": "/essays/LinkedIn/23-11-22_failure/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-23 ai for everything",
+      "path": "essays/LinkedIn/24-03-23_AI For everything.md",
+      "url": "/essays/LinkedIn/24-03-23_ai_for_everything/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-30 too busy for your team",
+      "path": "essays/LinkedIn/24-04-30_Too busy for your team.md",
+      "url": "/essays/LinkedIn/24-04-30_too_busy_for_your_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-06 six sigma",
+      "path": "essays/LinkedIn/24-05-06_Six Sigma.md",
+      "url": "/essays/LinkedIn/24-05-06_six_sigma/"
+    },
+    {
+      "title": "Scipreneurs will greatly benefit from it: you'll be able to move beyond the \"problem-solution\" framework, and it gives the tools to understanding complex contexts, the competition, and how to develop a compelling value proposition.",
+      "path": "essays/LinkedIn/24-04-26_Kano Model.md",
+      "url": "/essays/LinkedIn/24-04-26_kano_model/"
+    },
+    {
+      "title": "Patents: A False God?",
+      "path": "essays/LinkedIn/_ Patents A False God.md",
+      "url": "/essays/LinkedIn/__patents_a_false_god/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-28 average advice",
+      "path": "essays/LinkedIn/24-05-28_Average advice.md",
+      "url": "/essays/LinkedIn/24-05-28_average_advice/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-08   i used to think building was the hard part. now i think it’s vision.",
+      "path": "essays/LinkedIn/25-08-08 _ I used to think building was the hard part. Now I think it’s vision..md",
+      "url": "/essays/LinkedIn/25-08-08___i_used_to_think_building_was_the_hard_part._now_i_think_it’s_vision./"
+    },
+    {
+      "title": "Essays/linkedin/24-09-19 adoption curve",
+      "path": "essays/LinkedIn/24-09-19_Adoption Curve.md",
+      "url": "/essays/LinkedIn/24-09-19_adoption_curve/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-02  don't trust my advice",
+      "path": "essays/LinkedIn/24-05-02_ Don't trust my advice.md",
+      "url": "/essays/LinkedIn/24-05-02__don't_trust_my_advice/"
+    },
+    {
+      "title": "Essays/linkedin/  the myth of the perfect prototype",
+      "path": "essays/LinkedIn/_ The Myth of the Perfect Prototype.md",
+      "url": "/essays/LinkedIn/__the_myth_of_the_perfect_prototype/"
+    },
+    {
+      "title": "scipreneurs #tto #technology-transfer #universities",
+      "path": "essays/LinkedIn/23-11-21_Do you know your TTO.md",
+      "url": "/essays/LinkedIn/23-11-21_do_you_know_your_tto/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-11   here’s a time i ignored the market signal and paid for it",
+      "path": "essays/LinkedIn/25-08-11 _ Here’s a time I ignored the market signal and paid for it.md",
+      "url": "/essays/LinkedIn/25-08-11___here’s_a_time_i_ignored_the_market_signal_and_paid_for_it/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-12   why many deep‑tech startups fail after seed—and how to avoid it",
+      "path": "essays/LinkedIn/25-08-12 _ Why many deep‑tech startups fail after seed—and how to avoid it.md",
+      "url": "/essays/LinkedIn/25-08-12___why_many_deep‑tech_startups_fail_after_seed—and_how_to_avoid_it/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-18 starting is hard",
+      "path": "essays/LinkedIn/23-12-18_Starting is Hard.md",
+      "url": "/essays/LinkedIn/23-12-18_starting_is_hard/"
+    },
+    {
+      "title": "Essays/linkedin/  why most university spinouts die quietly",
+      "path": "essays/LinkedIn/_ Why Most University Spinouts Die Quietly.md",
+      "url": "/essays/LinkedIn/__why_most_university_spinouts_die_quietly/"
+    },
+    {
+      "title": "innovation #productdevelopment #productmarketfit",
+      "path": "essays/LinkedIn/24-01-05_Problem solution framework.md",
+      "url": "/essays/LinkedIn/24-01-05_problem_solution_framework/"
+    },
+    {
+      "title": "Essays/linkedin/26-01-27 double diamond",
+      "path": "essays/LinkedIn/26-01-27_Double Diamond.md",
+      "url": "/essays/LinkedIn/26-01-27_double_diamond/"
+    },
+    {
+      "title": "Essays/linkedin/  brainstorming",
+      "path": "essays/LinkedIn/_ Brainstorming.md",
+      "url": "/essays/LinkedIn/__brainstorming/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-08 patents",
+      "path": "essays/LinkedIn/24-05-08_Patents.md",
+      "url": "/essays/LinkedIn/24-05-08_patents/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-17  label free",
+      "path": "essays/LinkedIn/24-05-17_ Label Free.md",
+      "url": "/essays/LinkedIn/24-05-17__label_free/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-17 sexism in academia",
+      "path": "essays/LinkedIn/23-12-17_Sexism in academia.md",
+      "url": "/essays/LinkedIn/23-12-17_sexism_in_academia/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-20 humane ai",
+      "path": "essays/LinkedIn/24-04-20_Humane AI.md",
+      "url": "/essays/LinkedIn/24-04-20_humane_ai/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-07  3 signals that your scientific prototype is ready for productization",
+      "path": "essays/LinkedIn/25-08-07_ 3 signals that your scientific prototype is ready for productization.md",
+      "url": "/essays/LinkedIn/25-08-07__3_signals_that_your_scientific_prototype_is_ready_for_productization/"
+    },
+    {
+      "title": "Essays/linkedin/  the academic founder dilemma",
+      "path": "essays/LinkedIn/_ The Academic Founder Dilemma.md",
+      "url": "/essays/LinkedIn/__the_academic_founder_dilemma/"
+    },
+    {
+      "title": "scipreneurs #entrepreneurs #startups #superlineargrowth",
+      "path": "essays/LinkedIn/23-11-24_Doing things better.md",
+      "url": "/essays/LinkedIn/23-11-24_doing_things_better/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 7 you need a ceo",
+      "path": "essays/LinkedIn/_ misconception 7 you need a CEO.md",
+      "url": "/essays/LinkedIn/__misconception_7_you_need_a_ceo/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-13 startup studio for deep tech",
+      "path": "essays/LinkedIn/24-05-13_startup studio for deep tech.md",
+      "url": "/essays/LinkedIn/24-05-13_startup_studio_for_deep_tech/"
+    },
+    {
+      "title": "202508181058",
+      "path": "literature/202508181058 IR-DOSY for Amyloid Characterization.md",
+      "url": "/literature/202508181058_ir-dosy_for_amyloid_characterization/"
+    },
+    {
+      "title": "Literature/202212301234 biggest challenge of single-molecule methods is non-specific binding",
+      "path": "literature/202212301234 Biggest challenge of single-molecule methods is non-specific binding.md",
+      "url": "/literature/202212301234_biggest_challenge_of_single-molecule_methods_is_non-specific_binding/"
+    },
+    {
+      "title": "Literature/202301241141 separation of vesicles with free flow electrophoresis",
+      "path": "literature/202301241141 Separation of vesicles with Free Flow Electrophoresis.md",
+      "url": "/literature/202301241141_separation_of_vesicles_with_free_flow_electrophoresis/"
+    },
+    {
+      "title": "202405221743",
+      "path": "literature/202405221743 Molecular weight in NSM.md",
+      "url": "/literature/202405221743_molecular_weight_in_nsm/"
+    },
+    {
+      "title": "Literature/202405081119 in favor of research exemptions",
+      "path": "literature/202405081119 In favor of research exemptions.md",
+      "url": "/literature/202405081119_in_favor_of_research_exemptions/"
+    },
+    {
+      "title": "Technological progress is slower than Moore’s law predicts",
+      "path": "literature/202111292222 technological progress is slower than moore law.md",
+      "url": "/literature/202111292222_technological_progress_is_slower_than_moore_law/"
+    },
+    {
+      "title": "Literature/202603010909 measuring the right metrics",
+      "path": "literature/202603010909 Measuring the right metrics.md",
+      "url": "/literature/202603010909_measuring_the_right_metrics/"
+    },
+    {
+      "title": "202603010907",
+      "path": "literature/202603010907.md",
+      "url": "/literature/202603010907/"
+    },
+    {
+      "title": "Literature/202310101226 tracking magnetic beads in 3d",
+      "path": "literature/202310101226 Tracking magnetic beads in 3D.md",
+      "url": "/literature/202310101226_tracking_magnetic_beads_in_3d/"
+    },
+    {
+      "title": "Tools to study in vitro toxicity of medical nanoparticles",
+      "path": "literature/202111301751 In vitro toxicity of medical nanoparticles.md",
+      "url": "/literature/202111301751_in_vitro_toxicity_of_medical_nanoparticles/"
+    },
+    {
+      "title": "Literature/202405081156 impact of patent-first research approach",
+      "path": "literature/202405081156 Impact of patent-first research approach.md",
+      "url": "/literature/202405081156_impact_of_patent-first_research_approach/"
+    },
+    {
+      "title": "Literature/202503032118 the music of life",
+      "path": "literature/202503032118 The Music of Life.md",
+      "url": "/literature/202503032118_the_music_of_life/"
+    },
+    {
+      "title": "Literature/202504281128 certification for sdls",
+      "path": "literature/202504281128 Certification for SDLs.md",
+      "url": "/literature/202504281128_certification_for_sdls/"
+    },
+    {
+      "title": "202504291345",
+      "path": "literature/202504291345 Impedance measurement of metal oxide semiconductor gas sensors.md",
+      "url": "/literature/202504291345_impedance_measurement_of_metal_oxide_semiconductor_gas_sensors/"
+    },
+    {
+      "title": "Literature/202311281010 states are investing in lowering risks",
+      "path": "literature/202311281010 States are investing in lowering risks.md",
+      "url": "/literature/202311281010_states_are_investing_in_lowering_risks/"
+    },
+    {
+      "title": "Literature/202311240722 compressive raman with spad arrays",
+      "path": "literature/202311240722 Compressive Raman with SPAD Arrays.md",
+      "url": "/literature/202311240722_compressive_raman_with_spad_arrays/"
+    },
+    {
+      "title": "Literature/202303251644 needs-first product innovation is flawed",
+      "path": "literature/202303251644 Needs-first product innovation is flawed.md",
+      "url": "/literature/202303251644_needs-first_product_innovation_is_flawed/"
+    },
+    {
+      "title": "Literature/202311240735 compressive raman for chemical reactions",
+      "path": "literature/202311240735 Compressive Raman for Chemical Reactions.md",
+      "url": "/literature/202311240735_compressive_raman_for_chemical_reactions/"
+    },
+    {
+      "title": "Literature/202311280851 tracking charges in lithium electrodes",
+      "path": "literature/202311280851 Tracking charges in lithium electrodes.md",
+      "url": "/literature/202311280851_tracking_charges_in_lithium_electrodes/"
+    },
+    {
+      "title": "Literature/202306121207 using open-hardware to bypass ttos",
+      "path": "literature/202306121207 Using open-hardware to bypass TTOs.md",
+      "url": "/literature/202306121207_using_open-hardware_to_bypass_ttos/"
+    },
+    {
+      "title": "Literature/202211031710 characterization of physicochemical properties of nano vaccines",
+      "path": "literature/202211031710 Characterization of physicochemical properties of nano vaccines.md",
+      "url": "/literature/202211031710_characterization_of_physicochemical_properties_of_nano_vaccines/"
+    },
+    {
+      "title": "202508181023",
+      "path": "literature/202508181023 IR-DOSY for molecular size and structure.md",
+      "url": "/literature/202508181023_ir-dosy_for_molecular_size_and_structure/"
+    },
+    {
+      "title": "202405070914",
+      "path": "literature/202405070914 measure the success of technology transfer from universities by using the total number of patents, licenses and spin-offs.md",
+      "url": "/literature/202405070914_measure_the_success_of_technology_transfer_from_universities_by_using_the_total_number_of_patents,_licenses_and_spin-offs/"
+    },
+    {
+      "title": "Literature/202410012123 product strategy",
+      "path": "literature/202410012123 Product Strategy.md",
+      "url": "/literature/202410012123_product_strategy/"
+    },
+    {
+      "title": "202304271736",
+      "path": "literature/202304271736 Nanoparticle size measurement with optofluidic force induction.md",
+      "url": "/literature/202304271736_nanoparticle_size_measurement_with_optofluidic_force_induction/"
+    },
+    {
+      "title": "Literature/202311281141 companies will invest more on applied research",
+      "path": "literature/202311281141 Companies will invest more on applied research.md",
+      "url": "/literature/202311281141_companies_will_invest_more_on_applied_research/"
+    },
+    {
+      "title": "Literature/202404021200 free flow electrophoresis for plasma processing",
+      "path": "literature/202404021200 Free Flow Electrophoresis for plasma processing.md",
+      "url": "/literature/202404021200_free_flow_electrophoresis_for_plasma_processing/"
+    },
+    {
+      "title": "202201031452 Tiny Instrument Element",
+      "path": "literature/202201031452 Tiny Instrument Element.md",
+      "url": "/literature/202201031452_tiny_instrument_element/"
+    },
+    {
+      "title": "Measure the protein adsorption to MedNPs",
+      "path": "literature/202111301100 protein adsorption to MedNPs.md",
+      "url": "/literature/202111301100_protein_adsorption_to_mednps/"
+    },
+    {
+      "title": "Literature/202111302113 quantifying sources of error in nanoparticle tracking analysis",
+      "path": "literature/202111302113 Quantifying sources of error in nanoparticle tracking analysis.md",
+      "url": "/literature/202111302113_quantifying_sources_of_error_in_nanoparticle_tracking_analysis/"
+    },
+    {
+      "title": "Literature/202301241150 different modes of operation of microfluidic free-flow electrophoresis",
+      "path": "literature/202301241150 Different modes of operation of Microfluidic Free-Flow electrophoresis.md",
+      "url": "/literature/202301241150_different_modes_of_operation_of_microfluidic_free-flow_electrophoresis/"
+    },
+    {
+      "title": "202503032124",
+      "path": "literature/202503032124.md",
+      "url": "/literature/202503032124/"
+    },
+    {
+      "title": "Literature/202306121138 different types of open hardware",
+      "path": "literature/202306121138 Different types of open hardware.md",
+      "url": "/literature/202306121138_different_types_of_open_hardware/"
+    },
+    {
+      "title": "Literature Notes",
+      "path": "literature/index.md",
+      "url": "/literature/"
+    },
+    {
+      "title": "Literature/202405081109 patents in research institutions",
+      "path": "literature/202405081109 Patents in research institutions.md",
+      "url": "/literature/202405081109_patents_in_research_institutions/"
+    },
+    {
+      "title": "Literature/202410012120 product vision",
+      "path": "literature/202410012120 Product Vision.md",
+      "url": "/literature/202410012120_product_vision/"
+    },
+    {
+      "title": "202206290743",
+      "path": "literature/202206290743 EVs derived from the Pfizer-BioNTech vaccine.md",
+      "url": "/literature/202206290743_evs_derived_from_the_pfizer-biontech_vaccine/"
+    },
+    {
+      "title": "Literature/202311280944 the fake speech of free market in innovation",
+      "path": "literature/202311280944 The fake speech of free market in innovation.md",
+      "url": "/literature/202311280944_the_fake_speech_of_free_market_in_innovation/"
+    },
+    {
+      "title": "202504281129",
+      "path": "literature/202504281129.md",
+      "url": "/literature/202504281129/"
+    },
+    {
+      "title": "Literature/202405081103 research exemption for patented knowledge",
+      "path": "literature/202405081103 Research exemption for patented knowledge.md",
+      "url": "/literature/202405081103_research_exemption_for_patented_knowledge/"
+    },
+    {
+      "title": "Literature/202311280955 socialize risks and privatize rewards",
+      "path": "literature/202311280955 Socialize risks and privatize rewards.md",
+      "url": "/literature/202311280955_socialize_risks_and_privatize_rewards/"
+    },
+    {
+      "title": "Literature/202504281112 sdl approach to distributed discovery",
+      "path": "literature/202504281112 SDL approach to distributed discovery.md",
+      "url": "/literature/202504281112_sdl_approach_to_distributed_discovery/"
+    },
+    {
+      "title": "Literature/202310112003 acoustic force spectroscopy for single-molecule applications",
+      "path": "literature/202310112003 Acoustic Force Spectroscopy for single-molecule applications.md",
+      "url": "/literature/202310112003_acoustic_force_spectroscopy_for_single-molecule_applications/"
+    },
+    {
+      "title": "Literature/202311221425 - skills to become a scientist entrepreneur",
+      "path": "literature/202311221425 - Skills to become a scientist entrepreneur.md",
+      "url": "/literature/202311221425_-_skills_to_become_a_scientist_entrepreneur/"
+    },
+    {
+      "title": "202410021554",
+      "path": "literature/202410021554 Entrepreneurship in Life Sciences (in Portugal).md",
+      "url": "/literature/202410021554_entrepreneurship_in_life_sciences_(in_portugal)/"
+    },
+    {
+      "title": "202404281926",
+      "path": "literature/202404281926 Microfluidic electrophoresis for proteins with real time measurement.md",
+      "url": "/literature/202404281926_microfluidic_electrophoresis_for_proteins_with_real_time_measurement/"
+    },
+    {
+      "title": "Literature/202603010908 aligning customer journey and strategy",
+      "path": "literature/202603010908 Aligning customer journey and strategy.md",
+      "url": "/literature/202603010908_aligning_customer_journey_and_strategy/"
+    },
+    {
+      "title": "Literature/202604031951 10 steps to develop positioning",
+      "path": "literature/202604031951 10 steps to develop positioning.md",
+      "url": "/literature/202604031951_10_steps_to_develop_positioning/"
+    },
+    {
+      "title": "Interferometrically encoded in vivo flow cytometry",
+      "path": "literature/202111291518 interferometrically encoded in vivo flow cytometry.md",
+      "url": "/literature/202111291518_interferometrically_encoded_in_vivo_flow_cytometry/"
+    },
+    {
+      "title": "Literature/202404021206  integrated waveguide on electrophoretic separation",
+      "path": "literature/202404021206  Integrated Waveguide on electrophoretic separation.md",
+      "url": "/literature/202404021206__integrated_waveguide_on_electrophoretic_separation/"
+    },
+    {
+      "title": "Literature/202405081203 open-source model for patents",
+      "path": "literature/202405081203 Open-Source model for patents.md",
+      "url": "/literature/202405081203_open-source_model_for_patents/"
+    },
+    {
+      "title": "202304011243",
+      "path": "literature/202304011243 Refractive index of Polyacrylamide gels.md",
+      "url": "/literature/202304011243_refractive_index_of_polyacrylamide_gels/"
+    },
+    {
+      "title": "Literature/202504281141 roadblocks in the future of sdls",
+      "path": "literature/202504281141 Roadblocks in the future of SDLs.md",
+      "url": "/literature/202504281141_roadblocks_in_the_future_of_sdls/"
+    },
+    {
+      "title": "202409160819",
+      "path": "literature/202409160819.md",
+      "url": "/literature/202409160819/"
+    },
+    {
+      "title": "Literature/202311281015 innovation led policies",
+      "path": "literature/202311281015 Innovation led policies.md",
+      "url": "/literature/202311281015_innovation_led_policies/"
+    },
+    {
+      "title": "Literature/202206291350 biomolecules scattering inside nanochannels",
+      "path": "literature/202206291350 Biomolecules scattering inside nanochannels.md",
+      "url": "/literature/202206291350_biomolecules_scattering_inside_nanochannels/"
+    },
+    {
+      "title": "Literature/202106191120 principles of effective management",
+      "path": "literature/202106191120 principles of effective management.md",
+      "url": "/literature/202106191120_principles_of_effective_management/"
+    },
+    {
+      "title": "Literature/202103131212 aav2 capsids suffer from aggregation making them unstable and harder to use for medical applications",
+      "path": "literature/202103131212 AAV2 capsids suffer from aggregation making them unstable and harder to use for medical applications.md",
+      "url": "/literature/202103131212_aav2_capsids_suffer_from_aggregation_making_them_unstable_and_harder_to_use_for_medical_applications/"
+    },
+    {
+      "title": "Resonance calendar/eroom's law",
+      "path": "resonance calendar/Eroom's law.md",
+      "url": "/resonance calendar/eroom's_law/"
+    },
+    {
+      "title": "shinrin-yoku",
+      "path": "resonance calendar/shinrin-yoku.md",
+      "url": "/resonance calendar/shinrin-yoku/"
+    },
+    {
+      "title": "Resonance calendar/  init  .py files are optional",
+      "path": "resonance calendar/__init__.py files are optional.md",
+      "url": "/resonance calendar/__init__.py_files_are_optional/"
+    },
+    {
+      "title": "Circulating free DNA",
+      "path": "resonance calendar/Circulating free DNA.md",
+      "url": "/resonance calendar/circulating_free_dna/"
+    },
+    {
+      "title": "Starting a company is like jumping off a cliff and assembling a plane on the way down",
+      "path": "resonance calendar/Starting a company is like jumping off a cliff and assembling a plane on the way down.md",
+      "url": "/resonance calendar/starting_a_company_is_like_jumping_off_a_cliff_and_assembling_a_plane_on_the_way_down/"
+    },
+    {
+      "title": "Arctoris CV Suggestions",
+      "path": "resonance calendar/Arctoris CV Suggestions.md",
+      "url": "/resonance calendar/arctoris_cv_suggestions/"
+    },
+    {
+      "title": "Terrarium closed for 50 years is life's microcosm",
+      "path": "resonance calendar/Terrarium closed for 50 years is life's microcosm.md",
+      "url": "/resonance calendar/terrarium_closed_for_50_years_is_life's_microcosm/"
+    },
+    {
+      "title": "Patent fight around CRISPR technologies",
+      "path": "resonance calendar/Patent fight around CRISPR technologies.md",
+      "url": "/resonance calendar/patent_fight_around_crispr_technologies/"
+    },
+    {
+      "title": "Resonance Calendar",
+      "path": "resonance calendar/index.md",
+      "url": "/resonance calendar/"
+    },
+    {
+      "title": "Arctoris Lab Automation",
+      "path": "resonance calendar/Arctoris Lab Automation.md",
+      "url": "/resonance calendar/arctoris_lab_automation/"
+    },
+    {
+      "title": "Tech notes/yarn run in docker",
+      "path": "tech_notes/yarn run in docker.md",
+      "url": "/tech_notes/yarn_run_in_docker/"
+    },
+    {
+      "title": "Tech notes/concurrent futures and threadpoolexecutor",
+      "path": "tech_notes/concurrent futures and threadpoolexecutor.md",
+      "url": "/tech_notes/concurrent_futures_and_threadpoolexecutor/"
+    },
+    {
+      "title": "Dictionary Views in Python",
+      "path": "tech_notes/dictionary views.md",
+      "url": "/tech_notes/dictionary_views/"
+    },
+    {
+      "title": "Python Config Parser",
+      "path": "tech_notes/python ConfigParser.md",
+      "url": "/tech_notes/python_configparser/"
+    },
+    {
+      "title": "Using slots in your classes to prevent attribute creation at runtime",
+      "path": "tech_notes/python class slots.md",
+      "url": "/tech_notes/python_class_slots/"
+    },
+    {
+      "title": "Tech notes/windows 11 bootable on a mac",
+      "path": "tech_notes/Windows 11 bootable on a mac.md",
+      "url": "/tech_notes/windows_11_bootable_on_a_mac/"
+    },
+    {
+      "title": "Tech notes/using adda with python",
+      "path": "tech_notes/Using ADDA with Python.md",
+      "url": "/tech_notes/using_adda_with_python/"
+    },
+    {
+      "title": "El cambio incremental nos puede llevar hacia lugares indeseados",
+      "path": "ensayos/el cambio incremental nos lleva a lugares indeseados.md",
+      "url": "/ensayos/el_cambio_incremental_nos_lleva_a_lugares_indeseados/"
+    },
+    {
+      "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+      "path": "ensayos/violencia_boliches_alcohol.md",
+      "url": "/ensayos/violencia_boliches_alcohol/"
+    },
+    {
+      "title": "Repensando el rol de la tecnología en la educación",
+      "path": "ensayos/Repensar el rol de la tecnología en la educación.md",
+      "url": "/ensayos/repensar_el_rol_de_la_tecnología_en_la_educación/"
+    },
+    {
+      "title": "La llegada de la Sputnik V a Argentina",
+      "path": "ensayos/Sputnik V en Argentina.md",
+      "url": "/ensayos/sputnik_v_en_argentina/"
+    },
+    {
+      "title": "Una extinción dentro nuestro",
+      "path": "ensayos/una extinción dentro nuestro.md",
+      "url": "/ensayos/una_extinción_dentro_nuestro/"
+    },
+    {
+      "title": "El secreto de Antoni",
+      "path": "ensayos/El secreto de Antoni.md",
+      "url": "/ensayos/el_secreto_de_antoni/"
+    },
+    {
+      "title": "Scipreneurs/playbook/00 - index",
+      "path": "scipreneurs/Playbook/00 - Index.md",
+      "url": "/scipreneurs/Playbook/00_-_index/"
+    },
+    {
+      "title": "Scipreneurs/playbook/2 - problem-first market search",
+      "path": "scipreneurs/Playbook/2 - Problem-First market search.md",
+      "url": "/scipreneurs/Playbook/2_-_problem-first_market_search/"
+    },
+    {
+      "title": "Scipreneurs/playbook/3 - the value proposition",
+      "path": "scipreneurs/Playbook/3 - The Value Proposition.md",
+      "url": "/scipreneurs/Playbook/3_-_the_value_proposition/"
+    },
+    {
+      "title": "Scipreneurs/playbook/4 - customer discovery",
+      "path": "scipreneurs/Playbook/4 - Customer Discovery.md",
+      "url": "/scipreneurs/Playbook/4_-_customer_discovery/"
+    },
+    {
+      "title": "Scipreneurs/playbook/1 - inventory of ideas",
+      "path": "scipreneurs/Playbook/1 - Inventory of Ideas.md",
+      "url": "/scipreneurs/Playbook/1_-_inventory_of_ideas/"
+    },
+    {
+      "title": "Scipreneurs/playbook/6 - role of the professor",
+      "path": "scipreneurs/Playbook/6 - Role of the Professor.md",
+      "url": "/scipreneurs/Playbook/6_-_role_of_the_professor/"
+    },
+    {
+      "title": "Scipreneurs/playbook/5 - competitive landscape",
+      "path": "scipreneurs/Playbook/5 - Competitive Landscape.md",
+      "url": "/scipreneurs/Playbook/5_-_competitive_landscape/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/5 - was that a good idea",
+      "path": "scipreneurs/7-day-intro/5 - Was that a good idea.md",
+      "url": "/scipreneurs/7-day-intro/5_-_was_that_a_good_idea/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/0 - welcome message",
+      "path": "scipreneurs/7-day-intro/0 - Welcome Message.md",
+      "url": "/scipreneurs/7-day-intro/0_-_welcome_message/"
+    },
+    {
+      "title": "Scipreneurs/book/00 index",
+      "path": "scipreneurs/Book/00_index.md",
+      "url": "/scipreneurs/Book/00_index/"
+    },
+    {
+      "title": "Entrepreneurial Mindset for Scientists",
+      "path": "scipreneurs/Archived/Playbook/01_Mindset.md",
+      "url": "/scipreneurs/Archived/Playbook/01_mindset/"
+    },
+    {
+      "title": "Developing an Entrepreneurial Mindset",
+      "path": "scipreneurs/Archived/Playbook/06_Developing Entrepreneurial Mindset.md",
+      "url": "/scipreneurs/Archived/Playbook/06_developing_entrepreneurial_mindset/"
+    },
+    {
+      "title": "Understanding and Accepting the Risk of Failure",
+      "path": "scipreneurs/Archived/Playbook/03_Risks.md",
+      "url": "/scipreneurs/Archived/Playbook/03_risks/"
+    },
+    {
+      "title": "Adapting Academic Skills for Business Use",
+      "path": "scipreneurs/Archived/Playbook/05_Adapting Skills.md",
+      "url": "/scipreneurs/Archived/Playbook/05_adapting_skills/"
+    },
+    {
+      "title": "Resourcefulness and Creativity",
+      "path": "scipreneurs/Archived/Playbook/04_Creativity.md",
+      "url": "/scipreneurs/Archived/Playbook/04_creativity/"
+    },
+    {
+      "title": "Playbook Entrepreneurship for Academics",
+      "path": "scipreneurs/Archived/Playbook/index.md",
+      "url": "/scipreneurs/Archived/Playbook/"
+    },
+    {
+      "title": "Effectual Reasoning",
+      "path": "scipreneurs/Archived/Playbook/02_Effectual reasoning.md",
+      "url": "/scipreneurs/Archived/Playbook/02_effectual_reasoning/"
+    },
+    {
+      "title": "Embracing the Scipreneur Mindset: Transitioning from Scientist to Entrepreneur",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/1 - Mindset Shift.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/1_-_mindset_shift/"
+    },
+    {
+      "title": "Funding Your Venture: Grants, Investors, and Beyond",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/5 - Funding.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/5_-_funding/"
+    },
+    {
+      "title": "The Scipreneur Playbook",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/0 - Index.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/0_-_index/"
+    },
+    {
+      "title": "Developing Your First Product: From Concept to Prototype",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/6 - MVP.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/6_-_mvp/"
+    },
+    {
+      "title": "Intellectual Property and Protecting Your Innovations",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/4 - IP.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/4_-_ip/"
+    },
+    {
+      "title": "Building and Leveraging Your Network: Engaging with Key Opinion Leaders (KOLs)",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/3 - Network.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/3_-_network/"
+    },
+    {
+      "title": "Identifying and Validating Market Opportunities",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/2 - Market Opportunities.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/2_-_market_opportunities/"
+    },
+    {
+      "title": "Launching and Scaling Your Startup: Strategies for Growth and Sustainability",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/7 - Launching.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/7_-_launching/"
+    }
+  ],
+  "notes_without_links": [
+    {
+      "title": "Klara and the Sun - Ishiguro",
+      "path": "Klara and the Sun - Ishiguro.md",
+      "url": "/klara_and_the_sun_-_ishiguro/"
+    },
+    {
+      "title": "My cv made into a podcast",
+      "path": "My CV made into a podcast.md",
+      "url": "/my_cv_made_into_a_podcast/"
+    },
+    {
+      "title": "Poeta chileno - alejandro zambra",
+      "path": "Poeta Chileno - Alejandro Zambra.md",
+      "url": "/poeta_chileno_-_alejandro_zambra/"
+    },
+    {
+      "title": "Marginal cost",
+      "path": "marginal cost.md",
+      "url": "/marginal_cost/"
+    },
+    {
+      "title": "1999 - francisco bitar",
+      "path": "1999 - Francisco Bitar.md",
+      "url": "/1999_-_francisco_bitar/"
+    },
+    {
+      "title": "Who are product stakeholders",
+      "path": "who are product stakeholders.md",
+      "url": "/who_are_product_stakeholders/"
+    },
+    {
+      "title": "Dunning-kruger effect",
+      "path": "Dunning-Kruger effect.md",
+      "url": "/dunning-kruger_effect/"
+    },
+    {
+      "title": "Contact Me",
+      "path": "contact me.md",
+      "url": "/contact_me/"
+    },
+    {
+      "title": "Preventing django from sending log emails",
+      "path": "Preventing Django from sending log emails.md",
+      "url": "/preventing_django_from_sending_log_emails/"
+    },
+    {
+      "title": "To pay or not to pay reviewers of scientific papers",
+      "path": "To pay or not to pay reviewers of scientific papers.md",
+      "url": "/to_pay_or_not_to_pay_reviewers_of_scientific_papers/"
+    },
+    {
+      "title": "The Commons",
+      "path": "the commons.md",
+      "url": "/the_commons/"
+    },
+    {
+      "title": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "path": "LICENSE.md",
+      "url": "/license/"
+    },
+    {
+      "title": "Aufhebung",
+      "path": "aufhebung.md",
+      "url": "/aufhebung/"
+    },
+    {
+      "title": "Technology readiness level",
+      "path": "technology readiness level.md",
+      "url": "/technology_readiness_level/"
+    },
+    {
+      "title": "Operación Kazán - Vicente Vallés",
+      "path": "Operación Kazán - Vicente Vallés.md",
+      "url": "/operación_kazán_-_vicente_vallés/"
+    },
+    {
+      "title": "Build trust in a team",
+      "path": "build trust in a team.md",
+      "url": "/build_trust_in_a_team/"
+    },
+    {
+      "title": "Tres Truenos, de Marina Closs",
+      "path": "Tres Truenos - Marina Closs.md",
+      "url": "/tres_truenos_-_marina_closs/"
+    },
+    {
+      "title": "Everyone can Build a Twitter Audience",
+      "path": "Everyone can Build a Twitter Audience - Daniel Vassallo.md",
+      "url": "/everyone_can_build_a_twitter_audience_-_daniel_vassallo/"
+    },
+    {
+      "title": "Hard to quantify decisions",
+      "path": "Hard to quantify decisions.md",
+      "url": "/hard_to_quantify_decisions/"
+    },
+    {
+      "title": "El tango de la guardia vieja - arturo pérez-reverte",
+      "path": "El tango de la guardia vieja - Arturo Pérez-Reverte.md",
+      "url": "/el_tango_de_la_guardia_vieja_-_arturo_pérez-reverte/"
+    },
+    {
+      "title": "Grant recipients are ageing",
+      "path": "grant recipients are ageing.md",
+      "url": "/grant_recipients_are_ageing/"
+    },
+    {
+      "title": "Random forest particle classifier",
+      "path": "random forest particle classifier.md",
+      "url": "/random_forest_particle_classifier/"
+    },
+    {
+      "title": "El Problema de los Tres Cuerpos - Liu Cixin",
+      "path": "El Problema de los Tres Cuerpos - Liu Cixin.md",
+      "url": "/el_problema_de_los_tres_cuerpos_-_liu_cixin/"
+    },
+    {
+      "title": "Mtt",
+      "path": "MTT.md",
+      "url": "/mtt/"
+    },
+    {
+      "title": "Ldh",
+      "path": "LDH.md",
+      "url": "/ldh/"
+    },
+    {
+      "title": "Having a patent does not entail competing interests",
+      "path": "having a patent does not entail competing interests.md",
+      "url": "/having_a_patent_does_not_entail_competing_interests/"
+    },
+    {
+      "title": "Eggs in argentinian shores are from a snail",
+      "path": "eggs in argentinian shores are from a snail.md",
+      "url": "/eggs_in_argentinian_shores_are_from_a_snail/"
+    },
+    {
+      "title": "Differential schemes for particle detection",
+      "path": "differential schemes for particle detection.md",
+      "url": "/differential_schemes_for_particle_detection/"
+    },
+    {
+      "title": "Schizogony",
+      "path": "schizogony.md",
+      "url": "/schizogony/"
+    },
+    {
+      "title": "Humoral immunity",
+      "path": "Humoral immunity.md",
+      "url": "/humoral_immunity/"
+    },
+    {
+      "title": "Chaos - james gleick",
+      "path": "Chaos - James Gleick.md",
+      "url": "/chaos_-_james_gleick/"
+    },
+    {
+      "title": "Challenges with studying corrosion",
+      "path": "Challenges with studying corrosion.md",
+      "url": "/challenges_with_studying_corrosion/"
+    },
+    {
+      "title": "Error handling in python",
+      "path": "Error handling in python.md",
+      "url": "/error_handling_in_python/"
+    },
+    {
+      "title": "Adoption curve",
+      "path": "adoption curve.md",
+      "url": "/adoption_curve/"
+    },
+    {
+      "title": "Why companies fund open source software",
+      "path": "why companies fund open source software.md",
+      "url": "/why_companies_fund_open_source_software/"
+    },
+    {
+      "title": "Improved methods for fluorescent labeling and detection of single extracellular vesicles using nanoparticle tracking analysis",
+      "path": "Thane2019.md",
+      "url": "/thane2019/"
+    },
+    {
+      "title": "3r principle",
+      "path": "3R Principle.md",
+      "url": "/3r_principle/"
+    },
+    {
+      "title": "Avoid unconnected warning in power poins with kicad",
+      "path": "Avoid unconnected warning in power poins with KiCAD.md",
+      "url": "/avoid_unconnected_warning_in_power_poins_with_kicad/"
+    },
+    {
+      "title": "Bias towards men problems means less research focused on women health",
+      "path": "bias towards men problems means less research focused on women health.md",
+      "url": "/bias_towards_men_problems_means_less_research_focused_on_women_health/"
+    },
+    {
+      "title": "Phenotype",
+      "path": "phenotype.md",
+      "url": "/phenotype/"
+    },
+    {
+      "title": "We need new names - noviolet bulawayo",
+      "path": "We Need New Names - NoViolet Bulawayo.md",
+      "url": "/we_need_new_names_-_noviolet_bulawayo/"
+    },
+    {
+      "title": "Plurality of online spaces",
+      "path": "plurality of online spaces.md",
+      "url": "/plurality_of_online_spaces/"
+    },
+    {
+      "title": "Problem with single-objective lightsheet",
+      "path": "Problem with single-objective lightsheet.md",
+      "url": "/problem_with_single-objective_lightsheet/"
+    },
+    {
+      "title": "Escrt",
+      "path": "ESCRT.md",
+      "url": "/escrt/"
+    },
+    {
+      "title": "Difference conda environment and virtual environment in pyhon",
+      "path": "Difference conda environment and virtual environment in Pyhon.md",
+      "url": "/difference_conda_environment_and_virtual_environment_in_pyhon/"
+    },
+    {
+      "title": "To tweet",
+      "path": "to tweet.md",
+      "url": "/to_tweet/"
+    },
+    {
+      "title": "The sociology of lockdowns",
+      "path": "The Sociology of Lockdowns.md",
+      "url": "/the_sociology_of_lockdowns/"
+    },
+    {
+      "title": "It is not clear the amount of farming done by women",
+      "path": "it is not clear the amount of farming done by women.md",
+      "url": "/it_is_not_clear_the_amount_of_farming_done_by_women/"
+    },
+    {
+      "title": "Why pushing sensitivity of assays",
+      "path": "why pushing sensitivity of assays.md",
+      "url": "/why_pushing_sensitivity_of_assays/"
+    },
+    {
+      "title": "The scientific risks of professors holding shares in companies",
+      "path": "The scientific risks of professors holding shares in companies.md",
+      "url": "/the_scientific_risks_of_professors_holding_shares_in_companies/"
+    },
+    {
+      "title": "How ancient egyptians measured distances",
+      "path": "How ancient egyptians measured distances.md",
+      "url": "/how_ancient_egyptians_measured_distances/"
+    },
+    {
+      "title": "Adding a .env file to vscode so it finds our python module",
+      "path": "adding a .env file to VSCode so it finds our python module.md",
+      "url": "/adding_a_.env_file_to_vscode_so_it_finds_our_python_module/"
+    },
+    {
+      "title": "Shah Selbe",
+      "path": "Shah Selbe.md",
+      "url": "/shah_selbe/"
+    },
+    {
+      "title": "Dramatize your ideas",
+      "path": "Dramatize your ideas.md",
+      "url": "/dramatize_your_ideas/"
+    },
+    {
+      "title": "The pole - coetzee",
+      "path": "The Pole - Coetzee.md",
+      "url": "/the_pole_-_coetzee/"
+    },
+    {
+      "title": "Weiwei - Agustina Luz López",
+      "path": "Weiwei - Agustina Luz López.md",
+      "url": "/weiwei_-_agustina_luz_lópez/"
+    },
+    {
+      "title": "Pitching a startup",
+      "path": "pitching a startup.md",
+      "url": "/pitching_a_startup/"
+    },
+    {
+      "title": "Process of Automatizing",
+      "path": "process of automatizing.md",
+      "url": "/process_of_automatizing/"
+    },
+    {
+      "title": "Stakeholders in the research publishing circle",
+      "path": "Stakeholders in the research publishing circle.md",
+      "url": "/stakeholders_in_the_research_publishing_circle/"
+    },
+    {
+      "title": "26-03-18 problem solution framework",
+      "path": "26-03-18_Problem solution framework.md",
+      "url": "/26-03-18_problem_solution_framework/"
+    },
+    {
+      "title": "Become genuinely interested in other people",
+      "path": "Become genuinely interested in other people.md",
+      "url": "/become_genuinely_interested_in_other_people/"
+    },
+    {
+      "title": "Let the other person feel that the idea is his or hers",
+      "path": "Let the other person feel that the idea is his or hers.md",
+      "url": "/let_the_other_person_feel_that_the_idea_is_his_or_hers/"
+    },
+    {
+      "title": "Writing May be the most Undervalued Skill",
+      "path": "writing may be the most undervalued skill.md",
+      "url": "/writing_may_be_the_most_undervalued_skill/"
+    },
+    {
+      "title": "Async education",
+      "path": "async education.md",
+      "url": "/async_education/"
+    },
+    {
+      "title": "Hydroelectric dams are not net-zero",
+      "path": "Hydroelectric dams are not net-zero.md",
+      "url": "/hydroelectric_dams_are_not_net-zero/"
+    },
+    {
+      "title": "Cartesian dualism",
+      "path": "cartesian dualism.md",
+      "url": "/cartesian_dualism/"
+    },
+    {
+      "title": "Evolution acts at an individual level",
+      "path": "evolution acts at an individual level.md",
+      "url": "/evolution_acts_at_an_individual_level/"
+    },
+    {
+      "title": "Victoria - paloma sánchez-garnica",
+      "path": "Victoria - Paloma Sánchez-Garnica.md",
+      "url": "/victoria_-_paloma_sánchez-garnica/"
+    },
+    {
+      "title": "Un crimen argentino - reynaldo sietecase",
+      "path": "Un Crimen Argentino - Reynaldo Sietecase.md",
+      "url": "/un_crimen_argentino_-_reynaldo_sietecase/"
+    },
+    {
+      "title": "Real emissions of electric cars",
+      "path": "Real emissions of electric cars.md",
+      "url": "/real_emissions_of_electric_cars/"
+    },
+    {
+      "title": "Project hail mary - andy weir",
+      "path": "Project Hail Mary - Andy Weir.md",
+      "url": "/project_hail_mary_-_andy_weir/"
+    },
+    {
+      "title": "Inquiry-based science education",
+      "path": "Inquiry-based science education.md",
+      "url": "/inquiry-based_science_education/"
+    },
+    {
+      "title": "Social mobility",
+      "path": "social mobility.md",
+      "url": "/social_mobility/"
+    },
+    {
+      "title": "If a person is exposed to a figure for 500ms they'll be able to remember some features and draw conclusions",
+      "path": "if a person is exposed to a figure for 500ms they'll be able to remember some features and draw conclusions.md",
+      "url": "/if_a_person_is_exposed_to_a_figure_for_500ms_they'll_be_able_to_remember_some_features_and_draw_conclusions/"
+    },
+    {
+      "title": "Science only works in the Class Room",
+      "path": "science only works in the class room.md",
+      "url": "/science_only_works_in_the_class_room/"
+    },
+    {
+      "title": "Slow Horses - Mick Herron",
+      "path": "Slow Horses - Mick Herron.md",
+      "url": "/slow_horses_-_mick_herron/"
+    },
+    {
+      "title": "Python for the lab public key",
+      "path": "Python for the Lab Public Key.md",
+      "url": "/python_for_the_lab_public_key/"
+    },
+    {
+      "title": "Science education should not distinguish disciplines",
+      "path": "science education should not distinguish disciplines.md",
+      "url": "/science_education_should_not_distinguish_disciplines/"
+    },
+    {
+      "title": "Epigenetics",
+      "path": "epigenetics.md",
+      "url": "/epigenetics/"
+    },
+    {
+      "title": "Cell-mediated immunity",
+      "path": "Cell-mediated immunity.md",
+      "url": "/cell-mediated_immunity/"
+    },
+    {
+      "title": "Requirements of a Lab Journal",
+      "path": "Requirements of a Lab Journal.md",
+      "url": "/requirements_of_a_lab_journal/"
+    },
+    {
+      "title": "Heme",
+      "path": "heme.md",
+      "url": "/heme/"
+    },
+    {
+      "title": "Hydrogels",
+      "path": "Hydrogels.md",
+      "url": "/hydrogels/"
+    },
+    {
+      "title": "Democratic systems do not guarantee gender equality",
+      "path": "democratic systems do not guarantee gender equality.md",
+      "url": "/democratic_systems_do_not_guarantee_gender_equality/"
+    },
+    {
+      "title": "Designing tools for work is traditionally done considering the average man and not woman",
+      "path": "Designing tools for work is traditionally done considering the average man and not woman.md",
+      "url": "/designing_tools_for_work_is_traditionally_done_considering_the_average_man_and_not_woman/"
+    },
+    {
+      "title": "Erythrocytes",
+      "path": "erythrocytes.md",
+      "url": "/erythrocytes/"
+    },
+    {
+      "title": "Throw down a challenge",
+      "path": "Throw down a challenge.md",
+      "url": "/throw_down_a_challenge/"
+    },
+    {
+      "title": "Las aventuras de la china iron - gabriela cabezón cámara",
+      "path": "Las Aventuras de la China Iron - Gabriela Cabezón Cámara.md",
+      "url": "/las_aventuras_de_la_china_iron_-_gabriela_cabezón_cámara/"
+    },
+    {
+      "title": "Correlation between brain developement and family income",
+      "path": "correlation between brain developement and family income.md",
+      "url": "/correlation_between_brain_developement_and_family_income/"
+    },
+    {
+      "title": "Early progress is not a persistent indicator",
+      "path": "Early progress is not a persistent indicator.md",
+      "url": "/early_progress_is_not_a_persistent_indicator/"
+    },
+    {
+      "title": "This is only a test",
+      "path": "testing_latex_markdown.md",
+      "url": "/testing_latex_markdown/"
+    },
+    {
+      "title": "Los Crímenes de la Ciudad Blanca",
+      "path": "El Silencio de la Ciudad Blanca - Eva García Sáenz de Urturi.md",
+      "url": "/el_silencio_de_la_ciudad_blanca_-_eva_garcía_sáenz_de_urturi/"
+    },
+    {
+      "title": "Sheri Bastien",
+      "path": "Sheri Bastien.md",
+      "url": "/sheri_bastien/"
+    },
+    {
+      "title": "Si sintieras bajo los pies las estructuras mayores - roberto chuit roganovich",
+      "path": "Si Sintieras Bajo los Pies las Estructuras Mayores - Roberto Chuit Roganovich.md",
+      "url": "/si_sintieras_bajo_los_pies_las_estructuras_mayores_-_roberto_chuit_roganovich/"
+    },
+    {
+      "title": "Github Actions",
+      "path": "Github Actions.md",
+      "url": "/github_actions/"
+    },
+    {
+      "title": "The Passion Economy",
+      "path": "the passion economy.md",
+      "url": "/the_passion_economy/"
+    },
+    {
+      "title": "Optical chromatography",
+      "path": "optical chromatography.md",
+      "url": "/optical_chromatography/"
+    },
+    {
+      "title": "Digital gardens for content creation",
+      "path": "Digital Gardens for Content Creation.md",
+      "url": "/digital_gardens_for_content_creation/"
+    },
+    {
+      "title": "effective-writing",
+      "path": "Write to your shadow.md",
+      "url": "/write_to_your_shadow/"
+    },
+    {
+      "title": "Gaussian mixture model",
+      "path": "Gaussian Mixture Model.md",
+      "url": "/gaussian_mixture_model/"
+    },
+    {
+      "title": "Some products are designed taking into account only men",
+      "path": "some products are designed taking into account only men.md",
+      "url": "/some_products_are_designed_taking_into_account_only_men/"
+    },
+    {
+      "title": "Calculate the radial position of a particle in a hollow fiber",
+      "path": "calculate the radial position of a particle in a hollow fiber.md",
+      "url": "/calculate_the_radial_position_of_a_particle_in_a_hollow_fiber/"
+    },
+    {
+      "title": "Mbti personality indicator",
+      "path": "MBTI personality indicator.md",
+      "url": "/mbti_personality_indicator/"
+    },
+    {
+      "title": "Poisson sampling",
+      "path": "Poisson Sampling.md",
+      "url": "/poisson_sampling/"
+    },
+    {
+      "title": "Patents can be used to block third parties",
+      "path": "Patents can be used to block third parties.md",
+      "url": "/patents_can_be_used_to_block_third_parties/"
+    },
+    {
+      "title": "Existing market marketing",
+      "path": "Existing market marketing.md",
+      "url": "/existing_market_marketing/"
+    },
+    {
+      "title": "Reset - dan heath",
+      "path": "Reset - Dan Heath.md",
+      "url": "/reset_-_dan_heath/"
+    },
+    {
+      "title": "Bioenergy with Carbon Capture and Storage",
+      "path": "beccs.md",
+      "url": "/beccs/"
+    },
+    {
+      "title": "Gender diversity in tech",
+      "path": "gender diversity in tech.md",
+      "url": "/gender_diversity_in_tech/"
+    },
+    {
+      "title": "Circulating tumor cells",
+      "path": "Circulating tumor cells.md",
+      "url": "/circulating_tumor_cells/"
+    },
+    {
+      "title": "Darksky",
+      "path": "DarkSky.md",
+      "url": "/darksky/"
+    },
+    {
+      "title": "Zero-mode waveguide",
+      "path": "Zero-mode waveguide.md",
+      "url": "/zero-mode_waveguide/"
+    },
+    {
+      "title": "Opportunity triangle",
+      "path": "Opportunity triangle.md",
+      "url": "/opportunity_triangle/"
+    },
+    {
+      "title": "Epitope",
+      "path": "epitope.md",
+      "url": "/epitope/"
+    },
+    {
+      "title": "Compress a file or directory with tar",
+      "path": "compress a file or directory with tar.md",
+      "url": "/compress_a_file_or_directory_with_tar/"
+    },
+    {
+      "title": "Video Tutorials",
+      "path": "video tutorials.md",
+      "url": "/video_tutorials/"
+    },
+    {
+      "title": "Inflation",
+      "path": "Inflation.md",
+      "url": "/inflation/"
+    },
+    {
+      "title": "Chirality and life",
+      "path": "chirality and life.md",
+      "url": "/chirality_and_life/"
+    },
+    {
+      "title": "Post hoc ergo propter hoc",
+      "path": "post hoc ergo propter hoc.md",
+      "url": "/post_hoc_ergo_propter_hoc/"
+    },
+    {
+      "title": "Personal data collection, what is it and where it starts",
+      "path": "essays/personal data collection, what is it and where it starts.md",
+      "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/"
+    },
+    {
+      "title": "Low friction working",
+      "path": "essays/Low friction working.md",
+      "url": "/essays/low_friction_working/"
+    },
+    {
+      "title": "After a Failure, Revert to the Last Known Working State",
+      "path": "essays/After a Failure Revert to the Last Known Working State.md",
+      "url": "/essays/after_a_failure_revert_to_the_last_known_working_state/"
+    },
+    {
+      "title": "Essays/ splitting shares of a startup should reflect future work",
+      "path": "essays/_Splitting shares of a startup should reflect future work.md",
+      "url": "/essays/_splitting_shares_of_a_startup_should_reflect_future_work/"
+    },
+    {
+      "title": "Essays/do things that can scale",
+      "path": "essays/Do things that can scale.md",
+      "url": "/essays/do_things_that_can_scale/"
+    },
+    {
+      "title": "Essays/ skill building",
+      "path": "essays/_skill building.md",
+      "url": "/essays/_skill_building/"
+    },
+    {
+      "title": "Mentor, Consultant, Coach, Partner: Who Do You Need Right Now?",
+      "path": "essays/Mentor Consultant Coach or Partner.md",
+      "url": "/essays/mentor_consultant_coach_or_partner/"
+    },
+    {
+      "title": "The Neanderthal in Us",
+      "path": "essays/_The Neanderthal in Us.md",
+      "url": "/essays/_the_neanderthal_in_us/"
+    },
+    {
+      "title": "How to write a programming book",
+      "path": "essays/How to write a programming book.md",
+      "url": "/essays/how_to_write_a_programming_book/"
+    },
+    {
+      "title": "Words in books are like the DNA that describes our ancient history",
+      "path": "essays/Words in books are like the DNA that describes our ancient history.md",
+      "url": "/essays/words_in_books_are_like_the_dna_that_describes_our_ancient_history/"
+    },
+    {
+      "title": "Even if correlation is not causation",
+      "path": "essays/_Even if correlation is not causation.md",
+      "url": "/essays/_even_if_correlation_is_not_causation/"
+    },
+    {
+      "title": "Solving or Removing problems",
+      "path": "essays/_Solve or remove a problem.md",
+      "url": "/essays/_solve_or_remove_a_problem/"
+    },
+    {
+      "title": "mvp #hardware #scipreneurs #techtransfer",
+      "path": "essays/_Hardware MVP.md",
+      "url": "/essays/_hardware_mvp/"
+    },
+    {
+      "title": "Essays/ what i wish they told me before starting the entrepreneurial path",
+      "path": "essays/_what I wish they told me before starting the entrepreneurial path.md",
+      "url": "/essays/_what_i_wish_they_told_me_before_starting_the_entrepreneurial_path/"
+    },
+    {
+      "title": "Essays/linkedin/  overvalue gray hair",
+      "path": "essays/LinkedIn/_ Overvalue gray hair.md",
+      "url": "/essays/LinkedIn/__overvalue_gray_hair/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-29 open hardware",
+      "path": "essays/LinkedIn/24-04-29_Open Hardware.md",
+      "url": "/essays/LinkedIn/24-04-29_open_hardware/"
+    },
+    {
+      "title": "Essays/linkedin/ scientific python programming with ai agents",
+      "path": "essays/LinkedIn/_Scientific Python programming with AI Agents.md",
+      "url": "/essays/LinkedIn/_scientific_python_programming_with_ai_agents/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-16 value proposition",
+      "path": "essays/LinkedIn/26-03-16_Value Proposition.md",
+      "url": "/essays/LinkedIn/26-03-16_value_proposition/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-07 the pareto principle",
+      "path": "essays/LinkedIn/23-12-07_The Pareto principle.md",
+      "url": "/essays/LinkedIn/23-12-07_the_pareto_principle/"
+    },
+    {
+      "title": "Essays/linkedin/  reality",
+      "path": "essays/LinkedIn/_ Reality.md",
+      "url": "/essays/LinkedIn/__reality/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-28 outside the box",
+      "path": "essays/LinkedIn/24-03-28_Outside the box.md",
+      "url": "/essays/LinkedIn/24-03-28_outside_the_box/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-31 writing more",
+      "path": "essays/LinkedIn/24-01-31_writing more.md",
+      "url": "/essays/LinkedIn/24-01-31_writing_more/"
+    },
+    {
+      "title": "Essays/linkedin/  what founders secretly want in their first product manager",
+      "path": "essays/LinkedIn/_ What founders secretly want in their first product manager.md",
+      "url": "/essays/LinkedIn/__what_founders_secretly_want_in_their_first_product_manager/"
+    },
+    {
+      "title": "Essays/linkedin/   signature",
+      "path": "essays/LinkedIn/__ Signature.md",
+      "url": "/essays/LinkedIn/___signature/"
+    },
+    {
+      "title": "Market? What Market?",
+      "path": "essays/LinkedIn/_ Market What Market.md",
+      "url": "/essays/LinkedIn/__market_what_market/"
+    },
+    {
+      "title": "Essays/linkedin/  the difference between a feature and a result lessons from microscopy",
+      "path": "essays/LinkedIn/_ The difference between a feature and a result lessons from microscopy.md",
+      "url": "/essays/LinkedIn/__the_difference_between_a_feature_and_a_result_lessons_from_microscopy/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-21 things that can scale",
+      "path": "essays/LinkedIn/23-12-21_Things that can scale.md",
+      "url": "/essays/LinkedIn/23-12-21_things_that_can_scale/"
+    },
+    {
+      "title": "Mentorship is an invaluable asset for starting entrepreneurs.",
+      "path": "essays/LinkedIn/24-02-15_Decision Freeze.md",
+      "url": "/essays/LinkedIn/24-02-15_decision_freeze/"
+    },
+    {
+      "title": "Essays/linkedin/23-11-16 male deep tech",
+      "path": "essays/LinkedIn/23-11-16_Male Deep Tech.md",
+      "url": "/essays/LinkedIn/23-11-16_male_deep_tech/"
+    },
+    {
+      "title": "Essays/linkedin/24-02-14 starting is hard",
+      "path": "essays/LinkedIn/24-02-14_Starting is hard.md",
+      "url": "/essays/LinkedIn/24-02-14_starting_is_hard/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-03  why i write online",
+      "path": "essays/LinkedIn/24-05-03_ Why I write online.md",
+      "url": "/essays/LinkedIn/24-05-03__why_i_write_online/"
+    },
+    {
+      "title": "scipreneurs #productmarketfit #customeroriented",
+      "path": "essays/LinkedIn/23-11-28_Focus on customers.md",
+      "url": "/essays/LinkedIn/23-11-28_focus_on_customers/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-23 feedback",
+      "path": "essays/LinkedIn/24-05-23_Feedback.md",
+      "url": "/essays/LinkedIn/24-05-23_feedback/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-08 onboarding early employees",
+      "path": "essays/LinkedIn/23-12-08_Onboarding early employees.md",
+      "url": "/essays/LinkedIn/23-12-08_onboarding_early_employees/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-12 business readiness",
+      "path": "essays/LinkedIn/23-12-12_Business readiness.md",
+      "url": "/essays/LinkedIn/23-12-12_business_readiness/"
+    },
+    {
+      "title": "Essays/linkedin/  crossing boundaries",
+      "path": "essays/LinkedIn/_ Crossing boundaries.md",
+      "url": "/essays/LinkedIn/__crossing_boundaries/"
+    },
+    {
+      "title": "Essays/linkedin/  open innovation",
+      "path": "essays/LinkedIn/_ Open Innovation.md",
+      "url": "/essays/LinkedIn/__open_innovation/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-30 misconception 1 two jobs",
+      "path": "essays/LinkedIn/24-01-30_misconception 1 two jobs.md",
+      "url": "/essays/LinkedIn/24-01-30_misconception_1_two_jobs/"
+    },
+    {
+      "title": "Essays/linkedin/  why mvps in deep-tech are a myth—and how we should build instead",
+      "path": "essays/LinkedIn/_ Why MVPs in deep-tech are a myth—and how we should build instead.md",
+      "url": "/essays/LinkedIn/__why_mvps_in_deep-tech_are_a_myth—and_how_we_should_build_instead/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-23 competition",
+      "path": "essays/LinkedIn/24-04-23_competition.md",
+      "url": "/essays/LinkedIn/24-04-23_competition/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-11 build tony fadell",
+      "path": "essays/LinkedIn/24-01-11_Build Tony Fadell.md",
+      "url": "/essays/LinkedIn/24-01-11_build_tony_fadell/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-10 autofluorescence",
+      "path": "essays/LinkedIn/24-05-10_Autofluorescence.md",
+      "url": "/essays/LinkedIn/24-05-10_autofluorescence/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-13 trust for startups",
+      "path": "essays/LinkedIn/23-12-13_Trust for startups.md",
+      "url": "/essays/LinkedIn/23-12-13_trust_for_startups/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-10 ai for everything",
+      "path": "essays/LinkedIn/24-01-10_AI for everything.md",
+      "url": "/essays/LinkedIn/24-01-10_ai_for_everything/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 5 you need money",
+      "path": "essays/LinkedIn/_ misconception 5 you need money.md",
+      "url": "/essays/LinkedIn/__misconception_5_you_need_money/"
+    },
+    {
+      "title": "Essays/linkedin/24-02-06 misconception 2 equity split",
+      "path": "essays/LinkedIn/24-02-06_misconception 2 equity split.md",
+      "url": "/essays/LinkedIn/24-02-06_misconception_2_equity_split/"
+    },
+    {
+      "title": "Essays/linkedin/  the first hire that matters",
+      "path": "essays/LinkedIn/_ The First Hire That Matters.md",
+      "url": "/essays/LinkedIn/__the_first_hire_that_matters/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-29 note taking for entrepreneurs",
+      "path": "essays/LinkedIn/24-01-29_Note taking for entrepreneurs.md",
+      "url": "/essays/LinkedIn/24-01-29_note_taking_for_entrepreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/26-02-25 wet chemistry",
+      "path": "essays/LinkedIn/26-02-25_Wet chemistry.md",
+      "url": "/essays/LinkedIn/26-02-25_wet_chemistry/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-02 python for the lab book",
+      "path": "essays/LinkedIn/24-03-02_Python for the Lab Book.md",
+      "url": "/essays/LinkedIn/24-03-02_python_for_the_lab_book/"
+    },
+    {
+      "title": "Essays/linkedin/  what i learned from pitching vcs with a deep‑tech product they couldn’t demo",
+      "path": "essays/LinkedIn/_ What I learned from pitching VCs with a deep‑tech product they couldn’t demo.md",
+      "url": "/essays/LinkedIn/__what_i_learned_from_pitching_vcs_with_a_deep‑tech_product_they_couldn’t_demo/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-22 my unfair advantage",
+      "path": "essays/LinkedIn/23-12-22_My unfair advantage.md",
+      "url": "/essays/LinkedIn/23-12-22_my_unfair_advantage/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-02 resource inventory",
+      "path": "essays/LinkedIn/26-03-02_Resource Inventory.md",
+      "url": "/essays/LinkedIn/26-03-02_resource_inventory/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-24 capital costs deep tech",
+      "path": "essays/LinkedIn/24-04-24_Capital costs deep tech.md",
+      "url": "/essays/LinkedIn/24-04-24_capital_costs_deep_tech/"
+    },
+    {
+      "title": "pitching #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-27_Pitching.md",
+      "url": "/essays/LinkedIn/23-11-27_pitching/"
+    },
+    {
+      "title": "self-driving-lab #exploration #experiments #discovery #opportunities",
+      "path": "essays/LinkedIn/25-10-21 _ Automate the wrong workflow.md",
+      "url": "/essays/LinkedIn/25-10-21___automate_the_wrong_workflow/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-22 before accepting",
+      "path": "essays/LinkedIn/24-05-22_Before accepting.md",
+      "url": "/essays/LinkedIn/24-05-22_before_accepting/"
+    },
+    {
+      "title": "Essays/linkedin/  from phd to founder to product leader my non‑linear path",
+      "path": "essays/LinkedIn/_ From PhD to founder to product leader my non‑linear path.md",
+      "url": "/essays/LinkedIn/__from_phd_to_founder_to_product_leader_my_non‑linear_path/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-21 the founder's dilemmas",
+      "path": "essays/LinkedIn/24-05-21_The Founder's dilemmas.md",
+      "url": "/essays/LinkedIn/24-05-21_the_founder's_dilemmas/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-24 pitch deck is not the company",
+      "path": "essays/LinkedIn/24-05-24_Pitch deck is not the company.md",
+      "url": "/essays/LinkedIn/24-05-24_pitch_deck_is_not_the_company/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-09  who wants it",
+      "path": "essays/LinkedIn/26-03-09_ Who wants it.md",
+      "url": "/essays/LinkedIn/26-03-09__who_wants_it/"
+    },
+    {
+      "title": "Essays/linkedin/  never stop improving",
+      "path": "essays/LinkedIn/_ Never stop improving.md",
+      "url": "/essays/LinkedIn/__never_stop_improving/"
+    },
+    {
+      "title": "DeepTech #StartupMetrics #VentureCapital #Scipreneurs #InnovationLeadership #TechnicalDueDiligence",
+      "path": "essays/LinkedIn/25-08-14 _ Deep Tech KPIs.md",
+      "url": "/essays/LinkedIn/25-08-14___deep_tech_kpis/"
+    },
+    {
+      "title": "incubators #equity #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-29_Incubators.md",
+      "url": "/essays/LinkedIn/23-11-29_incubators/"
+    },
+    {
+      "title": "scipreneurs #scientists-entrepreneurs #equity",
+      "path": "essays/LinkedIn/24-01-12_Professors co-founders.md",
+      "url": "/essays/LinkedIn/24-01-12_professors_co-founders/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-01 getting started",
+      "path": "essays/LinkedIn/24-05-01_Getting Started.md",
+      "url": "/essays/LinkedIn/24-05-01_getting_started/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-14 to conference or not to conference",
+      "path": "essays/LinkedIn/24-05-14_To conference or not to conference.md",
+      "url": "/essays/LinkedIn/24-05-14_to_conference_or_not_to_conference/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-14 think like a designer",
+      "path": "essays/LinkedIn/23-12-14_Think like a designer.md",
+      "url": "/essays/LinkedIn/23-12-14_think_like_a_designer/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-15 marketing for scipreneurs",
+      "path": "essays/LinkedIn/24-05-15_Marketing for scipreneurs.md",
+      "url": "/essays/LinkedIn/24-05-15_marketing_for_scipreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-07 sales are never short",
+      "path": "essays/LinkedIn/24-05-07_Sales are never short.md",
+      "url": "/essays/LinkedIn/24-05-07_sales_are_never_short/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-06 working hard",
+      "path": "essays/LinkedIn/23-12-06_Working Hard.md",
+      "url": "/essays/LinkedIn/23-12-06_working_hard/"
+    },
+    {
+      "title": "Essays/linkedin/26-02-28 premature scaling",
+      "path": "essays/LinkedIn/26-02-28_Premature Scaling.md",
+      "url": "/essays/LinkedIn/26-02-28_premature_scaling/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-11 science needs entrepreneurship",
+      "path": "essays/LinkedIn/23-12-11_Science needs entrepreneurship.md",
+      "url": "/essays/LinkedIn/23-12-11_science_needs_entrepreneurship/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-00 misconception 3 business experience",
+      "path": "essays/LinkedIn/24-01-00_misconception 3 business experience.md",
+      "url": "/essays/LinkedIn/24-01-00_misconception_3_business_experience/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-04 incomplete ideas",
+      "path": "essays/LinkedIn/24-01-04_incomplete ideas.md",
+      "url": "/essays/LinkedIn/24-01-04_incomplete_ideas/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-19 skills for entrepreneurs",
+      "path": "essays/LinkedIn/23-12-19_Skills for entrepreneurs.md",
+      "url": "/essays/LinkedIn/23-12-19_skills_for_entrepreneurs/"
+    },
+    {
+      "title": "Essays/linkedin/26-03-09 who wants it",
+      "path": "essays/LinkedIn/26-03-09_Who wants it.md",
+      "url": "/essays/LinkedIn/26-03-09_who_wants_it/"
+    },
+    {
+      "title": "Essays/linkedin/23-11-30 bill gates book",
+      "path": "essays/LinkedIn/23-11-30_Bill Gates Book.md",
+      "url": "/essays/LinkedIn/23-11-30_bill_gates_book/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 6 de risking",
+      "path": "essays/LinkedIn/_ misconception 6 de risking.md",
+      "url": "/essays/LinkedIn/__misconception_6_de_risking/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-16 misconception 4 you need a lab",
+      "path": "essays/LinkedIn/24-05-16_misconception 4 you need a lab.md",
+      "url": "/essays/LinkedIn/24-05-16_misconception_4_you_need_a_lab/"
+    },
+    {
+      "title": "Essays/linkedin/  scipreneurs the word i wish existed when i started",
+      "path": "essays/LinkedIn/_ Scipreneurs The Word I Wish Existed When I Started.md",
+      "url": "/essays/LinkedIn/__scipreneurs_the_word_i_wish_existed_when_i_started/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-01 uncertainty and risk",
+      "path": "essays/LinkedIn/23-12-01_Uncertainty and risk.md",
+      "url": "/essays/LinkedIn/23-12-01_uncertainty_and_risk/"
+    },
+    {
+      "title": "Essays/linkedin/26-01-23 semicon",
+      "path": "essays/LinkedIn/26-01-23_Semicon.md",
+      "url": "/essays/LinkedIn/26-01-23_semicon/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-20 from science to technology",
+      "path": "essays/LinkedIn/24-05-20_From science to technology.md",
+      "url": "/essays/LinkedIn/24-05-20_from_science_to_technology/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-25 never stop learning",
+      "path": "essays/LinkedIn/24-04-25_never stop learning.md",
+      "url": "/essays/LinkedIn/24-04-25_never_stop_learning/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-09 hardware mvp",
+      "path": "essays/LinkedIn/24-05-09_Hardware MVP.md",
+      "url": "/essays/LinkedIn/24-05-09_hardware_mvp/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-21  product leadership isn’t project management. here’s why.",
+      "path": "essays/LinkedIn/25-08-21_ Product leadership isn’t project management. Here’s why..md",
+      "url": "/essays/LinkedIn/25-08-21__product_leadership_isn’t_project_management._here’s_why./"
+    },
+    {
+      "title": "Essays/linkedin/  what nobody tells you about tech transfer",
+      "path": "essays/LinkedIn/_ What Nobody Tells You About Tech Transfer.md",
+      "url": "/essays/LinkedIn/__what_nobody_tells_you_about_tech_transfer/"
+    },
+    {
+      "title": "writing #sunday-reflections",
+      "path": "essays/LinkedIn/23-11-19_Blogger.md",
+      "url": "/essays/LinkedIn/23-11-19_blogger/"
+    },
+    {
+      "title": "Essays/linkedin/  what problem do you solve",
+      "path": "essays/LinkedIn/_ What problem do you solve.md",
+      "url": "/essays/LinkedIn/__what_problem_do_you_solve/"
+    },
+    {
+      "title": "Essays/linkedin/  the hardest decision i made as a founder, and what it taught me about team",
+      "path": "essays/LinkedIn/_ The hardest decision I made as a founder, and what it taught me about team.md",
+      "url": "/essays/LinkedIn/__the_hardest_decision_i_made_as_a_founder,_and_what_it_taught_me_about_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-09 making it cheaper",
+      "path": "essays/LinkedIn/24-01-09_Making it cheaper.md",
+      "url": "/essays/LinkedIn/24-01-09_making_it_cheaper/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-03 my first entrepreneurial gig",
+      "path": "essays/LinkedIn/24-01-03_My first entrepreneurial gig.md",
+      "url": "/essays/LinkedIn/24-01-03_my_first_entrepreneurial_gig/"
+    },
+    {
+      "title": "scipreneurs #startups #innovation #scientists-entrepreneurs",
+      "path": "essays/LinkedIn/23-11-17_PhD starting company.md",
+      "url": "/essays/LinkedIn/23-11-17_phd_starting_company/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-05 co founders",
+      "path": "essays/LinkedIn/23-12-05_Co Founders.md",
+      "url": "/essays/LinkedIn/23-12-05_co_founders/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-25 kings or rich",
+      "path": "essays/LinkedIn/24-01-25_kings or rich.md",
+      "url": "/essays/LinkedIn/24-01-25_kings_or_rich/"
+    },
+    {
+      "title": "Essays/linkedin/  we thought patents were our moat. we were wrong.",
+      "path": "essays/LinkedIn/_ We thought patents were our moat. We were wrong..md",
+      "url": "/essays/LinkedIn/__we_thought_patents_were_our_moat._we_were_wrong./"
+    },
+    {
+      "title": "Essays/linkedin/  from lab bench to landing page",
+      "path": "essays/LinkedIn/_ From Lab Bench to Landing Page.md",
+      "url": "/essays/LinkedIn/__from_lab_bench_to_landing_page/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-20 there are no 10 rules",
+      "path": "essays/LinkedIn/23-12-20_There are no 10 rules.md",
+      "url": "/essays/LinkedIn/23-12-20_there_are_no_10_rules/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-15 fear of rejection",
+      "path": "essays/LinkedIn/23-12-15_Fear of Rejection.md",
+      "url": "/essays/LinkedIn/23-12-15_fear_of_rejection/"
+    },
+    {
+      "title": "Essays/linkedin/  startup team",
+      "path": "essays/LinkedIn/_ startup team.md",
+      "url": "/essays/LinkedIn/__startup_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-01-23 we are better at adding",
+      "path": "essays/LinkedIn/24-01-23_We are better at adding.md",
+      "url": "/essays/LinkedIn/24-01-23_we_are_better_at_adding/"
+    },
+    {
+      "title": "scipreneurs #scientists-entrepreneurs #market-size",
+      "path": "essays/LinkedIn/23-11-20_TAM, SOM, SAM.md",
+      "url": "/essays/LinkedIn/23-11-20_tam,_som,_sam/"
+    },
+    {
+      "title": "Essays/linkedin/  scientists ingest vast amounts of information",
+      "path": "essays/LinkedIn/_ Scientists ingest vast amounts of information.md",
+      "url": "/essays/LinkedIn/__scientists_ingest_vast_amounts_of_information/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-22 becoming a technologist",
+      "path": "essays/LinkedIn/24-04-22_Becoming a technologist.md",
+      "url": "/essays/LinkedIn/24-04-22_becoming_a_technologist/"
+    },
+    {
+      "title": "Essays/linkedin/  grants won’t save you",
+      "path": "essays/LinkedIn/_ Grants Won’t Save You.md",
+      "url": "/essays/LinkedIn/__grants_won’t_save_you/"
+    },
+    {
+      "title": "failing #startups #entrepreneurs",
+      "path": "essays/LinkedIn/23-11-22_Failure.md",
+      "url": "/essays/LinkedIn/23-11-22_failure/"
+    },
+    {
+      "title": "Essays/linkedin/24-03-23 ai for everything",
+      "path": "essays/LinkedIn/24-03-23_AI For everything.md",
+      "url": "/essays/LinkedIn/24-03-23_ai_for_everything/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-30 too busy for your team",
+      "path": "essays/LinkedIn/24-04-30_Too busy for your team.md",
+      "url": "/essays/LinkedIn/24-04-30_too_busy_for_your_team/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-06 six sigma",
+      "path": "essays/LinkedIn/24-05-06_Six Sigma.md",
+      "url": "/essays/LinkedIn/24-05-06_six_sigma/"
+    },
+    {
+      "title": "Scipreneurs will greatly benefit from it: you'll be able to move beyond the \"problem-solution\" framework, and it gives the tools to understanding complex contexts, the competition, and how to develop a compelling value proposition.",
+      "path": "essays/LinkedIn/24-04-26_Kano Model.md",
+      "url": "/essays/LinkedIn/24-04-26_kano_model/"
+    },
+    {
+      "title": "Patents: A False God?",
+      "path": "essays/LinkedIn/_ Patents A False God.md",
+      "url": "/essays/LinkedIn/__patents_a_false_god/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-28 average advice",
+      "path": "essays/LinkedIn/24-05-28_Average advice.md",
+      "url": "/essays/LinkedIn/24-05-28_average_advice/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-08   i used to think building was the hard part. now i think it’s vision.",
+      "path": "essays/LinkedIn/25-08-08 _ I used to think building was the hard part. Now I think it’s vision..md",
+      "url": "/essays/LinkedIn/25-08-08___i_used_to_think_building_was_the_hard_part._now_i_think_it’s_vision./"
+    },
+    {
+      "title": "Essays/linkedin/24-09-19 adoption curve",
+      "path": "essays/LinkedIn/24-09-19_Adoption Curve.md",
+      "url": "/essays/LinkedIn/24-09-19_adoption_curve/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-02  don't trust my advice",
+      "path": "essays/LinkedIn/24-05-02_ Don't trust my advice.md",
+      "url": "/essays/LinkedIn/24-05-02__don't_trust_my_advice/"
+    },
+    {
+      "title": "Essays/linkedin/  the myth of the perfect prototype",
+      "path": "essays/LinkedIn/_ The Myth of the Perfect Prototype.md",
+      "url": "/essays/LinkedIn/__the_myth_of_the_perfect_prototype/"
+    },
+    {
+      "title": "scipreneurs #tto #technology-transfer #universities",
+      "path": "essays/LinkedIn/23-11-21_Do you know your TTO.md",
+      "url": "/essays/LinkedIn/23-11-21_do_you_know_your_tto/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-11   here’s a time i ignored the market signal and paid for it",
+      "path": "essays/LinkedIn/25-08-11 _ Here’s a time I ignored the market signal and paid for it.md",
+      "url": "/essays/LinkedIn/25-08-11___here’s_a_time_i_ignored_the_market_signal_and_paid_for_it/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-12   why many deep‑tech startups fail after seed—and how to avoid it",
+      "path": "essays/LinkedIn/25-08-12 _ Why many deep‑tech startups fail after seed—and how to avoid it.md",
+      "url": "/essays/LinkedIn/25-08-12___why_many_deep‑tech_startups_fail_after_seed—and_how_to_avoid_it/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-18 starting is hard",
+      "path": "essays/LinkedIn/23-12-18_Starting is Hard.md",
+      "url": "/essays/LinkedIn/23-12-18_starting_is_hard/"
+    },
+    {
+      "title": "Essays/linkedin/  why most university spinouts die quietly",
+      "path": "essays/LinkedIn/_ Why Most University Spinouts Die Quietly.md",
+      "url": "/essays/LinkedIn/__why_most_university_spinouts_die_quietly/"
+    },
+    {
+      "title": "innovation #productdevelopment #productmarketfit",
+      "path": "essays/LinkedIn/24-01-05_Problem solution framework.md",
+      "url": "/essays/LinkedIn/24-01-05_problem_solution_framework/"
+    },
+    {
+      "title": "Essays/linkedin/26-01-27 double diamond",
+      "path": "essays/LinkedIn/26-01-27_Double Diamond.md",
+      "url": "/essays/LinkedIn/26-01-27_double_diamond/"
+    },
+    {
+      "title": "Essays/linkedin/  brainstorming",
+      "path": "essays/LinkedIn/_ Brainstorming.md",
+      "url": "/essays/LinkedIn/__brainstorming/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-08 patents",
+      "path": "essays/LinkedIn/24-05-08_Patents.md",
+      "url": "/essays/LinkedIn/24-05-08_patents/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-17  label free",
+      "path": "essays/LinkedIn/24-05-17_ Label Free.md",
+      "url": "/essays/LinkedIn/24-05-17__label_free/"
+    },
+    {
+      "title": "Essays/linkedin/23-12-17 sexism in academia",
+      "path": "essays/LinkedIn/23-12-17_Sexism in academia.md",
+      "url": "/essays/LinkedIn/23-12-17_sexism_in_academia/"
+    },
+    {
+      "title": "Essays/linkedin/24-04-20 humane ai",
+      "path": "essays/LinkedIn/24-04-20_Humane AI.md",
+      "url": "/essays/LinkedIn/24-04-20_humane_ai/"
+    },
+    {
+      "title": "Essays/linkedin/25-08-07  3 signals that your scientific prototype is ready for productization",
+      "path": "essays/LinkedIn/25-08-07_ 3 signals that your scientific prototype is ready for productization.md",
+      "url": "/essays/LinkedIn/25-08-07__3_signals_that_your_scientific_prototype_is_ready_for_productization/"
+    },
+    {
+      "title": "Essays/linkedin/  the academic founder dilemma",
+      "path": "essays/LinkedIn/_ The Academic Founder Dilemma.md",
+      "url": "/essays/LinkedIn/__the_academic_founder_dilemma/"
+    },
+    {
+      "title": "scipreneurs #entrepreneurs #startups #superlineargrowth",
+      "path": "essays/LinkedIn/23-11-24_Doing things better.md",
+      "url": "/essays/LinkedIn/23-11-24_doing_things_better/"
+    },
+    {
+      "title": "Essays/linkedin/  misconception 7 you need a ceo",
+      "path": "essays/LinkedIn/_ misconception 7 you need a CEO.md",
+      "url": "/essays/LinkedIn/__misconception_7_you_need_a_ceo/"
+    },
+    {
+      "title": "Essays/linkedin/24-05-13 startup studio for deep tech",
+      "path": "essays/LinkedIn/24-05-13_startup studio for deep tech.md",
+      "url": "/essays/LinkedIn/24-05-13_startup_studio_for_deep_tech/"
+    },
+    {
+      "title": "Technological progress is slower than Moore’s law predicts",
+      "path": "literature/202111292222 technological progress is slower than moore law.md",
+      "url": "/literature/202111292222_technological_progress_is_slower_than_moore_law/"
+    },
+    {
+      "title": "The power of flow cytometry",
+      "path": "literature/202111291138 power of flow cytometry.md",
+      "url": "/literature/202111291138_power_of_flow_cytometry/"
+    },
+    {
+      "title": "Literature/202603010909 measuring the right metrics",
+      "path": "literature/202603010909 Measuring the right metrics.md",
+      "url": "/literature/202603010909_measuring_the_right_metrics/"
+    },
+    {
+      "title": "202603010907",
+      "path": "literature/202603010907.md",
+      "url": "/literature/202603010907/"
+    },
+    {
+      "title": "Literature/202106010813 affordable loss for entrepreneurs",
+      "path": "literature/202106010813 Affordable loss for entrepreneurs.md",
+      "url": "/literature/202106010813_affordable_loss_for_entrepreneurs/"
+    },
+    {
+      "title": "Literature/202311281010 states are investing in lowering risks",
+      "path": "literature/202311281010 States are investing in lowering risks.md",
+      "url": "/literature/202311281010_states_are_investing_in_lowering_risks/"
+    },
+    {
+      "title": "Literature/202311111406 policies for a net zero future",
+      "path": "literature/202311111406 Policies for a net zero future.md",
+      "url": "/literature/202311111406_policies_for_a_net_zero_future/"
+    },
+    {
+      "title": "Limitations of flow cytometry",
+      "path": "literature/202111291204 limitations flow cytometry.md",
+      "url": "/literature/202111291204_limitations_flow_cytometry/"
+    },
+    {
+      "title": "202503032124",
+      "path": "literature/202503032124.md",
+      "url": "/literature/202503032124/"
+    },
+    {
+      "title": "Literature Notes",
+      "path": "literature/index.md",
+      "url": "/literature/"
+    },
+    {
+      "title": "Literature/202603010901 how scientists make purchasing decisions",
+      "path": "literature/202603010901 How scientists make purchasing decisions.md",
+      "url": "/literature/202603010901_how_scientists_make_purchasing_decisions/"
+    },
+    {
+      "title": "202504281129",
+      "path": "literature/202504281129.md",
+      "url": "/literature/202504281129/"
+    },
+    {
+      "title": "Literature/202111292230 diesel is the most efficient energy storage solution for transport",
+      "path": "literature/202111292230 diesel is the most efficient energy storage solution for transport.md",
+      "url": "/literature/202111292230_diesel_is_the_most_efficient_energy_storage_solution_for_transport/"
+    },
+    {
+      "title": "Literature/202311280955 socialize risks and privatize rewards",
+      "path": "literature/202311280955 Socialize risks and privatize rewards.md",
+      "url": "/literature/202311280955_socialize_risks_and_privatize_rewards/"
+    },
+    {
+      "title": "Literature/202311221425 - skills to become a scientist entrepreneur",
+      "path": "literature/202311221425 - Skills to become a scientist entrepreneur.md",
+      "url": "/literature/202311221425_-_skills_to_become_a_scientist_entrepreneur/"
+    },
+    {
+      "title": "202410021554",
+      "path": "literature/202410021554 Entrepreneurship in Life Sciences (in Portugal).md",
+      "url": "/literature/202410021554_entrepreneurship_in_life_sciences_(in_portugal)/"
+    },
+    {
+      "title": "Interferometrically encoded in vivo flow cytometry",
+      "path": "literature/202111291518 interferometrically encoded in vivo flow cytometry.md",
+      "url": "/literature/202111291518_interferometrically_encoded_in_vivo_flow_cytometry/"
+    },
+    {
+      "title": "202304011243",
+      "path": "literature/202304011243 Refractive index of Polyacrylamide gels.md",
+      "url": "/literature/202304011243_refractive_index_of_polyacrylamide_gels/"
+    },
+    {
+      "title": "202409160819",
+      "path": "literature/202409160819.md",
+      "url": "/literature/202409160819/"
+    },
+    {
+      "title": "Literature/202206291350 biomolecules scattering inside nanochannels",
+      "path": "literature/202206291350 Biomolecules scattering inside nanochannels.md",
+      "url": "/literature/202206291350_biomolecules_scattering_inside_nanochannels/"
+    },
+    {
+      "title": "Determining the best number of fitting points for MSD data",
+      "path": "literature/202111291731 mean squared displacement errors.md",
+      "url": "/literature/202111291731_mean_squared_displacement_errors/"
+    },
+    {
+      "title": "Literature/202212291643 errors in amino acid sequences",
+      "path": "literature/202212291643 Errors in amino acid sequences.md",
+      "url": "/literature/202212291643_errors_in_amino_acid_sequences/"
+    },
+    {
+      "title": "Resonance calendar/eroom's law",
+      "path": "resonance calendar/Eroom's law.md",
+      "url": "/resonance calendar/eroom's_law/"
+    },
+    {
+      "title": "shinrin-yoku",
+      "path": "resonance calendar/shinrin-yoku.md",
+      "url": "/resonance calendar/shinrin-yoku/"
+    },
+    {
+      "title": "Resonance calendar/  init  .py files are optional",
+      "path": "resonance calendar/__init__.py files are optional.md",
+      "url": "/resonance calendar/__init__.py_files_are_optional/"
+    },
+    {
+      "title": "Starting a company is like jumping off a cliff and assembling a plane on the way down",
+      "path": "resonance calendar/Starting a company is like jumping off a cliff and assembling a plane on the way down.md",
+      "url": "/resonance calendar/starting_a_company_is_like_jumping_off_a_cliff_and_assembling_a_plane_on_the_way_down/"
+    },
+    {
+      "title": "Terrarium closed for 50 years is life's microcosm",
+      "path": "resonance calendar/Terrarium closed for 50 years is life's microcosm.md",
+      "url": "/resonance calendar/terrarium_closed_for_50_years_is_life's_microcosm/"
+    },
+    {
+      "title": "Resonance Calendar",
+      "path": "resonance calendar/index.md",
+      "url": "/resonance calendar/"
+    },
+    {
+      "title": "Setup Wacom Tablet in Ubuntu",
+      "path": "tech_notes/wacom_intuos.md",
+      "url": "/tech_notes/wacom_intuos/"
+    },
+    {
+      "title": "Tech notes/yarn run in docker",
+      "path": "tech_notes/yarn run in docker.md",
+      "url": "/tech_notes/yarn_run_in_docker/"
+    },
+    {
+      "title": "Tech notes/windows 11 bootable on a mac",
+      "path": "tech_notes/Windows 11 bootable on a mac.md",
+      "url": "/tech_notes/windows_11_bootable_on_a_mac/"
+    },
+    {
+      "title": "Tech notes/using adda with python",
+      "path": "tech_notes/Using ADDA with Python.md",
+      "url": "/tech_notes/using_adda_with_python/"
+    },
+    {
+      "title": "Las palabras en los libros son como el ADN que cuenta una historia antigua",
+      "path": "ensayos/Las palabras en los libros son como el ADN que cuenta una historia antigua.md",
+      "url": "/ensayos/las_palabras_en_los_libros_son_como_el_adn_que_cuenta_una_historia_antigua/"
+    },
+    {
+      "title": "El cambio incremental nos puede llevar hacia lugares indeseados",
+      "path": "ensayos/el cambio incremental nos lleva a lugares indeseados.md",
+      "url": "/ensayos/el_cambio_incremental_nos_lleva_a_lugares_indeseados/"
+    },
+    {
+      "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+      "path": "ensayos/violencia_boliches_alcohol.md",
+      "url": "/ensayos/violencia_boliches_alcohol/"
+    },
+    {
+      "title": "Repensando el rol de la tecnología en la educación",
+      "path": "ensayos/Repensar el rol de la tecnología en la educación.md",
+      "url": "/ensayos/repensar_el_rol_de_la_tecnología_en_la_educación/"
+    },
+    {
+      "title": "La llegada de la Sputnik V a Argentina",
+      "path": "ensayos/Sputnik V en Argentina.md",
+      "url": "/ensayos/sputnik_v_en_argentina/"
+    },
+    {
+      "title": "Cuantificar lo que no sabemos",
+      "path": "ensayos/cuantificar lo que no sabemos.md",
+      "url": "/ensayos/cuantificar_lo_que_no_sabemos/"
+    },
+    {
+      "title": "Scipreneurs/reasons to start a company",
+      "path": "scipreneurs/Reasons to start a company.md",
+      "url": "/scipreneurs/reasons_to_start_a_company/"
+    },
+    {
+      "title": "Scipreneurs/playbook/2 - problem-first market search",
+      "path": "scipreneurs/Playbook/2 - Problem-First market search.md",
+      "url": "/scipreneurs/Playbook/2_-_problem-first_market_search/"
+    },
+    {
+      "title": "Scipreneurs/playbook/3 - the value proposition",
+      "path": "scipreneurs/Playbook/3 - The Value Proposition.md",
+      "url": "/scipreneurs/Playbook/3_-_the_value_proposition/"
+    },
+    {
+      "title": "Scipreneurs/playbook/4 - customer discovery",
+      "path": "scipreneurs/Playbook/4 - Customer Discovery.md",
+      "url": "/scipreneurs/Playbook/4_-_customer_discovery/"
+    },
+    {
+      "title": "Scipreneurs/playbook/1 - inventory of ideas",
+      "path": "scipreneurs/Playbook/1 - Inventory of Ideas.md",
+      "url": "/scipreneurs/Playbook/1_-_inventory_of_ideas/"
+    },
+    {
+      "title": "Scipreneurs/playbook/6 - role of the professor",
+      "path": "scipreneurs/Playbook/6 - Role of the Professor.md",
+      "url": "/scipreneurs/Playbook/6_-_role_of_the_professor/"
+    },
+    {
+      "title": "Scipreneurs/playbook/5 - competitive landscape",
+      "path": "scipreneurs/Playbook/5 - Competitive Landscape.md",
+      "url": "/scipreneurs/Playbook/5_-_competitive_landscape/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/7 - moving forward",
+      "path": "scipreneurs/7-day-intro/7 - Moving forward.md",
+      "url": "/scipreneurs/7-day-intro/7_-_moving_forward/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/5 - was that a good idea",
+      "path": "scipreneurs/7-day-intro/5 - Was that a good idea.md",
+      "url": "/scipreneurs/7-day-intro/5_-_was_that_a_good_idea/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/3 - find out what do you need",
+      "path": "scipreneurs/7-day-intro/3 - Find out what do you need.md",
+      "url": "/scipreneurs/7-day-intro/3_-_find_out_what_do_you_need/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/1 - know yourself",
+      "path": "scipreneurs/7-day-intro/1 - Know Yourself.md",
+      "url": "/scipreneurs/7-day-intro/1_-_know_yourself/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/6 - can you stay motivated",
+      "path": "scipreneurs/7-day-intro/6 - Can you stay motivated.md",
+      "url": "/scipreneurs/7-day-intro/6_-_can_you_stay_motivated/"
+    },
+    {
+      "title": "Scipreneurs/7-day-intro/4 - making lemonade",
+      "path": "scipreneurs/7-day-intro/4 - Making lemonade.md",
+      "url": "/scipreneurs/7-day-intro/4_-_making_lemonade/"
+    },
+    {
+      "title": "Scipreneurs/book/00 index",
+      "path": "scipreneurs/Book/00_index.md",
+      "url": "/scipreneurs/Book/00_index/"
+    },
+    {
+      "title": "Entrepreneurial Mindset for Scientists",
+      "path": "scipreneurs/Archived/Playbook/01_Mindset.md",
+      "url": "/scipreneurs/Archived/Playbook/01_mindset/"
+    },
+    {
+      "title": "Developing an Entrepreneurial Mindset",
+      "path": "scipreneurs/Archived/Playbook/06_Developing Entrepreneurial Mindset.md",
+      "url": "/scipreneurs/Archived/Playbook/06_developing_entrepreneurial_mindset/"
+    },
+    {
+      "title": "Understanding and Accepting the Risk of Failure",
+      "path": "scipreneurs/Archived/Playbook/03_Risks.md",
+      "url": "/scipreneurs/Archived/Playbook/03_risks/"
+    },
+    {
+      "title": "Adapting Academic Skills for Business Use",
+      "path": "scipreneurs/Archived/Playbook/05_Adapting Skills.md",
+      "url": "/scipreneurs/Archived/Playbook/05_adapting_skills/"
+    },
+    {
+      "title": "Resourcefulness and Creativity",
+      "path": "scipreneurs/Archived/Playbook/04_Creativity.md",
+      "url": "/scipreneurs/Archived/Playbook/04_creativity/"
+    },
+    {
+      "title": "Effectual Reasoning",
+      "path": "scipreneurs/Archived/Playbook/02_Effectual reasoning.md",
+      "url": "/scipreneurs/Archived/Playbook/02_effectual_reasoning/"
+    },
+    {
+      "title": "Embracing the Scipreneur Mindset: Transitioning from Scientist to Entrepreneur",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/1 - Mindset Shift.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/1_-_mindset_shift/"
+    },
+    {
+      "title": "Funding Your Venture: Grants, Investors, and Beyond",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/5 - Funding.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/5_-_funding/"
+    },
+    {
+      "title": "Developing Your First Product: From Concept to Prototype",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/6 - MVP.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/6_-_mvp/"
+    },
+    {
+      "title": "Intellectual Property and Protecting Your Innovations",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/4 - IP.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/4_-_ip/"
+    },
+    {
+      "title": "Building and Leveraging Your Network: Engaging with Key Opinion Leaders (KOLs)",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/3 - Network.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/3_-_network/"
+    },
+    {
+      "title": "Identifying and Validating Market Opportunities",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/2 - Market Opportunities.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/2_-_market_opportunities/"
+    },
+    {
+      "title": "Launching and Scaling Your Startup: Strategies for Growth and Sustainability",
+      "path": "scipreneurs/Archived/Scipreneur Playbook/7 - Launching.md",
+      "url": "/scipreneurs/Archived/Scipreneur Playbook/7_-_launching/"
+    }
+  ],
+  "tag_distribution": {
+    "#reading-2024": 13,
+    "#science-fiction": 6,
+    "#reading": 25,
+    "#creative-process": 2,
+    "#writing": 5,
+    "#attention": 1,
+    "#mental-activity": 1,
+    "#books": 6,
+    "#management-books": 21,
+    "#newsletter": 2,
+    "#long-newsletter": 1,
+    "#reading-2025": 9,
+    "#novelas": 8,
+    "#digital-tools-for-education": 1,
+    "#low-friction-teaching": 1,
+    "#education-tools": 4,
+    "#intellectual-property-protetction": 1,
+    "#phillips": 1,
+    "#discussions-website": 2,
+    "#commenting-system": 2,
+    "#git": 4,
+    "#scientific-marketing": 4,
+    "#spaced-repetition": 1,
+    "#meta-cognition": 1,
+    "#education": 5,
+    "#gender-bias-in-business": 6,
+    "#gender-data-gap": 7,
+    "#gender-entrepreneurs": 1,
+    "#nanoparticle-tracking-analysis": 8,
+    "#nta": 2,
+    "#limitations-hollow-optical-fibers": 2,
+    "#open-hardware": 7,
+    "#hardware": 2,
+    "#django": 1,
+    "#wagtail": 1,
+    "#django-logging": 1,
+    "#obsidian": 2,
+    "#zettlr": 2,
+    "#note-taking": 4,
+    "#software": 4,
+    "#extracellular-vesicle": 8,
+    "#ev": 3,
+    "#flow-cytometry": 2,
+    "#courses": 2,
+    "#open-source": 3,
+    "#nanoparticle-tracking-in-channels": 5,
+    "#business-models": 3,
+    "#reading-2022": 1,
+    "#copy-editor": 1,
+    "#economic-growth-indicators": 2,
+    "#scientific-management": 3,
+    "#espías": 1,
+    "#reading-2023": 6,
+    "#science-funding": 1,
+    "#literature-argentina": 1,
+    "#reading-2020": 1,
+    "#disease": 1,
+    "#cancer": 1,
+    "#gender-bias": 7,
+    "#gender-bias-in-cities": 1,
+    "#biomarkers": 2,
+    "#fluorescence": 3,
+    "#data-based-gender-bias": 4,
+    "#gender-in-academia": 2,
+    "#sales-books": 7,
+    "#reading-2021": 23,
+    "#literature-note": 21,
+    "#knowledge-generation": 6,
+    "#mental-models": 1,
+    "#learning-trees": 1,
+    "#active-learning": 2,
+    "#sales": 12,
+    "#essays": 1,
+    "#knowledge-management": 7,
+    "#online-power": 1,
+    "#online-governance": 1,
+    "#community-building": 2,
+    "#how-to-maintain-a-digital-garden": 4,
+    "#how-to-take-notes": 4,
+    "#history": 1,
+    "#semicon": 2,
+    "#gender-unbalance": 2,
+    "#gender-bias-in-academia": 1,
+    "#sailing": 2,
+    "#science": 2,
+    "#entrepreneurs": 8,
+    "#beads": 1,
+    "#scattering-or-fluorescence": 2,
+    "#protocol": 1,
+    "#measurements-particle-size": 1,
+    "#electronics": 2,
+    "#troubleshooting": 1,
+    "#design": 1,
+    "#kicad": 1,
+    "#pcb": 1,
+    "#gender-bias-in-medicine": 2,
+    "#gender-bias-in-research": 1,
+    "#bias-in-medicine": 2,
+    "#todo": 10,
+    "#scattering-advantages": 1,
+    "#microscopy": 2,
+    "#light-sheet": 1,
+    "#value-generation": 2,
+    "#technology-transfer": 11,
+    "#academia": 1,
+    "#search-engine-optimization": 1,
+    "#product-market-fit": 5,
+    "#business-development-based-on-data": 1,
+    "#tango": 1,
+    "#startups": 6,
+    "#climate-change": 10,
+    "#gender-bias-in-data": 1,
+    "#habit-change": 4,
+    "#echobox": 1,
+    "#gender": 4,
+    "#puf": 1,
+    "#luhmann-method": 2,
+    "#zettelkasten": 2,
+    "#idea-validation": 2,
+    "#entrepreneurship-principles": 5,
+    "#ancient-egypt": 1,
+    "#measurement-earth-size": 3,
+    "#bias-in-tax": 1,
+    "#meaning": 1,
+    "#understanding": 2,
+    "#heidegger": 1,
+    "#building-knowledge": 1,
+    "#hermeneutics": 1,
+    "#scipreneurs": 16,
+    "#management": 5,
+    "#climate-and-economics": 3,
+    "#economics": 3,
+    "#blogchains": 1,
+    "#nanoparticle-tracking-algorithms": 1,
+    "#car-safety": 1,
+    "#gender-bias-regulation": 1,
+    "#gender-bias-in-safety": 1,
+    "#novel": 1,
+    "#spies": 2,
+    "#spy-novel": 3,
+    "#gender-bias-in-ai": 2,
+    "#gender-bias-in-market-research": 3,
+    "#climate-and-technology": 3,
+    "#marketing": 2,
+    "#gender-and-technology": 1,
+    "#libraries": 1,
+    "#systems": 2,
+    "#organization": 1,
+    "#gender-diversity": 1,
+    "#private-data": 1,
+    "#surveillance": 1,
+    "#privacy": 1,
+    "#user-data": 1,
+    "#policiales": 3,
+    "#literatura-argentina": 2,
+    "#bias-in-education": 1,
+    "#history-of-cosmology": 2,
+    "#personal-improvement": 1,
+    "#mexico": 1,
+    "#andean-archaeology": 1,
+    "#mansplanning": 1,
+    "#fallacy": 1,
+    "#bias": 1,
+    "#iridium": 1,
+    "#limitations": 1,
+    "#environment-nurturing": 1,
+    "#creativity": 1,
+    "#mmt": 1,
+    "#monetary-theory": 1,
+    "#gdp-is-not-gender-neutral": 1,
+    "#bias-in-economics": 1,
+    "#uncertainty": 2,
+    "#sources-of-error": 1,
+    "#behavior": 1,
+    "#parental-leave": 1,
+    "#mandatory-paternity-leave": 1,
+    "#gender-bias-in-papers": 1,
+    "#lab-journal": 1,
+    "#hisorical-cosmology": 1,
+    "#inca-cosmology": 2,
+    "#literature-notes": 1,
+    "#bias-in-democracy": 1,
+    "#gender-bias-in-jobs": 2,
+    "#gender-bias-in-design": 1,
+    "#context-translation": 1,
+    "#social-networks": 1,
+    "#addiction": 1,
+    "#dopamine": 1,
+    "#research-incentives": 2,
+    "#paper-publishing": 1,
+    "#research-management": 1,
+    "#digital-garden": 2,
+    "#higher-education": 1,
+    "#phd": 1,
+    "#career": 2,
+    "#legislation": 1,
+    "#technology-transfer-universities": 2,
+    "#reading-2026": 3,
+    "#ciencia-ficcion": 1,
+    "#patents": 10,
+    "#spin-offs": 1,
+    "#gender-bias-in-science": 1,
+    "#digital-medium": 1,
+    "#learning-tools": 2,
+    "#mindful-learning": 1,
+    "#localization-accuracy": 1,
+    "#rants": 1,
+    "#linux": 3,
+    "#linux-package-manager": 1,
+    "#ubuntu": 2,
+    "#binary-distribution": 1,
+    "#etymology": 1,
+    "#biofuel": 1,
+    "#tar": 1,
+    "#2021": 1,
+    "#studying": 1,
+    "#memory": 1,
+    "#wip": 1,
+    "#blockchain": 1,
+    "#comments": 1,
+    "#techtransfer": 1,
+    "#scipreneurship": 28,
+    "#scipreneur": 15,
+    "#customeroriented": 1,
+    "#productmarketfit": 2,
+    "#feedback": 1,
+    "#deeptech": 2,
+    "#discovery": 1,
+    "#exploration": 1,
+    "#opportunities": 1,
+    "#experiments": 1,
+    "#scipreneurial": 2,
+    "#venturecapital": 1,
+    "#technicalduediligence": 1,
+    "#innovationleadership": 1,
+    "#startupmetrics": 1,
+    "#equity": 2,
+    "#scientists-entrepreneurs": 4,
+    "#monthlyreading": 1,
+    "#manufacturing": 1,
+    "#processengineering": 1,
+    "#sunday-reflections": 1,
+    "#postdocs": 1,
+    "#phds": 1,
+    "#innovation": 4,
+    "#market-size": 1,
+    "#didyouknow": 1,
+    "#universities": 1,
+    "#tto": 1,
+    "#productdevelopment": 1,
+    "#superlineargrowth": 1,
+    "#amyloids": 1,
+    "#ir-dosy": 2,
+    "#dosy": 2,
+    "#single-molecule": 3,
+    "#non-specific-binding": 1,
+    "#polydisperse-samples": 1,
+    "#refractive-index": 4,
+    "#free-flow-electrophoresis": 6,
+    "#molecular-weigth": 1,
+    "#nanoparticle-sizing": 4,
+    "#decision-making": 1,
+    "#science-business": 7,
+    "#moore-law": 1,
+    "#technological-progress": 1,
+    "#climate-and-construction": 1,
+    "#effective-management": 4,
+    "#organization-change": 3,
+    "#equipment": 5,
+    "#democratization": 6,
+    "#single-cell": 1,
+    "#nanochannels": 2,
+    "#gender-roles": 1,
+    "#hunter-gatherer-societies": 1,
+    "#instrumentats": 1,
+    "#strategy": 1,
+    "#magnetic-beads": 1,
+    "#pi-staining": 1,
+    "#hoechst": 1,
+    "#nanoparticle-safety": 2,
+    "#drug-release": 2,
+    "#nanoparticle-drug-delivery": 3,
+    "#jobs-to-be-done": 4,
+    "#systems-biology": 1,
+    "#biology": 1,
+    "#errors-nanoparticle-tracking-analysis": 3,
+    "#digital-detection": 1,
+    "#simoa": 1,
+    "#sp-iris": 1,
+    "#peptides": 1,
+    "#sdl": 3,
+    "#self-driving-lab": 3,
+    "#quality-control": 1,
+    "#detection": 3,
+    "#gas-sensor": 1,
+    "#mox": 1,
+    "#entrepreneurial-state": 6,
+    "#research-exemptions": 1,
+    "#compressive-raman": 2,
+    "#raman": 2,
+    "#spectroscopy": 2,
+    "#oxygen-evolution-reaction": 1,
+    "#bias-in-resource-allocation": 1,
+    "#nanomedicine": 4,
+    "#medical-nanoparticles": 3,
+    "#mednp": 2,
+    "#size-distribution": 1,
+    "#method-development": 1,
+    "#building-emissions": 1,
+    "#iscat": 2,
+    "#charge-photometry": 1,
+    "#batteries": 1,
+    "#buying-journey": 1,
+    "#analysis": 2,
+    "#vaccine": 2,
+    "#covid": 2,
+    "#product-development": 2,
+    "#climate-and-electricity": 1,
+    "#team-building": 1,
+    "#leadership": 1,
+    "#vortex-beam": 1,
+    "#optofluidic": 1,
+    "#climate-and-politics": 1,
+    "#investment": 1,
+    "#ffe": 2,
+    "#plasma": 1,
+    "#biobank": 1,
+    "#lipid-nano-particle": 1,
+    "#full-empty-ratio": 1,
+    "#limitations-flow-cytometry": 1,
+    "#restful-api": 2,
+    "#instrument-control": 2,
+    "#web-based": 2,
+    "#climate-and-agriculture": 1,
+    "#climate-and-transport": 1,
+    "#segmentation": 1,
+    "#brownian-motion": 1,
+    "#outlining-for-writing": 1,
+    "#effective-writing": 1,
+    "#microfluidics": 1,
+    "#value-proposition": 3,
+    "#apple": 1,
+    "#product": 2,
+    "#positioning": 2,
+    "#spike-protein": 1,
+    "#free-market": 1,
+    "#companies": 2,
+    "#inclusion": 2,
+    "#diversity": 2,
+    "#research-use": 1,
+    "#risk": 1,
+    "#material-discovery": 1,
+    "#acoustic-force-spectroscopy": 1,
+    "#avidity": 1,
+    "#biomolecules": 1,
+    "#skillset": 1,
+    "#life-science": 1,
+    "#portugal": 1,
+    "#separation": 1,
+    "#giant-magnetic-resistance": 1,
+    "#protein-dynamics": 1,
+    "#biosensor": 1,
+    "#fff": 1,
+    "#biotech-technology": 1,
+    "#a4f-dls-mals": 1,
+    "#lipoproteins": 1,
+    "#customer-journey": 1,
+    "#sers": 1,
+    "#bloodstream": 1,
+    "#clinical-application": 1,
+    "#electrophoresis": 1,
+    "#isotachophoresis": 1,
+    "#hydrogel": 1,
+    "#nanoqnt": 1,
+    "#challenges": 1,
+    "#nanofabrication": 1,
+    "#drive-innovation": 1,
+    "#aminoacids": 1,
+    "#nanoparticle-aggregation": 1,
+    "#burnout": 1,
+    "#forest-bathing": 1,
+    "#japan": 1,
+    "#diagnosis": 1,
+    "#dna": 1,
+    "#reid-hoffman": 1,
+    "#quotes": 1,
+    "#tweets": 1,
+    "#curriculum": 1,
+    "#recruitment": 1,
+    "#life": 1,
+    "#microcosm": 1,
+    "#terrarium": 1,
+    "#crispr": 1,
+    "#drug-discovery": 2,
+    "#therapeutics": 1,
+    "#podcast": 1,
+    "#docker": 1,
+    "#build-automation": 1,
+    "#yarn": 1,
+    "#building-assets": 1,
+    "#appimage": 1,
+    "#desktop-shortcuts": 1,
+    "#l187\u0002qq3936677670287331zz\u0003": 1
+  },
+  "notes_by_date": {
+    "2026-07-20": 1278
+  },
+  "avg_words_per_note": 251.77,
+  "avg_links_per_note": 3.0,
+  "avg_backlinks_per_note": 1.86
+}

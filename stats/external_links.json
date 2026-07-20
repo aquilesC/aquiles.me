@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T07:53:56.117292+00:00",
+  "timestamp": "2026-07-20T13:37:50.783119+00:00",
   "links_checked": [
     {
       "url": "https://github.com/aquilesC/camiyaqui/",
@@ -19,7 +19,7 @@
       "url": "https://www.twitter.com/aquicarattino",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/aquicarattino",
+      "final_url": "https://twitter.com/aquicarattino",
       "error": null,
       "found_in_notes": [
         {
@@ -68,10 +68,10 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Total_cost",
+      "url": "https://en.wikipedia.org/wiki/Marginal_cost",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Total_cost",
+      "final_url": "https://en.wikipedia.org/wiki/Marginal_cost",
       "error": null,
       "found_in_notes": [
         {
@@ -96,10 +96,10 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Marginal_cost",
+      "url": "https://en.wikipedia.org/wiki/Total_cost",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Marginal_cost",
+      "final_url": "https://en.wikipedia.org/wiki/Total_cost",
       "error": null,
       "found_in_notes": [
         {
@@ -110,10 +110,10 @@
       ]
     },
     {
-      "url": "https://www.staticman.net",
+      "url": "https://tjol.eu/blog/commie.html",
       "status": "warning",
       "status_code": 404,
-      "final_url": "https://the.staticman.net/home",
+      "final_url": "https://tjol.eu/blog/commie/",
       "error": null,
       "found_in_notes": [
         {
@@ -124,10 +124,10 @@
       ]
     },
     {
-      "url": "https://tjol.eu/blog/commie.html",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://tjol.eu/blog/commie/",
+      "url": "https://www.staticman.net",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://best.staticman.net/",
       "error": null,
       "found_in_notes": [
         {
@@ -153,9 +153,9 @@
     },
     {
       "url": "https://freakonomics.com/podcast/amazon-rain-forest/",
-      "status": "warning",
-      "status_code": 403,
-      "final_url": "https://freakonomics.com/podcast/amazon-rain-forest/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://freakonomics.com/podcast/the-simple-economics-of-saving-the-amazon-rain-forest-ep-428/",
       "error": null,
       "found_in_notes": [
         {
@@ -200,9 +200,9 @@
     },
     {
       "url": "http://linkedin.com/u/aquic",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://www.linkedin.com/u/aquic",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "http://linkedin.com/u/aquic",
       "error": null,
       "found_in_notes": [
         {
@@ -223,6 +223,48 @@
           "title": "Proteomeic profile of evs",
           "url": "/proteomeic_profile_of_evs/",
           "path": "proteomeic profile of EVs.md"
+        }
+      ]
+    },
+    {
+      "url": "https://blogit.itu.dk/evoblissproject/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://blogit.itu.dk/evoblissproject/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "List of open hardware projects",
+          "url": "/list_of_open_hardware_projects/",
+          "path": "List of open hardware projects.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/FBarthels/FINDUS",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/FBarthels/FINDUS",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "List of open hardware projects",
+          "url": "/list_of_open_hardware_projects/",
+          "path": "List of open hardware projects.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Opentrons",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/Opentrons",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "List of open hardware projects",
+          "url": "/list_of_open_hardware_projects/",
+          "path": "List of open hardware projects.md"
         }
       ]
     },
@@ -255,10 +297,10 @@
       ]
     },
     {
-      "url": "https://github.com/Opentrons",
+      "url": "https://github.com/Jehadabed/AMPERE",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/Opentrons",
+      "final_url": "https://github.com/Jehadabed/AMPERE",
       "error": null,
       "found_in_notes": [
         {
@@ -283,66 +325,10 @@
       ]
     },
     {
-      "url": "https://github.com/openUC2/UC2-GIT",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/openUC2/UC2-GIT",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "List of open hardware projects",
-          "url": "/list_of_open_hardware_projects/",
-          "path": "List of open hardware projects.md"
-        }
-      ]
-    },
-    {
       "url": "https://github.com/machineagency/jubilee",
       "status": "ok",
       "status_code": 200,
       "final_url": "https://github.com/machineagency/jubilee",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "List of open hardware projects",
-          "url": "/list_of_open_hardware_projects/",
-          "path": "List of open hardware projects.md"
-        }
-      ]
-    },
-    {
-      "url": "https://github.com/DrD-Flo/OTTO",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/DrD-Flo/OTTO",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "List of open hardware projects",
-          "url": "/list_of_open_hardware_projects/",
-          "path": "List of open hardware projects.md"
-        }
-      ]
-    },
-    {
-      "url": "https://blogit.itu.dk/evoblissproject/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://blogit.itu.dk/evoblissproject/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "List of open hardware projects",
-          "url": "/list_of_open_hardware_projects/",
-          "path": "List of open hardware projects.md"
-        }
-      ]
-    },
-    {
-      "url": "https://github.com/Jehadabed/AMPERE",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/Jehadabed/AMPERE",
       "error": null,
       "found_in_notes": [
         {
@@ -367,10 +353,10 @@
       ]
     },
     {
-      "url": "https://github.com/FBarthels/FINDUS",
+      "url": "https://github.com/DrD-Flo/OTTO",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/FBarthels/FINDUS",
+      "final_url": "https://github.com/DrD-Flo/OTTO",
       "error": null,
       "found_in_notes": [
         {
@@ -395,10 +381,24 @@
       ]
     },
     {
-      "url": "https://twitter.com/mbeisen/status/1366547069196853248?ref_src=twsrc%5Etfw",
+      "url": "https://github.com/openUC2/UC2-GIT",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/mbeisen/status/1366547069196853248?ref_src=twsrc%5Etfw",
+      "final_url": "https://github.com/openUC2/UC2-GIT",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "List of open hardware projects",
+          "url": "/list_of_open_hardware_projects/",
+          "path": "List of open hardware projects.md"
+        }
+      ]
+    },
+    {
+      "url": "https://twitter.com/calippoebbira/status/1309143816746741765?ref_src=twsrc%5Etfw",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/calippoebbira/status/1309143816746741765?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -409,10 +409,10 @@
       ]
     },
     {
-      "url": "https://twitter.com/calippoebbira/status/1309143816746741765?ref_src=twsrc%5Etfw",
+      "url": "https://twitter.com/mbeisen/status/1366547069196853248?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/calippoebbira/status/1309143816746741765?ref_src=twsrc%5Etfw",
+      "final_url": "https://twitter.com/mbeisen/status/1366547069196853248?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -427,7 +427,7 @@
       "status": "error",
       "status_code": null,
       "final_url": null,
-      "error": "Timeout",
+      "error": "Connection Error",
       "found_in_notes": [
         {
           "title": "Ask why",
@@ -607,20 +607,6 @@
       ]
     },
     {
-      "url": "https://www.gwern.net/Sidenotes",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://gwern.net/sidenote",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Why footnotes should be side notes on websites",
-          "url": "/why_footnotes_should_be_side_notes_on_websites/",
-          "path": "why footnotes should be side notes on websites.md"
-        }
-      ]
-    },
-    {
       "url": "https://edwardtufte.github.io/tufte-css/",
       "status": "ok",
       "status_code": 200,
@@ -635,10 +621,24 @@
       ]
     },
     {
+      "url": "https://www.gwern.net/Sidenotes",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://gwern.net/sidenote",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Why footnotes should be side notes on websites",
+          "url": "/why_footnotes_should_be_side_notes_on_websites/",
+          "path": "why footnotes should be side notes on websites.md"
+        }
+      ]
+    },
+    {
       "url": "https://twitter.com/igor_montagner/status/1292473834013167618",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/igor_montagner/status/1292473834013167618",
+      "final_url": "https://twitter.com/igor_montagner/status/1292473834013167618",
       "error": null,
       "found_in_notes": [
         {
@@ -664,8 +664,8 @@
     },
     {
       "url": "https://github.com/jayascript",
-      "status": "ok",
-      "status_code": 200,
+      "status": "warning",
+      "status_code": 404,
       "final_url": "https://github.com/jayascript",
       "error": null,
       "found_in_notes": [
@@ -708,7 +708,7 @@
       "url": "https://www.swyx.io/writing/digital-garden-tos/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.swyx.io/digital-garden-tos",
+      "final_url": "https://swyx.io/digital-garden-tos",
       "error": null,
       "found_in_notes": [
         {
@@ -733,26 +733,16 @@
       ]
     },
     {
-      "url": "https://tomcritchlow.com/2019/02/17/building-digital-garden/",
+      "url": "https://www.nesslabs.com",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://tomcritchlow.com/2019/02/17/building-digital-garden/",
+      "final_url": "https://nesslabs.com/",
       "error": null,
       "found_in_notes": [
         {
           "title": "This website is not a blog",
           "url": "/this_website_is_not_a_blog/",
           "path": "This website is not a blog.md"
-        },
-        {
-          "title": "How I built this website using Python and Markdown",
-          "url": "/how_i_built_this_website/",
-          "path": "how i built this website.md"
-        },
-        {
-          "title": "A New Way of Blogging",
-          "url": "/essays/a_new_way_of_blogging/",
-          "path": "essays/a new way of blogging.md"
         }
       ]
     },
@@ -760,21 +750,7 @@
       "url": "https://notes.andymatuschak.org/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/About_these_notes",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "This website is not a blog",
-          "url": "/this_website_is_not_a_blog/",
-          "path": "This website is not a blog.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.nesslabs.com",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://nesslabs.com/",
+      "final_url": "https://notes.andymatuschak.org/",
       "error": null,
       "found_in_notes": [
         {
@@ -804,6 +780,30 @@
       ]
     },
     {
+      "url": "https://tomcritchlow.com/2019/02/17/building-digital-garden/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://tomcritchlow.com/2019/02/17/building-digital-garden/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "This website is not a blog",
+          "url": "/this_website_is_not_a_blog/",
+          "path": "This website is not a blog.md"
+        },
+        {
+          "title": "How I built this website using Python and Markdown",
+          "url": "/how_i_built_this_website/",
+          "path": "how i built this website.md"
+        },
+        {
+          "title": "A New Way of Blogging",
+          "url": "/essays/a_new_way_of_blogging/",
+          "path": "essays/a new way of blogging.md"
+        }
+      ]
+    },
+    {
       "url": "https://www.astroplant.io",
       "status": "error",
       "status_code": null,
@@ -828,6 +828,20 @@
           "title": "Mtt",
           "url": "/mtt/",
           "path": "MTT.md"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Externality in economics",
+          "url": "/externality_in_economics/",
+          "path": "Externality in economics.md"
         }
       ]
     },
@@ -874,20 +888,6 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Externality in economics",
-          "url": "/externality_in_economics/",
-          "path": "Externality in economics.md"
-        }
-      ]
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Externality#cite_note-8",
       "status": "ok",
       "status_code": 200,
@@ -916,6 +916,20 @@
       ]
     },
     {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315916/#FN6",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4315916/#FN6",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Patents and Research",
+          "url": "/patents_and_research/",
+          "path": "patents and research.md"
+        }
+      ]
+    },
+    {
       "url": "https://henry.law/blog/3d-printing-challenges-patent-law/",
       "status": "ok",
       "status_code": 200,
@@ -930,10 +944,10 @@
       ]
     },
     {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315916/#FN6",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4315916/#FN6",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315916/",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4315916/",
       "error": null,
       "found_in_notes": [
         {
@@ -954,34 +968,6 @@
           "title": "Patents and Research",
           "url": "/patents_and_research/",
           "path": "patents and research.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315916/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4315916/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Patents and Research",
-          "url": "/patents_and_research/",
-          "path": "patents and research.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.aquiles.me",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.aquiles.me/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "About this Website",
-          "url": "/§about/",
-          "path": "§about.md"
         }
       ]
     },
@@ -1019,10 +1005,24 @@
       ]
     },
     {
-      "url": "http://khanacademy.org/",
+      "url": "https://www.aquiles.me",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.khanacademy.org/",
+      "final_url": "https://www.aquiles.me/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "About this Website",
+          "url": "/§about/",
+          "path": "§about.md"
+        }
+      ]
+    },
+    {
+      "url": "https://lambdaschool.com/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.bloomtech.com/",
       "error": null,
       "found_in_notes": [
         {
@@ -1047,39 +1047,6 @@
       ]
     },
     {
-      "url": "https://www.foldscope.com/",
-      "status": "error",
-      "status_code": null,
-      "final_url": null,
-      "error": "Connection Error",
-      "found_in_notes": [
-        {
-          "title": "Challenges of private education projects",
-          "url": "/challenges_of_private_education_projects/",
-          "path": "Challenges of private education projects.md"
-        },
-        {
-          "title": "Repensando el rol de la tecnología en la educación",
-          "url": "/ensayos/repensar_el_rol_de_la_tecnología_en_la_educación/",
-          "path": "ensayos/Repensar el rol de la tecnología en la educación.md"
-        }
-      ]
-    },
-    {
-      "url": "https://lambdaschool.com/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.bloomtech.com/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Challenges of private education projects",
-          "url": "/challenges_of_private_education_projects/",
-          "path": "Challenges of private education projects.md"
-        }
-      ]
-    },
-    {
       "url": "https://knowunity.de/",
       "status": "ok",
       "status_code": 200,
@@ -1094,16 +1061,35 @@
       ]
     },
     {
-      "url": "https://www.talkingpoliticspodcast.com/blog/2020/269-whose-work-is-it-anyway",
+      "url": "http://khanacademy.org/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.talkingpoliticspodcast.com/blog/2020/269-whose-work-is-it-anyway",
+      "final_url": "https://www.khanacademy.org/",
       "error": null,
       "found_in_notes": [
         {
-          "title": "Podcast I listened in Week 32",
-          "url": "/week_32_podcasts/",
-          "path": "week 32 podcasts.md"
+          "title": "Challenges of private education projects",
+          "url": "/challenges_of_private_education_projects/",
+          "path": "Challenges of private education projects.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.foldscope.com/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://foldscope.com/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Challenges of private education projects",
+          "url": "/challenges_of_private_education_projects/",
+          "path": "Challenges of private education projects.md"
+        },
+        {
+          "title": "Repensando el rol de la tecnología en la educación",
+          "url": "/ensayos/repensar_el_rol_de_la_tecnología_en_la_educación/",
+          "path": "ensayos/Repensar el rol de la tecnología en la educación.md"
         }
       ]
     },
@@ -1112,48 +1098,6 @@
       "status": "ok",
       "status_code": 200,
       "final_url": "https://www.npr.org/2020/07/28/896308345/summer-school-4-pistachios-scarcity",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Podcast I listened in Week 32",
-          "url": "/week_32_podcasts/",
-          "path": "week 32 podcasts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.npr.org/2020/08/03/898611770/the-search-for-ancient-civilizations-on-earth-from-space",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.npr.org/2020/08/03/898611770/the-search-for-ancient-civilizations-on-earth-from-space",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Podcast I listened in Week 32",
-          "url": "/week_32_podcasts/",
-          "path": "week 32 podcasts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.npr.org/2020/08/04/899013341/how-gene-therapy-helped-conner-run",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.npr.org/2020/08/04/899013341/how-gene-therapy-helped-conner-run",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Podcast I listened in Week 32",
-          "url": "/week_32_podcasts/",
-          "path": "week 32 podcasts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.npr.org/2020/07/22/894368822/summer-school-3-profit-cocaine",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.npr.org/2020/07/22/894368822/summer-school-3-profit-cocaine",
       "error": null,
       "found_in_notes": [
         {
@@ -1192,10 +1136,66 @@
       ]
     },
     {
+      "url": "https://www.talkingpoliticspodcast.com/blog/2020/269-whose-work-is-it-anyway",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.talkingpoliticspodcast.com/blog/2020/269-whose-work-is-it-anyway",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Podcast I listened in Week 32",
+          "url": "/week_32_podcasts/",
+          "path": "week 32 podcasts.md"
+        }
+      ]
+    },
+    {
       "url": "https://www.npr.org/2020/08/05/899393029/summer-school-5-trade-santa",
       "status": "ok",
       "status_code": 200,
       "final_url": "https://www.npr.org/2020/08/05/899393029/summer-school-5-trade-santa",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Podcast I listened in Week 32",
+          "url": "/week_32_podcasts/",
+          "path": "week 32 podcasts.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.npr.org/2020/08/04/899013341/how-gene-therapy-helped-conner-run",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.npr.org/2020/08/04/899013341/how-gene-therapy-helped-conner-run",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Podcast I listened in Week 32",
+          "url": "/week_32_podcasts/",
+          "path": "week 32 podcasts.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.npr.org/2020/07/22/894368822/summer-school-3-profit-cocaine",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.npr.org/2020/07/22/894368822/summer-school-3-profit-cocaine",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Podcast I listened in Week 32",
+          "url": "/week_32_podcasts/",
+          "path": "week 32 podcasts.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.npr.org/2020/08/03/898611770/the-search-for-ancient-civilizations-on-earth-from-space",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.npr.org/2020/08/03/898611770/the-search-for-ancient-civilizations-on-earth-from-space",
       "error": null,
       "found_in_notes": [
         {
@@ -1291,20 +1291,6 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Gametocyte",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Gametocyte",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Life cycle of the malaria parasite",
-          "url": "/life_cycle_of_the_malaria_parasite/",
-          "path": "Life cycle of the malaria parasite.md"
-        }
-      ]
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Apicomplexan_life_cycle",
       "status": "ok",
       "status_code": 200,
@@ -1319,10 +1305,24 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Gametocyte",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Gametocyte",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Life cycle of the malaria parasite",
+          "url": "/life_cycle_of_the_malaria_parasite/",
+          "path": "Life cycle of the malaria parasite.md"
+        }
+      ]
+    },
+    {
       "url": "https://twitter.com/srk_rodriguez/status/1331873900905582594?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/srk_rodriguez/status/1331873900905582594?ref_src=twsrc%5Etfw",
+      "final_url": "https://twitter.com/srk_rodriguez/status/1331873900905582594?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -1483,25 +1483,11 @@
       ]
     },
     {
-      "url": "https://www.getrevue.co/privacy",
+      "url": "https://www.getrevue.co/terms",
       "status": "error",
       "status_code": null,
       "final_url": null,
       "error": "Connection Error",
-      "found_in_notes": [
-        {
-          "title": "Privacy Policy",
-          "url": "/privacy_policy/",
-          "path": "Privacy Policy.md"
-        }
-      ]
-    },
-    {
-      "url": "https://developers.cloudflare.com/analytics/web-analytics",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://developers.cloudflare.com/web-analytics/",
-      "error": null,
       "found_in_notes": [
         {
           "title": "Privacy Policy",
@@ -1525,11 +1511,25 @@
       ]
     },
     {
-      "url": "https://www.getrevue.co/terms",
+      "url": "https://www.getrevue.co/privacy",
       "status": "error",
       "status_code": null,
       "final_url": null,
       "error": "Connection Error",
+      "found_in_notes": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy_policy/",
+          "path": "Privacy Policy.md"
+        }
+      ]
+    },
+    {
+      "url": "https://developers.cloudflare.com/analytics/web-analytics",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://developers.cloudflare.com/web-analytics/",
+      "error": null,
       "found_in_notes": [
         {
           "title": "Privacy Policy",
@@ -1567,24 +1567,10 @@
       ]
     },
     {
-      "url": "https://www.reichelt.nl/usb-3-0-hub-4-port-mit-netzteil-metall-logilink-ua0149-p127833.html?PROVID=2788&amp;gclid=Cj0KCQjwqfz6BRD8ARIsAIXQCf2ZSwqr6h9tyOpS72tNfXesuUgkAR_W0rBP2diU8Q0s_hr_z5YSZqMaAqz4EALw_wcB&amp;&amp;r=1",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.reichelt.com/nl/nl/shop/product/usb_3_0_hub_4-poorts_met_netvoedingseenheid_metaal-127833?PROVID=2788&amp%3B=&amp%3Bgclid=Cj0KCQjwqfz6BRD8ARIsAIXQCf2ZSwqr6h9tyOpS72tNfXesuUgkAR_W0rBP2diU8Q0s_hr_z5YSZqMaAqz4EALw_wcB&amp%3Br=1",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Connecting Basler cameras to usb hub",
-          "url": "/connecting_basler_cameras_to_usb_hub/",
-          "path": "connecting basler cameras to usb hub.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.orico.shop/en/orico-4-port-usb30-hub-black.html",
+      "url": "https://www.orico.shop/en/orico-4-port-usb-30-hub-with-12v-power-adapter.html",
       "status": "warning",
       "status_code": 404,
-      "final_url": "https://www.groothandelxl.nl/en/orico-4-port-usb30-hub-black.html",
+      "final_url": "https://www.groothandelxl.nl/en/orico-4-port-usb-30-hub-with-12v-power-adapter.html",
       "error": null,
       "found_in_notes": [
         {
@@ -1609,10 +1595,24 @@
       ]
     },
     {
-      "url": "https://www.orico.shop/en/orico-4-port-usb-30-hub-with-12v-power-adapter.html",
+      "url": "https://www.orico.shop/en/orico-4-port-usb30-hub-black.html",
       "status": "warning",
       "status_code": 404,
-      "final_url": "https://www.groothandelxl.nl/en/orico-4-port-usb-30-hub-with-12v-power-adapter.html",
+      "final_url": "https://www.groothandelxl.nl/en/orico-4-port-usb30-hub-black.html",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Connecting Basler cameras to usb hub",
+          "url": "/connecting_basler_cameras_to_usb_hub/",
+          "path": "connecting basler cameras to usb hub.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.reichelt.nl/usb-3-0-hub-4-port-mit-netzteil-metall-logilink-ua0149-p127833.html?PROVID=2788&amp;gclid=Cj0KCQjwqfz6BRD8ARIsAIXQCf2ZSwqr6h9tyOpS72tNfXesuUgkAR_W0rBP2diU8Q0s_hr_z5YSZqMaAqz4EALw_wcB&amp;&amp;r=1",
+      "status": "warning",
+      "status_code": 503,
+      "final_url": "https://www.reichelt.nl/usb-3-0-hub-4-port-mit-netzteil-metall-logilink-ua0149-p127833.html?PROVID=2788&amp;gclid=Cj0KCQjwqfz6BRD8ARIsAIXQCf2ZSwqr6h9tyOpS72tNfXesuUgkAR_W0rBP2diU8Q0s_hr_z5YSZqMaAqz4EALw_wcB&amp;&amp;r=1",
       "error": null,
       "found_in_notes": [
         {
@@ -1637,10 +1637,10 @@
       ]
     },
     {
-      "url": "https://twitter.com/ramalhoorg/status/1252347782620299264",
+      "url": "https://github.com/openjournals/joss-reviews/issues/2688",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/ramalhoorg/status/1252347782620299264",
+      "final_url": "https://github.com/openjournals/joss-reviews/issues/2688",
       "error": null,
       "found_in_notes": [
         {
@@ -1665,10 +1665,10 @@
       ]
     },
     {
-      "url": "https://github.com/openjournals/joss-reviews/issues/2688",
+      "url": "https://twitter.com/ramalhoorg/status/1252347782620299264",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/openjournals/joss-reviews/issues/2688",
+      "final_url": "https://twitter.com/ramalhoorg/status/1252347782620299264",
       "error": null,
       "found_in_notes": [
         {
@@ -1679,10 +1679,10 @@
       ]
     },
     {
-      "url": "https://es.wikipedia.org/wiki/%C3%9Altimo_round",
+      "url": "https://www.gwern.net/About#development",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://es.wikipedia.org/wiki/%C3%9Altimo_round",
+      "final_url": "https://gwern.net/about#development",
       "error": null,
       "found_in_notes": [
         {
@@ -1697,6 +1697,20 @@
       "status": "ok",
       "status_code": 200,
       "final_url": "https://indieweb.org/Webmention",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Transclusion",
+          "url": "/transclusion/",
+          "path": "transclusion.md"
+        }
+      ]
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/%C3%9Altimo_round",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://es.wikipedia.org/wiki/%C3%9Altimo_round",
       "error": null,
       "found_in_notes": [
         {
@@ -1735,16 +1749,16 @@
       ]
     },
     {
-      "url": "https://www.gwern.net/About#development",
+      "url": "https://twitter.com/Chagas_AM/status/1453758605065342980?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://gwern.net/about#development",
+      "final_url": "https://twitter.com/Chagas_AM/status/1453758605065342980?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
-          "title": "Transclusion",
-          "url": "/transclusion/",
-          "path": "transclusion.md"
+          "title": "Reproducibility is the key factor of open science",
+          "url": "/reproducibility_is_the_key_factor_of_open_science/",
+          "path": "reproducibility is the key factor of open science.md"
         }
       ]
     },
@@ -1763,24 +1777,10 @@
       ]
     },
     {
-      "url": "https://twitter.com/Chagas_AM/status/1453758605065342980?ref_src=twsrc%5Etfw",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/Chagas_AM/status/1453758605065342980?ref_src=twsrc%5Etfw",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Reproducibility is the key factor of open science",
-          "url": "/reproducibility_is_the_key_factor_of_open_science/",
-          "path": "reproducibility is the key factor of open science.md"
-        }
-      ]
-    },
-    {
       "url": "https://notes.andymatuschak.org",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/About_these_notes",
+      "final_url": "https://notes.andymatuschak.org/",
       "error": null,
       "found_in_notes": [
         {
@@ -1843,10 +1843,10 @@
       ]
     },
     {
-      "url": "https://www.nature.com/articles/nmeth.2507",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.nature.com/articles/nmeth.2507",
+      "url": "https://worldwide.espacenet.com/patent/search?q=pn%3DEP2107408A2",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://worldwide.espacenet.com/patent/search?q=pn%3DEP2107408A2",
       "error": null,
       "found_in_notes": [
         {
@@ -1857,10 +1857,10 @@
       ]
     },
     {
-      "url": "https://worldwide.espacenet.com/patent/search?q=pn%3DEP2107408A2",
-      "status": "warning",
-      "status_code": 403,
-      "final_url": "https://worldwide.espacenet.com/patent/search?q=pn%3DEP2107408A2",
+      "url": "https://www.nature.com/articles/nmeth.2507",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.nature.com/articles/nmeth.2507",
       "error": null,
       "found_in_notes": [
         {
@@ -1885,20 +1885,6 @@
       ]
     },
     {
-      "url": "https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&amp;source=kp_cover&amp;redir_esc=y",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&amp;source=kp_cover&amp;redir_esc=y",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Losing Jobs in the Hands of Artificial Intelligence",
-          "url": "/losing_jobs_in_the_hands_of_artificial_intelligence/",
-          "path": "losing jobs in the hands of artificial intelligence.md"
-        }
-      ]
-    },
-    {
       "url": "https://inteligencia.com.ar/",
       "status": "ok",
       "status_code": 200,
@@ -1913,9 +1899,23 @@
       ]
     },
     {
-      "url": "https://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting",
+      "url": "https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&amp;source=kp_cover&amp;redir_esc=y",
       "status": "ok",
       "status_code": 200,
+      "final_url": "https://books.google.nl/books/about/Fully_Automated_Luxury_Communism.html?id=S-k4DwAAQBAJ&amp;source=kp_cover&amp;redir_esc=y",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Losing Jobs in the Hands of Artificial Intelligence",
+          "url": "/losing_jobs_in_the_hands_of_artificial_intelligence/",
+          "path": "losing jobs in the hands of artificial intelligence.md"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting",
+      "status": "warning",
+      "status_code": 403,
       "final_url": "https://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting",
       "error": null,
       "found_in_notes": [
@@ -1946,24 +1946,10 @@
       ]
     },
     {
-      "url": "https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy",
+      "url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&amp;stackedNotes=z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE&amp;stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Evergreen Notes",
-          "url": "/evergreen_notes/",
-          "path": "evergreen notes.md"
-        }
-      ]
-    },
-    {
-      "url": "https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU",
+      "final_url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&amp;stackedNotes=z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE&amp;stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C",
       "error": null,
       "found_in_notes": [
         {
@@ -2002,10 +1988,24 @@
       ]
     },
     {
-      "url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&amp;stackedNotes=z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE&amp;stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C",
+      "url": "https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&amp;stackedNotes=z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE&amp;stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C",
+      "final_url": "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Evergreen Notes",
+          "url": "/evergreen_notes/",
+          "path": "evergreen notes.md"
+        }
+      ]
+    },
+    {
+      "url": "https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2",
       "error": null,
       "found_in_notes": [
         {
@@ -2058,20 +2058,6 @@
       ]
     },
     {
-      "url": "https://www.klimaathelpdesk.org/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.klimaathelpdesk.org/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Things I've Done",
-          "url": "/things_i've_done/",
-          "path": "things I've done.md"
-        }
-      ]
-    },
-    {
       "url": "https://www.uetke.com",
       "status": "ok",
       "status_code": 200,
@@ -2086,16 +2072,16 @@
       ]
     },
     {
-      "url": "https://www.eff.org/document/holmes-provisional-application",
+      "url": "https://www.klimaathelpdesk.org/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.eff.org/document/holmes-provisional-application",
+      "final_url": "https://www.klimaathelpdesk.org/",
       "error": null,
       "found_in_notes": [
         {
-          "title": "Patents can be awarded to ideas without empiric verification",
-          "url": "/patents_can_be_awarded_to_ideas_without_empiric_verification/",
-          "path": "patents can be awarded to ideas without empiric verification.md"
+          "title": "Things I've Done",
+          "url": "/things_i've_done/",
+          "path": "things I've done.md"
         }
       ]
     },
@@ -2114,6 +2100,34 @@
       ]
     },
     {
+      "url": "https://www.eff.org/document/holmes-provisional-application",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.eff.org/document/holmes-provisional-application",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Patents can be awarded to ideas without empiric verification",
+          "url": "/patents_can_be_awarded_to_ideas_without_empiric_verification/",
+          "path": "patents can be awarded to ideas without empiric verification.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.swyx.io/digital-garden-tos/#2-epistemic-disclosure",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://swyx.io/digital-garden-tos#2-epistemic-disclosure",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Epistemic Status",
+          "url": "/epistemic_status/",
+          "path": "epistemic status.md"
+        }
+      ]
+    },
+    {
       "url": "https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing",
       "status": "warning",
       "status_code": 404,
@@ -2124,34 +2138,6 @@
           "title": "Epistemic Status",
           "url": "/epistemic_status/",
           "path": "epistemic status.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.swyx.io/digital-garden-tos/#2-epistemic-disclosure",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.swyx.io/digital-garden-tos#2-epistemic-disclosure",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Epistemic Status",
-          "url": "/epistemic_status/",
-          "path": "epistemic status.md"
-        }
-      ]
-    },
-    {
-      "url": "https://git-scm.com/docs/git-log#_pretty_formats",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://git-scm.com/docs/git-log#_pretty_formats",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Get Time of First Commit of a File",
-          "url": "/get_time_of_first_commit_of_a_file/",
-          "path": "get time of first commit of a file.md"
         }
       ]
     },
@@ -2170,16 +2156,16 @@
       ]
     },
     {
-      "url": "https://www.filosofico.net/inattuale/senso_comprensione.htm",
+      "url": "https://git-scm.com/docs/git-log#_pretty_formats",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.filosofico.net/inattuale/senso_comprensione.htm",
+      "final_url": "https://git-scm.com/docs/git-log#_pretty_formats",
       "error": null,
       "found_in_notes": [
         {
-          "title": "Hermeneutic circle",
-          "url": "/hermeneutic_circle/",
-          "path": "hermeneutic circle.md"
+          "title": "Get Time of First Commit of a File",
+          "url": "/get_time_of_first_commit_of_a_file/",
+          "path": "get time of first commit of a file.md"
         }
       ]
     },
@@ -2198,10 +2184,24 @@
       ]
     },
     {
-      "url": "https://www.filosofico.net/inattuale/senso_comprensione.htm#_ftn4",
+      "url": "https://en.wikipedia.org/wiki/Hermeneutic_circle",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.filosofico.net/inattuale/senso_comprensione.htm#_ftn4",
+      "final_url": "https://en.wikipedia.org/wiki/Hermeneutic_circle",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Hermeneutic circle",
+          "url": "/hermeneutic_circle/",
+          "path": "hermeneutic circle.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.filosofico.net/inattuale/senso_comprensione.htm",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.filosofico.net/inattuale/senso_comprensione.htm",
       "error": null,
       "found_in_notes": [
         {
@@ -2226,10 +2226,10 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Hermeneutic_circle",
+      "url": "https://www.filosofico.net/inattuale/senso_comprensione.htm#_ftn4",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Hermeneutic_circle",
+      "final_url": "https://www.filosofico.net/inattuale/senso_comprensione.htm#_ftn4",
       "error": null,
       "found_in_notes": [
         {
@@ -2269,9 +2269,9 @@
     },
     {
       "url": "https://www.cimit.org/documents/173804/228699/Navigating+the+HealthTech+Innovation+Cycle.pdf/2257c90b-d90b-3b78-6dc9-745db401fbc6",
-      "status": "warning",
-      "status_code": 503,
-      "final_url": "https://www.cimit.org/documents/173804/228699/Navigating+the+HealthTech+Innovation+Cycle.pdf/2257c90b-d90b-3b78-6dc9-745db401fbc6",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://cimit.org/",
       "error": null,
       "found_in_notes": [
         {
@@ -2285,7 +2285,7 @@
       "url": "https://www.ribbonfarm.com/2019/03/21/constructions-in-magical-thinking/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.ribbonfarm.com/2019/03/21/constructions-in-magical-thinking/",
+      "final_url": "https://ribbonfarm.com/2019/03/21/constructions-in-magical-thinking/",
       "error": null,
       "found_in_notes": [
         {
@@ -2315,6 +2315,81 @@
       ]
     },
     {
+      "url": "https://egghead.io",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://egghead.io/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Grow your online persona with smart performative blogging",
+          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
+          "path": "Grow your online persona with smart performative blogging.md"
+        }
+      ]
+    },
+    {
+      "url": "https://tomcritchlow.com/wiki/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://tomcritchlow.com/wiki/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Grow your online persona with smart performative blogging",
+          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
+          "path": "Grow your online persona with smart performative blogging.md"
+        }
+      ]
+    },
+    {
+      "url": "https://bloggingfordevs.com/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://bloggingfordevs.com/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Grow your online persona with smart performative blogging",
+          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
+          "path": "Grow your online persona with smart performative blogging.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.swyx.io/learn-in-public/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://swyx.io/learn-in-public",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Grow your online persona with smart performative blogging",
+          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
+          "path": "Grow your online persona with smart performative blogging.md"
+        },
+        {
+          "title": "Learning in Public",
+          "url": "/learning_in_public/",
+          "path": "learning in public.md"
+        }
+      ]
+    },
+    {
+      "url": "https://tomcritchlow.com/blogchains/digital-gardens/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://tomcritchlow.com/blogchains/digital-gardens/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Grow your online persona with smart performative blogging",
+          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
+          "path": "Grow your online persona with smart performative blogging.md"
+        }
+      ]
+    },
+    {
       "url": "https://www.mentalnodes.com/",
       "status": "ok",
       "status_code": 200,
@@ -2339,24 +2414,10 @@
       ]
     },
     {
-      "url": "https://tomcritchlow.com/blogchains/digital-gardens/",
+      "url": "https://tomcritchlow.com",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://tomcritchlow.com/blogchains/digital-gardens/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Grow your online persona with smart performative blogging",
-          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
-          "path": "Grow your online persona with smart performative blogging.md"
-        }
-      ]
-    },
-    {
-      "url": "https://egghead.io",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://egghead.io/",
+      "final_url": "https://tomcritchlow.com/",
       "error": null,
       "found_in_notes": [
         {
@@ -2382,67 +2443,6 @@
           "title": "Digital Garden",
           "url": "/essays/digital_gardening/",
           "path": "essays/Digital Gardening.md"
-        }
-      ]
-    },
-    {
-      "url": "https://tomcritchlow.com",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://tomcritchlow.com/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Grow your online persona with smart performative blogging",
-          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
-          "path": "Grow your online persona with smart performative blogging.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.swyx.io/learn-in-public/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.swyx.io/learn-in-public",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Grow your online persona with smart performative blogging",
-          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
-          "path": "Grow your online persona with smart performative blogging.md"
-        },
-        {
-          "title": "Learning in Public",
-          "url": "/learning_in_public/",
-          "path": "learning in public.md"
-        }
-      ]
-    },
-    {
-      "url": "https://bloggingfordevs.com/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://bloggingfordevs.com/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Grow your online persona with smart performative blogging",
-          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
-          "path": "Grow your online persona with smart performative blogging.md"
-        }
-      ]
-    },
-    {
-      "url": "https://tomcritchlow.com/wiki/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://tomcritchlow.com/wiki/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Grow your online persona with smart performative blogging",
-          "url": "/grow_your_online_persona_with_smart_performative_blogging/",
-          "path": "Grow your online persona with smart performative blogging.md"
         }
       ]
     },
@@ -2517,10 +2517,10 @@
       ]
     },
     {
-      "url": "https://www.cbp.gov/newsroom/national-media-release/cbp-releases-updated-border-search-electronic-device-directive-and",
+      "url": "https://www.uetke.com/blog/general/the-importance-of-doing-a-backup/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.cbp.gov/newsroom/national-media-release/cbp-releases-updated-border-search-electronic-device-directive-and",
+      "final_url": "https://www.uetke.com/blog/general/the-importance-of-doing-a-backup/",
       "error": null,
       "found_in_notes": [
         {
@@ -2531,10 +2531,10 @@
       ]
     },
     {
-      "url": "https://www.uetke.com/blog/general/the-importance-of-doing-a-backup/",
+      "url": "https://www.cbp.gov/newsroom/national-media-release/cbp-releases-updated-border-search-electronic-device-directive-and",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.uetke.com/blog/general/the-importance-of-doing-a-backup/",
+      "final_url": "https://www.cbp.gov/newsroom/national-media-release/cbp-releases-updated-border-search-electronic-device-directive-and",
       "error": null,
       "found_in_notes": [
         {
@@ -2574,8 +2574,8 @@
     },
     {
       "url": "https://notes.andymatuschak.org/%E2%80%9CBetter_note-taking%E2%80%9D_misses_the_point%3B_what_matters_is_%E2%80%9Cbetter_thinking%E2%80%9D",
-      "status": "ok",
-      "status_code": 200,
+      "status": "warning",
+      "status_code": 404,
       "final_url": "https://notes.andymatuschak.org/%E2%80%9CBetter_note-taking%E2%80%9D_misses_the_point%3B_what_matters_is_%E2%80%9Cbetter_thinking%E2%80%9D",
       "error": null,
       "found_in_notes": [
@@ -2603,14 +2603,70 @@
     {
       "url": "https://desert.glass/newsletter/week-43/",
       "status": "warning",
-      "status_code": 404,
-      "final_url": "https://desert.glass/newsletter/week-43/",
+      "status_code": 403,
+      "final_url": "https://desert.glass/restricted-access",
       "error": null,
       "found_in_notes": [
         {
           "title": "Learning in Public",
           "url": "/learning_in_public/",
           "path": "learning in public.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.transportenvironment.org/sites/te/files/publications/TE%20-%20draft%20report%20v04.pdf",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.transportenvironment.org/articles/types/publications",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Real emissions of electric cars",
+          "url": "/real_emissions_of_electric_cars/",
+          "path": "Real emissions of electric cars.md"
+        }
+      ]
+    },
+    {
+      "url": "http://www.ivl.se/download/18.5922281715bdaebede95a9/1496136143435/C243.pdf",
+      "status": "warning",
+      "status_code": 404,
+      "final_url": "http://www.ivl.se/download/18.5922281715bdaebede95a9/1496136143435/C243.pdf",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Real emissions of electric cars",
+          "url": "/real_emissions_of_electric_cars/",
+          "path": "Real emissions of electric cars.md"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tesla_Model_S",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Tesla_Model_S",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Real emissions of electric cars",
+          "url": "/real_emissions_of_electric_cars/",
+          "path": "Real emissions of electric cars.md"
+        }
+      ]
+    },
+    {
+      "url": "https://ecometrica.com/assets/GHGs-CO2-CO2e-and-Carbon-What-Do-These-Mean-v2.1.pdf",
+      "status": "warning",
+      "status_code": 404,
+      "final_url": "http://www.ecometrica.com/assets/GHGs-CO2-CO2e-and-Carbon-What-Do-These-Mean-v2.1.pdf",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Real emissions of electric cars",
+          "url": "/real_emissions_of_electric_cars/",
+          "path": "Real emissions of electric cars.md"
         }
       ]
     },
@@ -2643,62 +2699,6 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Tesla_Model_S",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Tesla_Model_S",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Real emissions of electric cars",
-          "url": "/real_emissions_of_electric_cars/",
-          "path": "Real emissions of electric cars.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.transportenvironment.org/sites/te/files/publications/TE%20-%20draft%20report%20v04.pdf",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://www.transportenvironment.org/sites/te/files/publications/TE%20-%20draft%20report%20v04.pdf",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Real emissions of electric cars",
-          "url": "/real_emissions_of_electric_cars/",
-          "path": "Real emissions of electric cars.md"
-        }
-      ]
-    },
-    {
-      "url": "https://ecometrica.com/assets/GHGs-CO2-CO2e-and-Carbon-What-Do-These-Mean-v2.1.pdf",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "http://www.ecometrica.com/assets/GHGs-CO2-CO2e-and-Carbon-What-Do-These-Mean-v2.1.pdf",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Real emissions of electric cars",
-          "url": "/real_emissions_of_electric_cars/",
-          "path": "Real emissions of electric cars.md"
-        }
-      ]
-    },
-    {
-      "url": "http://www.ivl.se/download/18.5922281715bdaebede95a9/1496136143435/C243.pdf",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "http://www.ivl.se/download/18.5922281715bdaebede95a9/1496136143435/C243.pdf",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Real emissions of electric cars",
-          "url": "/real_emissions_of_electric_cars/",
-          "path": "Real emissions of electric cars.md"
-        }
-      ]
-    },
-    {
       "url": "https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah",
       "status": "ok",
       "status_code": 200,
@@ -2709,62 +2709,6 @@
           "title": "Taking notes for knowledge creation",
           "url": "/taking_notes_for_knowledge_creation/",
           "path": "taking notes for knowledge creation.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.microsiervos.com/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.microsiervos.com/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "How I built this website using Python and Markdown",
-          "url": "/how_i_built_this_website/",
-          "path": "how i built this website.md"
-        }
-      ]
-    },
-    {
-      "url": "https://github.com/aengusmcmillin/gatsby-theme-brain",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/aengusmcmillin/gatsby-theme-brain",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "How I built this website using Python and Markdown",
-          "url": "/how_i_built_this_website/",
-          "path": "how i built this website.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.netlify.com/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.netlify.com/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "How I built this website using Python and Markdown",
-          "url": "/how_i_built_this_website/",
-          "path": "how i built this website.md"
-        }
-      ]
-    },
-    {
-      "url": "https://github.com/aquilesC/static_website_builder",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/aquilesC/static_website_builder",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "How I built this website using Python and Markdown",
-          "url": "/how_i_built_this_website/",
-          "path": "how i built this website.md"
         }
       ]
     },
@@ -2797,6 +2741,20 @@
       ]
     },
     {
+      "url": "https://github.com/aravindballa/gatsby-theme-andy/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/aravindballa/gatsby-theme-andy/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "How I built this website using Python and Markdown",
+          "url": "/how_i_built_this_website/",
+          "path": "how i built this website.md"
+        }
+      ]
+    },
+    {
       "url": "https://seths.blog/",
       "status": "ok",
       "status_code": 200,
@@ -2811,10 +2769,52 @@
       ]
     },
     {
-      "url": "https://github.com/aravindballa/gatsby-theme-andy/",
+      "url": "https://www.netlify.com/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/aravindballa/gatsby-theme-andy/",
+      "final_url": "https://www.netlify.com/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "How I built this website using Python and Markdown",
+          "url": "/how_i_built_this_website/",
+          "path": "how i built this website.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.microsiervos.com/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.microsiervos.com/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "How I built this website using Python and Markdown",
+          "url": "/how_i_built_this_website/",
+          "path": "how i built this website.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/aquilesC/static_website_builder",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/aquilesC/static_website_builder",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "How I built this website using Python and Markdown",
+          "url": "/how_i_built_this_website/",
+          "path": "how i built this website.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/aengusmcmillin/gatsby-theme-brain",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/aengusmcmillin/gatsby-theme-brain",
       "error": null,
       "found_in_notes": [
         {
@@ -2960,7 +2960,7 @@
       "status": "error",
       "status_code": null,
       "final_url": null,
-      "error": "Timeout",
+      "error": "Connection Error",
       "found_in_notes": [
         {
           "title": "Python for the Lab",
@@ -3033,7 +3033,7 @@
     {
       "url": "https://www.cdc.gov/genomics/disease/epigenetics.htm",
       "status": "warning",
-      "status_code": 404,
+      "status_code": 403,
       "final_url": "https://www.cdc.gov/genomics/disease/epigenetics.htm",
       "error": null,
       "found_in_notes": [
@@ -3045,11 +3045,11 @@
       ]
     },
     {
-      "url": "https://nl.rs-online.com/web/p/usb-connectors/9160224/",
-      "status": "error",
-      "status_code": null,
-      "final_url": null,
-      "error": "Timeout",
+      "url": "https://nl.farnell.com/amphenol/ac-usb3-aa/usb-adapter-3-0-type-a-rcpt-rcpt/dp/2951359?st=usb3%20amphenol",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://nl.farnell.com/amphenol/ac-usb3-aa/usb-adapter-3-0-type-a-rcpt-rcpt/dp/2951359?st=usb3%20amphenol",
+      "error": null,
       "found_in_notes": [
         {
           "title": "Extending USB cable with Amphenol connector",
@@ -3059,10 +3059,10 @@
       ]
     },
     {
-      "url": "https://nl.farnell.com/amphenol/ac-usb3-aa/usb-adapter-3-0-type-a-rcpt-rcpt/dp/2951359?st=usb3%20amphenol",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://nl.farnell.com/amphenol/ac-usb3-aa/usb-adapter-3-0-type-a-rcpt-rcpt/dp/2951359?st=usb3%20amphenol",
+      "url": "https://nl.rs-online.com/web/p/usb-connectors/1750149/",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://nl.rs-online.com/web/p/usb-connectors/1750149/",
       "error": null,
       "found_in_notes": [
         {
@@ -3087,35 +3087,16 @@
       ]
     },
     {
-      "url": "https://nl.rs-online.com/web/p/usb-connectors/1750149/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://nl.rs-online.com/web/p/usb-connectors/1750149",
+      "url": "https://nl.rs-online.com/web/p/usb-connectors/9160224/",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://nl.rs-online.com/web/p/usb-connectors/9160224/",
       "error": null,
       "found_in_notes": [
         {
           "title": "Extending USB cable with Amphenol connector",
           "url": "/extending_usb_cable_with_amphenol_connector/",
           "path": "extending usb cable with amphenol connector.md"
-        }
-      ]
-    },
-    {
-      "url": "https://fold.it/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://fold.it/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Citizen science",
-          "url": "/citizen_science/",
-          "path": "Citizen science.md"
-        },
-        {
-          "title": "Ciencia ciudadana",
-          "url": "/ensayos/ciencia_ciudadana/",
-          "path": "ensayos/ciencia ciudadana.md"
         }
       ]
     },
@@ -3135,6 +3116,20 @@
           "title": "Ciencia ciudadana",
           "url": "/ensayos/ciencia_ciudadana/",
           "path": "ensayos/ciencia ciudadana.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.zooniverse.org/projects/birgus2/western-shield-camera-watch",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.zooniverse.org/projects/birgus2/western-shield-camera-watch",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Citizen science",
+          "url": "/citizen_science/",
+          "path": "Citizen science.md"
         }
       ]
     },
@@ -3167,37 +3162,28 @@
       ]
     },
     {
-      "url": "http://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Citizen science",
-          "url": "/citizen_science/",
-          "path": "Citizen science.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.zooniverse.org/projects/birgus2/western-shield-camera-watch",
+      "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.zooniverse.org/projects/birgus2/western-shield-camera-watch",
+      "final_url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo",
       "error": null,
       "found_in_notes": [
         {
           "title": "Citizen science",
           "url": "/citizen_science/",
           "path": "Citizen science.md"
+        },
+        {
+          "title": "Ciencia ciudadana",
+          "url": "/ensayos/ciencia_ciudadana/",
+          "path": "ensayos/ciencia ciudadana.md"
         }
       ]
     },
     {
       "url": "https://www.wikiaves.com.br/",
-      "status": "ok",
-      "status_code": 200,
+      "status": "warning",
+      "status_code": 403,
       "final_url": "https://www.wikiaves.com.br/",
       "error": null,
       "found_in_notes": [
@@ -3214,10 +3200,24 @@
       ]
     },
     {
-      "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/",
+      "url": "http://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
+      "status": "warning",
+      "status_code": 404,
+      "final_url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Citizen science",
+          "url": "/citizen_science/",
+          "path": "Citizen science.md"
+        }
+      ]
+    },
+    {
+      "url": "https://fold.it/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo",
+      "final_url": "https://fold.it/",
       "error": null,
       "found_in_notes": [
         {
@@ -3331,38 +3331,38 @@
       ]
     },
     {
-      "url": "https://www.instapaper.com/read/1351155845",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.instapaper.com/user/login?next=%2Fread%2F1351155845",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Facebook Can't Regulate Itself",
-          "url": "/facebook_can't_regulate_itself/",
-          "path": "facebook can't regulate itself.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Facebook Can't Regulate Itself",
-          "url": "/facebook_can't_regulate_itself/",
-          "path": "facebook can't regulate itself.md"
-        }
-      ]
-    },
-    {
       "url": "https://www.theverge.com/2019/4/30/18524188/facebook-f8-keynote-mark-zuckerberg-privacy-future-2019",
       "status": "ok",
       "status_code": 200,
       "final_url": "https://www.theverge.com/2019/4/30/18524188/facebook-f8-keynote-mark-zuckerberg-privacy-future-2019",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Facebook Can't Regulate Itself",
+          "url": "/facebook_can't_regulate_itself/",
+          "path": "facebook can't regulate itself.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2020/09/21/technology/facebook-qanon.html",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://www.nytimes.com/2020/09/21/technology/facebook-qanon.html",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Facebook Can't Regulate Itself",
+          "url": "/facebook_can't_regulate_itself/",
+          "path": "facebook can't regulate itself.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.instapaper.com/read/1351155845",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.instapaper.com/user/login?next=%2Fread%2F1351155845",
       "error": null,
       "found_in_notes": [
         {
@@ -3387,10 +3387,10 @@
       ]
     },
     {
-      "url": "https://arstechnica.com/tech-policy/2020/10/facebooks-endless-quest-for-engagement-is-dangerous-for-us-all/",
+      "url": "https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://arstechnica.com/tech-policy/2020/10/facebooks-endless-quest-for-engagement-is-dangerous-for-us-all/",
+      "final_url": "https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself",
       "error": null,
       "found_in_notes": [
         {
@@ -3401,10 +3401,10 @@
       ]
     },
     {
-      "url": "https://www.nytimes.com/2020/09/21/technology/facebook-qanon.html",
-      "status": "warning",
-      "status_code": 403,
-      "final_url": "https://www.nytimes.com/2020/09/21/technology/facebook-qanon.html",
+      "url": "https://arstechnica.com/tech-policy/2020/10/facebooks-endless-quest-for-engagement-is-dangerous-for-us-all/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://arstechnica.com/tech-policy/2020/10/facebooks-endless-quest-for-engagement-is-dangerous-for-us-all/",
       "error": null,
       "found_in_notes": [
         {
@@ -3467,20 +3467,6 @@
       ]
     },
     {
-      "url": "https://gwern.net/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://gwern.net/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Digital garden",
-          "url": "/digital_garden/",
-          "path": "digital garden.md"
-        }
-      ]
-    },
-    {
       "url": "https://tomcritchlow.com/",
       "status": "ok",
       "status_code": 200,
@@ -3496,6 +3482,20 @@
           "title": "Digital Garden",
           "url": "/essays/digital_gardening/",
           "path": "essays/Digital Gardening.md"
+        }
+      ]
+    },
+    {
+      "url": "https://gwern.net/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://gwern.net/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Digital garden",
+          "url": "/digital_garden/",
+          "path": "digital garden.md"
         }
       ]
     },
@@ -3542,10 +3542,10 @@
       ]
     },
     {
-      "url": "https://twitter.com/ljin18/status/1169753411639640064",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/ljin18/status/1169753411639640064",
+      "url": "https://a16z.com/2019/10/08/passion-economy/",
+      "status": "warning",
+      "status_code": 404,
+      "final_url": "https://a16z.com/2019/10/08/passion-economy/",
       "error": null,
       "found_in_notes": [
         {
@@ -3556,10 +3556,10 @@
       ]
     },
     {
-      "url": "https://a16z.com/2019/10/08/passion-economy/",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://a16z.com/2019/10/08/passion-economy/",
+      "url": "https://twitter.com/ljin18/status/1169753411639640064",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/ljin18/status/1169753411639640064",
       "error": null,
       "found_in_notes": [
         {
@@ -3668,10 +3668,10 @@
       ]
     },
     {
-      "url": "https://t.co/FzAzEW2x5q",
+      "url": "https://twitter.com/V_Saggiomo/status/1451653427797299201?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/V_Saggiomo/status/1400720207899987969?s=20",
+      "final_url": "https://twitter.com/V_Saggiomo/status/1451653427797299201?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -3682,10 +3682,10 @@
       ]
     },
     {
-      "url": "https://twitter.com/V_Saggiomo/status/1451653427797299201?ref_src=twsrc%5Etfw",
+      "url": "https://t.co/FzAzEW2x5q",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/V_Saggiomo/status/1451653427797299201?ref_src=twsrc%5Etfw",
+      "final_url": "https://twitter.com/V_Saggiomo/status/1400720207899987969?s=20",
       "error": null,
       "found_in_notes": [
         {
@@ -3699,7 +3699,7 @@
       "url": "https://twitter.com/calippoebbira/status/1309384279735128064?s=20",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/calippoebbira/status/1309384279735128064?s=20",
+      "final_url": "https://twitter.com/calippoebbira/status/1309384279735128064?s=20",
       "error": null,
       "found_in_notes": [
         {
@@ -3769,7 +3769,7 @@
       "url": "https://www.youtube.com/channel/UCghcPYUz5jiY5uf1_eExbPg?view_as=subscriber",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://consent.youtube.com/ml?continue=https://www.youtube.com/channel/UCghcPYUz5jiY5uf1_eExbPg?view_as%3Dsubscriber%26cbrd%3D1&gl=NL&hl=en-GB&cm=2&pc=yt&src=1&escs=AZ8E49BwlHRlNtZCFH1a48HSWF8hovcC2Q002ejO5EZlMZJI0e-3QWZDR0hyvYX4lCM0xsm-j0kLVc_MxiQGd_m7Aad7GYhBN5Vt",
+      "final_url": "https://consent.youtube.com/ml?continue=https://www.youtube.com/channel/UCghcPYUz5jiY5uf1_eExbPg?view_as%3Dsubscriber%26cbrd%3D1&gl=NL&hl=nl&cm=2&pc=yt&src=1&escs=AZ-r6Z4xQ1JnoCqdkwHHL-l6nfu0SUCbFOD6W-HtcX97BK4G2ViMUPGNNwFreAiSzJsiNkLVtp5-ucinjL5yeos8pgSsg9PhFCLf",
       "error": null,
       "found_in_notes": [
         {
@@ -3783,7 +3783,7 @@
       "url": "https://www.wnyc.org/story/inflation-deflation/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.wnyc.org/story/inflation-deflation/",
+      "final_url": "https://wnyc.org/story/inflation-deflation/",
       "error": null,
       "found_in_notes": [
         {
@@ -3844,49 +3844,7 @@
       "url": "https://twitter.com/aquicarattino/status/1368493316854194182?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/aquicarattino/status/1368493316854194182?ref_src=twsrc%5Etfw",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Personal data collection, what is it and where it starts",
-          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
-          "path": "essays/personal data collection, what is it and where it starts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://twitter.com/Buienalarm?ref_src=twsrc%5Etfw",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/Buienalarm?ref_src=twsrc%5Etfw",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Personal data collection, what is it and where it starts",
-          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
-          "path": "essays/personal data collection, what is it and where it starts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://twitter.com/aquicarattino/status/1368493316854194182",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/aquicarattino/status/1368493316854194182",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Personal data collection, what is it and where it starts",
-          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
-          "path": "essays/personal data collection, what is it and where it starts.md"
-        }
-      ]
-    },
-    {
-      "url": "https://t.co/cVuB1OXFgN",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/aquicarattino/status/1368493316854194182/photo/1",
+      "final_url": "https://twitter.com/aquicarattino/status/1368493316854194182?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -3911,10 +3869,52 @@
       ]
     },
     {
+      "url": "https://twitter.com/aquicarattino/status/1368493316854194182",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/aquicarattino/status/1368493316854194182",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Personal data collection, what is it and where it starts",
+          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
+          "path": "essays/personal data collection, what is it and where it starts.md"
+        }
+      ]
+    },
+    {
+      "url": "https://t.co/cVuB1OXFgN",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/aquicarattino/status/1368493316854194182",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Personal data collection, what is it and where it starts",
+          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
+          "path": "essays/personal data collection, what is it and where it starts.md"
+        }
+      ]
+    },
+    {
       "url": "https://science.sciencemag.org/content/347/6221/536",
       "status": "warning",
       "status_code": 403,
-      "final_url": "https://science.sciencemag.org/content/347/6221/536",
+      "final_url": "https://www.science.org/doi/10.1126/science.1256297",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Personal data collection, what is it and where it starts",
+          "url": "/essays/personal_data_collection,_what_is_it_and_where_it_starts/",
+          "path": "essays/personal data collection, what is it and where it starts.md"
+        }
+      ]
+    },
+    {
+      "url": "https://twitter.com/Buienalarm?ref_src=twsrc%5Etfw",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/Buienalarm?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -3939,10 +3939,10 @@
       ]
     },
     {
-      "url": "https://www.joinef.com/",
+      "url": "https://www.aquiles.me/empowering-young-scientists-rethinking-academic-entrepreneurship/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.joinef.com/",
+      "final_url": "https://www.aquiles.me/empowering-young-scientists-rethinking-academic-entrepreneurship/",
       "error": null,
       "found_in_notes": [
         {
@@ -3953,10 +3953,10 @@
       ]
     },
     {
-      "url": "https://www.aquiles.me/empowering-young-scientists-rethinking-academic-entrepreneurship/",
+      "url": "https://www.joinef.com/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.aquiles.me/empowering-young-scientists-rethinking-academic-entrepreneurship/",
+      "final_url": "https://www.joinef.com/",
       "error": null,
       "found_in_notes": [
         {
@@ -4009,10 +4009,10 @@
       ]
     },
     {
-      "url": "https://www.gwern.net",
+      "url": "https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://gwern.net/",
+      "final_url": "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB",
       "error": null,
       "found_in_notes": [
         {
@@ -4023,10 +4023,10 @@
       ]
     },
     {
-      "url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z5nw1rPzimCJYyMknDujwvP344Hv3ixCZRZV2",
+      "url": "https://www.gwern.net",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z5nw1rPzimCJYyMknDujwvP344Hv3ixCZRZV2",
+      "final_url": "https://gwern.net/",
       "error": null,
       "found_in_notes": [
         {
@@ -4051,6 +4051,20 @@
       ]
     },
     {
+      "url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z5nw1rPzimCJYyMknDujwvP344Hv3ixCZRZV2",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z5nw1rPzimCJYyMknDujwvP344Hv3ixCZRZV2",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Digital Garden",
+          "url": "/essays/digital_gardening/",
+          "path": "essays/Digital Gardening.md"
+        }
+      ]
+    },
+    {
       "url": "https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1",
       "status": "ok",
       "status_code": 200,
@@ -4065,24 +4079,10 @@
       ]
     },
     {
-      "url": "https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Digital Garden",
-          "url": "/essays/digital_gardening/",
-          "path": "essays/Digital Gardening.md"
-        }
-      ]
-    },
-    {
       "url": "https://www.swyx.io/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.swyx.io/",
+      "final_url": "https://swyx.io/",
       "error": null,
       "found_in_notes": [
         {
@@ -4121,10 +4121,10 @@
       ]
     },
     {
-      "url": "https://www.gwern.net/About#anonymous-feedback",
+      "url": "https://staticman.net/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://gwern.net/about#anonymous-feedback",
+      "final_url": "https://best.staticman.net/",
       "error": null,
       "found_in_notes": [
         {
@@ -4149,10 +4149,10 @@
       ]
     },
     {
-      "url": "https://staticman.net/",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://the.staticman.net/home",
+      "url": "https://www.gwern.net/About#anonymous-feedback",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://gwern.net/about#anonymous-feedback",
       "error": null,
       "found_in_notes": [
         {
@@ -4240,20 +4240,6 @@
       ]
     },
     {
-      "url": "https://notes.aquiles.me/crossing_the_chasm/#:~:text=The%20chasm%20appears%20only%20on,to%20create%20a%20new%20market",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://notes.aquiles.me/crossing_the_chasm/#:~:text=The%20chasm%20appears%20only%20on,to%20create%20a%20new%20market",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Essays/linkedin/  why mvps in deep-tech are a myth—and how we should build instead",
-          "url": "/essays/LinkedIn/__why_mvps_in_deep-tech_are_a_myth—and_how_we_should_build_instead/",
-          "path": "essays/LinkedIn/_ Why MVPs in deep-tech are a myth—and how we should build instead.md"
-        }
-      ]
-    },
-    {
       "url": "https://notes.aquiles.me/difference_between_risk_and_uncertainty/#:~:text=The%20difference%20between%20risk%20and,Knight%20%282002",
       "status": "ok",
       "status_code": 200,
@@ -4284,6 +4270,20 @@
           "title": "Essays/linkedin/25-08-07  3 signals that your scientific prototype is ready for productization",
           "url": "/essays/LinkedIn/25-08-07__3_signals_that_your_scientific_prototype_is_ready_for_productization/",
           "path": "essays/LinkedIn/25-08-07_ 3 signals that your scientific prototype is ready for productization.md"
+        }
+      ]
+    },
+    {
+      "url": "https://notes.aquiles.me/crossing_the_chasm/#:~:text=The%20chasm%20appears%20only%20on,to%20create%20a%20new%20market",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://notes.aquiles.me/crossing_the_chasm/#:~:text=The%20chasm%20appears%20only%20on,to%20create%20a%20new%20market",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Essays/linkedin/  why mvps in deep-tech are a myth—and how we should build instead",
+          "url": "/essays/LinkedIn/__why_mvps_in_deep-tech_are_a_myth—and_how_we_should_build_instead/",
+          "path": "essays/LinkedIn/_ Why MVPs in deep-tech are a myth—and how we should build instead.md"
         }
       ]
     },
@@ -4330,38 +4330,24 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Drug_design",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Drug_design",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Resonance calendar/eroom's law",
+          "url": "/resonance calendar/eroom's_law/",
+          "path": "resonance calendar/Eroom's law.md"
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Eroom%27s_law#cite_note-2",
       "status": "ok",
       "status_code": 200,
       "final_url": "https://en.wikipedia.org/wiki/Eroom%27s_law#cite_note-2",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Resonance calendar/eroom's law",
-          "url": "/resonance calendar/eroom's_law/",
-          "path": "resonance calendar/Eroom's law.md"
-        }
-      ]
-    },
-    {
-      "url": "https://lifescivc.com/2022/03/biotech-bears-jumping-a-lower-bar-or-a-higher-one/?utm_source=feedly&amp;utm_medium=rss&amp;utm_campaign=biotech-bears-jumping-a-lower-bar-or-a-higher-one",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://lifescivc.com/2022/03/biotech-bears-jumping-a-lower-bar-or-a-higher-one/?utm_source=feedly&amp;utm_medium=rss&amp;utm_campaign=biotech-bears-jumping-a-lower-bar-or-a-higher-one",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Resonance calendar/eroom's law",
-          "url": "/resonance calendar/eroom's_law/",
-          "path": "resonance calendar/Eroom's law.md"
-        }
-      ]
-    },
-    {
-      "url": "https://en.wikipedia.org/wiki/Biotechnology",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Biotechnology",
       "error": null,
       "found_in_notes": [
         {
@@ -4386,34 +4372,6 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Transistor",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Transistor",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Resonance calendar/eroom's law",
-          "url": "/resonance calendar/eroom's_law/",
-          "path": "resonance calendar/Eroom's law.md"
-        }
-      ]
-    },
-    {
-      "url": "https://en.wikipedia.org/wiki/Drug_design",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Drug_design",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Resonance calendar/eroom's law",
-          "url": "/resonance calendar/eroom's_law/",
-          "path": "resonance calendar/Eroom's law.md"
-        }
-      ]
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Combinatorial_chemistry",
       "status": "ok",
       "status_code": 200,
@@ -4428,10 +4386,10 @@
       ]
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+      "url": "https://en.wikipedia.org/wiki/Transistor",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+      "final_url": "https://en.wikipedia.org/wiki/Transistor",
       "error": null,
       "found_in_notes": [
         {
@@ -4456,10 +4414,52 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Resonance calendar/eroom's law",
+          "url": "/resonance calendar/eroom's_law/",
+          "path": "resonance calendar/Eroom's law.md"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Biotechnology",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Biotechnology",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Resonance calendar/eroom's law",
+          "url": "/resonance calendar/eroom's_law/",
+          "path": "resonance calendar/Eroom's law.md"
+        }
+      ]
+    },
+    {
+      "url": "https://lifescivc.com/2022/03/biotech-bears-jumping-a-lower-bar-or-a-higher-one/?utm_source=feedly&amp;utm_medium=rss&amp;utm_campaign=biotech-bears-jumping-a-lower-bar-or-a-higher-one",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://lifescivc.com/2022/03/biotech-bears-jumping-a-lower-bar-or-a-higher-one/?utm_source=feedly&amp;utm_medium=rss&amp;utm_campaign=biotech-bears-jumping-a-lower-bar-or-a-higher-one",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Resonance calendar/eroom's law",
+          "url": "/resonance calendar/eroom's_law/",
+          "path": "resonance calendar/Eroom's law.md"
+        }
+      ]
+    },
+    {
       "url": "https://t.co/LOy2bbAY6n",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/reidhoffman/status/1053318682242252800/photo/1",
+      "final_url": "https://twitter.com/reidhoffman/status/1053318682242252800",
       "error": null,
       "found_in_notes": [
         {
@@ -4473,7 +4473,7 @@
       "url": "https://twitter.com/reidhoffman/status/1053318682242252800?ref_src=twsrc%5Etfw",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/reidhoffman/status/1053318682242252800?ref_src=twsrc%5Etfw",
+      "final_url": "https://twitter.com/reidhoffman/status/1053318682242252800?ref_src=twsrc%5Etfw",
       "error": null,
       "found_in_notes": [
         {
@@ -4485,8 +4485,8 @@
     },
     {
       "url": "https://www.arctoris.com/careers/#roles",
-      "status": "warning",
-      "status_code": 404,
+      "status": "ok",
+      "status_code": 200,
       "final_url": "https://www.arctoris.com/careers/#roles",
       "error": null,
       "found_in_notes": [
@@ -4540,20 +4540,6 @@
       ]
     },
     {
-      "url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L54",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L54",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Formatting strings in two steps with Python",
-          "url": "/tech_notes/python_partial_string_formatting/",
-          "path": "tech_notes/python partial string formatting.md"
-        }
-      ]
-    },
-    {
       "url": "https://github.com/hgrecco/pint/blob/132a9fd5ef4737d82527354b26cce6859d631ab3/pint/unit.py#L75",
       "status": "ok",
       "status_code": 200,
@@ -4582,20 +4568,6 @@
       ]
     },
     {
-      "url": "https://www.python.org/dev/peps/pep-3101/#controlling-formatting-on-a-per-type-basis",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://peps.python.org/pep-3101/#controlling-formatting-on-a-per-type-basis",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Formatting strings in two steps with Python",
-          "url": "/tech_notes/python_partial_string_formatting/",
-          "path": "tech_notes/python partial string formatting.md"
-        }
-      ]
-    },
-    {
       "url": "https://github.com/aquilesC/DisperPy/blob/3589f36586261ac9f818f76ae47202b0e78e87a1/dispertech/models/experiment/dispertech/experiment.py#L108",
       "status": "ok",
       "status_code": 200,
@@ -4610,10 +4582,38 @@
       ]
     },
     {
-      "url": "https://github.com/PFTL/py4lab/blob/393c945c83125f92263d2c30a25a321684519ebc/ch_09/PythonForTheLab/Model/experiment.py#L83",
+      "url": "https://www.python.org/dev/peps/pep-3101/#controlling-formatting-on-a-per-type-basis",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/PFTL/py4lab/blob/393c945c83125f92263d2c30a25a321684519ebc/ch_09/PythonForTheLab/Model/experiment.py#L83",
+      "final_url": "https://peps.python.org/pep-3101/#controlling-formatting-on-a-per-type-basis",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Formatting strings in two steps with Python",
+          "url": "/tech_notes/python_partial_string_formatting/",
+          "path": "tech_notes/python partial string formatting.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L54",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L54",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Formatting strings in two steps with Python",
+          "url": "/tech_notes/python_partial_string_formatting/",
+          "path": "tech_notes/python partial string formatting.md"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L222",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L222",
       "error": null,
       "found_in_notes": [
         {
@@ -4624,10 +4624,10 @@
       ]
     },
     {
-      "url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L222",
+      "url": "https://github.com/PFTL/py4lab/blob/393c945c83125f92263d2c30a25a321684519ebc/ch_09/PythonForTheLab/Model/experiment.py#L83",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/aquilesC/experimentor/blob/9d3320694223a1081c69a4081bed3aeb2ae6b2cd/experimentor/models/experiments/base_experiment.py#L222",
+      "final_url": "https://github.com/PFTL/py4lab/blob/393c945c83125f92263d2c30a25a321684519ebc/ch_09/PythonForTheLab/Model/experiment.py#L83",
       "error": null,
       "found_in_notes": [
         {
@@ -4652,10 +4652,10 @@
       ]
     },
     {
-      "url": "https://github.com/Rafficer/linux-cli-community",
+      "url": "https://protonvpn.com/support/linux-vpn-tool/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://github.com/Rafficer/linux-cli-community",
+      "final_url": "https://protonvpn.com/support/linux-vpn-setup",
       "error": null,
       "found_in_notes": [
         {
@@ -4666,10 +4666,10 @@
       ]
     },
     {
-      "url": "https://protonvpn.com/support/linux-vpn-tool/",
+      "url": "https://github.com/Rafficer/linux-cli-community",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://protonvpn.com/support/linux-vpn-setup",
+      "final_url": "https://github.com/Rafficer/linux-cli-community",
       "error": null,
       "found_in_notes": [
         {
@@ -4709,10 +4709,10 @@
     },
     {
       "url": "https://doi.org/10.1039/C6CP01679K",
-      "status": "error",
-      "status_code": null,
-      "final_url": null,
-      "error": "Timeout",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://pubs.rsc.org/cp/article/18/23/15619-15624/517212",
+      "error": null,
       "found_in_notes": [
         {
           "title": "Tech notes/using adda with python",
@@ -4760,20 +4760,6 @@
       ]
     },
     {
-      "url": "https://unsplash.com/@mbennettphoto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText",
-      "status": "warning",
-      "status_code": 401,
-      "final_url": "https://unsplash.com/.within.website?redir=%2F%40mbennettphoto%3Futm_source%3Dunsplash%26amp%3Butm_medium%3Dreferral%26amp%3Butm_content%3DcreditCopyText",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La Inevitabilidad de Envejecer",
-          "url": "/ensayos/envejecer/",
-          "path": "ensayos/envejecer.md"
-        }
-      ]
-    },
-    {
       "url": "https://unsplash.com/s/photos/old?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText",
       "status": "warning",
       "status_code": 401,
@@ -4788,16 +4774,16 @@
       ]
     },
     {
-      "url": "https://pinkygloves.de/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://pinkygloves.de/",
+      "url": "https://unsplash.com/@mbennettphoto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText",
+      "status": "warning",
+      "status_code": 401,
+      "final_url": "https://unsplash.com/.within.website?redir=%2F%40mbennettphoto%3Futm_source%3Dunsplash%26amp%3Butm_medium%3Dreferral%26amp%3Butm_content%3DcreditCopyText",
       "error": null,
       "found_in_notes": [
         {
-          "title": "El cambio incremental nos puede llevar hacia lugares indeseados",
-          "url": "/ensayos/el_cambio_incremental_nos_lleva_a_lugares_indeseados/",
-          "path": "ensayos/el cambio incremental nos lleva a lugares indeseados.md"
+          "title": "La Inevitabilidad de Envejecer",
+          "url": "/ensayos/envejecer/",
+          "path": "ensayos/envejecer.md"
         }
       ]
     },
@@ -4816,52 +4802,24 @@
       ]
     },
     {
-      "url": "https://twitter.com/Angelalerena/status/1219936957192712192?s=20",
+      "url": "https://pinkygloves.de/",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/Angelalerena/status/1219936957192712192?s=20",
+      "final_url": "https://pinkygloves.de/",
       "error": null,
       "found_in_notes": [
         {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
+          "title": "El cambio incremental nos puede llevar hacia lugares indeseados",
+          "url": "/ensayos/el_cambio_incremental_nos_lleva_a_lugares_indeseados/",
+          "path": "ensayos/el cambio incremental nos lleva a lugares indeseados.md"
         }
       ]
     },
     {
-      "url": "https://twitter.com/Angelalerena",
+      "url": "https://www.lanacion.com.ar/seguridad/un-turista-ataco-mozo-pinamar-me-vas-nid2326283?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://x.com/Angelalerena",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.lanacion.com.ar/sociedad/la-medica-que-asistio-a-fernando-baez-sosa-cuando-llegamos-al-lugar-ya-habia-fallecido-nid2326494",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.lanacion.com.ar/sociedad/la-medica-que-asistio-a-fernando-baez-sosa-cuando-llegamos-al-lugar-ya-habia-fallecido-nid2326494/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.pagina12.com.ar/243328-promover-masculinidades-para-la-igualdad",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.pagina12.com.ar/243328-promover-masculinidades-para-la-igualdad/",
+      "final_url": "https://www.lanacion.com.ar/seguridad/un-turista-ataco-mozo-pinamar-me-vas-nid2326283/?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
       "error": null,
       "found_in_notes": [
         {
@@ -4886,48 +4844,6 @@
       ]
     },
     {
-      "url": "https://www.lanacion.com.ar/deportes/hinchas-river-uruguay-imputado-multa-detenido-otro-nid2323419",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.lanacion.com.ar/deportes/hinchas-river-uruguay-imputado-multa-detenido-otro-nid2323419/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.argentina.gob.ar/justiciacerca/bailar",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.argentina.gob.ar/voy-bailar",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.lanacion.com.ar/sociedad/feroz-ataque-familia-dentro-su-auto-popular-nid2320433?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.lanacion.com.ar/sociedad/feroz-ataque-familia-dentro-su-auto-popular-nid2320433/?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
-          "url": "/ensayos/violencia_boliches_alcohol/",
-          "path": "ensayos/violencia_boliches_alcohol.md"
-        }
-      ]
-    },
-    {
       "url": "https://www.lanacion.com.ar/tema/asesinato-en-villa-gesell-tid67565",
       "status": "ok",
       "status_code": 200,
@@ -4942,10 +4858,10 @@
       ]
     },
     {
-      "url": "https://www.bbc.com/mundo/deportes-46332616",
+      "url": "https://www.lanacion.com.ar/deportes/hinchas-river-uruguay-imputado-multa-detenido-otro-nid2323419",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.bbc.com/mundo/deportes-46332616",
+      "final_url": "https://www.lanacion.com.ar/deportes/hinchas-river-uruguay-imputado-multa-detenido-otro-nid2323419/",
       "error": null,
       "found_in_notes": [
         {
@@ -4956,10 +4872,24 @@
       ]
     },
     {
-      "url": "https://www.lanacion.com.ar/seguridad/un-turista-ataco-mozo-pinamar-me-vas-nid2326283?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
+      "url": "https://twitter.com/Angelalerena",
       "status": "ok",
       "status_code": 200,
-      "final_url": "https://www.lanacion.com.ar/seguridad/un-turista-ataco-mozo-pinamar-me-vas-nid2326283/?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
+      "final_url": "https://twitter.com/Angelalerena",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lanacion.com.ar/sociedad/la-medica-que-asistio-a-fernando-baez-sosa-cuando-llegamos-al-lugar-ya-habia-fallecido-nid2326494",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.lanacion.com.ar/sociedad/la-medica-que-asistio-a-fernando-baez-sosa-cuando-llegamos-al-lugar-ya-habia-fallecido-nid2326494/",
       "error": null,
       "found_in_notes": [
         {
@@ -4984,6 +4914,76 @@
       ]
     },
     {
+      "url": "https://twitter.com/Angelalerena/status/1219936957192712192?s=20",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/Angelalerena/status/1219936957192712192?s=20",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bbc.com/mundo/deportes-46332616",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.bbc.com/mundo/deportes-46332616",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lanacion.com.ar/sociedad/feroz-ataque-familia-dentro-su-auto-popular-nid2320433?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.lanacion.com.ar/sociedad/feroz-ataque-familia-dentro-su-auto-popular-nid2320433/?li_source=LI&amp;li_medium=li-nacion-recommended-item-template-1",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justiciacerca/bailar",
+      "status": "error",
+      "status_code": null,
+      "final_url": null,
+      "error": "Timeout",
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pagina12.com.ar/243328-promover-masculinidades-para-la-igualdad",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.pagina12.com.ar/243328-promover-masculinidades-para-la-igualdad/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "Violencia, boliches, rugby y las cosas que nadie discute",
+          "url": "/ensayos/violencia_boliches_alcohol/",
+          "path": "ensayos/violencia_boliches_alcohol.md"
+        }
+      ]
+    },
+    {
       "url": "https://www.fisica.org.ar/actividades/para-escuelas/proyecto-eratostenes/",
       "status": "ok",
       "status_code": 200,
@@ -4998,192 +4998,10 @@
       ]
     },
     {
-      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04530396?term=GAM-COVID-Vac&amp;draw=1&amp;rank=4",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://clinicaltrials.gov/study/NCT04530396",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04564716?term=GAM-COVID-Vac&amp;draw=1&amp;rank=2",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://clinicaltrials.gov/study/NCT04564716",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04368728?term=BNT162b2&amp;draw=2&amp;rank=3#outcomemeasures",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://clinicaltrials.gov/study/NCT04368728#outcomemeasures",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.argentina.gob.ar/anmat",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.argentina.gob.ar/anmat",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.clinicaltrials.gov/ct2/results?cond=&amp;term=GAM-COVID-Vac&amp;cntry=&amp;state=&amp;city=&amp;dist=&amp;Search=Search",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://clinicaltrials.gov:443/search?viewType=Table#classicRedirect",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://twitter.com/norabar/status/1341723582766919682",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/norabar/status/1341723582766919682",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://twitter.com/aquicarattino/status/1341722944884584450",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://x.com/aquicarattino/status/1341722944884584450",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.clarin.com/sociedad/coronavirus-dice-breve-informe-anmat-recomendo-ministerio-salud-autorizar-vacuna-rusa_0_wu5wtltbv.html",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.clarin.com/sociedad/coronavirus-dice-breve-informe-anmat-recomendo-ministerio-salud-autorizar-vacuna-rusa_0_wu5wtltbv.html",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.argentina.gob.ar/noticias/anmat/vacunas-para-sars-cov-2-con-documentacion-en-proceso-de-presentacion",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.argentina.gob.ar/noticias/anmat/vacunas-para-sars-cov-2-con-documentacion-en-proceso-de-presentacion",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.lanacion.com.ar/sociedad/coronavirus-quien-es-manuel-limeres-farmaceutico-autoriza-nid2549834",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.lanacion.com.ar/sociedad/coronavirus-quien-es-manuel-limeres-farmaceutico-autoriza-nid2549834/",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04587219?term=GAM-COVID-Vac&amp;draw=1&amp;rank=3",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://clinicaltrials.gov/study/NCT04587219",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944544/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH__15Dec2020.pdf",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1112667/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH_ext_of_indication_11.6.2021.pdf",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://www.pagina12.com.ar/284884-hugo-sigman-del-grupo-insud-vamos-a-empezar-a-producir-la-va",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://www.pagina12.com.ar/284884-hugo-sigman-del-grupo-insud-vamos-a-empezar-a-producir-la-va/",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
+      "status": "warning",
+      "status_code": 403,
+      "final_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
       "error": null,
       "found_in_notes": [
         {
@@ -5208,6 +5026,202 @@
       ]
     },
     {
+      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04564716?term=GAM-COVID-Vac&amp;draw=1&amp;rank=2",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://clinicaltrials.gov/study/NCT04564716",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pagina12.com.ar/284884-hugo-sigman-del-grupo-insud-vamos-a-empezar-a-producir-la-va",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.pagina12.com.ar/284884-hugo-sigman-del-grupo-insud-vamos-a-empezar-a-producir-la-va/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.clinicaltrials.gov/ct2/results?cond=&amp;term=GAM-COVID-Vac&amp;cntry=&amp;state=&amp;city=&amp;dist=&amp;Search=Search",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://clinicaltrials.gov:443/search?viewType=Table#classicRedirect",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944544/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH__15Dec2020.pdf",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1112667/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH_ext_of_indication_11.6.2021.pdf",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anmat",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.argentina.gob.ar/anmat",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://twitter.com/aquicarattino/status/1341722944884584450",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/aquicarattino/status/1341722944884584450",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04368728?term=BNT162b2&amp;draw=2&amp;rank=3#outcomemeasures",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://clinicaltrials.gov/study/NCT04368728#outcomemeasures",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.argentina.gob.ar/noticias/anmat/vacunas-para-sars-cov-2-con-documentacion-en-proceso-de-presentacion",
+      "status": "error",
+      "status_code": null,
+      "final_url": null,
+      "error": "Timeout",
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04530396?term=GAM-COVID-Vac&amp;draw=1&amp;rank=4",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://clinicaltrials.gov/study/NCT04530396",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.clarin.com/sociedad/coronavirus-dice-breve-informe-anmat-recomendo-ministerio-salud-autorizar-vacuna-rusa_0_wu5wtltbv.html",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.clarin.com/sociedad/coronavirus-dice-breve-informe-anmat-recomendo-ministerio-salud-autorizar-vacuna-rusa_0_wu5wtltbv.html",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://twitter.com/norabar/status/1341723582766919682",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://twitter.com/norabar/status/1341723582766919682",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.clinicaltrials.gov/ct2/show/NCT04587219?term=GAM-COVID-Vac&amp;draw=1&amp;rank=3",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://clinicaltrials.gov/study/NCT04587219",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lanacion.com.ar/sociedad/coronavirus-quien-es-manuel-limeres-farmaceutico-autoriza-nid2549834",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://www.lanacion.com.ar/sociedad/coronavirus-quien-es-manuel-limeres-farmaceutico-autoriza-nid2549834/",
+      "error": null,
+      "found_in_notes": [
+        {
+          "title": "La llegada de la Sputnik V a Argentina",
+          "url": "/ensayos/sputnik_v_en_argentina/",
+          "path": "ensayos/Sputnik V en Argentina.md"
+        }
+      ]
+    },
+    {
       "url": "https://www.clinicaltrials.gov/ct2/results?cond=&amp;term=BNT162b2&amp;cntry=&amp;state=&amp;city=&amp;dist=&amp;Search=Search",
       "status": "ok",
       "status_code": 200,
@@ -5222,24 +5236,10 @@
       ]
     },
     {
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
-      "status": "warning",
-      "status_code": 403,
-      "final_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
-      "error": null,
-      "found_in_notes": [
-        {
-          "title": "La llegada de la Sputnik V a Argentina",
-          "url": "/ensayos/sputnik_v_en_argentina/",
-          "path": "ensayos/Sputnik V en Argentina.md"
-        }
-      ]
-    },
-    {
-      "url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
-      "status": "warning",
-      "status_code": 404,
-      "final_url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
+      "url": "https://setiathome.berkeley.edu/",
+      "status": "ok",
+      "status_code": 200,
+      "final_url": "https://setiathome.berkeley.edu/",
       "error": null,
       "found_in_notes": [
         {
@@ -5250,10 +5250,10 @@
       ]
     },
     {
-      "url": "https://setiathome.berkeley.edu/",
-      "status": "ok",
-      "status_code": 200,
-      "final_url": "https://setiathome.berkeley.edu/",
+      "url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
+      "status": "warning",
+      "status_code": 404,
+      "final_url": "https://oiaaonca.ufam.edu.br/oiaaonca_site/frontend/web/",
       "error": null,
       "found_in_notes": [
         {
@@ -5279,25 +5279,25 @@
     },
     {
       "url": "https://doi.org/10.1111/etap.12088",
-      "status": "warning",
-      "status_code": 403,
+      "status": "ok",
+      "status_code": 200,
       "final_url": "https://journals.sagepub.com/doi/10.1111/etap.12088",
       "error": null,
       "found_in_notes": [
         {
           "title": "Effectual Reasoning",
-          "url": "/scipreneurs/Playbook/02_effectual_reasoning/",
-          "path": "scipreneurs/Playbook/02_Effectual reasoning.md"
+          "url": "/scipreneurs/Archived/Playbook/02_effectual_reasoning/",
+          "path": "scipreneurs/Archived/Playbook/02_Effectual reasoning.md"
         }
       ]
     }
   ],
   "summary": {
-    "total_notes": 1706,
+    "total_notes": 1278,
     "total_external_links": 410,
     "unique_external_links": 360,
-    "ok_links": 311,
-    "warning_links": 37,
-    "error_links": 12
+    "ok_links": 310,
+    "warning_links": 39,
+    "error_links": 11
   }
 }
